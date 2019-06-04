@@ -1,0 +1,11 @@
+C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\TLS_Datatransfromation\obj\Debug\TLS_Datatransfromation.Resources.resources
+C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\TLS_Datatransfromation\obj\Debug\TLS_Datatransfromation.vbproj.GenerateResource.cache
+C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\TLS_Datatransfromation\obj\Debug\TLS_Datatransfromation.vbproj.CoreCompileInputs.cache
+C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\TLS_Datatransfromation\bin\Debug\TLS_Datatransfromation.exe.config
+C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\TLS_Datatransfromation\bin\Debug\TLS_Datatransfromation.exe
+C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\TLS_Datatransfromation\bin\Debug\TLS_Datatransfromation.pdb
+C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\TLS_Datatransfromation\bin\Debug\TLS_Datatransfromation.xml
+C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\TLS_Datatransfromation\obj\Debug\TLS_Datatransfromation.exe
+C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\TLS_Datatransfromation\obj\Debug\TLS_Datatransfromation.xml
+C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\TLS_Datatransfromation\obj\Debug\TLS_Datatransfromation.pdb
+C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\TLS_Datatransfromation\obj\Debug\TLS_Datatransfromation.vbprojAssemblyReference.cache

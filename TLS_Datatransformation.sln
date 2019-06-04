@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Sales Order Transformation", "Sales Order Transformation\Sales Order Transformation.vbproj", "{670D846D-3F89-4EED-83B5-0A678F128664}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{C8FDE128-C085-4EE1-8B0A-DCE070D26B22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{670D846D-3F89-4EED-83B5-0A678F128664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{670D846D-3F89-4EED-83B5-0A678F128664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{670D846D-3F89-4EED-83B5-0A678F128664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{670D846D-3F89-4EED-83B5-0A678F128664}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8FDE128-C085-4EE1-8B0A-DCE070D26B22}.Debug|Any CPU.ActiveCfg = Debug
+		{C8FDE128-C085-4EE1-8B0A-DCE070D26B22}.Release|Any CPU.ActiveCfg = Release
+		{C8FDE128-C085-4EE1-8B0A-DCE070D26B22}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F5E7E42-4E73-4B16-A60E-4764714EA205}
+	EndGlobalSection
+EndGlobal

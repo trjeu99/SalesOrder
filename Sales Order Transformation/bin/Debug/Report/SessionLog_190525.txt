@@ -1,0 +1,132 @@
+25/05/2019 03:24:39: Session 190525 has started.
+25/05/2019 03:24:40: Data in table COPMA read sucessfully. 36 new data entries found.
+25/05/2019 03:24:40: Data in table COPMG read sucessfully. 1116 new data entries found.
+25/05/2019 03:24:40: Data in table MAINSODEL read sucessfully. 0 new data entries found.
+25/05/2019 03:24:40: Data in table BLCOPXB read sucessfully. 0 new data entries found.
+25/05/2019 03:24:40: Data in table MAINSOTEMPDEL read sucessfully. 0 new data entries found.
+25/05/2019 03:24:40: Data in table SOTTEMPDEL read sucessfully. 13 new data entries found.
+25/05/2019 03:25:08: The original Order No. 23052019 not found. Please update it mannually.
+25/05/2019 03:25:08: The original Order No. ORF/419-REPLACEMENT not found. Please update it mannually.
+25/05/2019 03:25:08: The original Order No. ORF/419-REPLACEMENT not found. Please update it mannually.
+25/05/2019 03:25:08: The original Order No. ORF/419-REPLACEMENT not found. Please update it mannually.
+25/05/2019 03:25:08: The original Order No. ORF/419-REPLACEMENT not found. Please update it mannually.
+25/05/2019 03:25:08: The original Order No. 5500157063-0519V not found. Please update it mannually.
+25/05/2019 03:25:08: The original Order No. 5500157063-0519V not found. Please update it mannually.
+25/05/2019 03:25:08: The original Order No. 5500157063-0519V not found. Please update it mannually.
+25/05/2019 03:25:08: The original Order No. 5500157063-0519V not found. Please update it mannually.
+25/05/2019 03:25:08: The original Order No. 5500157063-0519V not found. Please update it mannually.
+25/05/2019 03:25:08: The original Order No. 5500157063-0519V not found. Please update it mannually.
+25/05/2019 03:25:08: The original Order No. 5500157063-0519V not found. Please update it mannually.
+25/05/2019 03:25:08: The original Order No. 5500157063-0519V not found. Please update it mannually.
+25/05/2019 03:25:08: Connection to 223.255.178.194 is opened.
+25/05/2019 03:25:09: Data in table COPXA read sucessfully. 41 new data entries found.
+25/05/2019 03:25:09: The original Order No. 5500157063-0519V not found. Please update it mannually.
+25/05/2019 03:25:09: The original Order No. 4501914771 not found. Please update it mannually.
+25/05/2019 03:25:09: The original Order No. 23052019 not found. Please update it mannually.
+25/05/2019 03:25:09: The original Order No. ORF/419-REPLACEMENT not found. Please update it mannually.
+25/05/2019 03:25:09: Data in table COPXB read sucessfully. 67 new data entries found.
+25/05/2019 03:25:10: The product number DYN1243P not found. Cannot import Order No. 630004683/10-0001.
+25/05/2019 03:25:10: The product number DYN1248P not found. Cannot import Order No. 630004683/20-0001.
+25/05/2019 03:25:10: The product number DYN1248P not found. Cannot import Order No. 630004683/30-0001.
+25/05/2019 03:25:10: The product number DYN1248P not found. Cannot import Order No. 630004683/40-0001.
+25/05/2019 03:25:10: The product number DYN1249P not found. Cannot import Order No. 630004683/50-0001.
+25/05/2019 03:25:10: The product number DYN1249P not found. Cannot import Order No. 630004683/60-0001.
+25/05/2019 03:25:10: The product number DYN1249P not found. Cannot import Order No. 630004683/70-0001.
+25/05/2019 03:25:10: The product number DYN1253P not found. Cannot import Order No. 630004683/80-0001.
+25/05/2019 03:25:10: The product number DYN1253P not found. Cannot import Order No. 630004683/90-0001.
+25/05/2019 03:25:10: The product number DYN1253P not found. Cannot import Order No. 630004683/100-0001.
+25/05/2019 03:25:10: The product number DYN1253P not found. Cannot import Order No. 630004683/110-0001.
+25/05/2019 03:25:10: The product number DYN1253P not found. Cannot import Order No. 630004683/120-0001.
+25/05/2019 03:25:10: The product number DYN1263P not found. Cannot import Order No. 630004683/130-0001.
+25/05/2019 03:25:10: The product number DYN1263P not found. Cannot import Order No. 630004683/140-0001.
+25/05/2019 03:25:10: The product number MOLD FOR PN04710 not found. Cannot import Order No. PO1905001-0001.
+25/05/2019 03:25:10: The product number MOLD FOR PN04720 not found. Cannot import Order No. PO1905002-0001.
+25/05/2019 03:25:10: The product number PN04720 not found. Cannot import Order No. PO1905004-0001.
+25/05/2019 03:25:10: The product number PN04710 not found. Cannot import Order No. PO1905003-0001.
+25/05/2019 03:25:10: The product number TOOLING CHARGE not found. Cannot import Order No. 2736-0001.
+25/05/2019 03:25:10: The product number TOOLING CHARGE not found. Cannot import Order No. 2736-0002.
+25/05/2019 03:25:10: The product number TOOLING CHARGE not found. Cannot import Order No. 2736-0003.
+25/05/2019 03:25:10: The product number TOOLING CHARGE not found. Cannot import Order No. 2736-0004.
+25/05/2019 03:25:10: The product number A000G709 not found. Cannot import Order No. 11402-0001.
+25/05/2019 03:25:10: The product number PPAP VIETNAM LEVEL 2 not found. Cannot import Order No. 11402-0002.
+25/05/2019 03:25:10: The product number 12605923 not found. Cannot import Order No. 11401-0001.
+25/05/2019 03:25:10: The product number 12605924 not found. Cannot import Order No. 11401-0002.
+25/05/2019 03:25:10: The product number PPAP VIETNAM LEVEL 2 not found. Cannot import Order No. 11401-0003.
+25/05/2019 03:25:10: The product number 602000000050 not found. Cannot import Order No. VR-4912-0001.
+25/05/2019 03:25:10: The product number 602000000055 not found. Cannot import Order No. VR-4912-0002.
+25/05/2019 03:25:10: The product number 602000000032 not found. Cannot import Order No. VR-4912-0003.
+25/05/2019 03:25:10: The product number 602000000022 not found. Cannot import Order No. VR-4912-0004.
+25/05/2019 03:25:10: The product number 602000000057 not found. Cannot import Order No. VR-4912-0005.
+25/05/2019 03:25:10: The product number 602000000010 not found. Cannot import Order No. VR-4912-0006.
+25/05/2019 03:25:10: The product number 602000000030 not found. Cannot import Order No. VR-4912-0007.
+25/05/2019 03:25:10: The product number 602000000028 not found. Cannot import Order No. VR-4912-0008.
+25/05/2019 03:25:10: The product number 602000000025 not found. Cannot import Order No. VR-4912-0009.
+25/05/2019 03:25:10: The product number 602000000008 not found. Cannot import Order No. VR-4912-0010.
+25/05/2019 03:25:10: The product number 1244645S02 not found. Cannot import Order No. 4700033255-0001.
+25/05/2019 03:25:10: The product number 1244645S02 not found. Cannot import Order No. 4700033255-0002.
+25/05/2019 03:25:10: The product number 1284056S02 not found. Cannot import Order No. 4700033255-0003.
+25/05/2019 03:25:10: Order No. 630004683/10 has been inserted.
+25/05/2019 03:25:10: Order No. 630004683/20 has been inserted.
+25/05/2019 03:25:10: Order No. 630004683/30 has been inserted.
+25/05/2019 03:25:10: Order No. 630004683/40 has been inserted.
+25/05/2019 03:25:10: Order No. 630004683/50 has been inserted.
+25/05/2019 03:25:10: Order No. 630004683/60 has been inserted.
+25/05/2019 03:25:10: Order No. 630004683/70 has been inserted.
+25/05/2019 03:25:10: Order No. 630004683/80 has been inserted.
+25/05/2019 03:25:10: Order No. 630004683/90 has been inserted.
+25/05/2019 03:25:10: Order No. 630004683/100 has been inserted.
+25/05/2019 03:25:10: Order No. 630004683/110 has been inserted.
+25/05/2019 03:25:10: Order No. 630004683/120 has been inserted.
+25/05/2019 03:25:10: Order No. 9323704972/10 has been inserted.
+25/05/2019 03:25:10: Order No. 630004683/130 has been inserted.
+25/05/2019 03:25:10: Order No. 9323704972/20 has been inserted.
+25/05/2019 03:25:10: Order No. 630004683/140 has been inserted.
+25/05/2019 03:25:10: Order No. 9323704972/30 has been inserted.
+25/05/2019 03:25:10: Order No. 9323704972/40 has been inserted.
+25/05/2019 03:25:10: Order No. 9323704972/50 has been inserted.
+25/05/2019 03:25:10: Order No. 9323704972/60 has been inserted.
+25/05/2019 03:25:10: Order No. 9323704972/70 has been inserted.
+25/05/2019 03:25:10: Order No. 9323704972/80 has been inserted.
+25/05/2019 03:25:10: Order No. PO1905001 has been inserted.
+25/05/2019 03:25:10: Order No. PO1905002 has been inserted.
+25/05/2019 03:25:10: Order No. PO1905004 has been inserted.
+25/05/2019 03:25:10: Order No. PO1905003 has been inserted.
+25/05/2019 03:25:10: Order No. 9323703953/10 has been inserted.
+25/05/2019 03:25:10: Order No. 9323703952/10 has been inserted.
+25/05/2019 03:25:10: Order No. 9323703954/10 has been inserted.
+25/05/2019 03:25:10: Order No. 9323703956/10 has been inserted.
+25/05/2019 03:25:10: Order No. 4500594335/10 has been inserted.
+25/05/2019 03:25:10: Order No. ORF/2591 has been inserted.
+25/05/2019 03:25:10: Order No. 2736 has been inserted.
+25/05/2019 03:25:10: Order No. 11402 has been inserted.
+25/05/2019 03:25:10: Order No. 11401 has been inserted.
+25/05/2019 03:25:10: Order No. VR-4912 has been inserted.
+25/05/2019 03:25:10: Order No. 4700033255 has been inserted.
+25/05/2019 03:25:10: Order No. 9323704972/10 has been inserted.
+25/05/2019 03:25:10: Order No. 9323704972/20 has been inserted.
+25/05/2019 03:25:10: Order No. 9323704972/30 has been inserted.
+25/05/2019 03:25:10: Order No. 9323704972/40 has been inserted.
+25/05/2019 03:25:10: Order No. 9323704972/50 has been inserted.
+25/05/2019 03:25:10: Order No. 9323704972/60 has been inserted.
+25/05/2019 03:25:10: Order No. 9323704972/70 has been inserted.
+25/05/2019 03:25:10: Order No. 9323704972/80 has been inserted.
+25/05/2019 03:25:10: Order No. 9323703953/10 has been inserted.
+25/05/2019 03:25:10: Order No. 9323703952/10 has been inserted.
+25/05/2019 03:25:10: Order No. 9323703954/10 has been inserted.
+25/05/2019 03:25:10: Order No. 9323703956/10 has been inserted.
+25/05/2019 03:25:10: Order No. 4500594335/10 has been inserted.
+25/05/2019 03:25:10: The original Order No. 5500157063-0519V not found. Please update it mannually.
+25/05/2019 03:25:10: The original Order No. 5500157063-0519V not found. Please update it mannually.
+25/05/2019 03:25:10: The original Order No. 5500157063-0519V not found. Please update it mannually.
+25/05/2019 03:25:10: The original Order No. 5500157063-0519V not found. Please update it mannually.
+25/05/2019 03:25:10: The original Order No. 5500157063-0519V not found. Please update it mannually.
+25/05/2019 03:25:10: The original Order No. 5500157063-0519V not found. Please update it mannually.
+25/05/2019 03:25:10: The original Order No. 5500157063-0519V not found. Please update it mannually.
+25/05/2019 03:25:10: The original Order No. 5500157063-0519V not found. Please update it mannually.
+25/05/2019 03:25:10: The original Order No. 4501914771 not found. Please update it mannually.
+25/05/2019 03:25:10: The original Order No. 4501914771 not found. Please update it mannually.
+25/05/2019 03:25:10: The original Order No. 4501914771 not found. Please update it mannually.
+25/05/2019 03:25:10: The original Order No. 23052019 not found. Please update it mannually.
+25/05/2019 03:25:10: The original Order No. ORF/419-REPLACEMENT not found. Please update it mannually.
+25/05/2019 03:25:10: The original Order No. ORF/419-REPLACEMENT not found. Please update it mannually.
+25/05/2019 03:25:10: Session 190525 completed.

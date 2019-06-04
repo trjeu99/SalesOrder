@@ -1,0 +1,11 @@
+29/05/2019 01:00:50: Session 190529 has started.
+29/05/2019 01:00:50: Data in table COPMA read sucessfully. 36 new data entries found.
+29/05/2019 01:00:50: Data in table COPMG read sucessfully. 1116 new data entries found.
+29/05/2019 01:00:50: Data in table MAINSODEL read sucessfully. 20 new data entries found.
+29/05/2019 01:00:50: Data in table BLCOPXB read sucessfully. 6 new data entries found.
+29/05/2019 01:00:50: Data in table MAINSOTEMPDEL read sucessfully. 0 new data entries found.
+29/05/2019 01:00:50: Data in table SOTTEMPDEL read sucessfully. 0 new data entries found.
+29/05/2019 01:00:50: Connection to 223.255.178.194 is opened.
+29/05/2019 01:00:50: Data in table COPXA read sucessfully. 0 new data entries found.
+29/05/2019 01:00:50: No Main Order found.
+29/05/2019 01:00:50: Session 190529 completed.

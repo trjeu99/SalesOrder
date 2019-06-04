@@ -1,0 +1,407 @@
+30/05/2019 07:47:55: Session 1905300747 has started.
+30/05/2019 07:47:55: Data in table COPMA read sucessfully. 36 new data entries found.
+30/05/2019 07:47:55: Data in table COPMG read sucessfully. 1116 new data entries found.
+30/05/2019 07:47:55: Data in table MAINSODEL read sucessfully. 0 new data entries found.
+30/05/2019 07:47:55: Data in table BLCOPXB read sucessfully. 0 new data entries found.
+30/05/2019 07:47:56: Data in table MAINSOTEMPDEL read sucessfully. 1 new data entries found.
+30/05/2019 07:47:56: The original Order No. LH3069015 not found. Please update it mannually.
+30/05/2019 07:47:56: Data in table SOTTEMPDEL read sucessfully. 106 new data entries found.
+30/05/2019 07:47:56: The original Order No. 5500168417-0519V not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500168417-0519V not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500168417-0519V not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500168417-0519V not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500157077-0619V not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500157077-0619V not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500157077-0619V not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500157077-0619V not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500157077-0619V not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500157077-0619V not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500157063-0619V not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500157063-0619V not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500157063-0619V not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500157063-0619V not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500157063-0619V not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500157063-0619V not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500157063-0619V not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500157063-0619V not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500157063-0619V not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500157063-0619V not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500157063-0619V not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500157063-0619V not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. DPD190524 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. W421-190500022 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 4501914771 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 4501914771 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 4501914771 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 4501914771 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 4501914771 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 4501914771 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. LH3069015 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 4503509979 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 70047506-021 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 70047506-021 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500147725-0719VN not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500147725-0719VN not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500147725-0719VN not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. VR-6607 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 19857 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 19857 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 19857 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 19857 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 19857 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 19857 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 19857 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 19857 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 19857 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 19857 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500166068 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500166068 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500166068 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500166068 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500166068 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500166068 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500166068 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500166068 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500166068 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500166068 not found. Please update it mannually.
+30/05/2019 07:47:56: Connection to 223.255.178.194 is opened.
+30/05/2019 07:47:56: Data in table COPXA read sucessfully. 72 new data entries found.
+30/05/2019 07:47:56: The original Order No. 5500157063-0519V not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. 5500153324-2019 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. DPD190524 not found. Please update it mannually.
+30/05/2019 07:47:56: The original Order No. W421-190500022 not found. Please update it mannually.
+30/05/2019 07:47:57: The original Order No. 4503509977 not found. Please update it mannually.
+30/05/2019 07:47:57: The original Order No. 4503509979 not found. Please update it mannually.
+30/05/2019 07:47:57: The original Order No. 5500011477-0719VN not found. Please update it mannually.
+30/05/2019 07:47:57: The original Order No. 5500011478-0719VN not found. Please update it mannually.
+30/05/2019 07:47:57: The original Order No. 5500165998-0719VN not found. Please update it mannually.
+30/05/2019 07:47:57: The original Order No. 5500147725-0619VN not found. Please update it mannually.
+30/05/2019 07:47:57: The original Order No. 216526 not found. Please update it mannually.
+30/05/2019 07:47:57: The original Order No. 216509 not found. Please update it mannually.
+30/05/2019 07:47:57: The original Order No. VR-6607 not found. Please update it mannually.
+30/05/2019 07:47:57: The original Order No. 2019-100611 not found. Please update it mannually.
+30/05/2019 07:47:57: The original Order No. 19857 not found. Please update it mannually.
+30/05/2019 07:47:57: The original Order No. 5500157072-0619V not found. Please update it mannually.
+30/05/2019 07:47:57: The original Order No. 5500157073-0619V not found. Please update it mannually.
+30/05/2019 07:47:57: The original Order No. 5500157067-0619V not found. Please update it mannually.
+30/05/2019 07:47:57: The original Order No. ORF/2272 not found. Please update it mannually.
+30/05/2019 07:47:57: The original Order No. VR-5941 not found. Please update it mannually.
+30/05/2019 07:47:57: The original Order No. 70047506-021 not found. Please update it mannually.
+30/05/2019 07:47:57: The original Order No. 5500165986-0719VN not found. Please update it mannually.
+30/05/2019 07:47:57: The original Order No. 5500147725-0719VN not found. Please update it mannually.
+30/05/2019 07:47:57: The original Order No. 5500157076-0519V not found. Please update it mannually.
+30/05/2019 07:47:57: The original Order No. 5500168417-0519V not found. Please update it mannually.
+30/05/2019 07:47:57: The original Order No. 5500157077-0619V not found. Please update it mannually.
+30/05/2019 07:47:57: The original Order No. 5500157062-0619V not found. Please update it mannually.
+30/05/2019 07:47:57: The original Order No. 5500157072-0519V not found. Please update it mannually.
+30/05/2019 07:47:57: The original Order No. 5500157063-0619V not found. Please update it mannually.
+30/05/2019 07:47:57: The original Order No. 5500147725-0519VN not found. Please update it mannually.
+30/05/2019 07:47:57: The original Order No. 4501914771 not found. Please update it mannually.
+30/05/2019 07:47:57: The original Order No. WTX201905-VN not found. Please update it mannually.
+30/05/2019 07:47:57: The original Order No. 5500166068 not found. Please update it mannually.
+30/05/2019 07:47:57: Data in table COPXB read sucessfully. 217 new data entries found.
+30/05/2019 07:48:32: The product number 2100109427 not found. Cannot import Order No. 9323706131/40-0001.
+30/05/2019 07:48:32: The product number 81-1930 not found. Cannot import Order No. 62970-0001.
+30/05/2019 07:48:32: The product number 81-1909BT not found. Cannot import Order No. 62970-0002.
+30/05/2019 07:48:32: The product number 81-1909BT not found. Cannot import Order No. 62971-0001.
+30/05/2019 07:48:32: The product number 81-1930 not found. Cannot import Order No. 62971-0002.
+30/05/2019 07:48:32: The product number 1404959P01 not found. Cannot import Order No. 4700033252-0001.
+30/05/2019 07:48:32: The product number TMF-350 not found. Cannot import Order No. THT-TECH/280519-0001.
+30/05/2019 07:48:32: The product number 1504138143 not found. Cannot import Order No. 9323710165/10-0001.
+30/05/2019 07:48:32: The product number 1504138234 not found. Cannot import Order No. 9323710172/10-0001.
+30/05/2019 07:48:32: The product number 150703-GLASS LID not found. Cannot import Order No. 1905064-1-0001.
+30/05/2019 07:48:32: The product number 25S95-1C not found. Cannot import Order No. 19856-0001.
+30/05/2019 07:48:32: The product number 25S95-10C not found. Cannot import Order No. 19856-0002.
+30/05/2019 07:48:32: The product number 25S95-29C not found. Cannot import Order No. 19856-0003.
+30/05/2019 07:48:32: The product number 25S95-26C not found. Cannot import Order No. 19856-0004.
+30/05/2019 07:48:32: The product number 25S95-27C not found. Cannot import Order No. 19856-0005.
+30/05/2019 07:48:32: The product number 25S95-32C not found. Cannot import Order No. 19856-0006.
+30/05/2019 07:48:32: Order No. 9323706131/10 has been inserted.
+30/05/2019 07:48:32: Order No. 9323706131/20 has been inserted.
+30/05/2019 07:48:32: Order No. 9323706131/30 has been inserted.
+30/05/2019 07:48:32: Order No. 9323706131/40 has been inserted.
+30/05/2019 07:48:32: Order No. 9323706015/10 has been inserted.
+30/05/2019 07:48:32: Order No. 9323706015/20 has been inserted.
+30/05/2019 07:48:32: Order No. 9323706015/30 has been inserted.
+30/05/2019 07:48:32: Order No. 9323706015/40 has been inserted.
+30/05/2019 07:48:32: Order No. 9323706015/50 has been inserted.
+30/05/2019 07:48:32: Order No. 9323706015/60 has been inserted.
+30/05/2019 07:48:32: Order No. 9323706015/70 has been inserted.
+30/05/2019 07:48:32: Order No. 62970 has been inserted.
+30/05/2019 07:48:32: Order No. 62971 has been inserted.
+30/05/2019 07:48:32: Order No. ORF/2598 has been inserted.
+30/05/2019 07:48:32: Order No. ORF/2594 has been inserted.
+30/05/2019 07:48:32: Order No. 4700033252 has been inserted.
+30/05/2019 07:48:32: Order No. HPJC-03966-SEB has been inserted.
+30/05/2019 07:48:32: Order No. 9323709505/10 has been inserted.
+30/05/2019 07:48:32: Order No. 19010240 has been inserted.
+30/05/2019 07:48:32: Order No. 3069015 has been inserted.
+30/05/2019 07:48:32: Order No. HOW19FRCA0031 has been inserted.
+30/05/2019 07:48:32: Order No. THT-TECH/280519 has been inserted.
+30/05/2019 07:48:32: Order No. 9323710213/10 has been inserted.
+30/05/2019 07:48:32: Order No. 9323710213/20 has been inserted.
+30/05/2019 07:48:32: Order No. 9323710213/30 has been inserted.
+30/05/2019 07:48:32: Order No. 9323710213/40 has been inserted.
+30/05/2019 07:48:32: Order No. 9323710213/50 has been inserted.
+30/05/2019 07:48:32: Order No. 9323710213/60 has been inserted.
+30/05/2019 07:48:32: Order No. 9323710213/70 has been inserted.
+30/05/2019 07:48:32: Order No. 9323710185/10 has been inserted.
+30/05/2019 07:48:32: Order No. 9323710165/10 has been inserted.
+30/05/2019 07:48:32: Order No. 9323710150/10 has been inserted.
+30/05/2019 07:48:32: Order No. 9323710159/10 has been inserted.
+30/05/2019 07:48:32: Order No. 9323710172/10 has been inserted.
+30/05/2019 07:48:32: Order No. ORF/2660 has been inserted.
+30/05/2019 07:48:32: Order No. HPJC-03992-SEB has been inserted.
+30/05/2019 07:48:32: Order No. 1905064-1 has been inserted.
+30/05/2019 07:48:32: Order No. 19856 has been inserted.
+30/05/2019 07:48:32: Order No. 9323706131/10 has been inserted.
+30/05/2019 07:48:32: Order No. 9323706131/20 has been inserted.
+30/05/2019 07:48:32: Order No. 9323706131/30 has been inserted.
+30/05/2019 07:48:32: Order No. 9323706015/10 has been inserted.
+30/05/2019 07:48:32: Order No. 9323706015/20 has been inserted.
+30/05/2019 07:48:32: Order No. 9323706015/30 has been inserted.
+30/05/2019 07:48:32: Order No. 9323706015/40 has been inserted.
+30/05/2019 07:48:32: Order No. 9323706015/50 has been inserted.
+30/05/2019 07:48:32: Order No. 9323706015/60 has been inserted.
+30/05/2019 07:48:32: Order No. 9323706015/70 has been inserted.
+30/05/2019 07:48:32: Order No. ORF/2598 has been inserted.
+30/05/2019 07:48:32: Order No. ORF/2598 has been inserted.
+30/05/2019 07:48:32: Order No. ORF/2598 has been inserted.
+30/05/2019 07:48:32: Order No. ORF/2598 has been inserted.
+30/05/2019 07:48:32: Order No. ORF/2598 has been inserted.
+30/05/2019 07:48:32: Order No. ORF/2598 has been inserted.
+30/05/2019 07:48:32: Order No. ORF/2594 has been inserted.
+30/05/2019 07:48:32: Order No. ORF/2594 has been inserted.
+30/05/2019 07:48:32: Order No. ORF/2594 has been inserted.
+30/05/2019 07:48:32: Order No. ORF/2594 has been inserted.
+30/05/2019 07:48:32: Order No. ORF/2594 has been inserted.
+30/05/2019 07:48:32: Order No. ORF/2594 has been inserted.
+30/05/2019 07:48:32: Order No. ORF/2594 has been inserted.
+30/05/2019 07:48:32: Order No. ORF/2594 has been inserted.
+30/05/2019 07:48:32: Order No. ORF/2594 has been inserted.
+30/05/2019 07:48:32: Order No. ORF/2594 has been inserted.
+30/05/2019 07:48:32: Order No. ORF/2594 has been inserted.
+30/05/2019 07:48:32: Order No. ORF/2594 has been inserted.
+30/05/2019 07:48:32: Order No. ORF/2594 has been inserted.
+30/05/2019 07:48:32: Order No. ORF/2594 has been inserted.
+30/05/2019 07:48:32: Order No. ORF/2594 has been inserted.
+30/05/2019 07:48:32: Order No. HPJC-03966-SEB has been inserted.
+30/05/2019 07:48:32: Order No. HPJC-03966-SEB has been inserted.
+30/05/2019 07:48:32: Order No. 9323709505/10 has been inserted.
+30/05/2019 07:48:32: Order No. 19010240 has been inserted.
+30/05/2019 07:48:32: Order No. 3069015 has been inserted.
+30/05/2019 07:48:32: Order No. HOW19FRCA0031 has been inserted.
+30/05/2019 07:48:32: Order No. HOW19FRCA0031 has been inserted.
+30/05/2019 07:48:32: Order No. HOW19FRCA0031 has been inserted.
+30/05/2019 07:48:32: Order No. HOW19FRCA0031 has been inserted.
+30/05/2019 07:48:32: Order No. HOW19FRCA0031 has been inserted.
+30/05/2019 07:48:32: Order No. HOW19FRCA0031 has been inserted.
+30/05/2019 07:48:32: Order No. HOW19FRCA0031 has been inserted.
+30/05/2019 07:48:32: Order No. HOW19FRCA0031 has been inserted.
+30/05/2019 07:48:32: Order No. HOW19FRCA0031 has been inserted.
+30/05/2019 07:48:32: Order No. HOW19FRCA0031 has been inserted.
+30/05/2019 07:48:32: Order No. 9323710213/10 has been inserted.
+30/05/2019 07:48:32: Order No. 9323710213/20 has been inserted.
+30/05/2019 07:48:32: Order No. 9323710213/30 has been inserted.
+30/05/2019 07:48:32: Order No. 9323710213/40 has been inserted.
+30/05/2019 07:48:32: Order No. 9323710213/50 has been inserted.
+30/05/2019 07:48:32: Order No. 9323710213/60 has been inserted.
+30/05/2019 07:48:32: Order No. 9323710213/70 has been inserted.
+30/05/2019 07:48:32: Order No. 9323710185/10 has been inserted.
+30/05/2019 07:48:32: Order No. 9323710150/10 has been inserted.
+30/05/2019 07:48:32: Order No. 9323710159/10 has been inserted.
+30/05/2019 07:48:33: Order No. ORF/2660 has been inserted.
+30/05/2019 07:48:33: Order No. ORF/2660 has been inserted.
+30/05/2019 07:48:33: Order No. ORF/2660 has been inserted.
+30/05/2019 07:48:33: Order No. ORF/2660 has been inserted.
+30/05/2019 07:48:33: Order No. ORF/2660 has been inserted.
+30/05/2019 07:48:33: Order No. ORF/2660 has been inserted.
+30/05/2019 07:48:33: Order No. ORF/2660 has been inserted.
+30/05/2019 07:48:33: Order No. ORF/2660 has been inserted.
+30/05/2019 07:48:33: Order No. HPJC-03992-SEB has been inserted.
+30/05/2019 07:48:33: Order No. HPJC-03992-SEB has been inserted.
+30/05/2019 07:48:33: The original Order No. 5500157063-0519V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157063-0519V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157063-0519V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157063-0519V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157063-0519V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157063-0519V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157063-0519V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157063-0519V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500153325-2019 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500153324-2019 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500153324-2019 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500153324-2019 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500153324-2019 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. DPD190524 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. W421-190500022 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 4503509977 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 4503509979 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500011477-0719VN not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500011477-0719VN not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500011477-0719VN not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500011477-0719VN not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500011478-0719VN not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500011478-0719VN not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500011478-0719VN not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500011478-0719VN not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500165998-0719VN not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500165998-0719VN not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500165998-0719VN not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500147725-0619VN not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500147725-0619VN not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 216526 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 216526 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 216509 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 216509 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. VR-6607 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 2019-100611 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 2019-100611 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 2019-100611 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 2019-100611 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 2019-100611 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 19857 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 19857 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 19857 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 19857 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 19857 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 19857 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 19857 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 19857 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 19857 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 19857 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157072-0619V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157072-0619V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157072-0619V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157072-0619V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157073-0619V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157073-0619V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157073-0619V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157073-0619V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157067-0619V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157067-0619V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. ORF/2272 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. ORF/2272 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. ORF/2272 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. ORF/2272 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. ORF/2272 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. ORF/2272 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. ORF/2272 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. ORF/2272 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. VR-5941 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. VR-5941 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. VR-5941 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 70047506-021 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 70047506-021 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500165986-0719VN not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500165986-0719VN not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500165986-0719VN not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500147725-0719VN not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500147725-0719VN not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500147725-0719VN not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157076-0519V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157076-0519V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157076-0519V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157076-0519V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500168417-0519V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500168417-0519V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500168417-0519V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500168417-0519V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157077-0619V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157077-0619V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157077-0619V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157062-0619V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157062-0619V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157072-0519V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157072-0519V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157072-0519V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157072-0519V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157063-0619V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157063-0619V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157063-0619V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157063-0619V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157063-0619V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500157063-0619V not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500147725-0519VN not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500147725-0519VN not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500147725-0519VN not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 4501914771 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 4501914771 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 4501914771 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. WTX201905-VN not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. WTX201905-VN not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. WTX201905-VN not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. WTX201905-VN not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. WTX201905-VN not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. WTX201905-VN not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. WTX201905-VN not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. WTX201905-VN not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500166068 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500166068 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500166068 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500166068 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500166068 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500166068 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500166068 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500166068 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500166068 not found. Please update it mannually.
+30/05/2019 07:48:33: The original Order No. 5500166068 not found. Please update it mannually.
+30/05/2019 07:48:33: Session 1905300747 completed.

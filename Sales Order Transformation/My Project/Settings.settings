@@ -1,0 +1,143 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="cfg_src_hostname" Type="System.String" Scope="User">
+      <Value Profile="(Default)">223.255.178.194</Value>
+    </Setting>
+    <Setting Name="cfg_src_port" Type="System.String" Scope="User">
+      <Value Profile="(Default)">11433</Value>
+    </Setting>
+    <Setting Name="cfg_src_usrname" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ntlsdoc</Value>
+    </Setting>
+    <Setting Name="cfg_src_pw" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ntls@2121</Value>
+    </Setting>
+    <Setting Name="cfg_src_db" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ntls</Value>
+    </Setting>
+    <Setting Name="cfg_tar_hostname" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TIM</Value>
+    </Setting>
+    <Setting Name="cfg_tar_port" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="cfg_tar_usrname" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sa</Value>
+    </Setting>
+    <Setting Name="cfg_tar_pw" Type="System.String" Scope="User">
+      <Value Profile="(Default)">!QAZxdr5</Value>
+    </Setting>
+    <Setting Name="cfg_tar_db" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TLS</Value>
+    </Setting>
+    <Setting Name="cfg_sender" Type="System.String" Scope="User">
+      <Value Profile="(Default)">vntechlink@gmail.com</Value>
+    </Setting>
+    <Setting Name="cfg_sender_pw" Type="System.String" Scope="User">
+      <Value Profile="(Default)">!QAZxdr5</Value>
+    </Setting>
+    <Setting Name="cfg_recipients" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="cfg_spt" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">2019-05-05</Value>
+    </Setting>
+    <Setting Name="smtp_server" Type="System.String" Scope="User">
+      <Value Profile="(Default)">smtp.gmail.com</Value>
+    </Setting>
+    <Setting Name="smtp_port" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">587</Value>
+    </Setting>
+    <Setting Name="cfg_int_day" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="cfg_int_hrs" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="cfg_int_min" Type="System.String" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="dummy" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="session_number" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="strCmdMO" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SELECT dbo.MAINSO.DATETIME AS DATETIME, CONVERT(nchar(8), getdate(), 112) AS XA001, '' AS XA002, dbo.MAINSO.SORNO AS XA003, LTRIM(dbo.MAINSO.REV) AS XA004, dbo.MAINSO.CUS AS XA005, 
+		CONVERT(nchar(8), dbo.MAINSO.TDATE, 112) AS XA006, dbo.MAINSO.CUS AS XA007, LEFT(dbo.CURRENCY.SYM, 3) AS XA008, dbo.MAINSO.WEIGHTUNIT AS XA009, dbo.MAINSO.MEASUNIT AS XA010, 
+		'' AS XA011, CASE WHEN dbo.MAINSO.REV &gt; 1 THEN 2 ELSE 1 END AS XA012, '' AS XA013, '' AS XA014, 'PR001' AS XA015
+FROM dbo.MAINSO INNER JOIN dbo.CURRENCY ON dbo.MAINSO.CUR = dbo.CURRENCY.CUR
+WHERE (((dbo.MAINSO.DATETIME) &gt; '{0}') AND ((dbo.MAINSO.CUS) Like '%VN'))
+ORDER BY dbo.MAINSO.DATETIME ASC</Value>
+    </Setting>
+    <Setting Name="strCmdSO" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SELECT '' AS XB001, '' AS XB002, dbo.SOT.SORNO AS XB003, LTRIM(dbo.SOT.REV) AS XB004, RIGHT(10000 + dbo.SOT.ITEMNO, 4) AS XB005, 
+		dbo.SOT.CODE AS XB006, convert(numeric(16,3), dbo.SOT.QTY) AS XB007, convert(numeric(21,6), dbo.SOT.UP) AS XB008, CONVERT(nchar(8), dbo.SOT.RETD, 112) AS XB009, '' AS XB010, 
+		'' AS XB011, '' AS XB012, CASE WHEN dbo.SOT.REV &gt; 1 THEN 2 ELSE 1 END AS XB013, 0 AS XB014, '' AS XB015
+FROM dbo.SOT
+WHERE (((dbo.SOT.DATETIME) &gt; '{0}') AND ((dbo.SOT.CUS) Like '%VN'))
+ORDER BY dbo.SOT.DATETIME ASC</Value>
+    </Setting>
+    <Setting Name="strCNHK" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source={0},{1}; Network Library=dbmssocn; Initial Catalog={2}; User ID={3}; Password={4}</Value>
+    </Setting>
+    <Setting Name="strCNVN" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source={0}; Initial Catalog={1}; User ID={2}; Password={3}</Value>
+    </Setting>
+    <Setting Name="strCmdCUS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SELECT RTRIM(dbo.COPMA.MA001) AS MA001, RTRIM(dbo.COPMA.MA002) AS MA002, RTRIM(dbo.COPMA.MA003) AS MA003, RTRIM(dbo.COPMA.MA004) AS MA004
+FROM dbo.COPMA</Value>
+    </Setting>
+    <Setting Name="strCmdPRO" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SELECT CONVERT(nvarchar(40), RTRIM(dbo.COPMG.MG002)) AS MG002, RTRIM(dbo.COPMG.MG003) AS MG003
+FROM dbo.COPMG</Value>
+    </Setting>
+    <Setting Name="supw" Type="System.String" Scope="User">
+      <Value Profile="(Default)">!QAZxdr5</Value>
+    </Setting>
+    <Setting Name="notification_email_body" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Dear Mr/Madam,
+
+SOT session number {0} has been completed.
+Total Failed to Delete or Update Main Order: {1}
+Total Failed to Delete or Update Sub Order: {2}
+Total Failed Import due to missing product code: {3}
+Total Successfully Delete Sub Order: {4}
+Total Successfully Update Sub Order: {5}
+Total Successfully Import New Sub Order: {6}
+Please find in attach the details of this session.
+
+Thank you and Best regards,
+ERP Team</Value>
+    </Setting>
+    <Setting Name="strCmdDelMO" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SELECT CONVERT(nchar(8), getdate(), 112) AS XA001, '' AS XA002, dbo.MAINSOTEMPDEL.SORNO AS XA003, LTRIM(dbo.MAINSOTEMPDEL.REV) AS XA004, dbo.MAINSOTEMPDEL.CUS AS XA005, 
+		CONVERT(nchar(8), dbo.MAINSOTEMPDEL.TDATE, 112) AS XA006, dbo.MAINSOTEMPDEL.CUS AS XA007, ntls.dbo.CURRENCY.SYM AS XA008, dbo.MAINSOTEMPDEL.WEIGHTUNIT AS XA009, dbo.MAINSOTEMPDEL.MEASUNIT AS XA010, 
+		'' AS XA011, 3 AS XA012, '' AS XA013, '' AS XA014, 'PR001' AS XA015
+FROM dbo.MAINSOTEMPDEL INNER JOIN ntls.dbo.CURRENCY ON dbo.MAINSOTEMPDEL.CUR = ntls.dbo.CURRENCY.CUR
+WHERE (((dbo.MAINSOTEMPDEL.DATETIME) &gt; '{0}') AND ((dbo.MAINSOTEMPDEL.CUS) Like '%VN'))
+ORDER BY dbo.MAINSOTEMPDEL.DATETIME ASC</Value>
+    </Setting>
+    <Setting Name="strCmdDelSO" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SELECT '' AS XB001, '' AS XB002, dbo.SOTTEMPDEL.SORNO AS XB003, LTRIM(dbo.SOTTEMPDEL.REV) AS XB004, RIGHT(10000 + dbo.SOTTEMPDEL.ITEMNO, 4) AS XB005, 
+		dbo.SOTTEMPDEL.CODE AS XB006, convert(numeric(16,3), dbo.SOTTEMPDEL.QTY) AS XB007, convert(numeric(21,6), dbo.SOTTEMPDEL.UP) AS XB008, CONVERT(nchar(8), dbo.SOTTEMPDEL.RETD, 112) AS XB009, '' AS XB010, 
+		'' AS XB011, '' AS XB012, 3 AS XB013, 0 AS XB014, '' AS XB015
+FROM dbo.SOTTEMPDEL
+WHERE (((dbo.SOTTEMPDEL.DATETIME) &gt; '{0}') AND ((dbo.SOTTEMPDEL.CUS) Like '%VN'))
+ORDER BY dbo.SOTTEMPDEL.DATETIME ASC</Value>
+    </Setting>
+    <Setting Name="sa_pw" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ntls@2252</Value>
+    </Setting>
+    <Setting Name="strCmdDIC" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SELECT RTRIM(dbo.MAINSODIC.XA001) AS XA001, RTRIM(dbo.MAINSODIC.XA002) AS XA002, RTRIM(dbo.MAINSODIC.XA003) AS XA003
+FROM dbo.MAINSODIC</Value>
+    </Setting>
+    <Setting Name="strCmdBL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SELECT * FROM dbo.BLCOPXB</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,110 @@
+16/05/2019 10:53:17: Session 190516 has started.
+16/05/2019 10:53:17: Data in table COPMA read sucessfully. 36 new data entries found.
+16/05/2019 10:53:17: Data in table COPMG read sucessfully. 1116 new data entries found.
+16/05/2019 10:53:17: Data in table MAINSODEL read sucessfully. 0 new data entries found.
+16/05/2019 10:53:17: Data in table BLCOPXB read sucessfully. 0 new data entries found.
+16/05/2019 10:53:18: Data in table MAINSOTEMPDEL read sucessfully. 0 new data entries found.
+16/05/2019 10:53:18: Data in table SOTTEMPDEL read sucessfully. 16 new data entries found.
+16/05/2019 10:53:18:  The original Order No. 19840 not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 19840 not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. WTX201907-VN not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. WTX201907-VN not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. WTX201907-VN not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. WTX201907-VN not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 19839 not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 19839 not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 5500011477-0619VN not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 5500011477-0619VN not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 5500011477-0619VN not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 5500011477-0619VN not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 5500011478-0619VN not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 5500011478-0619VN not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 19839 not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 2649 not found. Please update it mannually.
+16/05/2019 10:53:18: Connection to 223.255.178.194 is opened.
+16/05/2019 10:53:18: Data in table COPXA read sucessfully. 23 new data entries found.
+16/05/2019 10:53:18: Data in table COPXB read sucessfully. 60 new data entries found.
+16/05/2019 10:53:18: The product number HS-2965 not found. Cannot import Order No. 11311-0001 .
+16/05/2019 10:53:18: The product number HS-6019 not found. Cannot import Order No. 11311-0002 .
+16/05/2019 10:53:18: The product number HS-6743 not found. Cannot import Order No. 11311-0003 .
+16/05/2019 10:53:18: The product number HS-8759 not found. Cannot import Order No. 11311-0004 .
+16/05/2019 10:53:18: The product number HS-9329 not found. Cannot import Order No. 11311-0005 .
+16/05/2019 10:53:18: The product number 32222271 not found. Cannot import Order No. 5500011477-0719VN-0001 .
+16/05/2019 10:53:18: The product number 32222271 not found. Cannot import Order No. 5500011477-0719VN-0002 .
+16/05/2019 10:53:18: The product number 32222271 not found. Cannot import Order No. 5500011477-0719VN-0003 .
+16/05/2019 10:53:18: The product number 32222272 not found. Cannot import Order No. 5500011478-0719VN-0001 .
+16/05/2019 10:53:18: The product number 32222272 not found. Cannot import Order No. 5500011478-0719VN-0002 .
+16/05/2019 10:53:18: The product number 32222272 not found. Cannot import Order No. 5500011478-0719VN-0003 .
+16/05/2019 10:53:18: The product number 75002-906 not found. Cannot import Order No. 36157-0001 .
+16/05/2019 10:53:18: The product number TOOLING CHARGE not found. Cannot import Order No. 2416-0001 .
+16/05/2019 10:53:18: The product number TOOLING CHARGE not found. Cannot import Order No. 2427-0001 .
+16/05/2019 10:53:18: The product number TOOLING CHARGE not found. Cannot import Order No. 2427-0002 .
+16/05/2019 10:53:18: The product number TOOLING CHARGE not found. Cannot import Order No. 2479-0001 .
+16/05/2019 10:53:18: The product number TOOLING CHARGE not found. Cannot import Order No. 2479-0002 .
+16/05/2019 10:53:18: The product number TOOLING CHARGE not found. Cannot import Order No. 2479-0003 .
+16/05/2019 10:53:18: The product number TOOLING CHARGE not found. Cannot import Order No. 2479-0004 .
+16/05/2019 10:53:18: The product number TOOLING CHARGE not found. Cannot import Order No. 2479-0005 .
+16/05/2019 10:53:18: The product number TOOLING CHARGE not found. Cannot import Order No. 2479-0006 .
+16/05/2019 10:53:18: The product number TOOLING CHARGE not found. Cannot import Order No. 2597-0001 .
+16/05/2019 10:53:18: The product number TOOLING CHARGE not found. Cannot import Order No. 2597-0002 .
+16/05/2019 10:53:18: The product number TOOLING CHARGE not found. Cannot import Order No. 2597-0003 .
+16/05/2019 10:53:18: The product number TOOLING CHARGE not found. Cannot import Order No. 2597-0004 .
+16/05/2019 10:53:18: The product number TOOLING CHARGE not found. Cannot import Order No. 2597-0005 .
+16/05/2019 10:53:18: The product number TOOLING CHARGE not found. Cannot import Order No. 2597-0006 .
+16/05/2019 10:53:18: The product number TOOLING CHARGE not found. Cannot import Order No. 2597-0007 .
+16/05/2019 10:53:18: The product number CELLULOSE TAPE V not found. Cannot import Order No. 2658-0001 .
+16/05/2019 10:53:18: The product number TOOLING CHARGE not found. Cannot import Order No. 2692-0001 .
+16/05/2019 10:53:18: The product number TOOLING CHARGE not found. Cannot import Order No. 2698-0001 .
+16/05/2019 10:53:18: The product number 76J200000008 not found. Cannot import Order No. VR-5941-0001 .
+16/05/2019 10:53:18: The product number 76J200000016 not found. Cannot import Order No. VR-5941-0002 .
+16/05/2019 10:53:18: The product number 76J200000019 not found. Cannot import Order No. VR-5941-0003 .
+16/05/2019 10:53:18: The product number 760301180207 not found. Cannot import Order No. VR-5941-0004 .
+16/05/2019 10:53:18: The product number AA52426 2-1/2 not found. Cannot import Order No. 11321-0001 .
+16/05/2019 10:53:18: Order No. 11311 has been inserted.
+16/05/2019 10:53:18: Order No. 5500011477-0719VN has been inserted.
+16/05/2019 10:53:18: Order No. 5500011478-0719VN has been inserted.
+16/05/2019 10:53:18: Order No. 36157 has been inserted.
+16/05/2019 10:53:18: Order No. 16756 has been inserted.
+16/05/2019 10:53:18: Order No. 2416 has been inserted.
+16/05/2019 10:53:18: Order No. 2427 has been inserted.
+16/05/2019 10:53:18: Order No. 2479 has been inserted.
+16/05/2019 10:53:18: Order No. 2597 has been inserted.
+16/05/2019 10:53:18: Order No. 2658 has been inserted.
+16/05/2019 10:53:18: Order No. 2692 has been inserted.
+16/05/2019 10:53:18: Order No. 2698 has been inserted.
+16/05/2019 10:53:18: Order No. VR-5941 has been inserted.
+16/05/2019 10:53:18: Order No. 11321 has been inserted.
+16/05/2019 10:53:18: Order No. 16756 has been inserted.
+16/05/2019 10:53:18:  The original Order No. 5500011491-2019 not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 19840 not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. WTX201907-VN not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 5500011478-0519VN not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 5500011478-0619VN not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 5500011477-0519VN not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 2649 not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 5500011477-0619VN not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 19839 not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 5500011491-2019 not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 5500011491-2019 not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 5500011491-2019 not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 5500011491-2019 not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 5500011491-2019 not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 5500011491-2019 not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 5500011491-2019 not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 19840 not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 19840 not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. WTX201907-VN not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. WTX201907-VN not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. WTX201907-VN not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. WTX201907-VN not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 5500011478-0519VN not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 5500011478-0519VN not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 5500011478-0619VN not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 5500011478-0619VN not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 5500011477-0519VN not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 5500011477-0519VN not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 2649 not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 5500011477-0619VN not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 5500011477-0619VN not found. Please update it mannually.
+16/05/2019 10:53:18:  The original Order No. 19839 not found. Please update it mannually.
+16/05/2019 10:53:18: Session 190516 completed.
