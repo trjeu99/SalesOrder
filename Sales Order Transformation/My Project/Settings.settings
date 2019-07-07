@@ -65,35 +65,8 @@
     <Setting Name="session_number" Type="System.Int32" Scope="User">
       <Value Profile="(Default)">0</Value>
     </Setting>
-    <Setting Name="strCmdMO" Type="System.String" Scope="User">
-      <Value Profile="(Default)">SELECT dbo.MAINSO.DATETIME AS DATETIME, CONVERT(nchar(8), getdate(), 112) AS XA001, '' AS XA002, dbo.MAINSO.SORNO AS XA003, LTRIM(dbo.MAINSO.REV) AS XA004, dbo.MAINSO.CUS AS XA005, 
-		CONVERT(nchar(8), dbo.MAINSO.TDATE, 112) AS XA006, dbo.MAINSO.CUS AS XA007, LEFT(dbo.CURRENCY.SYM, 3) AS XA008, dbo.MAINSO.WEIGHTUNIT AS XA009, dbo.MAINSO.MEASUNIT AS XA010, 
-		'' AS XA011, CASE WHEN dbo.MAINSO.REV &gt; 1 THEN 2 ELSE 1 END AS XA012, '' AS XA013, '' AS XA014, 'PR001' AS XA015
-FROM dbo.MAINSO INNER JOIN dbo.CURRENCY ON dbo.MAINSO.CUR = dbo.CURRENCY.CUR
-WHERE (((dbo.MAINSO.DATETIME) &gt; '{0}') AND ((dbo.MAINSO.CUS) Like '%VN'))
-ORDER BY dbo.MAINSO.DATETIME ASC</Value>
-    </Setting>
-    <Setting Name="strCmdSO" Type="System.String" Scope="User">
-      <Value Profile="(Default)">SELECT '' AS XB001, '' AS XB002, dbo.SOT.SORNO AS XB003, LTRIM(dbo.SOT.REV) AS XB004, RIGHT(10000 + dbo.SOT.ITEMNO, 4) AS XB005, 
-		dbo.SOT.CODE AS XB006, convert(numeric(16,3), dbo.SOT.QTY) AS XB007, convert(numeric(21,6), dbo.SOT.UP) AS XB008, CONVERT(nchar(8), dbo.SOT.RETD, 112) AS XB009, '' AS XB010, 
-		'' AS XB011, '' AS XB012, CASE WHEN dbo.SOT.REV &gt; 1 THEN 2 ELSE 1 END AS XB013, 0 AS XB014, '' AS XB015
-FROM dbo.SOT
-WHERE (((dbo.SOT.DATETIME) &gt; '{0}') AND ((dbo.SOT.CUS) Like '%VN'))
-ORDER BY dbo.SOT.DATETIME ASC</Value>
-    </Setting>
-    <Setting Name="strCNHK" Type="System.String" Scope="User">
-      <Value Profile="(Default)">Data Source={0},{1}; Network Library=dbmssocn; Initial Catalog={2}; User ID={3}; Password={4}</Value>
-    </Setting>
     <Setting Name="strCNVN" Type="System.String" Scope="User">
       <Value Profile="(Default)">Data Source={0}; Initial Catalog={1}; User ID={2}; Password={3}</Value>
-    </Setting>
-    <Setting Name="strCmdCUS" Type="System.String" Scope="User">
-      <Value Profile="(Default)">SELECT RTRIM(dbo.COPMA.MA001) AS MA001, RTRIM(dbo.COPMA.MA002) AS MA002, RTRIM(dbo.COPMA.MA003) AS MA003, RTRIM(dbo.COPMA.MA004) AS MA004
-FROM dbo.COPMA</Value>
-    </Setting>
-    <Setting Name="strCmdPRO" Type="System.String" Scope="User">
-      <Value Profile="(Default)">SELECT CONVERT(nvarchar(40), RTRIM(dbo.COPMG.MG002)) AS MG002, RTRIM(dbo.COPMG.MG003) AS MG003
-FROM dbo.COPMG</Value>
     </Setting>
     <Setting Name="supw" Type="System.String" Scope="User">
       <Value Profile="(Default)">!QAZxdr5</Value>
@@ -113,31 +86,52 @@ Please find in attach the details of this session.
 Thank you and Best regards,
 ERP Team</Value>
     </Setting>
-    <Setting Name="strCmdDelMO" Type="System.String" Scope="User">
-      <Value Profile="(Default)">SELECT CONVERT(nchar(8), getdate(), 112) AS XA001, '' AS XA002, dbo.MAINSOTEMPDEL.SORNO AS XA003, LTRIM(dbo.MAINSOTEMPDEL.REV) AS XA004, dbo.MAINSOTEMPDEL.CUS AS XA005, 
-		CONVERT(nchar(8), dbo.MAINSOTEMPDEL.TDATE, 112) AS XA006, dbo.MAINSOTEMPDEL.CUS AS XA007, ntls.dbo.CURRENCY.SYM AS XA008, dbo.MAINSOTEMPDEL.WEIGHTUNIT AS XA009, dbo.MAINSOTEMPDEL.MEASUNIT AS XA010, 
-		'' AS XA011, 3 AS XA012, '' AS XA013, '' AS XA014, 'PR001' AS XA015
-FROM dbo.MAINSOTEMPDEL INNER JOIN ntls.dbo.CURRENCY ON dbo.MAINSOTEMPDEL.CUR = ntls.dbo.CURRENCY.CUR
-WHERE (((dbo.MAINSOTEMPDEL.DATETIME) &gt; '{0}') AND ((dbo.MAINSOTEMPDEL.CUS) Like '%VN'))
-ORDER BY dbo.MAINSOTEMPDEL.DATETIME ASC</Value>
-    </Setting>
-    <Setting Name="strCmdDelSO" Type="System.String" Scope="User">
-      <Value Profile="(Default)">SELECT '' AS XB001, '' AS XB002, dbo.SOTTEMPDEL.SORNO AS XB003, LTRIM(dbo.SOTTEMPDEL.REV) AS XB004, RIGHT(10000 + dbo.SOTTEMPDEL.ITEMNO, 4) AS XB005, 
-		dbo.SOTTEMPDEL.CODE AS XB006, convert(numeric(16,3), dbo.SOTTEMPDEL.QTY) AS XB007, convert(numeric(21,6), dbo.SOTTEMPDEL.UP) AS XB008, CONVERT(nchar(8), dbo.SOTTEMPDEL.RETD, 112) AS XB009, '' AS XB010, 
-		'' AS XB011, '' AS XB012, 3 AS XB013, 0 AS XB014, '' AS XB015
-FROM dbo.SOTTEMPDEL
-WHERE (((dbo.SOTTEMPDEL.DATETIME) &gt; '{0}') AND ((dbo.SOTTEMPDEL.CUS) Like '%VN'))
-ORDER BY dbo.SOTTEMPDEL.DATETIME ASC</Value>
-    </Setting>
-    <Setting Name="sa_pw" Type="System.String" Scope="User">
-      <Value Profile="(Default)">ntls@2252</Value>
-    </Setting>
     <Setting Name="strCmdDIC" Type="System.String" Scope="User">
       <Value Profile="(Default)">SELECT RTRIM(dbo.MAINSODIC.XA001) AS XA001, RTRIM(dbo.MAINSODIC.XA002) AS XA002, RTRIM(dbo.MAINSODIC.XA003) AS XA003
 FROM dbo.MAINSODIC</Value>
     </Setting>
     <Setting Name="strCmdBL" Type="System.String" Scope="User">
       <Value Profile="(Default)">SELECT * FROM dbo.BLCOPXB</Value>
+    </Setting>
+    <Setting Name="ntlsConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=223.255.178.194,11433;Initial Catalog=ntls;Persist Security Info=True;User ID=ntlsdoc;Password=ntls@2121&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=223.255.178.194,11433;Initial Catalog=ntls;Persist Security Info=True;User ID=ntlsdoc;Password=ntls@2121</Value>
+    </Setting>
+    <Setting Name="TECHLINKConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=14.161.39.188;Initial Catalog=TECHLINK;Persist Security Info=True;User ID=sa;Password=dsc@123&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=14.161.39.188;Initial Catalog=TECHLINK;Persist Security Info=True;User ID=sa;Password=dsc@123</Value>
+    </Setting>
+    <Setting Name="ntls_sotConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=223.255.178.194,11433;Initial Catalog=ntls_sot;Persist Security Info=True;User ID=sa;Password=ntls@2252;Pooling=False&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=223.255.178.194,11433;Initial Catalog=ntls_sot;Persist Security Info=True;User ID=sa;Password=ntls@2252;Pooling=False</Value>
+    </Setting>
+    <Setting Name="DSCSYSConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=14.161.39.188;Initial Catalog=DSCSYS;Persist Security Info=True;User ID=sa;Password=dsc@123&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=14.161.39.188;Initial Catalog=DSCSYS;Persist Security Info=True;User ID=sa;Password=dsc@123</Value>
+    </Setting>
+    <Setting Name="SOTConnectionString" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;ConnectionString&gt;Data Source=14.161.39.188;Initial Catalog=SOT;Persist Security Info=True;User ID=sa;Password=dsc@123&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=14.161.39.188;Initial Catalog=SOT;Persist Security Info=True;User ID=sa;Password=dsc@123</Value>
     </Setting>
   </Settings>
 </SettingsFile>

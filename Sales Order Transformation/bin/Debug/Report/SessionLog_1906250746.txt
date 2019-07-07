@@ -1,0 +1,6 @@
+25/06/2019 07:46:22: Session 1906250746 has started.
+25/06/2019 07:46:25: Data in table MAINSODEL read sucessfully. 0 new data entries found.
+25/06/2019 07:46:25: Data in table BLCOPTD read sucessfully. 0 new data entries found.
+25/06/2019 07:46:25: Connection to 223.255.178.194 is opened.
+25/06/2019 07:46:25: No Main Order found.
+25/06/2019 07:46:25: Session 1906250746 completed.

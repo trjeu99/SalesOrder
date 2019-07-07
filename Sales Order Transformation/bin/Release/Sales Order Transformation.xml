@@ -22,5 +22,555 @@ Sales Order Transformation
   resource lookups using this strongly typed resource class.
 </summary>
 </member>
+<member name="P:Sales_Order_Transformation.My.Resources.Resources.micross">
+<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.DSCSYSDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.DSCSYSDataSet.ADMMDDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.DSCSYSDataSet.ADMMDRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.DSCSYSDataSet.ADMMDRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.DSCSYSDataSetTableAdapters.ColTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.DSCSYSDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Sales_Order_Transformation.DSCSYSDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Sales_Order_Transformation.DSCSYSDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Sales_Order_Transformation.DSCSYSDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Sales_Order_Transformation.DSCSYSDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Sales_Order_Transformation.DSCSYSDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Sales_Order_Transformation.DSCSYSDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Sales_Order_Transformation.DSCSYSDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Sales_Order_Transformation.DSCSYSDataSetTableAdapters.TableAdapterManager.UpdateAll(Sales_Order_Transformation.DSCSYSDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.DSCSYSDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.DSCSYSDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.ntlsDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.ntlsDataSet.SOTDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.ntlsDataSet.COPTEDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.ntlsDataSet.COPTFDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.ntlsDataSet.MAINSODataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.ntlsDataSet.SOTRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.ntlsDataSet.COPTERow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.ntlsDataSet.COPTFRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.ntlsDataSet.MAINSORow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.ntlsDataSet.SOTRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.ntlsDataSet.COPTERowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.ntlsDataSet.COPTFRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.ntlsDataSet.MAINSORowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.ntlsDataSetTableAdapters.SOTTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.ntlsDataSetTableAdapters.COPTETableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.ntlsDataSetTableAdapters.COPTFTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.ntlsDataSetTableAdapters.MAINSOTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.ntlsDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Sales_Order_Transformation.ntlsDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Sales_Order_Transformation.ntlsDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Sales_Order_Transformation.ntlsDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Sales_Order_Transformation.ntlsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Sales_Order_Transformation.ntlsDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Sales_Order_Transformation.ntlsDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Sales_Order_Transformation.ntlsDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Sales_Order_Transformation.ntlsDataSetTableAdapters.TableAdapterManager.UpdateAll(Sales_Order_Transformation.ntlsDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.ntlsDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.ntlsDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.ntls_sotDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.ntls_sotDataSet.MAINSOTEMPDELDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.ntls_sotDataSet.SOTTEMPDELDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.ntls_sotDataSet.MAINSOTEMPDELRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.ntls_sotDataSet.SOTTEMPDELRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.ntls_sotDataSet.MAINSOTEMPDELRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.ntls_sotDataSet.SOTTEMPDELRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.ntls_sotDataSetTableAdapters.MAINSOTEMPDELTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.ntls_sotDataSetTableAdapters.SOTTEMPDELTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.ntls_sotDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Sales_Order_Transformation.ntls_sotDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Sales_Order_Transformation.ntls_sotDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Sales_Order_Transformation.ntls_sotDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Sales_Order_Transformation.ntls_sotDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Sales_Order_Transformation.ntls_sotDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Sales_Order_Transformation.ntls_sotDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Sales_Order_Transformation.ntls_sotDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Sales_Order_Transformation.ntls_sotDataSetTableAdapters.TableAdapterManager.UpdateAll(Sales_Order_Transformation.ntls_sotDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.ntls_sotDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.ntls_sotDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.SOTDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.SOTDataSet.BLCOPTCDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.SOTDataSet.BLCOPTDDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.SOTDataSet.BLCOPTCRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.SOTDataSet.BLCOPTDRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.SOTDataSet.BLCOPTCRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.SOTDataSet.BLCOPTDRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.SOTDataSetTableAdapters.BLCOPTCTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.SOTDataSetTableAdapters.BLCOPTDTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.SOTDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Sales_Order_Transformation.SOTDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Sales_Order_Transformation.SOTDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Sales_Order_Transformation.SOTDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Sales_Order_Transformation.SOTDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Sales_Order_Transformation.SOTDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Sales_Order_Transformation.SOTDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Sales_Order_Transformation.SOTDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Sales_Order_Transformation.SOTDataSetTableAdapters.TableAdapterManager.UpdateAll(Sales_Order_Transformation.SOTDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.SOTDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.SOTDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.TECHLINKDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.TECHLINKDataSet.CMSMGDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.TECHLINKDataSet.COPMADataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.TECHLINKDataSet.COPTCDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.TECHLINKDataSet.COPTDDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.TECHLINKDataSet.INVMBDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.TECHLINKDataSet.MAINSODICDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.TECHLINKDataSet.ProductDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.TECHLINKDataSet.CMSMGRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.TECHLINKDataSet.COPMARow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.TECHLINKDataSet.COPTCRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.TECHLINKDataSet.COPTDRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.TECHLINKDataSet.INVMBRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.TECHLINKDataSet.MAINSODICRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.TECHLINKDataSet.ProductRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.TECHLINKDataSet.CMSMGRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.TECHLINKDataSet.COPMARowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.TECHLINKDataSet.COPTCRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.TECHLINKDataSet.COPTDRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.TECHLINKDataSet.INVMBRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.TECHLINKDataSet.MAINSODICRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.TECHLINKDataSet.ProductRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.TECHLINKDataSetTableAdapters.CurrencyTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.TECHLINKDataSetTableAdapters.CusTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.TECHLINKDataSetTableAdapters.OrdTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.TECHLINKDataSetTableAdapters.COPTDTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.TECHLINKDataSetTableAdapters.ProdTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.TECHLINKDataSetTableAdapters.MAINSODICTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.TECHLINKDataSetTableAdapters.ProductTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.TECHLINKDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Sales_Order_Transformation.TECHLINKDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Sales_Order_Transformation.TECHLINKDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Sales_Order_Transformation.TECHLINKDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Sales_Order_Transformation.TECHLINKDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Sales_Order_Transformation.TECHLINKDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Sales_Order_Transformation.TECHLINKDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Sales_Order_Transformation.TECHLINKDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Sales_Order_Transformation.TECHLINKDataSetTableAdapters.TableAdapterManager.UpdateAll(Sales_Order_Transformation.TECHLINKDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.TECHLINKDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Sales_Order_Transformation.TECHLINKDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
 </members>
 </doc>

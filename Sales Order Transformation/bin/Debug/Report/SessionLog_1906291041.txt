@@ -1,0 +1,12 @@
+29/06/2019 10:41:58: Session 1906291041 has started.
+29/06/2019 10:42:00: Data in table MAINSODEL read sucessfully. 0 new data entries found.
+29/06/2019 10:42:00: Data in table BLCOPTD read sucessfully. 0 new data entries found.
+29/06/2019 10:42:00: Connection to 223.255.178.194 is opened.
+29/06/2019 10:42:01: The product number 40-01600VN not found. Cannot import Order No. 1906085-0001.
+29/06/2019 10:42:01: The product number 1504138141 not found. Cannot import Order No. 1906086-0001.
+29/06/2019 10:42:01: The product number 1504138142 not found. Cannot import Order No. 1906088-0001.
+29/06/2019 10:42:01: The product number 1504138235 not found. Cannot import Order No. 1906089-0001.
+29/06/2019 10:42:01: The product number 1504138236 not found. Cannot import Order No. 1906090-0001.
+29/06/2019 10:42:01: The product number 3201004531 not found. Cannot import Order No. 1906097-0001.
+29/06/2019 10:42:01: The product number 1342814S01 not found. Cannot import Order No. 1906098-0001.
+29/06/2019 10:43:30: Session 1906291041 completed.

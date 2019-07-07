@@ -1,0 +1,393 @@
+01/07/2019 08:57:15: Session 1907010857 has started.
+01/07/2019 08:57:18: Data in table MAINSODEL read sucessfully. 0 new data entries found.
+01/07/2019 08:57:18: Data in table BLCOPTD read sucessfully. 0 new data entries found.
+01/07/2019 08:57:18: Connection to 223.255.178.194 is opened.
+01/07/2019 08:57:18: The Sale Order number VR-6511 not found.
+01/07/2019 08:57:18: The Sale Order number VR-6470 not found.
+01/07/2019 08:57:18: The Sale Order number VR-6441 not found.
+01/07/2019 08:57:18: The Sale Order number 11533 not found.
+01/07/2019 08:57:18: The Sale Order number 11523 not found.
+01/07/2019 08:57:18: The Sale Order number 630004861/10 not found.
+01/07/2019 08:57:18: The Sale Order number 4700033449 not found.
+01/07/2019 08:57:18: The Sale Order number 630004793/10 not found.
+01/07/2019 08:57:18: The Sale Order number 630004793/20 not found.
+01/07/2019 08:57:18: The Sale Order number VR-4213 not found.
+01/07/2019 08:57:18: The Sale Order number 2757 not found.
+01/07/2019 08:57:18: The Sale Order number 19869 not found.
+01/07/2019 08:57:18: The Sale Order number 4501934107 not found.
+01/07/2019 08:57:18: Order No. 1901005     has been updated.
+01/07/2019 08:57:19: The Sale Order number VR-6511 not found.
+01/07/2019 08:57:19: The Sale Order number VR-6470 not found.
+01/07/2019 08:57:19: The Sale Order number VR-6470 not found.
+01/07/2019 08:57:19: The Sale Order number VR-6470 not found.
+01/07/2019 08:57:19: The Sale Order number VR-6470 not found.
+01/07/2019 08:57:19: The Sale Order number VR-6470 not found.
+01/07/2019 08:57:19: The Sale Order number VR-6470 not found.
+01/07/2019 08:57:19: The Sale Order number VR-6470 not found.
+01/07/2019 08:57:19: The Sale Order number VR-6441 not found.
+01/07/2019 08:57:19: The Sale Order number VR-6441 not found.
+01/07/2019 08:57:19: The Sale Order number VR-6441 not found.
+01/07/2019 08:57:19: The Sale Order number VR-6441 not found.
+01/07/2019 08:57:19: The Sale Order number VR-6441 not found.
+01/07/2019 08:57:19: The Sale Order number VR-6441 not found.
+01/07/2019 08:57:19: The Sale Order number VR-6441 not found.
+01/07/2019 08:57:19: The Sale Order number VR-6441 not found.
+01/07/2019 08:57:19: The Sale Order number VR-6441 not found.
+01/07/2019 08:57:19: The Sale Order number VR-6441 not found.
+01/07/2019 08:57:19: The Sale Order number VR-6441 not found.
+01/07/2019 08:57:19: The Sale Order number VR-6441 not found.
+01/07/2019 08:57:19: The Sale Order number VR-6441 not found.
+01/07/2019 08:57:19: The Sale Order number VR-6441 not found.
+01/07/2019 08:57:19: The Sale Order number VR-6441 not found.
+01/07/2019 08:57:19: The Sale Order number VR-6441 not found.
+01/07/2019 08:57:19: The Sale Order number VR-6441 not found.
+01/07/2019 08:57:19: The Sale Order number VR-6441 not found.
+01/07/2019 08:57:19: The Sale Order number VR-6441 not found.
+01/07/2019 08:57:20: The Sale Order number VR-6441 not found.
+01/07/2019 08:57:20: The Sale Order number VR-6441 not found.
+01/07/2019 08:57:20: The Sale Order number VR-6441 not found.
+01/07/2019 08:57:20: The Sale Order number VR-6441 not found.
+01/07/2019 08:57:20: The Sale Order number VR-6441 not found.
+01/07/2019 08:57:20: The Sale Order number VR-6441 not found.
+01/07/2019 08:57:20: The Sale Order number VR-6441 not found.
+01/07/2019 08:57:20: The Sale Order number 11533 not found.
+01/07/2019 08:57:20: The Sale Order number 11533 not found.
+01/07/2019 08:57:20: The Sale Order number 11533 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 11523 not found.
+01/07/2019 08:57:20: The Sale Order number 630004861/10 not found.
+01/07/2019 08:57:20: The Sale Order number 4700033449 not found.
+01/07/2019 08:57:21: The Sale Order number 4700033449 not found.
+01/07/2019 08:57:21: The Sale Order number 4700033449 not found.
+01/07/2019 08:57:21: The Sale Order number 4700033449 not found.
+01/07/2019 08:57:21: The Sale Order number 630004793/10 not found.
+01/07/2019 08:57:21: The Sale Order number 630004793/20 not found.
+01/07/2019 08:57:21: The Sale Order number VR-4213 not found.
+01/07/2019 08:57:21: The Sale Order number VR-4213 not found.
+01/07/2019 08:57:21: The Sale Order number VR-4213 not found.
+01/07/2019 08:57:21: The Sale Order number VR-4213 not found.
+01/07/2019 08:57:21: The Sale Order number VR-4213 not found.
+01/07/2019 08:57:21: The Sale Order number VR-4213 not found.
+01/07/2019 08:57:21: The Sale Order number VR-4213 not found.
+01/07/2019 08:57:21: The Sale Order number VR-4213 not found.
+01/07/2019 08:57:21: The Sale Order number VR-4213 not found.
+01/07/2019 08:57:21: The Sale Order number VR-4213 not found.
+01/07/2019 08:57:21: The Sale Order number VR-4213 not found.
+01/07/2019 08:57:21: The Sale Order number VR-4213 not found.
+01/07/2019 08:57:21: The Sale Order number VR-4213 not found.
+01/07/2019 08:57:21: The Sale Order number VR-4213 not found.
+01/07/2019 08:57:21: The Sale Order number VR-4213 not found.
+01/07/2019 08:57:21: The Sale Order number VR-4213 not found.
+01/07/2019 08:57:21: The Sale Order number VR-4213 not found.
+01/07/2019 08:57:21: The Sale Order number VR-4213 not found.
+01/07/2019 08:57:21: The Sale Order number VR-4213 not found.
+01/07/2019 08:57:21: The Sale Order number VR-4213 not found.
+01/07/2019 08:57:21: The Sale Order number VR-4213 not found.
+01/07/2019 08:57:21: The Sale Order number VR-4213 not found.
+01/07/2019 08:57:21: The Sale Order number VR-4213 not found.
+01/07/2019 08:57:21: The Sale Order number VR-4213 not found.
+01/07/2019 08:57:21: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+01/07/2019 08:57:21: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+01/07/2019 08:57:21: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+01/07/2019 08:57:21: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+01/07/2019 08:57:22: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+01/07/2019 08:57:22: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+01/07/2019 08:57:22: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+01/07/2019 08:57:22: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+01/07/2019 08:57:23: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+01/07/2019 08:57:23: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+01/07/2019 08:57:23: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+01/07/2019 08:57:23: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+01/07/2019 08:57:23: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+01/07/2019 08:57:24: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+01/07/2019 08:57:24: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+01/07/2019 08:57:24: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+01/07/2019 08:57:24: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+01/07/2019 08:57:24: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+01/07/2019 08:57:24: The Sale Order number 2757 not found.
+01/07/2019 08:57:24: The Sale Order number 19869 not found.
+01/07/2019 08:57:25: The Sale Order number 4501934107 not found.
+01/07/2019 08:57:31: The product number 40-01600VN not found. Cannot import Order No. 1906083-0001.
+01/07/2019 08:57:31: The product number 1504138141 not found. Cannot import Order No. 1906092-0001.
+01/07/2019 08:57:31: The product number 1504138142 not found. Cannot import Order No. 1906093-0001.
+01/07/2019 08:57:31: The product number 1504138235 not found. Cannot import Order No. 1906094-0001.
+01/07/2019 08:57:31: The product number 1504138236 not found. Cannot import Order No. 1906095-0001.
+01/07/2019 08:57:31: The product number 3201004531 not found. Cannot import Order No. 1906085-0001.
+01/07/2019 08:57:31: The product number 1342814S01 not found. Cannot import Order No. 1906084-0001.
+01/07/2019 08:57:31: The product number 602400000025 not found. Cannot import Order No. 1906099-0001.
+01/07/2019 08:57:31: The product number 602000000038 not found. Cannot import Order No. 1906100-0001.
+01/07/2019 08:57:31: The product number 602000000008 not found. Cannot import Order No. 1906100-0002.
+01/07/2019 08:57:31: The product number 602400000060 not found. Cannot import Order No. 1906100-0003.
+01/07/2019 08:57:31: The product number 602000000030 not found. Cannot import Order No. 1906100-0004.
+01/07/2019 08:57:31: The product number 602000000013 not found. Cannot import Order No. 1906100-0005.
+01/07/2019 08:57:31: The product number 602000000040 not found. Cannot import Order No. 1906100-0006.
+01/07/2019 08:57:31: The product number 602400000022 not found. Cannot import Order No. 1906100-0007.
+01/07/2019 08:57:31: The product number 602000000006 not found. Cannot import Order No. 1906101-0006.
+01/07/2019 08:57:31: The product number 6070V0000045 not found. Cannot import Order No. 1906101-0007.
+01/07/2019 08:57:31: The product number 602400000070 not found. Cannot import Order No. 1906101-0008.
+01/07/2019 08:57:31: The product number 6070V0000025 not found. Cannot import Order No. 1906101-0009.
+01/07/2019 08:57:31: The product number 602000000063 not found. Cannot import Order No. 1906101-0010.
+01/07/2019 08:57:31: The product number 6070V0000006 not found. Cannot import Order No. 1906101-0011.
+01/07/2019 08:57:31: The product number 6070V0000025 not found. Cannot import Order No. 1906101-0012.
+01/07/2019 08:57:31: The product number 6070V0000010 not found. Cannot import Order No. 1906101-0013.
+01/07/2019 08:57:31: The product number 602000000018 not found. Cannot import Order No. 1906101-0014.
+01/07/2019 08:57:31: The product number 602400000051 not found. Cannot import Order No. 1906101-0015.
+01/07/2019 08:57:31: The product number 6070V0000020 not found. Cannot import Order No. 1906101-0016.
+01/07/2019 08:57:31: The product number 602400000057 not found. Cannot import Order No. 1906101-0017.
+01/07/2019 08:57:31: The product number 602400000080 not found. Cannot import Order No. 1906101-0018.
+01/07/2019 08:57:31: The product number 6070V0000022 not found. Cannot import Order No. 1906101-0019.
+01/07/2019 08:57:31: The product number 602400000045 not found. Cannot import Order No. 1906101-0020.
+01/07/2019 08:57:31: The product number 602000000050 not found. Cannot import Order No. 1906101-0021.
+01/07/2019 08:57:31: The product number 602000000025 not found. Cannot import Order No. 1906101-0022.
+01/07/2019 08:57:31: The product number 602400000032 not found. Cannot import Order No. 1906101-0023.
+01/07/2019 08:57:31: The product number 602000000055 not found. Cannot import Order No. 1906101-0024.
+01/07/2019 08:57:31: The product number 6070V0000040 not found. Cannot import Order No. 1906101-0025.
+01/07/2019 08:57:32: The product number 6070V0000019 not found. Cannot import Order No. 1906101-0026.
+01/07/2019 08:57:32: The product number 2263650 not found. Cannot import Order No. 1906102-0001.
+01/07/2019 08:57:32: The product number 3307230 not found. Cannot import Order No. 1906102-0002.
+01/07/2019 08:57:32: The product number 4406810 not found. Cannot import Order No. 1906102-0003.
+01/07/2019 08:57:32: The product number 08284 not found. Cannot import Order No. 1906103-0001.
+01/07/2019 08:57:32: The product number 084014 not found. Cannot import Order No. 1906103-0002.
+01/07/2019 08:57:32: The product number 084050 not found. Cannot import Order No. 1906103-0003.
+01/07/2019 08:57:32: The product number 084090 not found. Cannot import Order No. 1906103-0004.
+01/07/2019 08:57:32: The product number 084107 not found. Cannot import Order No. 1906103-0005.
+01/07/2019 08:57:32: The product number 08429 not found. Cannot import Order No. 1906103-0006.
+01/07/2019 08:57:32: The product number 08541 not found. Cannot import Order No. 1906103-0007.
+01/07/2019 08:57:32: The product number 087121 not found. Cannot import Order No. 1906103-0008.
+01/07/2019 08:57:32: The product number 09-03-1672 not found. Cannot import Order No. 1906103-0009.
+01/07/2019 08:57:32: The product number 1004860 not found. Cannot import Order No. 1906103-0010.
+01/07/2019 08:57:32: The product number 12578558 not found. Cannot import Order No. 1906103-0011.
+01/07/2019 08:57:32: The product number 12578559 not found. Cannot import Order No. 1906103-0012.
+01/07/2019 08:57:32: The product number 45-175X10 not found. Cannot import Order No. 1906103-0013.
+01/07/2019 08:57:32: The product number 45-225X10 not found. Cannot import Order No. 1906103-0014.
+01/07/2019 08:57:32: The product number 45-350X10 not found. Cannot import Order No. 1906103-0015.
+01/07/2019 08:57:32: The product number 45-400X10 not found. Cannot import Order No. 1906103-0016.
+01/07/2019 08:57:32: The product number 45B-300X10 not found. Cannot import Order No. 1906103-0017.
+01/07/2019 08:57:32: The product number 90-075X10 not found. Cannot import Order No. 1906103-0018.
+01/07/2019 08:57:32: The product number 90-150X10 not found. Cannot import Order No. 1906103-0019.
+01/07/2019 08:57:32: The product number 90-175X10 not found. Cannot import Order No. 1906103-0020.
+01/07/2019 08:57:32: The product number 90-200X10 not found. Cannot import Order No. 1906103-0021.
+01/07/2019 08:57:32: The product number 90-225X10 not found. Cannot import Order No. 1906103-0022.
+01/07/2019 08:57:32: The product number 90-300X10 not found. Cannot import Order No. 1906103-0023.
+01/07/2019 08:57:32: The product number 90B-200X10 not found. Cannot import Order No. 1906103-0024.
+01/07/2019 08:57:32: The product number 90B-225X10 not found. Cannot import Order No. 1906103-0025.
+01/07/2019 08:57:32: The product number A031727101 not found. Cannot import Order No. 1906103-0026.
+01/07/2019 08:57:32: The product number BMTP38R-HOSE not found. Cannot import Order No. 1906103-0027.
+01/07/2019 08:57:32: The product number C40-075 not found. Cannot import Order No. 1906103-0028.
+01/07/2019 08:57:32: The product number C40-075X36'' not found. Cannot import Order No. 1906103-0029.
+01/07/2019 08:57:32: The product number C40-100 not found. Cannot import Order No. 1906103-0030.
+01/07/2019 08:57:32: The product number C40-125 not found. Cannot import Order No. 1906103-0031.
+01/07/2019 08:57:32: The product number C40-138 not found. Cannot import Order No. 1906103-0032.
+01/07/2019 08:57:32: The product number C40-150 not found. Cannot import Order No. 1906103-0033.
+01/07/2019 08:57:32: The product number C40-162X36'' not found. Cannot import Order No. 1906103-0034.
+01/07/2019 08:57:32: The product number C40-175 not found. Cannot import Order No. 1906103-0035.
+01/07/2019 08:57:32: The product number C40-200 not found. Cannot import Order No. 1906103-0036.
+01/07/2019 08:57:32: The product number C40-250 not found. Cannot import Order No. 1906103-0037.
+01/07/2019 08:57:32: The product number C40-275 not found. Cannot import Order No. 1906103-0038.
+01/07/2019 08:57:32: The product number C40-350 not found. Cannot import Order No. 1906103-0039.
+01/07/2019 08:57:32: The product number C40-400 not found. Cannot import Order No. 1906103-0040.
+01/07/2019 08:57:32: The product number C40-600 not found. Cannot import Order No. 1906103-0041.
+01/07/2019 08:57:32: The product number CAC40-300X6 not found. Cannot import Order No. 1906103-0042.
+01/07/2019 08:57:32: The product number CAC40-350X6 not found. Cannot import Order No. 1906103-0043.
+01/07/2019 08:57:32: The product number CAC40-400X8 not found. Cannot import Order No. 1906103-0044.
+01/07/2019 08:57:33: The product number FT.0625-90X11 not found. Cannot import Order No. 1906103-0045.
+01/07/2019 08:57:33: The product number FXT-04 not found. Cannot import Order No. 1906103-0046.
+01/07/2019 08:57:33: The product number FXT-239 not found. Cannot import Order No. 1906103-0047.
+01/07/2019 08:57:33: The product number FXT-240 not found. Cannot import Order No. 1906103-0048.
+01/07/2019 08:57:33: The product number FXT-241 not found. Cannot import Order No. 1906103-0049.
+01/07/2019 08:57:33: The product number FXT-247 not found. Cannot import Order No. 1906103-0050.
+01/07/2019 08:57:33: The product number FXT-248 not found. Cannot import Order No. 1906103-0051.
+01/07/2019 08:57:33: The product number FXT-279 not found. Cannot import Order No. 1906103-0052.
+01/07/2019 08:57:33: The product number FXT-381 not found. Cannot import Order No. 1906103-0053.
+01/07/2019 08:57:33: The product number FXT-382 not found. Cannot import Order No. 1906103-0054.
+01/07/2019 08:57:33: The product number FXT-404 not found. Cannot import Order No. 1906103-0055.
+01/07/2019 08:57:33: The product number HS-2965 not found. Cannot import Order No. 1906103-0056.
+01/07/2019 08:57:33: The product number HS-6019 not found. Cannot import Order No. 1906103-0057.
+01/07/2019 08:57:33: The product number HS-6743 not found. Cannot import Order No. 1906103-0058.
+01/07/2019 08:57:33: The product number HS-8759 not found. Cannot import Order No. 1906103-0059.
+01/07/2019 08:57:33: The product number HS-9329 not found. Cannot import Order No. 1906103-0060.
+01/07/2019 08:57:33: The product number HT40-138 not found. Cannot import Order No. 1906103-0061.
+01/07/2019 08:57:33: The product number HT40-350 not found. Cannot import Order No. 1906103-0062.
+01/07/2019 08:57:33: The product number MHS01I-010 not found. Cannot import Order No. 1906103-0063.
+01/07/2019 08:57:33: The product number N12390 not found. Cannot import Order No. 1906103-0064.
+01/07/2019 08:57:33: The product number N65175 not found. Cannot import Order No. 1906103-0065.
+01/07/2019 08:57:33: The product number R40-150/200 not found. Cannot import Order No. 1906103-0066.
+01/07/2019 08:57:33: The product number R40-175/200 not found. Cannot import Order No. 1906103-0067.
+01/07/2019 08:57:33: The product number R40-200/250 not found. Cannot import Order No. 1906103-0068.
+01/07/2019 08:57:33: The product number R40-225/250 not found. Cannot import Order No. 1906103-0069.
+01/07/2019 08:57:33: The product number R40-250/300 not found. Cannot import Order No. 1906103-0070.
+01/07/2019 08:57:33: The product number R40B-175/250 not found. Cannot import Order No. 1906103-0071.
+01/07/2019 08:57:33: The product number R40B-250/300 not found. Cannot import Order No. 1906103-0072.
+01/07/2019 08:57:33: The product number R40B-275/300 not found. Cannot import Order No. 1906103-0073.
+01/07/2019 08:57:33: The product number R40B-300/325 not found. Cannot import Order No. 1906103-0074.
+01/07/2019 08:57:33: The product number R40B-300/400 not found. Cannot import Order No. 1906103-0075.
+01/07/2019 08:57:33: The product number R40B-350/425X4 not found. Cannot import Order No. 1906103-0076.
+01/07/2019 08:57:33: The product number R90-200/225 not found. Cannot import Order No. 1906103-0077.
+01/07/2019 08:57:33: The product number R90-225/250 not found. Cannot import Order No. 1906103-0078.
+01/07/2019 08:57:33: The product number R90-250/300 not found. Cannot import Order No. 1906103-0079.
+01/07/2019 08:57:33: The product number R90-300/350 not found. Cannot import Order No. 1906103-0080.
+01/07/2019 08:57:33: The product number R90-400/500 not found. Cannot import Order No. 1906103-0081.
+01/07/2019 08:57:33: The product number R90B-350/400 not found. Cannot import Order No. 1906103-0082.
+01/07/2019 08:57:33: The product number 12641549 not found. Cannot import Order No. 1906103-0083.
+01/07/2019 08:57:33: The product number CAC40-450X8 not found. Cannot import Order No. 1906103-0084.
+01/07/2019 08:57:33: The product number 1405610S01 not found. Cannot import Order No. 1906105-0001.
+01/07/2019 08:57:33: The product number 1405610S01 not found. Cannot import Order No. 1906105-0002.
+01/07/2019 08:57:33: The product number 1407331S01 not found. Cannot import Order No. 1906105-0003.
+01/07/2019 08:57:33: The product number 1407331S01 not found. Cannot import Order No. 1906105-0004.
+01/07/2019 08:57:33: The product number 602NF0000057 not found. Cannot import Order No. 1904099-0001.
+01/07/2019 08:57:33: The product number 602NF0000045 not found. Cannot import Order No. 1904099-0007.
+01/07/2019 08:57:33: The product number 602NF1000057 not found. Cannot import Order No. 1904099-0011.
+01/07/2019 08:57:33: The product number 640451061293 not found. Cannot import Order No. 1904099-0012.
+01/07/2019 08:57:33: The product number 602NF0000063 not found. Cannot import Order No. 1904099-0015.
+01/07/2019 08:57:33: The product number 602NF0000051 not found. Cannot import Order No. 1904099-0016.
+01/07/2019 08:57:34: The product number 602NF0000057 not found. Cannot import Order No. 1904099-0019.
+01/07/2019 08:57:34: The product number 602NF1000057 not found. Cannot import Order No. 1904099-0023.
+01/07/2019 08:57:34: The product number TOOLING CHARGE not found. Cannot import Order No. 1906108-0001.
+01/07/2019 08:57:34: The product number 25S97-54C not found. Cannot import Order No. 1906109-0001.
+01/07/2019 08:57:34: The product number 1065331S01 not found. Cannot import Order No. 1906110-0001.
+01/07/2019 08:57:34: Order No. 得霖科技有限公司 has been created.
+01/07/2019 08:57:34: Order No. 得霖科技有限公司 has been created.
+01/07/2019 08:57:34: Order No. 得霖科技有限公司 has been created.
+01/07/2019 08:57:34: Order No. 得霖科技有限公司 has been created.
+01/07/2019 08:57:34: Order No. 得霖科技有限公司 has been created.
+01/07/2019 08:57:34: Order No. 得霖科技有限公司 has been created.
+01/07/2019 08:57:34: Order No. 得霖科技有限公司 has been created.
+01/07/2019 08:57:34: Order No. 得霖科技有限公司 has been created.
+01/07/2019 08:57:34: Order No. 得霖科技有限公司 has been created.
+01/07/2019 08:57:34: Order No. 得霖科技有限公司 has been created.
+01/07/2019 08:57:34: Order No. 得霖科技有限公司 has been created.
+01/07/2019 08:57:34: Order No. 得霖科技有限公司 has been created.
+01/07/2019 08:57:34: Order No. 得霖科技有限公司 has been created.
+01/07/2019 08:57:34: Order No. 得霖科技有限公司 has been created.
+01/07/2019 08:57:34: Order No. 得霖科技有限公司 has been created.
+01/07/2019 08:57:34: Order No. 得霖科技有限公司 has been created.
+01/07/2019 08:57:34: Order No. 1906098 has been created.
+01/07/2019 08:57:34: Order No. 1906098 has been created.
+01/07/2019 08:57:34: Order No. 1906098 has been created.
+01/07/2019 08:57:34: Order No. 1906097 has been created.
+01/07/2019 08:57:34: Order No. 1906097 has been created.
+01/07/2019 08:57:34: Order No. 1906097 has been created.
+01/07/2019 08:57:34: Order No. 1906097 has been created.
+01/07/2019 08:57:34: Order No. 1906097 has been created.
+01/07/2019 08:57:34: Order No. 1906097 has been created.
+01/07/2019 08:57:34: Order No. 1906097 has been created.
+01/07/2019 08:57:34: Order No. 1906097 has been created.
+01/07/2019 08:57:34: Order No. 1906091 has been created.
+01/07/2019 08:57:34: Order No. 1906096 has been created.
+01/07/2019 08:57:34: Order No. 1906086 has been created.
+01/07/2019 08:57:34: Order No. 1906087 has been created.
+01/07/2019 08:57:34: Order No. 1906088 has been created.
+01/07/2019 08:57:34: Order No. 1906089 has been created.
+01/07/2019 08:57:34: Order No. 1906090 has been created.
+01/07/2019 08:57:34: Order No. 1907005 has been created.
+01/07/2019 08:57:34: Order No. 1907005 has been created.
+01/07/2019 08:57:34: Order No. 1907004 has been created.
+01/07/2019 08:57:34: Order No. 1907004 has been created.
+01/07/2019 08:57:34: Order No. 1907004 has been created.
+01/07/2019 08:57:34: Order No. 1906101 has been created.
+01/07/2019 08:57:34: Order No. 1906101 has been created.
+01/07/2019 08:57:34: Order No. 1906101 has been created.
+01/07/2019 08:57:34: Order No. 1906101 has been created.
+01/07/2019 08:57:34: Order No. 1906101 has been created.
+01/07/2019 08:57:34: Order No. 1906104 has been created.
+01/07/2019 08:57:34: Order No. 1906106 has been created.
+01/07/2019 08:57:34: Order No. 1906107 has been created.
+01/07/2019 08:57:34: Order No. 1904099 has been created.
+01/07/2019 08:57:34: Order No. 1904099 has been created.
+01/07/2019 08:57:34: Order No. 1904099 has been created.
+01/07/2019 08:57:34: Order No. 1904099 has been created.
+01/07/2019 08:57:34: Order No. 1904099 has been created.
+01/07/2019 08:57:34: Order No. 1904099 has been created.
+01/07/2019 08:57:34: Order No. 1904099 has been created.
+01/07/2019 08:57:34: Order No. 1904099 has been created.
+01/07/2019 08:57:34: Order No. 1904099 has been created.
+01/07/2019 08:57:34: Order No. 1904099 has been created.
+01/07/2019 08:57:34: Order No. 1904099 has been created.
+01/07/2019 08:57:34: Order No. 1904099 has been created.
+01/07/2019 08:57:34: Order No. 1904099 has been created.
+01/07/2019 08:57:34: Order No. 1904099 has been created.
+01/07/2019 08:57:34: Order No. 1904099 has been created.
+01/07/2019 08:57:34: Order No. 1904099 has been created.
+01/07/2019 08:57:34: Session 1907010857 completed.

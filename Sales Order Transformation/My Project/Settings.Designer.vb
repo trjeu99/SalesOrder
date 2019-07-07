@@ -15,7 +15,7 @@ Option Explicit On
 Namespace My
     
     <Global.System.Runtime.CompilerServices.CompilerGeneratedAttribute(),  _
-     Global.System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "16.0.0.0"),  _
+     Global.System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "16.1.0.0"),  _
      Global.System.ComponentModel.EditorBrowsableAttribute(Global.System.ComponentModel.EditorBrowsableState.Advanced)>  _
     Partial Public NotInheritable Class MySettings
         Inherits Global.System.Configuration.ApplicationSettingsBase
@@ -308,57 +308,6 @@ Namespace My
         
         <Global.System.Configuration.UserScopedSettingAttribute(),  _
          Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("SELECT dbo.MAINSO.DATETIME AS DATETIME, CONVERT(nchar(8), getdate(), 112) AS XA00"& _ 
-            "1, '' AS XA002, dbo.MAINSO.SORNO AS XA003, LTRIM(dbo.MAINSO.REV) AS XA004, dbo.M"& _ 
-            "AINSO.CUS AS XA005, "&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&Global.Microsoft.VisualBasic.ChrW(9)&Global.Microsoft.VisualBasic.ChrW(9)&"CONVERT(nchar(8), dbo.MAINSO.TDATE, 112) AS XA006, dbo.M"& _ 
-            "AINSO.CUS AS XA007, LEFT(dbo.CURRENCY.SYM, 3) AS XA008, dbo.MAINSO.WEIGHTUNIT AS"& _ 
-            " XA009, dbo.MAINSO.MEASUNIT AS XA010, "&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&Global.Microsoft.VisualBasic.ChrW(9)&Global.Microsoft.VisualBasic.ChrW(9)&"'' AS XA011, CASE WHEN dbo.MAINSO.REV "& _ 
-            "> 1 THEN 2 ELSE 1 END AS XA012, '' AS XA013, '' AS XA014, 'PR001' AS XA015"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"FROM"& _ 
-            " dbo.MAINSO INNER JOIN dbo.CURRENCY ON dbo.MAINSO.CUR = dbo.CURRENCY.CUR"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"WHERE "& _ 
-            "(((dbo.MAINSO.DATETIME) > '{0}') AND ((dbo.MAINSO.CUS) Like '%VN'))"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"ORDER BY db"& _ 
-            "o.MAINSO.DATETIME ASC")>  _
-        Public Property strCmdMO() As String
-            Get
-                Return CType(Me("strCmdMO"),String)
-            End Get
-            Set
-                Me("strCmdMO") = value
-            End Set
-        End Property
-        
-        <Global.System.Configuration.UserScopedSettingAttribute(),  _
-         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("SELECT '' AS XB001, '' AS XB002, dbo.SOT.SORNO AS XB003, LTRIM(dbo.SOT.REV) AS XB"& _ 
-            "004, RIGHT(10000 + dbo.SOT.ITEMNO, 4) AS XB005, "&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&Global.Microsoft.VisualBasic.ChrW(9)&Global.Microsoft.VisualBasic.ChrW(9)&"dbo.SOT.CODE AS XB006, conve"& _ 
-            "rt(numeric(16,3), dbo.SOT.QTY) AS XB007, convert(numeric(21,6), dbo.SOT.UP) AS X"& _ 
-            "B008, CONVERT(nchar(8), dbo.SOT.RETD, 112) AS XB009, '' AS XB010, "&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&Global.Microsoft.VisualBasic.ChrW(9)&Global.Microsoft.VisualBasic.ChrW(9)&"'' AS XB01"& _ 
-            "1, '' AS XB012, CASE WHEN dbo.SOT.REV > 1 THEN 2 ELSE 1 END AS XB013, 0 AS XB014"& _ 
-            ", '' AS XB015"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"FROM dbo.SOT"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"WHERE (((dbo.SOT.DATETIME) > '{0}') AND ((dbo.SOT.C"& _ 
-            "US) Like '%VN'))"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"ORDER BY dbo.SOT.DATETIME ASC")>  _
-        Public Property strCmdSO() As String
-            Get
-                Return CType(Me("strCmdSO"),String)
-            End Get
-            Set
-                Me("strCmdSO") = value
-            End Set
-        End Property
-        
-        <Global.System.Configuration.UserScopedSettingAttribute(),  _
-         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("Data Source={0},{1}; Network Library=dbmssocn; Initial Catalog={2}; User ID={3}; "& _ 
-            "Password={4}")>  _
-        Public Property strCNHK() As String
-            Get
-                Return CType(Me("strCNHK"),String)
-            End Get
-            Set
-                Me("strCNHK") = value
-            End Set
-        End Property
-        
-        <Global.System.Configuration.UserScopedSettingAttribute(),  _
-         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
          Global.System.Configuration.DefaultSettingValueAttribute("Data Source={0}; Initial Catalog={1}; User ID={2}; Password={3}")>  _
         Public Property strCNVN() As String
             Get
@@ -366,32 +315,6 @@ Namespace My
             End Get
             Set
                 Me("strCNVN") = value
-            End Set
-        End Property
-        
-        <Global.System.Configuration.UserScopedSettingAttribute(),  _
-         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("SELECT RTRIM(dbo.COPMA.MA001) AS MA001, RTRIM(dbo.COPMA.MA002) AS MA002, RTRIM(db"& _ 
-            "o.COPMA.MA003) AS MA003, RTRIM(dbo.COPMA.MA004) AS MA004"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"FROM dbo.COPMA")>  _
-        Public Property strCmdCUS() As String
-            Get
-                Return CType(Me("strCmdCUS"),String)
-            End Get
-            Set
-                Me("strCmdCUS") = value
-            End Set
-        End Property
-        
-        <Global.System.Configuration.UserScopedSettingAttribute(),  _
-         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("SELECT CONVERT(nvarchar(40), RTRIM(dbo.COPMG.MG002)) AS MG002, RTRIM(dbo.COPMG.MG"& _ 
-            "003) AS MG003"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"FROM dbo.COPMG")>  _
-        Public Property strCmdPRO() As String
-            Get
-                Return CType(Me("strCmdPRO"),String)
-            End Get
-            Set
-                Me("strCmdPRO") = value
             End Set
         End Property
         
@@ -426,57 +349,6 @@ Namespace My
         
         <Global.System.Configuration.UserScopedSettingAttribute(),  _
          Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("SELECT CONVERT(nchar(8), getdate(), 112) AS XA001, '' AS XA002, dbo.MAINSOTEMPDEL"& _ 
-            ".SORNO AS XA003, LTRIM(dbo.MAINSOTEMPDEL.REV) AS XA004, dbo.MAINSOTEMPDEL.CUS AS"& _ 
-            " XA005, "&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&Global.Microsoft.VisualBasic.ChrW(9)&Global.Microsoft.VisualBasic.ChrW(9)&"CONVERT(nchar(8), dbo.MAINSOTEMPDEL.TDATE, 112) AS XA006, dbo.MAINSO"& _ 
-            "TEMPDEL.CUS AS XA007, ntls.dbo.CURRENCY.SYM AS XA008, dbo.MAINSOTEMPDEL.WEIGHTUN"& _ 
-            "IT AS XA009, dbo.MAINSOTEMPDEL.MEASUNIT AS XA010, "&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&Global.Microsoft.VisualBasic.ChrW(9)&Global.Microsoft.VisualBasic.ChrW(9)&"'' AS XA011, 3 AS XA012, '"& _ 
-            "' AS XA013, '' AS XA014, 'PR001' AS XA015"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"FROM dbo.MAINSOTEMPDEL INNER JOIN ntl"& _ 
-            "s.dbo.CURRENCY ON dbo.MAINSOTEMPDEL.CUR = ntls.dbo.CURRENCY.CUR"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"WHERE (((dbo.MA"& _ 
-            "INSOTEMPDEL.DATETIME) > '{0}') AND ((dbo.MAINSOTEMPDEL.CUS) Like '%VN'))"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"ORDER "& _ 
-            "BY dbo.MAINSOTEMPDEL.DATETIME ASC")>  _
-        Public Property strCmdDelMO() As String
-            Get
-                Return CType(Me("strCmdDelMO"),String)
-            End Get
-            Set
-                Me("strCmdDelMO") = value
-            End Set
-        End Property
-        
-        <Global.System.Configuration.UserScopedSettingAttribute(),  _
-         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("SELECT '' AS XB001, '' AS XB002, dbo.SOTTEMPDEL.SORNO AS XB003, LTRIM(dbo.SOTTEMP"& _ 
-            "DEL.REV) AS XB004, RIGHT(10000 + dbo.SOTTEMPDEL.ITEMNO, 4) AS XB005, "&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&Global.Microsoft.VisualBasic.ChrW(9)&Global.Microsoft.VisualBasic.ChrW(9)&"dbo.SOT"& _ 
-            "TEMPDEL.CODE AS XB006, convert(numeric(16,3), dbo.SOTTEMPDEL.QTY) AS XB007, conv"& _ 
-            "ert(numeric(21,6), dbo.SOTTEMPDEL.UP) AS XB008, CONVERT(nchar(8), dbo.SOTTEMPDEL"& _ 
-            ".RETD, 112) AS XB009, '' AS XB010, "&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&Global.Microsoft.VisualBasic.ChrW(9)&Global.Microsoft.VisualBasic.ChrW(9)&"'' AS XB011, '' AS XB012, 3 AS XB013, 0 A"& _ 
-            "S XB014, '' AS XB015"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"FROM dbo.SOTTEMPDEL"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"WHERE (((dbo.SOTTEMPDEL.DATETIME) > '"& _ 
-            "{0}') AND ((dbo.SOTTEMPDEL.CUS) Like '%VN'))"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"ORDER BY dbo.SOTTEMPDEL.DATETIME A"& _ 
-            "SC")>  _
-        Public Property strCmdDelSO() As String
-            Get
-                Return CType(Me("strCmdDelSO"),String)
-            End Get
-            Set
-                Me("strCmdDelSO") = value
-            End Set
-        End Property
-        
-        <Global.System.Configuration.UserScopedSettingAttribute(),  _
-         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("ntls@2252")>  _
-        Public Property sa_pw() As String
-            Get
-                Return CType(Me("sa_pw"),String)
-            End Get
-            Set
-                Me("sa_pw") = value
-            End Set
-        End Property
-        
-        <Global.System.Configuration.UserScopedSettingAttribute(),  _
-         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
          Global.System.Configuration.DefaultSettingValueAttribute("SELECT RTRIM(dbo.MAINSODIC.XA001) AS XA001, RTRIM(dbo.MAINSODIC.XA002) AS XA002, "& _ 
             "RTRIM(dbo.MAINSODIC.XA003) AS XA003"&Global.Microsoft.VisualBasic.ChrW(13)&Global.Microsoft.VisualBasic.ChrW(10)&"FROM dbo.MAINSODIC")>  _
         Public Property strCmdDIC() As String
@@ -498,6 +370,61 @@ Namespace My
             Set
                 Me("strCmdBL") = value
             End Set
+        End Property
+        
+        <Global.System.Configuration.ApplicationScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.SpecialSettingAttribute(Global.System.Configuration.SpecialSetting.ConnectionString),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("Data Source=223.255.178.194,11433;Initial Catalog=ntls;Persist Security Info=True"& _ 
+            ";User ID=ntlsdoc;Password=ntls@2121")>  _
+        Public ReadOnly Property ntlsConnectionString() As String
+            Get
+                Return CType(Me("ntlsConnectionString"),String)
+            End Get
+        End Property
+        
+        <Global.System.Configuration.ApplicationScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.SpecialSettingAttribute(Global.System.Configuration.SpecialSetting.ConnectionString),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("Data Source=14.161.39.188;Initial Catalog=TECHLINK;Persist Security Info=True;Use"& _ 
+            "r ID=sa;Password=dsc@123")>  _
+        Public ReadOnly Property TECHLINKConnectionString() As String
+            Get
+                Return CType(Me("TECHLINKConnectionString"),String)
+            End Get
+        End Property
+        
+        <Global.System.Configuration.ApplicationScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.SpecialSettingAttribute(Global.System.Configuration.SpecialSetting.ConnectionString),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("Data Source=223.255.178.194,11433;Initial Catalog=ntls_sot;Persist Security Info="& _ 
+            "True;User ID=sa;Password=ntls@2252;Pooling=False")>  _
+        Public ReadOnly Property ntls_sotConnectionString() As String
+            Get
+                Return CType(Me("ntls_sotConnectionString"),String)
+            End Get
+        End Property
+        
+        <Global.System.Configuration.ApplicationScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.SpecialSettingAttribute(Global.System.Configuration.SpecialSetting.ConnectionString),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("Data Source=14.161.39.188;Initial Catalog=DSCSYS;Persist Security Info=True;User "& _ 
+            "ID=sa;Password=dsc@123")>  _
+        Public ReadOnly Property DSCSYSConnectionString() As String
+            Get
+                Return CType(Me("DSCSYSConnectionString"),String)
+            End Get
+        End Property
+        
+        <Global.System.Configuration.ApplicationScopedSettingAttribute(),  _
+         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
+         Global.System.Configuration.SpecialSettingAttribute(Global.System.Configuration.SpecialSetting.ConnectionString),  _
+         Global.System.Configuration.DefaultSettingValueAttribute("Data Source=14.161.39.188;Initial Catalog=SOT;Persist Security Info=True;User ID="& _ 
+            "sa;Password=dsc@123")>  _
+        Public ReadOnly Property SOTConnectionString() As String
+            Get
+                Return CType(Me("SOTConnectionString"),String)
+            End Get
         End Property
     End Class
 End Namespace

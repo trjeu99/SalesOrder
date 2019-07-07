@@ -119,7 +119,25 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="DSCSYSDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DSCSYSDataSet.xsd</DependentUpon>
+    </Compile>
     <Compile Include="GMAIL.vb" />
+    <Compile Include="ntlsDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ntlsDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ntlsDataSet.vb">
+      <DependentUpon>ntlsDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ntls_sotDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ntls_sotDataSet.xsd</DependentUpon>
+    </Compile>
     <Compile Include="Settings.vb" />
     <Compile Include="SOT.vb">
       <SubType>Form</SubType>
@@ -143,6 +161,16 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="SOTDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SOTDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="TECHLINKDataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>TECHLINKDataSet.xsd</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="SOT.resx">
@@ -159,6 +187,17 @@
     <None Include="app.manifest">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+    <None Include="DSCSYSDataSet.xsc">
+      <DependentUpon>DSCSYSDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DSCSYSDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DSCSYSDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DSCSYSDataSet.xss">
+      <DependentUpon>DSCSYSDataSet.xsd</DependentUpon>
+    </None>
     <None Include="My Project\app.manifest" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
@@ -170,7 +209,52 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <None Include="App.config" />
+    <None Include="ntlsDataSet.xsc">
+      <DependentUpon>ntlsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ntlsDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ntlsDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ntlsDataSet.xss">
+      <DependentUpon>ntlsDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ntls_sotDataSet.xsc">
+      <DependentUpon>ntls_sotDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ntls_sotDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ntls_sotDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ntls_sotDataSet.xss">
+      <DependentUpon>ntls_sotDataSet.xsd</DependentUpon>
+    </None>
     <None Include="packages.config" />
+    <None Include="Resources\micross.ttf" />
+    <None Include="SOTDataSet.xsc">
+      <DependentUpon>SOTDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SOTDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SOTDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SOTDataSet.xss">
+      <DependentUpon>SOTDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="TECHLINKDataSet.xsc">
+      <DependentUpon>TECHLINKDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="TECHLINKDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>TECHLINKDataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="TECHLINKDataSet.xss">
+      <DependentUpon>TECHLINKDataSet.xsd</DependentUpon>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <COMReference Include="Microsoft.Office.Core">
