@@ -1,0 +1,243 @@
+10/08/2019 12:59:21: Session 1908101259 has started.
+10/08/2019 12:59:21: Start point: 2019-08-08 17:17:44.660
+10/08/2019 12:59:26: Data in table MAINSODEL read sucessfully. 0 new data entries found.
+10/08/2019 12:59:26: Data in table BLCOPTD read sucessfully. 0 new data entries found.
+10/08/2019 12:59:26: Connection to 223.255.178.194 is opened.
+10/08/2019 12:59:26: Order No. 1907390     has been updated.
+10/08/2019 12:59:26: Order No. 1908049     has been updated.
+10/08/2019 12:59:26: Order No. 1908026     has been updated.
+10/08/2019 12:59:26: Order No. 1907002     has been updated.
+10/08/2019 12:59:26: Order No. 1908028     has been updated.
+10/08/2019 12:59:26: Order No. 1908007     has been updated.
+10/08/2019 12:59:26: Order No. 1907443     has been updated.
+10/08/2019 12:59:26: Order No. 1907417     has been updated.
+10/08/2019 12:59:26: Order No. 1908058     has been updated.
+10/08/2019 12:59:26: Order No. 1905128     has been updated.
+10/08/2019 12:59:26: Order No. 1908059     has been updated.
+10/08/2019 12:59:29: Order number VR-6627 has more than one ERP Order No. System cannot decide!
+10/08/2019 12:59:29: Order number VR-6627 has more than one ERP Order No. System cannot decide!
+10/08/2019 12:59:29: Order number VR-6627 has more than one ERP Order No. System cannot decide!
+10/08/2019 12:59:29: Order number VR-6627 has more than one ERP Order No. System cannot decide!
+10/08/2019 12:59:29: Order number VR-6627 has more than one ERP Order No. System cannot decide!
+10/08/2019 12:59:29: Order number VR-6627 has more than one ERP Order No. System cannot decide!
+10/08/2019 12:59:29: Order number VR-6627 has more than one ERP Order No. System cannot decide!
+10/08/2019 12:59:30: Order number VR-6627 has more than one ERP Order No. System cannot decide!
+10/08/2019 12:59:30: Order number VR-6627 has more than one ERP Order No. System cannot decide!
+10/08/2019 12:59:30: Order number VR-6627 has more than one ERP Order No. System cannot decide!
+10/08/2019 12:59:30: The changed order has the product number 602000000016 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602000000038 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602400000016 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602400000025 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602000000025 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602000000050 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602000000022 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602000000010 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602000000018 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602400000019 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602000000015 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602000000012 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602000000032 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602000000008 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602000000020 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602000000019 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602400000051 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602000000040 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602000000030 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602000000035 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602000000013 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602400000012 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602000000014 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602400000013 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602000000055 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602400000076 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602400000010 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602000000045 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602400000063 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602400000020 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602400000028 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602000000080 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602400000050 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602000000028 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602000000076 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602400000032 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602400000060 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602000000065 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602400000080 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602000000060 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602000000051 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 602000000063 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 12:59:30: The changed order has the product number 389241 not found. Cannot import Order No. 1908059    -0002.
+10/08/2019 12:59:30: The changed order has the product number 389241 not found. Cannot import Order No. 1908059    -0002.
+10/08/2019 12:59:31: Order No. 1907390     has been updated.
+10/08/2019 12:59:31: Order No. 1908049     has been updated.
+10/08/2019 12:59:31: Order No. 1908049     has been updated.
+10/08/2019 12:59:31: Order No. 1908026     has been updated.
+10/08/2019 12:59:31: Order No. 1908026     has been updated.
+10/08/2019 12:59:31: Order No. 1907002     has been updated.
+10/08/2019 12:59:31: Order No. 1907002     has been updated.
+10/08/2019 12:59:31: Order No. 1907002     has been updated.
+10/08/2019 12:59:31: Order No. 1908028     has been updated.
+10/08/2019 12:59:31: Order No. 1908028     has been updated.
+10/08/2019 12:59:31: Order No. 1908007     has been updated.
+10/08/2019 12:59:31: Order No. 1908007     has been updated.
+10/08/2019 12:59:31: Order No. 1907443     has been updated.
+10/08/2019 12:59:31: Order No. 1907417     has been updated.
+10/08/2019 12:59:31: Order No. 1908058     has been updated.
+10/08/2019 01:00:29: The Order 1806059    contains the item FREIGHT that is not transformed.
+10/08/2019 01:00:35: The Order 1904109    contains the item TOOLING that is not transformed.
+10/08/2019 01:00:41: The Order 1904109    contains the item TOOLING that is not transformed.
+10/08/2019 01:00:42: The Order 1904109    contains the item TOOLING that is not transformed.
+10/08/2019 01:00:45: The product number 382755 not found. Cannot import Order No. 1904110    -0001.
+10/08/2019 01:00:45: The product number 382755 not found. Cannot import Order No. 1904110    -0002.
+10/08/2019 01:00:45: The product number 602000000038 not found. Cannot import Order No. 1906123    -0001.
+10/08/2019 01:00:45: The product number 602000000008 not found. Cannot import Order No. 1906123    -0002.
+10/08/2019 01:00:45: The product number 602400000060 not found. Cannot import Order No. 1906123    -0003.
+10/08/2019 01:00:45: The product number 602000000030 not found. Cannot import Order No. 1906123    -0004.
+10/08/2019 01:00:45: The product number 602000000013 not found. Cannot import Order No. 1906123    -0005.
+10/08/2019 01:00:45: The product number 602000000040 not found. Cannot import Order No. 1906123    -0006.
+10/08/2019 01:00:45: The product number 602400000022 not found. Cannot import Order No. 1906123    -0007.
+10/08/2019 01:00:45: The product number 602400000025 not found. Cannot import Order No. 1906124    -0001.
+10/08/2019 01:00:45: The product number 602000000100 not found. Cannot import Order No. 1906125    -0001.
+10/08/2019 01:00:45: The product number 602000000020 not found. Cannot import Order No. 1906125    -0002.
+10/08/2019 01:00:45: The product number 602400000076 not found. Cannot import Order No. 1906125    -0003.
+10/08/2019 01:00:45: The product number 602000000102 not found. Cannot import Order No. 1906125    -0004.
+10/08/2019 01:00:45: The product number 602000000008 not found. Cannot import Order No. 1906125    -0006.
+10/08/2019 01:00:45: The product number 602000000030 not found. Cannot import Order No. 1906125    -0007.
+10/08/2019 01:00:45: The product number 602000000032 not found. Cannot import Order No. 1906125    -0008.
+10/08/2019 01:00:45: The product number 602000000018 not found. Cannot import Order No. 1906125    -0009.
+10/08/2019 01:00:45: The product number 6070V0000019 not found. Cannot import Order No. 1906125    -0010.
+10/08/2019 01:00:45: The product number 602000000060 not found. Cannot import Order No. 1906125    -0011.
+10/08/2019 01:00:45: The product number 602000000025 not found. Cannot import Order No. 1906125    -0012.
+10/08/2019 01:00:45: The product number 602400000013 not found. Cannot import Order No. 1906125    -0013.
+10/08/2019 01:00:45: The product number 602000000022 not found. Cannot import Order No. 1906126    -0001.
+10/08/2019 01:00:45: The product number 602000000038 not found. Cannot import Order No. 1906126    -0002.
+10/08/2019 01:00:45: The product number 602000000000 not found. Cannot import Order No. 1907334    -0001.
+10/08/2019 01:00:45: The product number 602000000000 not found. Cannot import Order No. 1907334    -0002.
+10/08/2019 01:00:45: The product number 6070V0000030 not found. Cannot import Order No. 1907334    -0003.
+10/08/2019 01:00:45: The product number 760301000000 not found. Cannot import Order No. 1907337    -0001.
+10/08/2019 01:00:45: The product number 760301000000 not found. Cannot import Order No. 1907337    -0002.
+10/08/2019 01:00:45: The product number 5087608 not found. Cannot import Order No. 1907350    -0001.
+10/08/2019 01:00:45: The Order 1907357    contains the item ZVARIE that is not transformed.
+10/08/2019 01:00:45: The Order 1907357    contains the item ZVARIE that is not transformed.
+10/08/2019 01:00:45: The product number 5087608 not found. Cannot import Order No. 1907360    -0001.
+10/08/2019 01:00:45: The Order 1907367    contains the item ZVARIE that is not transformed.
+10/08/2019 01:00:45: The Order 1907367    contains the item ZVARIE that is not transformed.
+10/08/2019 01:00:45: The product number 3201004444 not found. Cannot import Order No. 1907371    -0001.
+10/08/2019 01:00:45: The Order 1907372    contains the item ZVARIE that is not transformed.
+10/08/2019 01:00:45: The Order 1907372    contains the item ZVARIE that is not transformed.
+10/08/2019 01:00:45: The Order 1907373    contains the item ZVARIE that is not transformed.
+10/08/2019 01:00:45: The Order 1907373    contains the item ZVARIE that is not transformed.
+10/08/2019 01:00:45: The Order 1907373    contains the item ZVARIE that is not transformed.
+10/08/2019 01:00:45: The Order 1907379    contains the item ZVARIE that is not transformed.
+10/08/2019 01:00:45: The Order 1907379    contains the item ZVARIE that is not transformed.
+10/08/2019 01:00:45: The product number 620501090078 not found. Cannot import Order No. 1907390    -0001.
+10/08/2019 01:00:45: The Order 1907400    contains the item TOOLING that is not transformed.
+10/08/2019 01:00:45: The Order 1907400    contains the item TOOLING that is not transformed.
+10/08/2019 01:00:45: The Order 1907400    contains the item TOOLING that is not transformed.
+10/08/2019 01:00:45: The Order 1907400    contains the item TOOLING that is not transformed.
+10/08/2019 01:00:45: The Order 1907400    contains the item TOOLING that is not transformed.
+10/08/2019 01:00:45: The Order 1907400    contains the item TOOLING that is not transformed.
+10/08/2019 01:00:45: The Order 1907400    contains the item TOOLING that is not transformed.
+10/08/2019 01:00:45: The Order 1907401    contains the item TOOLING that is not transformed.
+10/08/2019 01:00:45: The Order 1907401    contains the item TOOLING that is not transformed.
+10/08/2019 01:00:45: The Order 1907401    contains the item TOOLING that is not transformed.
+10/08/2019 01:00:45: The Order 1907401    contains the item TOOLING that is not transformed.
+10/08/2019 01:00:45: The Order 1907401    contains the item TOOLING that is not transformed.
+10/08/2019 01:00:46: The Order 1907401    contains the item TOOLING that is not transformed.
+10/08/2019 01:00:46: The Order 1907401    contains the item TOOLING that is not transformed.
+10/08/2019 01:00:46: The Order 1907402    contains the item BRACKET RING TOOL that is not transformed.
+10/08/2019 01:00:46: The Order 1907403    contains the item BRACKET RING TOOL that is not transformed.
+10/08/2019 01:00:46: The Order 1907404    contains the item BRACKET RING TOOL that is not transformed.
+10/08/2019 01:00:46: The Order 1907405    contains the item JOINT LEVRE TOOL that is not transformed.
+10/08/2019 01:00:46: The product number 1569 not found. Cannot import Order No. 1907406    -0001.
+10/08/2019 01:00:46: The Order 1907408    contains the item TOOLING that is not transformed.
+10/08/2019 01:00:46: The Order 1907409    contains the item TRIVET TOOL that is not transformed.
+10/08/2019 01:00:46: The product number 69025.LFGB not found. Cannot import Order No. 1907410    -0001.
+10/08/2019 01:00:46: The product number 3100514561 not found. Cannot import Order No. 1907426    -0001.
+10/08/2019 01:00:46: The product number 13004-0030WSM not found. Cannot import Order No. 1907433    -0001.
+10/08/2019 01:00:46: The product number 13004-0030WSR not found. Cannot import Order No. 1907433    -0002.
+10/08/2019 01:00:46: The product number 13005-0030WSM not found. Cannot import Order No. 1907433    -0003.
+10/08/2019 01:00:46: The product number 13005-0030WSR not found. Cannot import Order No. 1907433    -0004.
+10/08/2019 01:00:46: The product number 13007-0030WSM not found. Cannot import Order No. 1907434    -0001.
+10/08/2019 01:00:46: The product number 13007-0030WSR not found. Cannot import Order No. 1907434    -0002.
+10/08/2019 01:00:46: The product number 620501090078 not found. Cannot import Order No. 1907438    -0001.
+10/08/2019 01:00:46: The product number 602400000013 not found. Cannot import Order No. 1907446    -0001.
+10/08/2019 01:00:46: The product number 602000000055 not found. Cannot import Order No. 1907448    -0001.
+10/08/2019 01:00:46: The product number 760321000009 not found. Cannot import Order No. 1908006    -0001.
+10/08/2019 01:00:46: The product number 760311111666 not found. Cannot import Order No. 1908006    -0002.
+10/08/2019 01:00:46: The product number E10 not found. Cannot import Order No. 1908024    -0001.
+10/08/2019 01:00:46: The product number 990000000104 not found. Cannot import Order No. 1908040    -0001.
+10/08/2019 01:00:46: The product number 620501090078 not found. Cannot import Order No. 1908041    -0001.
+10/08/2019 01:00:46: The product number FR028 not found. Cannot import Order No. 1908043    -0001.
+10/08/2019 01:00:46: The Order 1908047    contains the item ZVARIE that is not transformed.
+10/08/2019 01:00:46: The Order 1908047    contains the item ZVARIE that is not transformed.
+10/08/2019 01:00:46: The Order 1908047    contains the item ZVARIE that is not transformed.
+10/08/2019 01:00:46: The product number PX069 not found. Cannot import Order No. 1908047    -0008.
+10/08/2019 01:00:46: The Order 1908047    contains the item ZVARIE that is not transformed.
+10/08/2019 01:00:46: The product number 602000000016 not found. Cannot import Order No. 1908049    -0001.
+10/08/2019 01:00:46: The product number 602000000038 not found. Cannot import Order No. 1908049    -0002.
+10/08/2019 01:00:46: The product number 602400000016 not found. Cannot import Order No. 1908049    -0003.
+10/08/2019 01:00:46: The product number 602400000025 not found. Cannot import Order No. 1908049    -0004.
+10/08/2019 01:00:46: The product number 602000000025 not found. Cannot import Order No. 1908049    -0005.
+10/08/2019 01:00:46: The product number 602000000050 not found. Cannot import Order No. 1908049    -0006.
+10/08/2019 01:00:46: The product number 602000000022 not found. Cannot import Order No. 1908049    -0007.
+10/08/2019 01:00:46: The product number 602000000010 not found. Cannot import Order No. 1908049    -0008.
+10/08/2019 01:00:46: The product number 602000000018 not found. Cannot import Order No. 1908049    -0009.
+10/08/2019 01:00:46: The product number 602400000019 not found. Cannot import Order No. 1908049    -0010.
+10/08/2019 01:00:46: The product number 602000000015 not found. Cannot import Order No. 1908049    -0011.
+10/08/2019 01:00:46: The product number 602000000012 not found. Cannot import Order No. 1908049    -0012.
+10/08/2019 01:00:46: The product number 602000000032 not found. Cannot import Order No. 1908049    -0013.
+10/08/2019 01:00:46: The product number 602000000008 not found. Cannot import Order No. 1908049    -0014.
+10/08/2019 01:00:46: The product number 602000000020 not found. Cannot import Order No. 1908049    -0015.
+10/08/2019 01:00:46: The product number 602000000019 not found. Cannot import Order No. 1908049    -0016.
+10/08/2019 01:00:46: The product number 602400000051 not found. Cannot import Order No. 1908049    -0017.
+10/08/2019 01:00:46: The product number 602000000040 not found. Cannot import Order No. 1908049    -0018.
+10/08/2019 01:00:46: The product number 602000000030 not found. Cannot import Order No. 1908049    -0019.
+10/08/2019 01:00:46: The product number 602000000035 not found. Cannot import Order No. 1908049    -0020.
+10/08/2019 01:00:46: The product number 602000000013 not found. Cannot import Order No. 1908049    -0021.
+10/08/2019 01:00:46: The product number 602400000012 not found. Cannot import Order No. 1908049    -0023.
+10/08/2019 01:00:46: The product number 602000000014 not found. Cannot import Order No. 1908049    -0024.
+10/08/2019 01:00:46: The product number 602400000013 not found. Cannot import Order No. 1908049    -0025.
+10/08/2019 01:00:46: The product number 602000000055 not found. Cannot import Order No. 1908049    -0026.
+10/08/2019 01:00:46: The product number 602400000076 not found. Cannot import Order No. 1908049    -0027.
+10/08/2019 01:00:46: The product number 602400000010 not found. Cannot import Order No. 1908049    -0028.
+10/08/2019 01:00:46: The product number 602000000045 not found. Cannot import Order No. 1908049    -0030.
+10/08/2019 01:00:46: The product number 602400000063 not found. Cannot import Order No. 1908049    -0031.
+10/08/2019 01:00:46: The product number 602400000020 not found. Cannot import Order No. 1908049    -0032.
+10/08/2019 01:00:46: The product number 602400000028 not found. Cannot import Order No. 1908049    -0033.
+10/08/2019 01:00:46: The product number 602000000080 not found. Cannot import Order No. 1908049    -0034.
+10/08/2019 01:00:46: The product number 602400000050 not found. Cannot import Order No. 1908049    -0035.
+10/08/2019 01:00:46: The product number 602000000028 not found. Cannot import Order No. 1908049    -0036.
+10/08/2019 01:00:46: The product number 602000000076 not found. Cannot import Order No. 1908049    -0037.
+10/08/2019 01:00:47: The product number 602400000032 not found. Cannot import Order No. 1908049    -0038.
+10/08/2019 01:00:47: The product number 602400000060 not found. Cannot import Order No. 1908049    -0039.
+10/08/2019 01:00:47: The product number 602000000065 not found. Cannot import Order No. 1908049    -0040.
+10/08/2019 01:00:47: The product number 602400000080 not found. Cannot import Order No. 1908049    -0041.
+10/08/2019 01:00:47: The product number 602000000060 not found. Cannot import Order No. 1908049    -0042.
+10/08/2019 01:00:47: The product number 602000000051 not found. Cannot import Order No. 1908049    -0043.
+10/08/2019 01:00:47: The product number 602000000063 not found. Cannot import Order No. 1908049    -0044.
+10/08/2019 01:00:47: The product number TY-22JQ02W not found. Cannot import Order No. 1908050    -0001.
+10/08/2019 01:00:47: The product number TY-22JQ02W not found. Cannot import Order No. 1908050    -0002.
+10/08/2019 01:00:47: The product number TY-22JQ02W not found. Cannot import Order No. 1908050    -0003.
+10/08/2019 01:00:47: The product number SPV64TH CIRCLES not found. Cannot import Order No. 1908054    -0001.
+10/08/2019 01:00:47: The product number 602000000025 not found. Cannot import Order No. 1908055    -0001.
+10/08/2019 01:00:47: The product number 602000000075 not found. Cannot import Order No. 1908055    -0002.
+10/08/2019 01:00:47: The product number 602000000018 not found. Cannot import Order No. 1908055    -0003.
+10/08/2019 01:00:50: The product number SPV64TH CIRCLES not found. Cannot import Order No. 1908063-0001.
+10/08/2019 01:00:50: The product number 602000000025 not found. Cannot import Order No. 1908064-0001.
+10/08/2019 01:00:50: The product number 602000000075 not found. Cannot import Order No. 1908064-0002.
+10/08/2019 01:00:50: The product number 602000000018 not found. Cannot import Order No. 1908064-0003.
+10/08/2019 01:00:50: Order No. W421-190800009 has been created.
+10/08/2019 01:00:50: Order No. 5500177890 has been created.
+10/08/2019 01:00:50: Order No. 5500177894 has been created.
+10/08/2019 01:00:50: Order No. ORF/3886 has been created.
+10/08/2019 01:00:50: Order No. RTLS190640 has been created.
+10/08/2019 01:00:50: Order No. 630005028/20 has been created.
+10/08/2019 01:00:50: Order No. 218111 has been created.
+10/08/2019 01:00:50: Order No. 1908060 has been created.
+10/08/2019 01:00:50: Order No. 1908061 has been created.
+10/08/2019 01:00:50: Order No. 1908062 has been created.
+10/08/2019 01:00:50: Order No. 1908065 has been created.
+10/08/2019 01:00:50: Order No. 1908066 has been created.
+10/08/2019 01:00:50: End point: 2019-08-09 17:50:28.270
+10/08/2019 01:00:50: Session 1908101259 completed.

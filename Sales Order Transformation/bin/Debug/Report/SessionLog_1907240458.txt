@@ -1,0 +1,413 @@
+24/07/2019 04:58:03: Session 1907240458 has started.
+24/07/2019 04:58:03: Start point: 2019-07-12 12:00:00.000
+24/07/2019 04:58:05: Data in table MAINSODEL read sucessfully. 0 new data entries found.
+24/07/2019 04:58:05: Data in table BLCOPTD read sucessfully. 0 new data entries found.
+24/07/2019 04:58:05: Connection to 223.255.178.194 is opened.
+24/07/2019 04:58:07: The Sale Order number 197140086 not found.
+24/07/2019 04:58:07: The Sale Order number 198759290 not found.
+24/07/2019 04:58:07: The Sale Order number 4500301959 not found.
+24/07/2019 04:58:07: Order No. 1906052     has been updated.
+24/07/2019 04:58:07: Order No. 1906051     has been updated.
+24/07/2019 04:58:07: Order No. 1907033     has been updated.
+24/07/2019 04:58:07: Order No. 1906085     has been updated.
+24/07/2019 04:58:07: Order No. 1907070     has been updated.
+24/07/2019 04:58:07: Order No. 1907034     has been updated.
+24/07/2019 04:58:07: Order No. 1907088     has been updated.
+24/07/2019 04:58:07: Order No. 1907035     has been updated.
+24/07/2019 04:58:07: Order No. 1905093     has been updated.
+24/07/2019 04:58:07: Order No. 1907036     has been updated.
+24/07/2019 04:58:07: Order No. 1907111     has been updated.
+24/07/2019 04:58:07: Order No. 1905138     has been updated.
+24/07/2019 04:58:07: Order No. 1903001     has been updated.
+24/07/2019 04:58:07: Order No. 1907365     has been updated.
+24/07/2019 04:58:07: Order No. 1907366     has been updated.
+24/07/2019 04:58:07: Order No. 1811178     has been updated.
+24/07/2019 04:58:07: Order No. 1906118     has been updated.
+24/07/2019 04:58:07: Order No. 1904102     has been updated.
+24/07/2019 04:58:07: Order No. 1904103     has been updated.
+24/07/2019 04:58:07: Order No. 1907099     has been updated.
+24/07/2019 04:58:07: Order No. 1901005     has been updated.
+24/07/2019 04:58:07: Order No. 1907049     has been updated.
+24/07/2019 04:58:07: Order No. 1904104     has been updated.
+24/07/2019 04:58:07: Order No. 1907084     has been updated.
+24/07/2019 04:58:07: Order No. 1905092     has been updated.
+24/07/2019 04:58:07: Order No. 1905122     has been updated.
+24/07/2019 04:58:07: Order No. 1902062     has been updated.
+24/07/2019 04:58:07: Order No. 1905148     has been updated.
+24/07/2019 04:58:07: Order No. 1906059     has been updated.
+24/07/2019 04:58:07: Order No. 1907367     has been updated.
+24/07/2019 04:58:07: Order No. 1907173     has been updated.
+24/07/2019 04:58:07: Order No. 1907326     has been updated.
+24/07/2019 04:58:07: Order No. 1907368     has been updated.
+24/07/2019 04:58:07: Order No. 1907369     has been updated.
+24/07/2019 04:58:07: Order No. 1907069     has been updated.
+24/07/2019 04:58:07: Order No. 1905121     has been updated.
+24/07/2019 04:58:07: Order No. 1807147     has been updated.
+24/07/2019 04:58:07: Order No. 1907370     has been updated.
+24/07/2019 04:58:07: Order No. 1810057     has been updated.
+24/07/2019 04:58:07: Order No. 1906049     has been updated.
+24/07/2019 04:58:07: Order No. 1906117     has been updated.
+24/07/2019 04:58:07: Order No. 1906061     has been updated.
+24/07/2019 04:58:07: Order No. 1907014     has been updated.
+24/07/2019 04:58:08: Failed to update Order No. 1907371    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (    , 1907371    , 0003).
+The statement has been terminated.
+24/07/2019 04:58:08: Failed to update Order No. 1907372    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1907372    , 0003).
+The statement has been terminated.
+24/07/2019 04:58:08: Failed to update Order No. 1907373    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1907373    , 0002).
+The statement has been terminated.
+24/07/2019 04:58:08: Failed to update Order No. 1907374    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1907374    , 0001).
+The statement has been terminated.
+24/07/2019 04:58:08: Failed to update Order No. 1907335    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (Y221, 1907335    , 0001).
+The statement has been terminated.
+24/07/2019 04:58:10: Order number ORF/2989 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:10: Order number ORF/2989 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:10: Order number ORF/2989 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:10: Order number ORF/2989 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:10: Order number 19F-ING28-XF-B has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:10: Order number ORF/3256 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:10: Order number ORF/3256 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:10: Order number ORF/3256 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:10: Order number ORF/3256 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:10: Order number ORF/3256 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:10: Order number ORF/3256 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:10: Order number ORF/3256 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:10: Order number ORF/3391 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:10: Order number ORF/3316 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:10: Order number ORF/3316 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:10: Order number ORF/3316 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:10: Order number ORF/3316 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:10: Order number ORF/3316 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:11: Order number ORF/3316 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:11: Order number ORF/3250 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:11: Order number ORF/3250 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:11: Order number ORF/3250 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:11: Order number ORF/3250 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:11: Order number ORF/3431 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:11: Order number GC15063 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:11: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:12: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:12: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:12: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:12: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:12: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:13: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:13: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:13: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:13: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:13: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:14: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:14: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:14: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:14: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:14: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:15: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:15: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:15: Order number ORF/419 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:15: Order number ORF/419 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:15: Order number ORF/419 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:15: Order number ORF/419 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:15: Order number ORF/419 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:15: Order number ORF/419 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:15: Order number ORF/419 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:16: Order number 9323742331 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:16: Order number 9323742331 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:16: Order number 9323742331 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:16: Order number 9323742331 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:16: Order number 9323742331 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:16: Order number 9323742331 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:16: Order number 9323742331 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:16: Order number 9323742331 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:16: Order number 9323742331 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:16: Order number 9323742331 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:16: Order number 5500166068 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:16: Order number 5500166068 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:16: Order number 5500166068 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:16: Order number 5500166068 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:17: Order number 5500166068 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:17: Order number 5500166068 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:17: Order number 5500166068 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:17: Order number 5500166068 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:17: Order number 5500166068 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:17: Order number 5500166068 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:17: Order number 5500166068 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:17: Order number 5500166068 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:17: Order number 5500166068 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:17: Order number 5500166068 has more than one ERP Order No. System cannot decide!
+24/07/2019 04:58:17: The Sale Order number 197140086 not found.
+24/07/2019 04:58:17: The Sale Order number 198759290 not found.
+24/07/2019 04:58:18: The Sale Order number 4500301959 not found.
+24/07/2019 04:58:18: The changed order has the product number 1176406S02 not found. Cannot import Order No. 1811178    -0004.
+24/07/2019 04:58:18: The changed order has the product number CHOCO02 not found. Cannot import Order No. 1906118    -0001.
+24/07/2019 04:58:18: The changed order has the product number SNOWFLAKE CAKE FORM SILICONE not found. Cannot import Order No. 1904103    -0001.
+24/07/2019 04:58:18: The changed order has the product number ZVARIE not found. Cannot import Order No. 1907367    -0001.
+24/07/2019 04:58:18: The changed order has the product number TL-VEN-19012 not found. Cannot import Order No. 1907326    -0001.
+24/07/2019 04:58:18: The changed order has the product number TL-VEN-19008 not found. Cannot import Order No. 1907326    -0001.
+24/07/2019 04:58:18: The changed order has the product number 3201004444 not found. Cannot import Order No. 1907371    -0003.
+24/07/2019 04:58:18: The changed order has the product number ZVARIE not found. Cannot import Order No. 1907372    -0003.
+24/07/2019 04:58:18: The changed order has the product number ZVARIE not found. Cannot import Order No. 1907372    -0003.
+24/07/2019 04:58:18: The changed order has the product number ZVARIE not found. Cannot import Order No. 1907373    -0002.
+24/07/2019 04:58:18: The changed order has the product number ZVARIE not found. Cannot import Order No. 1907373    -0002.
+24/07/2019 04:58:18: The changed order has the product number ZVARIE not found. Cannot import Order No. 1907373    -0002.
+24/07/2019 04:58:18: The changed order has the product number EG-60-20K not found. Cannot import Order No. 1907335    -0001.
+24/07/2019 04:58:18: Order No. 1906052     has been updated.
+24/07/2019 04:58:18: Order No. 1906052     has been updated.
+24/07/2019 04:58:18: Order No. 1906052     has been updated.
+24/07/2019 04:58:18: Order No. 1906052     has been updated.
+24/07/2019 04:58:18: Order No. 1906052     has been updated.
+24/07/2019 04:58:18: Order No. 1906052     has been updated.
+24/07/2019 04:58:18: Order No. 1906052     has been updated.
+24/07/2019 04:58:18: Order No. 1906052     has been updated.
+24/07/2019 04:58:18: Order No. 1906052     has been updated.
+24/07/2019 04:58:18: Order No. 1906052     has been updated.
+24/07/2019 04:58:18: Order No. 1906052     has been updated.
+24/07/2019 04:58:18: Order No. 1906052     has been updated.
+24/07/2019 04:58:18: Order No. 1906052     has been updated.
+24/07/2019 04:58:18: Order No. 1906052     has been updated.
+24/07/2019 04:58:18: Order No. 1906052     has been updated.
+24/07/2019 04:58:18: Order No. 1906052     has been updated.
+24/07/2019 04:58:18: Order No. 1906051     has been updated.
+24/07/2019 04:58:18: Order No. 1906051     has been updated.
+24/07/2019 04:58:18: Order No. 1906051     has been updated.
+24/07/2019 04:58:18: Order No. 1906051     has been updated.
+24/07/2019 04:58:19: Order No. 1906051     has been updated.
+24/07/2019 04:58:19: Order No. 1906051     has been updated.
+24/07/2019 04:58:19: Order No. 1906051     has been updated.
+24/07/2019 04:58:19: Order No. 1906051     has been updated.
+24/07/2019 04:58:19: Order No. 1907033     has been updated.
+24/07/2019 04:58:19: Order No. 1907033     has been updated.
+24/07/2019 04:58:19: Order No. 1907033     has been updated.
+24/07/2019 04:58:19: Order No. 1905093     has been updated.
+24/07/2019 04:58:19: Order No. 1905138     has been updated.
+24/07/2019 04:58:19: Order No. 1905138     has been updated.
+24/07/2019 04:58:19: Order No. 1905138     has been updated.
+24/07/2019 04:58:19: Order No. 1903001     has been updated.
+24/07/2019 04:58:19: Order No. 1903001     has been updated.
+24/07/2019 04:58:19: Order No. 1903001     has been updated.
+24/07/2019 04:58:19: Order No. 1903001     has been updated.
+24/07/2019 04:58:19: Order No. 1903001     has been updated.
+24/07/2019 04:58:19: Order No. 1907365     has been updated.
+24/07/2019 04:58:19: Order No. 1907366     has been updated.
+24/07/2019 04:58:19: Order No. 1904102     has been updated.
+24/07/2019 04:58:19: Order No. 1907049     has been updated.
+24/07/2019 04:58:19: Order No. 1907049     has been updated.
+24/07/2019 04:58:19: Order No. 1907049     has been updated.
+24/07/2019 04:58:19: Order No. 1907049     has been updated.
+24/07/2019 04:58:19: Order No. 1904104     has been updated.
+24/07/2019 04:58:19: Order No. 1907084     has been updated.
+24/07/2019 04:58:19: Order No. 1907084     has been updated.
+24/07/2019 04:58:19: Order No. 1907084     has been updated.
+24/07/2019 04:58:19: Order No. 1907084     has been updated.
+24/07/2019 04:58:19: Order No. 1907084     has been updated.
+24/07/2019 04:58:19: Order No. 1905092     has been updated.
+24/07/2019 04:58:19: Order No. 1905092     has been updated.
+24/07/2019 04:58:19: Order No. 1905092     has been updated.
+24/07/2019 04:58:19: Order No. 1905092     has been updated.
+24/07/2019 04:58:19: Order No. 1905092     has been updated.
+24/07/2019 04:58:19: Order No. 1905122     has been updated.
+24/07/2019 04:58:19: Order No. 1905122     has been updated.
+24/07/2019 04:58:19: Order No. 1905148     has been updated.
+24/07/2019 04:58:19: Order No. 1906059     has been updated.
+24/07/2019 04:58:19: Order No. 1907367     has been updated.
+24/07/2019 04:58:19: Order No. 1907173     has been updated.
+24/07/2019 04:58:19: Order No. 1907173     has been updated.
+24/07/2019 04:58:19: Order No. 1907173     has been updated.
+24/07/2019 04:58:19: Order No. 1907368     has been updated.
+24/07/2019 04:58:19: Order No. 1907369     has been updated.
+24/07/2019 04:58:19: Order No. 1905121     has been updated.
+24/07/2019 04:58:19: Order No. 1905121     has been updated.
+24/07/2019 04:58:19: Order No. 1905121     has been updated.
+24/07/2019 04:58:19: Order No. 1905121     has been updated.
+24/07/2019 04:58:19: Order No. 1905121     has been updated.
+24/07/2019 04:58:19: Order No. 1905121     has been updated.
+24/07/2019 04:58:19: Order No. 1807147     has been updated.
+24/07/2019 04:58:19: Order No. 1807147     has been updated.
+24/07/2019 04:58:19: Order No. 1807147     has been updated.
+24/07/2019 04:58:19: Order No. 1807147     has been updated.
+24/07/2019 04:58:19: Order No. 1807147     has been updated.
+24/07/2019 04:58:19: Order No. 1907370     has been updated.
+24/07/2019 04:58:19: Order No. 1907370     has been updated.
+24/07/2019 04:58:19: Order No. 1906049     has been updated.
+24/07/2019 04:58:19: Order No. 1906117     has been updated.
+24/07/2019 04:58:19: Order No. 1906061     has been updated.
+24/07/2019 04:58:19: Order No. 1907014     has been updated.
+24/07/2019 04:58:19: Order No. 1907014     has been updated.
+24/07/2019 04:58:19: Failed to update Order No. 1907372    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1907372    , 0003, 0001).
+The statement has been terminated.
+24/07/2019 04:58:19: Failed to update Order No. 1907372    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1907372    , 0003, 0002).
+The statement has been terminated.
+24/07/2019 04:58:19: Failed to update Order No. 1907372    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1907372    , 0003, 0003).
+The statement has been terminated.
+24/07/2019 04:58:19: Failed to update Order No. 1907372    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1907372    , 0003, 0005).
+The statement has been terminated.
+24/07/2019 04:58:19: Failed to update Order No. 1907373    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1907373    , 0002, 0001).
+The statement has been terminated.
+24/07/2019 04:58:19: Failed to update Order No. 1907373    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1907373    , 0002, 0003).
+The statement has been terminated.
+24/07/2019 04:58:19: Failed to update Order No. 1907373    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1907373    , 0002, 0005).
+The statement has been terminated.
+24/07/2019 04:58:19: Failed to update Order No. 1907374    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1907374    , 0001, 0001).
+The statement has been terminated.
+24/07/2019 04:58:19: Failed to update Order No. 1907374    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1907374    , 0001, 0002).
+The statement has been terminated.
+24/07/2019 04:58:19: Failed to update Order No. 1907335    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (Y221, 1907335    , 0001, 0001).
+The statement has been terminated.
+24/07/2019 04:58:19: Failed to update Order No. 1907335    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (Y221, 1907335    , 0001, 0002).
+The statement has been terminated.
+24/07/2019 04:58:19: Failed to update Order No. 1907335    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (Y221, 1907335    , 0001, 0003).
+The statement has been terminated.
+24/07/2019 04:58:20: Failed to update Order No. 1907335    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (Y221, 1907335    , 0001, 0004).
+The statement has been terminated.
+24/07/2019 04:58:20: Failed to update Order No. 1907335    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (Y221, 1907335    , 0001, 0005).
+The statement has been terminated.
+24/07/2019 04:58:20: Failed to update Order No. 1907335    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (Y221, 1907335    , 0001, 0007).
+The statement has been terminated.
+24/07/2019 04:59:11: The product number ZVARIE not found. Cannot import Order No. 1907392    -0002.
+24/07/2019 04:59:11: The product number ZVARIE not found. Cannot import Order No. 1907392    -0004.
+24/07/2019 04:59:11: The product number EG-60-20K not found. Cannot import Order No. 1907400    -0001.
+24/07/2019 04:59:11: The product number 40-01356VN not found. Cannot import Order No. 1907402    -0001.
+24/07/2019 04:59:11: The product number 620501090078 not found. Cannot import Order No. 1907403    -0001.
+24/07/2019 04:59:11: The product number 602000000048 not found. Cannot import Order No. 1907403    -0003.
+24/07/2019 04:59:11: The product number 32283227 not found. Cannot import Order No. 1907410    -0001.
+24/07/2019 05:02:01: The product number 602000000022 not found. Cannot import Order No. 1907396-0001.
+24/07/2019 05:02:01: The product number 602000000016 not found. Cannot import Order No. 1907396-0002.
+24/07/2019 05:02:01: The product number 6070V0000030 not found. Cannot import Order No. 1907396-0003.
+24/07/2019 05:02:01: The product number 6070V0000018 not found. Cannot import Order No. 1907396-0004.
+24/07/2019 05:02:01: The product number 6070V0000018 not found. Cannot import Order No. 1907396-0005.
+24/07/2019 05:02:01: The product number 760301161488 not found. Cannot import Order No. 1907398-0001.
+24/07/2019 05:02:01: The product number 760301161488 not found. Cannot import Order No. 1907398-0002.
+24/07/2019 05:02:01: The product number FR052 not found. Cannot import Order No. 1907402-0002.
+24/07/2019 05:02:01: The product number 5087608 not found. Cannot import Order No. 1907411-0001.
+24/07/2019 05:02:01: The product number ZVARIE not found. Cannot import Order No. 1907418-0002.
+24/07/2019 05:02:01: The product number ZVARIE not found. Cannot import Order No. 1907418-0004.
+24/07/2019 05:02:01: The product number EG-60-20K not found. Cannot import Order No. 1907426-0001.
+24/07/2019 05:02:01: The product number 40-01356VN not found. Cannot import Order No. 1907428-0001.
+24/07/2019 05:02:01: The product number 620501090078 not found. Cannot import Order No. 1907429-0001.
+24/07/2019 05:02:02: The product number 602000000048 not found. Cannot import Order No. 1907429-0003.
+24/07/2019 05:02:02: The product number 32283227 not found. Cannot import Order No. 1907436-0001.
+24/07/2019 05:02:02: Order No. WTX201909-VN has been created.
+24/07/2019 05:02:02: Order No. THT-TECH/09072019 has been created.
+24/07/2019 05:02:02: Failed to create Order No. 9323751170/10. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (A221, 1907391    ).
+The statement has been terminated.
+24/07/2019 05:02:02: Failed to create Order No. 9323751351. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (A221, 1907392    ).
+The statement has been terminated.
+24/07/2019 05:02:02: Order No. 9323752100/10 has been created.
+24/07/2019 05:02:02: Order No. 17212-ID99 has been created.
+24/07/2019 05:02:02: Order No. 9323751446/30 has been created.
+24/07/2019 05:02:02: Order No. VR-8504 has been created.
+24/07/2019 05:02:02: Order No. 15072019 has been created.
+24/07/2019 05:02:02: Failed to create Order No. VR-8698. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907398    ).
+The statement has been terminated.
+24/07/2019 05:02:02: Order No. 17223 has been created.
+24/07/2019 05:02:02: Order No. 165793 has been created.
+24/07/2019 05:02:02: Failed to create Order No. 17222-ID38. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (A221, 1907401    ).
+The statement has been terminated.
+24/07/2019 05:02:02: Order No. ORF/3509 has been created.
+24/07/2019 05:02:02: Order No. 4512203137 has been created.
+24/07/2019 05:02:02: Order No. 4512203138 has been created.
+24/07/2019 05:02:02: Order No. 9323755984/10 has been created.
+24/07/2019 05:02:02: Failed to create Order No. 9323755988/10. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (A221, 1907406    ).
+The statement has been terminated.
+24/07/2019 05:02:02: Failed to create Order No. 9323755989/10. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (A221, 1907407    ).
+The statement has been terminated.
+24/07/2019 05:02:02: Order No. 9323755991/10 has been created.
+24/07/2019 05:02:02: Order No. 9323756959 has been created.
+24/07/2019 05:02:02: Order No. 630004947/10 has been created.
+24/07/2019 05:02:02: Order No. 17241-ID85 has been created.
+24/07/2019 05:02:02: Order No. 4503530796 has been created.
+24/07/2019 05:02:02: Order No. 4503530795 has been created.
+24/07/2019 05:02:02: Order No. 9323758558/30 has been created.
+24/07/2019 05:02:02: Order No. 217939 has been created.
+24/07/2019 05:02:02: Order No. 217937 has been created.
+24/07/2019 05:02:02: Order No. 217935 has been created.
+24/07/2019 05:02:02: Order No. ORF/3626 has been created.
+24/07/2019 05:02:02: Order No. 19873 has been created.
+24/07/2019 05:02:02: Order No. 19874 has been created.
+24/07/2019 05:02:02: Order No. 19875 has been created.
+24/07/2019 05:02:02: Order No. 19876 has been created.
+24/07/2019 05:02:02: Order No. 19877 has been created.
+24/07/2019 05:02:02: Order No. 19878 has been created.
+24/07/2019 05:02:02: Order No. 19879 has been created.
+24/07/2019 05:02:02: Order No. W21-190705001 has been created.
+24/07/2019 05:02:02: Order No. 178920 has been created.
+24/07/2019 05:02:02: Order No. 165852 has been created.
+24/07/2019 05:02:02: Order No. VR-9001 has been created.
+24/07/2019 05:02:02: Order No. 199217153 has been created.
+24/07/2019 05:02:02: Order No. 199545409 has been created.
+24/07/2019 05:02:02: Order No. 9323761851/10 has been created.
+24/07/2019 05:02:02: Order No. P003219 has been created.
+24/07/2019 05:02:02: Order No. 197140086 has been created.
+24/07/2019 05:02:02: Order No. 198759290 has been created.
+24/07/2019 05:02:02: Order No. 4500301959 has been created.
+24/07/2019 05:02:02: Order No. 1907389 has been created.
+24/07/2019 05:02:02: Order No. 1907389 has been created.
+24/07/2019 05:02:02: Order No. 1907389 has been created.
+24/07/2019 05:02:02: Order No. 1907389 has been created.
+24/07/2019 05:02:02: Order No. 1907390 has been created.
+24/07/2019 05:02:02: Order No. 1907390 has been created.
+24/07/2019 05:02:03: Failed to create Order No. 1907391. Error: Violation of PRIMARY KEY constraint 'PK_COPTD'. Cannot insert duplicate key in object 'dbo.COPTD'. The duplicate key value is (A221, 1907391    , 0001).
+The statement has been terminated.
+24/07/2019 05:02:03: Failed to create Order No. 1907392. Error: Violation of PRIMARY KEY constraint 'PK_COPTD'. Cannot insert duplicate key in object 'dbo.COPTD'. The duplicate key value is (A221, 1907392    , 0001).
+The statement has been terminated.
+24/07/2019 05:02:03: Order No. 1907392 has been created.
+24/07/2019 05:02:03: Order No. 1907394 has been created.
+24/07/2019 05:02:03: Order No. 1907395 has been created.
+24/07/2019 05:02:03: Order No. 1907397 has been created.
+24/07/2019 05:02:03: Order No. 1907399 has been created.
+24/07/2019 05:02:03: Order No. 1907400 has been created.
+24/07/2019 05:02:03: Failed to create Order No. 1907401. Error: Violation of PRIMARY KEY constraint 'PK_COPTD'. Cannot insert duplicate key in object 'dbo.COPTD'. The duplicate key value is (A221, 1907401    , 0001).
+The statement has been terminated.
+24/07/2019 05:02:03: Order No. 1907402 has been created.
+24/07/2019 05:02:03: Order No. 1907403 has been created.
+24/07/2019 05:02:03: Order No. 1907403 has been created.
+24/07/2019 05:02:03: Order No. 1907404 has been created.
+24/07/2019 05:02:03: Order No. 1907405 has been created.
+24/07/2019 05:02:03: Failed to create Order No. 1907406. Error: Violation of PRIMARY KEY constraint 'PK_COPTD'. Cannot insert duplicate key in object 'dbo.COPTD'. The duplicate key value is (A221, 1907406    , 0001).
+The statement has been terminated.
+24/07/2019 05:02:03: Failed to create Order No. 1907407. Error: Violation of PRIMARY KEY constraint 'PK_COPTD'. Cannot insert duplicate key in object 'dbo.COPTD'. The duplicate key value is (A221, 1907407    , 0001).
+The statement has been terminated.
+24/07/2019 05:02:03: Order No. 1907408 has been created.
+24/07/2019 05:02:03: Order No. 1907409 has been created.
+24/07/2019 05:02:03: Order No. 1907409 has been created.
+24/07/2019 05:02:03: Order No. 1907409 has been created.
+24/07/2019 05:02:03: Order No. 1907409 has been created.
+24/07/2019 05:02:03: Order No. 1907409 has been created.
+24/07/2019 05:02:03: Order No. 1907409 has been created.
+24/07/2019 05:02:03: Order No. 1907409 has been created.
+24/07/2019 05:02:03: Order No. 1907409 has been created.
+24/07/2019 05:02:03: Order No. 1907409 has been created.
+24/07/2019 05:02:03: Order No. 1907410 has been created.
+24/07/2019 05:02:03: Order No. 1907412 has been created.
+24/07/2019 05:02:03: Order No. 1907413 has been created.
+24/07/2019 05:02:03: Order No. 1907414 has been created.
+24/07/2019 05:02:03: Order No. 1907415 has been created.
+24/07/2019 05:02:03: Order No. 1907416 has been created.
+24/07/2019 05:02:03: Order No. 1907417 has been created.
+24/07/2019 05:02:03: Order No. 1907418 has been created.
+24/07/2019 05:02:03: Order No. 1907418 has been created.
+24/07/2019 05:02:03: Order No. 1907419 has been created.
+24/07/2019 05:02:03: Order No. 1907420 has been created.
+24/07/2019 05:02:03: Order No. 1907420 has been created.
+24/07/2019 05:02:03: Order No. 1907420 has been created.
+24/07/2019 05:02:03: Order No. 1907420 has been created.
+24/07/2019 05:02:03: Order No. 1907421 has been created.
+24/07/2019 05:02:03: Order No. 1907421 has been created.
+24/07/2019 05:02:03: Order No. 1907422 has been created.
+24/07/2019 05:02:03: Order No. 1907422 has been created.
+24/07/2019 05:02:03: Order No. 1907423 has been created.
+24/07/2019 05:02:03: Order No. 1907423 has been created.
+24/07/2019 05:02:03: Order No. 1907424 has been created.
+24/07/2019 05:02:03: Order No. 1907424 has been created.
+24/07/2019 05:02:03: Order No. 1907424 has been created.
+24/07/2019 05:02:03: Order No. 1907424 has been created.
+24/07/2019 05:02:03: Order No. 1907425 has been created.
+24/07/2019 05:02:03: Order No. 1907427 has been created.
+24/07/2019 05:02:03: Order No. 1907427 has been created.
+24/07/2019 05:02:03: Order No. 1907429 has been created.
+24/07/2019 05:02:03: Order No. 1907430 has been created.
+24/07/2019 05:02:03: Order No. 1907431 has been created.
+24/07/2019 05:02:03: Order No. 1907432 has been created.
+24/07/2019 05:02:03: Order No. 1907433 has been created.
+24/07/2019 05:02:03: Order No. 1907434 has been created.
+24/07/2019 05:02:03: Order No. 1907435 has been created.
+24/07/2019 05:02:03: End point: 2019-07-24 03:19:49.767
+24/07/2019 05:02:03: Session 1907240458 completed.

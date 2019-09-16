@@ -1,0 +1,165 @@
+22/07/2019 04:57:48: Session 1907220457 has started.
+22/07/2019 04:57:48: Start point: 18/07/2019
+22/07/2019 04:57:53: Data in table MAINSODEL read sucessfully. 0 new data entries found.
+22/07/2019 04:57:53: Data in table BLCOPTD read sucessfully. 0 new data entries found.
+22/07/2019 04:57:53: Connection to 223.255.178.194 is opened.
+22/07/2019 04:57:54: Order No. 1902062     has been updated.
+22/07/2019 04:57:54: Order No. 1905148     has been updated.
+22/07/2019 04:57:54: Order No. 1906059     has been updated.
+22/07/2019 04:57:54: Order No. 1907193     has been updated.
+22/07/2019 04:57:54: Order No. 1907173     has been updated.
+22/07/2019 04:57:54: Order No. 1907326     has been updated.
+22/07/2019 04:57:54: Order No. 1907327     has been updated.
+22/07/2019 04:57:54: Order No. 1907328     has been updated.
+22/07/2019 04:57:54: Order No. 1907069     has been updated.
+22/07/2019 04:57:54: Order No. 1905121     has been updated.
+22/07/2019 04:57:54: Order No. 1807147     has been updated.
+22/07/2019 04:57:54: Order No. 1907331     has been updated.
+22/07/2019 04:57:54: Order No. 1810057     has been updated.
+22/07/2019 04:57:54: Order No. 1906049     has been updated.
+22/07/2019 04:57:54: Order No. 1906117     has been updated.
+22/07/2019 04:57:54: Order No. 1906061     has been updated.
+22/07/2019 04:57:54: Order No. 1907014     has been updated.
+22/07/2019 04:57:54: Order No. 1907329     has been updated.
+22/07/2019 04:57:54: Order No. 1907287     has been updated.
+22/07/2019 04:57:54: Order No. 1907288     has been updated.
+22/07/2019 04:57:54: Order No. 1907292     has been updated.
+22/07/2019 04:57:55: Order number ORF/419 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:55: Order number ORF/419 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:55: Order number ORF/419 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:55: Order number ORF/419 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:55: Order number ORF/419 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:55: Order number ORF/419 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:55: Order number ORF/419 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:55: Order number ORF/3457 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:55: Order number ORF/3457 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:55: Order number 9323742331 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:55: Order number 9323742331 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:55: Order number 9323742331 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:56: Order number 9323742331 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:56: Order number 9323742331 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:56: Order number 9323742331 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:56: Order number 9323742331 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:56: Order number 9323742331 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:56: Order number 9323742331 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:56: Order number 9323742331 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:56: Order number 5500166068 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:56: Order number 5500166068 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:56: Order number 5500166068 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:56: Order number 5500166068 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:56: Order number 5500166068 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:56: Order number 5500166068 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:56: Order number 5500166068 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:57: Order number 5500166068 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:57: Order number 5500166068 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:57: Order number 5500166068 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:57: Order number 5500166068 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:57: Order number 5500166068 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:57: Order number 5500166068 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:57: Order number 5500166068 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:57: Order number ORF/3522 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:57: Order number ORF/3522 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:57: Order number ORF/3522 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:57: Order number ORF/3522 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:57: Order number ORF/3522 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:57: Order number ORF/3522 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:57: Order number ORF/3508 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:57: Order number ORF/3508 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:57: Order number ORF/3508 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:57: Order number ORF/3508 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:57: Order number ORF/3508 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:58: Order number ORF/3508 has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:58: Order number HJPC-04275-SEB has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:58: Order number HJPC-04275-SEB has more than one ERP Order No. System cannot decide!
+22/07/2019 04:57:58: The changed order has the product number TL-VEN-19012 not found. Cannot import Order No. 1907326    -0001.
+22/07/2019 04:57:58: The changed order has the product number TL-VEN-19008 not found. Cannot import Order No. 1907326    -0001.
+22/07/2019 04:57:58: The changed order has the product number SPV64TH HG not found. Cannot import Order No. 1907328    -0001.
+22/07/2019 04:57:58: The changed order has the product number 81-1923 not found. Cannot import Order No. 1906049    -0005.
+22/07/2019 04:57:58: The changed order has the product number 90-989PM-P not found. Cannot import Order No. 1906117    -0002.
+22/07/2019 04:57:58: The changed order has the product number NTS 35.410 not found. Cannot import Order No. 1906061    -0001.
+22/07/2019 04:57:58: The changed order has the product number 25S97-9C not found. Cannot import Order No. 1907014    -0001.
+22/07/2019 04:57:58: The changed order has the product number 25S97-9C not found. Cannot import Order No. 1907014    -0001.
+22/07/2019 04:57:58: The changed order has the product number 3201004444 not found. Cannot import Order No. 1907329    -0003.
+22/07/2019 04:57:58: Order No. 1905148     has been updated.
+22/07/2019 04:57:58: Order No. 1906059     has been updated.
+22/07/2019 04:57:58: Order No. 1907173     has been updated.
+22/07/2019 04:57:58: Order No. 1907173     has been updated.
+22/07/2019 04:57:58: Order No. 1907173     has been updated.
+22/07/2019 04:57:58: Order No. 1907327     has been updated.
+22/07/2019 04:57:58: Order No. 1905121     has been updated.
+22/07/2019 04:57:58: Order No. 1905121     has been updated.
+22/07/2019 04:57:58: Order No. 1905121     has been updated.
+22/07/2019 04:57:58: Order No. 1905121     has been updated.
+22/07/2019 04:57:58: Order No. 1905121     has been updated.
+22/07/2019 04:57:58: Order No. 1905121     has been updated.
+22/07/2019 04:57:58: Order No. 1807147     has been updated.
+22/07/2019 04:57:58: Order No. 1807147     has been updated.
+22/07/2019 04:57:58: Order No. 1807147     has been updated.
+22/07/2019 04:57:58: Order No. 1807147     has been updated.
+22/07/2019 04:57:58: Order No. 1807147     has been updated.
+22/07/2019 04:57:58: Order No. 1907331     has been updated.
+22/07/2019 04:57:58: Order No. 1907331     has been updated.
+22/07/2019 04:57:58: The product number 5087608 not found. Cannot import Order No. 1907360-0001.
+22/07/2019 04:57:58: The product number 100135 not found. Cannot import Order No. 1907364-0001.
+22/07/2019 04:57:58: The product number ZVARIE not found. Cannot import Order No. 1907367-0002.
+22/07/2019 04:57:58: The product number ZVARIE not found. Cannot import Order No. 1907367-0004.
+22/07/2019 04:57:58: The product number 25Z1-1C not found. Cannot import Order No. 1907372-0001.
+22/07/2019 04:57:58: The product number 25Z1-7C not found. Cannot import Order No. 1907372-0002.
+22/07/2019 04:57:58: The product number 25S95-1C not found. Cannot import Order No. 1907373-0001.
+22/07/2019 04:57:58: The product number 25S95-12C not found. Cannot import Order No. 1907373-0002.
+22/07/2019 04:57:58: The product number 25S95-14C not found. Cannot import Order No. 1907373-0003.
+22/07/2019 04:57:58: The product number 25S95-29C not found. Cannot import Order No. 1907373-0004.
+22/07/2019 04:57:58: The product number 25S97-9C not found. Cannot import Order No. 1907374-0001.
+22/07/2019 04:57:58: Order No. 9323755984/10 has been created.
+22/07/2019 04:57:58: Order No. 9323755988/10 has been created.
+22/07/2019 04:57:58: Order No. 9323755989/10 has been created.
+22/07/2019 04:57:58: Order No. 9323755991/10 has been created.
+22/07/2019 04:57:58: Order No. 9323756959 has been created.
+22/07/2019 04:57:58: Order No. 630004947/10 has been created.
+22/07/2019 04:57:58: Order No. 17241-ID85 has been created.
+22/07/2019 04:57:58: Order No. 4503530796 has been created.
+22/07/2019 04:57:58: Order No. 4503530795 has been created.
+22/07/2019 04:57:58: Order No. 9323758558/30 has been created.
+22/07/2019 04:57:58: Order No. 217939 has been created.
+22/07/2019 04:57:58: Order No. 217937 has been created.
+22/07/2019 04:57:58: Order No. 217935 has been created.
+22/07/2019 04:57:58: Order No. ORF/3626 has been created.
+22/07/2019 04:57:58: Order No. 19873 has been created.
+22/07/2019 04:57:58: Order No. 19874 has been created.
+22/07/2019 04:57:58: Order No. 19875 has been created.
+22/07/2019 04:57:58: Order No. 19876 has been created.
+22/07/2019 04:57:58: Order No. 19877 has been created.
+22/07/2019 04:57:58: Order No. 19878 has been created.
+22/07/2019 04:57:58: Order No. 19879 has been created.
+22/07/2019 04:57:58: Order No. 1907354 has been created.
+22/07/2019 04:57:58: Order No. 1907355 has been created.
+22/07/2019 04:57:58: Order No. 1907356 has been created.
+22/07/2019 04:57:58: Order No. 1907357 has been created.
+22/07/2019 04:57:58: Order No. 1907358 has been created.
+22/07/2019 04:57:58: Order No. 1907358 has been created.
+22/07/2019 04:57:58: Order No. 1907358 has been created.
+22/07/2019 04:57:58: Order No. 1907358 has been created.
+22/07/2019 04:57:58: Order No. 1907358 has been created.
+22/07/2019 04:57:58: Order No. 1907358 has been created.
+22/07/2019 04:57:58: Order No. 1907358 has been created.
+22/07/2019 04:57:58: Order No. 1907358 has been created.
+22/07/2019 04:57:58: Order No. 1907358 has been created.
+22/07/2019 04:57:58: Order No. 1907359 has been created.
+22/07/2019 04:57:58: Order No. 1907361 has been created.
+22/07/2019 04:57:58: Order No. 1907362 has been created.
+22/07/2019 04:57:58: Order No. 1907363 has been created.
+22/07/2019 04:57:58: Order No. 1907365 has been created.
+22/07/2019 04:57:58: Order No. 1907366 has been created.
+22/07/2019 04:57:58: Order No. 1907367 has been created.
+22/07/2019 04:57:58: Order No. 1907367 has been created.
+22/07/2019 04:57:58: Order No. 1907368 has been created.
+22/07/2019 04:57:58: Order No. 1907369 has been created.
+22/07/2019 04:57:58: Order No. 1907369 has been created.
+22/07/2019 04:57:58: Order No. 1907369 has been created.
+22/07/2019 04:57:58: Order No. 1907369 has been created.
+22/07/2019 04:57:58: Order No. 1907370 has been created.
+22/07/2019 04:57:58: Order No. 1907370 has been created.
+22/07/2019 04:57:58: Order No. 1907371 has been created.
+22/07/2019 04:57:58: Order No. 1907371 has been created.
+22/07/2019 04:57:58: End point: 22/07/2019 5:38:27 AM
+22/07/2019 04:57:58: Session 1907220457 completed.

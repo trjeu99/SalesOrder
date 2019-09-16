@@ -26,6 +26,7 @@ Public Class SOT
     Public Shared DtSuccessUpdSO As New DataTable
     Public Shared DtSuccessInsSO As New DataTable
     Public Shared DtMultiSORNO As New DataTable
+    Public Shared startPoint As String
     Private Sub SOT_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         ' System.Windows.Forms.Control.CheckForIllegalCrossThreadCalls = False
         ' Retrieving usr settings
@@ -45,6 +46,7 @@ Public Class SOT
                 End If
             End If
         Next
+        txt_spt.Enabled = False
         Elog("Configuration loaded.")
     End Sub
 
@@ -58,6 +60,7 @@ Public Class SOT
                ctl.Name <> "prb_data_trans" And
                ctl.Name <> "lbl_next_trigger" And
                ctl.Name <> "txt_recipients" And
+               ctl.Name <> "txt_spt" And
                ctl.Name <> "prb_next_trigger" Then
                 ctl.Enabled = sts
             End If
@@ -205,12 +208,11 @@ Public Class SOT
         mySettings.Save()
     End Sub
 
-    Private Sub dtp_sp_LostFocus(sender As Object, e As EventArgs) Handles txt_spt.LostFocus
+    Private Sub txt_spt_LostFocus(sender As Object, e As EventArgs) Handles txt_spt.LostFocus
         Dim mySettings = My.Settings
         mySettings.cfg_spt = txt_spt.Text
         mySettings.Save()
     End Sub
-
     Private Sub Btn_email_test_Click(sender As Object, e As EventArgs) Handles btn_email_test.Click
         Dim mySettings = My.Settings
         Elog(String.Format("Authorizing email {0}...", mySettings.cfg_sender), 1)
@@ -277,9 +279,13 @@ Public Class SOT
         Dim yymm As String = ""
         Dim ordNo As Integer = 0
         For i As Integer = 0 To dt.Rows.Count - 1
-            Dim yymmTemp As String = dt.Rows(i)(col)
+            Dim yymmTemp As String = Trim(dt.Rows(i)(col))
+            Dim OrdNoTemp As Integer = 0
             If yymm <> yymmTemp Then
-                Dim OrdNoTemp As Integer = RefDtAdpt.GetLastOrdNo(yymmTemp).Rows(0)(0)
+                OrdNoTemp = RefDtAdpt.GetLastOrdNo(yymmTemp).Rows(0)(0)
+                If OrdNoTemp = 0 Then
+                    OrdNoTemp = Integer.Parse(yymmTemp) * 1000
+                End If
                 ordNo = OrdNoTemp + 1
             Else
                 ordNo += 1
@@ -342,9 +348,10 @@ Public Class SOT
         Next i
     End Sub
 
-    ' Get XB001, XB002
+    ' Get TD001, TD002
     Private Sub AssignMONo(dtMODic As DataTable, dtSO As DataTable, dtRp As DataTable)
         SetColOrder(dtSO)
+        Dim DelRows As New List(Of DataRow)
         For Each drSO As DataRow In dtSO.Rows
             Dim found As Boolean = False
             For Each drMO As DataRow In dtMODic.Rows
@@ -357,67 +364,107 @@ Public Class SOT
             If Not found Then
                 txt_elogs.Invoke(New LogMessageDelegate(AddressOf Elog), New Object() {"The original Order No. " & drSO(1).ToString & " not found. Please update it mannually.", 1})
                 dtRp.Rows.Add(drSO.ItemArray)
-                drSO.Delete()
+                DelRows.Add(drSO)
+                'drSO.Delete()
             End If
         Next drSO
+        For Each drBL As DataRow In DelRows
+            dtSO.Rows.Remove(drBL)
+        Next
         dtSO.AcceptChanges()
     End Sub
 
     ' Fill Product Number
     Private Sub ProdNoFill(dtSO As DataTable, dtRp As DataTable)
         SetColOrder(dtSO)
+        SortTable(dtSO, "TD002")
         Dim DelRows As New List(Of DataRow)
         Dim drSO As DataRow
         Dim ProAdpt As New ProductTableAdapter
         Dim BLAdpt As New BLCOPTDTableAdapter
+        Dim ExProdAdpt As New EXPRODTableAdapter
+        Dim Exlist As DataTable = ExProdAdpt.GetData()
+        Dim TempSORNO As String = ""
+        Dim TempOrdType As String = ""
         For Each drSO In dtSO.Rows
-            Dim Product As DataTable = ProAdpt.GetData(drSO("TD004"))
-            If Product.Rows.Count <> 0 Then
+            Dim Product As New DataTable
+            Dim getSuccess As Boolean = False
+            Try
+                Product = ProAdpt.GetData(drSO("TD004"))
+                getSuccess = True
+            Catch EX As SqlException
+                getSuccess = False
+                txt_elogs.Invoke(New LogMessageDelegate(AddressOf Elog), New Object() {"Failed to get info of the product number " & drSO("TD004") & EX.ToString, 3})
+            End Try
+            If getSuccess AndAlso Product.Rows.Count <> 0 Then
+                Dim SORNO As String = Trim(drSO("TD002"))
+                Dim Note As String = Strings.Left(Strings.LTrim(Product(0)("TD004")), 1)
+                If Note = "Y" Then
+                    dtSO.Columns("TD020").MaxLength = 255
+                    drSO("TD020") = drSO("TD004")
+                End If
                 dtSO.Columns("TD004").MaxLength = 40
                 drSO("TD004") = Product(0)("TD004")
                 dtSO.Columns("TD005").MaxLength = 120
                 drSO("TD005") = Product(0)("TD005")
                 dtSO.Columns("TD010").MaxLength = 6
                 drSO("TD010") = Product(0)("TD010")
+                drSO("TD011") = UnitPrice(drSO("TD004"))
+                drSO("TD012") = drSO("TD011") * drSO("TD008")
                 drSO("TD032") = Product(0)("TD032") * drSO("TD008")
                 dtSO.Columns("TD036").MaxLength = 6
                 drSO("TD036") = Product(0)("TD036")
                 dtSO.Columns("TD077").MaxLength = 6
                 drSO("TD077") = Product(0)("TD010")
                 dtSO.Columns("TD001").MaxLength = 4
-                drSO("TD001") = OrdType(drSO("TD004"))
+                If TempSORNO <> SORNO Then
+                    drSO("TD001") = OrdType(drSO("TD004"))
+                Else
+                    drSO("TD001") = TempOrdType
+                End If
+                'drSO("TD001") = OrdType(drSO("TD004"))
                 dtSO.Columns("TD007").MaxLength = 10
                 drSO("TD007") = StorageCode(drSO("TD004"))
+                TempSORNO = SORNO
+                TempOrdType = drSO("TD001")
             Else
-                Dim FLAG As Decimal = drSO("FLAG")
-                Dim TD008 As Decimal = drSO("TD008")
-                Dim TD009 As Decimal = drSO("TD009")
-                Dim TD011 As Decimal = drSO("TD011")
-                Dim TD012 As Decimal = drSO("TD012")
-                Dim TD022 As Decimal = drSO("TD022")
-                Dim TD024 As Decimal = drSO("TD024")
-                Dim TD025 As Decimal = drSO("TD025")
-                Dim TD026 As Decimal = drSO("TD026")
-                Dim TD031 As Decimal = drSO("TD031")
-                Dim TD032 As Decimal = drSO("TD032")
-                Dim TD034 As Decimal = drSO("TD034")
-                Dim TD035 As Decimal = drSO("TD035")
-                Dim TD045 As Decimal = drSO("TD045")
-                Dim TD076 As Decimal = drSO("TD076")
-                Dim TD078 As Decimal = drSO("TD078")
-                Try
-                    BLAdpt.InsertQuery(drSO("DATETIME"), FLAG, drSO("TD001"), drSO("TD002"), drSO("TD003"), drSO("TD004"),
-                                       drSO("TD005"), drSO("TD007"), TD008, TD009, drSO("TD010"), TD011,
-                                       TD012, drSO("TD013"), drSO("TD016"), drSO("TD020"), drSO("TD021"), TD022,
-                                       TD024, TD025, TD026, TD031, TD032, TD034,
-                                       TD035, drSO("TD036"), TD045, drSO("TD047"), drSO("TD048"), drSO("TD049"), TD076, drSO("TD077"), TD078)
-                    dtRp.Rows.Add(drSO.ItemArray)
+                Dim foundException As Boolean = ExceptionalItem(Trim(drSO("TD004")), Exlist)
+                If foundException Then
+                    txt_elogs.Invoke(New LogMessageDelegate(AddressOf Elog), New Object() {"The Order " & drSO("TD002") & "contains the item " & drSO("TD004") & " that is not transformed.", 3})
                     DelRows.Add(drSO)
-                    'dtSO.Rows.Remove(drSO)
-                Catch ex As SqlException
-                    MsgBox(ex.ToString)
-                End Try
-                txt_elogs.Invoke(New LogMessageDelegate(AddressOf Elog), New Object() {"The product number " & drSO("TD004") & " not found. Cannot import Order No. " & drSO("TD002") & "-" & drSO("TD003") & ".", 3})
+                Else
+                    Dim FLAG As Decimal = drSO("FLAG")
+                    Dim TD008 As Decimal = drSO("TD008")
+                    Dim TD009 As Decimal = drSO("TD009")
+                    Dim TD011 As Decimal = drSO("TD011")
+                    Dim TD012 As Decimal = drSO("TD012")
+                    Dim TD022 As Decimal = drSO("TD022")
+                    Dim TD024 As Decimal = drSO("TD024")
+                    Dim TD025 As Decimal = drSO("TD025")
+                    Dim TD026 As Decimal = drSO("TD026")
+                    Dim TD031 As Decimal = drSO("TD031")
+                    Dim TD032 As Decimal = drSO("TD032")
+                    Dim TD034 As Decimal = drSO("TD034")
+                    Dim TD035 As Decimal = drSO("TD035")
+                    Dim TD045 As Decimal = drSO("TD045")
+                    Dim TD076 As Decimal = drSO("TD076")
+                    Dim TD078 As Decimal = drSO("TD078")
+                    Try
+                        BLAdpt.InsertQuery(drSO("DATETIME"), FLAG, drSO("CREATOR"), drSO("CREATE_DATE"), drSO("TD001"),
+                                           drSO("TD002"), drSO("TD003"), drSO("TD004"), drSO("TD005"), drSO("TD007"), TD008,
+                                           TD009, drSO("TD010"), TD011, TD012, drSO("TD013"), drSO("TD016"),
+                                           drSO("TD020"), drSO("TD021"), TD022, TD024, TD025, TD026,
+                                           TD031, TD032, TD034, TD035, drSO("TD036"), drSO("TD045"),
+                                           drSO("TD047"), drSO("TD048"), drSO("TD049"), TD076, drSO("TD077"), TD078)
+                        dtRp.Rows.Add(drSO.ItemArray)
+                        DelRows.Add(drSO)
+                        'dtSO.Rows.Remove(drSO)
+                    Catch ex As SqlException
+                        MsgBox(ex.ToString)
+                        txt_elogs.Invoke(New LogMessageDelegate(AddressOf Elog), New Object() {"Failed to move the product number " & drSO("TD004") & " to the backlog." + ex.ToString, 3})
+                    End Try
+                    txt_elogs.Invoke(New LogMessageDelegate(AddressOf Elog), New Object() {"The product number " & drSO("TD004") & " not found. Cannot import Order No. " & drSO("TD002") & "-" & drSO("TD003") & ".", 3})
+                End If
             End If
         Next
         For Each drBL As DataRow In DelRows
@@ -426,39 +473,92 @@ Public Class SOT
         dtSO.AcceptChanges()
     End Sub
 
+    Private Function ExceptionalItem(ItemName As String, Exlist As DataTable) As Boolean
+        Dim result As Boolean = False
+        For Each item As DataRow In Exlist.Rows
+            If ItemName = Trim(item("PRODCODE")) Then
+                result = True
+                Exit For
+            End If
+        Next
+        Return result
+    End Function
+
+    Private Function UnitPrice(ItemName As String) As Decimal
+        Dim UP As Decimal = 0
+        Dim UPTable As New DataTable
+        Dim UPAdpt As New COPTBTableAdapter
+        Try
+            UPTable = UPAdpt.GetData(ItemName)
+        Catch ex As Exception
+            txt_elogs.Invoke(New LogMessageDelegate(AddressOf Elog), New Object() {"UnitPrice: Failed to get UP of the product number " & ItemName & ex.ToString, 3})
+        End Try
+        If UPTable.Rows.Count = 1 Then
+            UP = UPTable.Rows(0)("TB009")
+        End If
+        Return UP
+    End Function
     Private Sub ProdNoFill2(dtSO As DataTable, dtRp As DataTable)
         SetColOrder(dtSO)
+        SortTable(dtSO, "TF002")
         Dim DelRows As New List(Of DataRow)
         Dim drSO As DataRow
         Dim ProAdpt As New ProductTableAdapter
+        Dim ExProdAdpt As New EXPRODTableAdapter
+        Dim Exlist As New DataTable
+        Exlist = ExProdAdpt.GetData()
+        Dim TempSORNO As String = ""
+        Dim TempOrdType As String = ""
         For Each drSO In dtSO.Rows
-            Dim Product As DataTable = ProAdpt.GetData(drSO("TF005"))
+            Dim Product As New DataTable
+            Try
+                Product = ProAdpt.GetData(drSO("TF005"))
+            Catch ex As Exception
+                txt_elogs.Invoke(New LogMessageDelegate(AddressOf Elog), New Object() {"Failed to get info of the product number " & drSO("TF005") & ex.ToString, 3})
+            End Try
+            Product = ProAdpt.GetData(drSO("TF005"))
             If Product.Rows.Count <> 0 Then
+                Dim SORNO As String = Trim(drSO("TF002"))
                 dtSO.Columns("TF005").MaxLength = 40
                 drSO("TF005") = Product(0)("TD004")
                 dtSO.Columns("TF006").MaxLength = 120
                 drSO("TF006") = Product(0)("TD005")
                 dtSO.Columns("TF010").MaxLength = 6
                 drSO("TF010") = Product(0)("TD010")
+                drSO("TF013") = UnitPrice(drSO("TF005"))
+                drSO("TF014") = drSO("TF013") * drSO("TF009")
                 dtSO.Columns("TF075").MaxLength = 6
                 drSO("TF075") = Product(0)("TD010")
                 drSO("TF026") = Product(0)("TD032") * drSO("TF009")
                 dtSO.Columns("TF028").MaxLength = 6
                 drSO("TF028") = Product(0)("TD036")
-                dtSO.Columns("TF001").MaxLength = 4
-                drSO("TF001") = OrdType(drSO("TF005"))
+                'dtSO.Columns("TF001").MaxLength = 4
+                'If TempSORNO <> SORNO Then
+                '    drSO("TF001") = OrdType(drSO("TF005"))
+                'Else
+                '    drSO("TF001") = TempOrdType
+                'End If
+                'drSO("TF001") = OrdType(drSO("TF005"))
                 dtSO.Columns("TF008").MaxLength = 10
                 drSO("TF008") = StorageCode(drSO("TF005"))
+                TempSORNO = SORNO
+                TempOrdType = drSO("TF001")
             Else
                 'in the case edited order contain a new product --> have to process Backlog here
-                Try
-                    dtRp.Rows.Add(drSO.ItemArray)
+                Dim foundException As Boolean = ExceptionalItem(Trim(drSO("TF005")), Exlist)
+                If foundException Then
+                    txt_elogs.Invoke(New LogMessageDelegate(AddressOf Elog), New Object() {"Update: The Order " & drSO("TF002") & "contains the item " & drSO("TF005") & " that is not transformed.", 3})
                     DelRows.Add(drSO)
-                    'dtSO.Rows.Remove(drSO)
-                Catch ex As SqlException
-                    MsgBox(ex.ToString)
-                End Try
-                txt_elogs.Invoke(New LogMessageDelegate(AddressOf Elog), New Object() {"The changed order have the product number " & drSO("TF005") & " not found. Cannot import Order No. " & drSO("TF002") & "-" & drSO("TF003") & ".", 3})
+                Else
+                    Try
+                        dtRp.Rows.Add(drSO.ItemArray)
+                        DelRows.Add(drSO)
+                        'dtSO.Rows.Remove(drSO)
+                    Catch ex As SqlException
+                        MsgBox(ex.ToString)
+                    End Try
+                    txt_elogs.Invoke(New LogMessageDelegate(AddressOf Elog), New Object() {"The changed order has the product number " & drSO("TF005") & " not found. Cannot import Order No. " & drSO("TF002") & "-" & drSO("TF003") & ".", 3})
+                End If
             End If
         Next
         For Each drBL As DataRow In DelRows
@@ -470,7 +570,8 @@ Public Class SOT
     ' Fill Delivery address
     Private Sub AddrFill(dtMO As DataTable, dtSO As DataTable, dtRp As DataTable)
         SetColOrder(dtMO)
-        Dim DelRows As New List(Of DataRow)
+        dtRp.PrimaryKey = New DataColumn() {dtRp.Columns(5)}
+        'Dim DelRows As New List(Of DataRow)
         Dim drMO As DataRow
         dtMO.Columns("TC010").MaxLength = 255
         dtMO.Columns("TC001").MaxLength = 4
@@ -489,38 +590,41 @@ Public Class SOT
                     drMO("TC005") = DeptCode(drSO("TD004"))
                     Exit For
                 End If
-            Next drSO
+            Next
             If Not found Then
-                Dim FLAG As Decimal = drMO("FLAG")
-                Dim TC009 As Decimal = drMO("TC009")
-                Dim TC026 As Decimal = drMO("TC026")
-                Dim TC028 As Decimal = drMO("TC028")
-                Dim TC029 As Decimal = drMO("TC029")
-                Dim TC030 As Decimal = drMO("TC030")
-                Dim TC031 As Decimal = drMO("TC031")
-                Dim TC041 As Decimal = drMO("TC041")
-                Dim TC043 As Decimal = drMO("TC043")
-                Dim TC044 As Decimal = drMO("TC044")
-                Dim TC045 As Decimal = drMO("TC045")
-                Dim TC046 As Decimal = drMO("TC046")
-                Dim TC052 As Decimal = drMO("TC052")
-                Dim TC072 As Decimal = drMO("TC072")
-                Dim TC073 As Decimal = drMO("TC073")
-                Dim BLAdpt As New BLCOPTCTableAdapter
-                BLAdpt.InsertQuery(drMO("DATETIME"), FLAG, drMO("TC001"), drMO("TC002"), drMO("TC003"), drMO("TC004"),
-                                    drMO("TC005"), drMO("TC007"), drMO("TC008"), TC009, drMO("TC010"), drMO("TC012"),
-                                    drMO("TC014"), drMO("TC016"), drMO("TC018"), drMO("TC019"), TC026, drMO("TC027"), TC028, TC029, TC030, TC031, drMO("TC032"), drMO("TC039"),
-                                    drMO("TC040"), TC041, drMO("TC042"), TC043, TC044, TC045, TC046, drMO("TC048"), drMO("TC050"), TC052, drMO("TC053"), drMO("TC056"),
-                                    drMO("TC057"), drMO("TC060"), drMO("TC065"), drMO("TC068"), drMO("TC069"), drMO("TC070"),
-                                    drMO("TC071"), TC072, TC073, drMO("TC077"), drMO("TC078"), drMO("TC091"))
-                dtRp.Rows.Add(drMO.ItemArray)
-                DelRows.Add(drMO)
+                'Dim FLAG As Decimal = drMO("FLAG")
+                'Dim TC009 As Decimal = drMO("TC009")
+                'Dim TC026 As Decimal = drMO("TC026")
+                'Dim TC028 As Decimal = drMO("TC028")
+                'Dim TC029 As Decimal = drMO("TC029")
+                'Dim TC030 As Decimal = drMO("TC030")
+                'Dim TC031 As Decimal = drMO("TC031")
+                'Dim TC041 As Decimal = drMO("TC041")
+                'Dim TC043 As Decimal = drMO("TC043")
+                'Dim TC044 As Decimal = drMO("TC044")
+                'Dim TC045 As Decimal = drMO("TC045")
+                'Dim TC046 As Decimal = drMO("TC046")
+                'Dim TC052 As Decimal = drMO("TC052")
+                'Dim TC072 As Decimal = drMO("TC072")
+                'Dim TC073 As Decimal = drMO("TC073")
+                'Dim BLAdpt As New BLCOPTCTableAdapter
+                Try
+                    'BLAdpt.InsertQuery(drMO("DATETIME"), FLAG, drMO("CREATOR"), drMO("CREATE_DATE"), drMO("TC001"), drMO("TC002"), drMO("TC003"), drMO("TC004"),
+                    'drMO("TC005"), drMO("TC007"), drMO("TC008"), TC009, drMO("TC010"), drMO("TC012"),
+                    'drMO("TC014"), drMO("TC016"), drMO("TC018"), drMO("TC019"), TC026, drMO("TC027"), TC028, TC029, TC030, TC031, drMO("TC032"), drMO("TC039"),
+                    'drMO("TC040"), TC041, drMO("TC042"), TC043, TC044, TC045, TC046, drMO("TC048"), drMO("TC050"), TC052, drMO("TC053"), drMO("TC056"),
+                    'drMO("TC057"), drMO("TC060"), drMO("TC065"), drMO("TC068"), drMO("TC069"), drMO("TC070"),
+                    'drMO("TC071"), TC072, TC073, drMO("TC077"), drMO("TC078"), drMO("TC091"))
+                    dtRp.Rows.Add(drMO.ItemArray)
+                    'DelRows.Add(drMO)
+                Catch ex As Exception
+                End Try
             End If
-        Next drMO
-        For Each drBL As DataRow In DelRows
-            dtMO.Rows.Remove(drBL)
         Next
-        dtMO.AcceptChanges()
+        'For Each drBL As DataRow In DelRows
+        'dtMO.Rows.Remove(drBL)
+        'Next
+        'dtMO.AcceptChanges()
     End Sub
 
     ' Sum Qty and Sum weight fill
@@ -541,7 +645,11 @@ Public Class SOT
             If currencyCode = "VND" Then
                 dr("TC009") = 1
             Else
-                dr("TC009") = RefDT.GetLatestExRate(currencyCode).Rows(0)(0)
+                Try
+                    dr("TC009") = RefDT.GetLatestExRate(currencyCode).Rows(0)(0)
+                Catch ex As Exception
+                    txt_elogs.Invoke(New LogMessageDelegate(AddressOf Elog), New Object() {"Failed to get Exchange Rate of the Currency " & currencyCode & ". Error: " & ex.Message.ToString, 3})
+                End Try
             End If
         Next
     End Sub
@@ -552,7 +660,11 @@ Public Class SOT
             If currencyCode = "VND" Then
                 dr("TE012") = 1
             Else
-                dr("TE012") = RefDT.GetLatestExRate(currencyCode).Rows(0)(0)
+                Try
+                    dr("TE012") = RefDT.GetLatestExRate(currencyCode).Rows(0)(0)
+                Catch ex As Exception
+                    txt_elogs.Invoke(New LogMessageDelegate(AddressOf Elog), New Object() {"Failed to get Exchange Rate of the Currency " & currencyCode & ". Error: " & ex.Message.ToString, 3})
+                End Try
             End If
         Next
     End Sub
@@ -562,7 +674,7 @@ Public Class SOT
         Dim dtBL As DataTable = BLAdpt.GetData
         SetColOrder(dtBL)
         For Each dr As DataRow In dtBL.Rows
-            dr("TD001") = ""
+            'dr("TD001") = ""
             dtNewSO.Rows.Add(dr.ItemArray)
         Next
         Dim strSQL As String = "TRUNCATE TABLE BLCOPTD"
@@ -583,7 +695,7 @@ Public Class SOT
         Dim dtBL As DataTable = BLAdpt.GetData
         SetColOrder(dtBL)
         For Each dr As DataRow In dtBL.Rows
-            dr("TC001") = ""
+            'dr("TC001") = ""
             dtNewMO.Rows.Add(dr.ItemArray)
         Next
         Dim strSQL As String = "TRUNCATE TABLE BLCOPTD"
@@ -600,7 +712,7 @@ Public Class SOT
 
     Private Sub MoveFailedLookUp2NewMO(dtNewMO As DataTable, FailedList As List(Of String))
         SetColOrder(dtNewMO)
-        Dim MOAdpt As New MAINSOTableAdapter
+        Dim MOAdpt As New MAINSO1TableAdapter
         For Each SORNO As String In FailedList
             Dim dt As DataTable = MOAdpt.GetDataBySORNO(SORNO)
             SetColOrder(dt)
@@ -625,14 +737,18 @@ Public Class SOT
                 col.SetOrdinal(0)
             ElseIf ColName = "FLAG" Then
                 col.SetOrdinal(1)
+            ElseIf ColName = "CREATOR" Then
+                col.SetOrdinal(2)
+            ElseIf ColName = "CREATE_DATE" Then
+                col.SetOrdinal(3)
             End If
         Next
-        For i As Integer = 3 To MaxCol - 1
+        For i As Integer = 5 To MaxCol - 1
             Dim col As DataColumn = dt.Columns(i)
             Dim ColName As String = col.ColumnName
             Dim CurID As Integer = Integer.Parse(Strings.Right(ColName, 3))
             Dim j As Integer = i - 1
-            While j >= 2 AndAlso Integer.Parse(Strings.Right(dt.Columns(j).ColumnName, 3)) > CurID
+            While j >= 4 AndAlso Integer.Parse(Strings.Right(dt.Columns(j).ColumnName, 3)) > CurID
                 dt.Columns(j).SetOrdinal(j + 1)
                 j -= 1
             End While
@@ -682,23 +798,23 @@ Public Class SOT
                             cmdMO.ExecuteNonQuery()
                             dtRp.Rows.Add(dataValArr)
                             If isMO Then
-                                txt_elogs.Invoke(New LogMessageDelegate(AddressOf Elog), New Object() {"Order No. " & dataValArr(11).ToString & " has been " & sts & "d.", 0})
+                                txt_elogs.Invoke(New LogMessageDelegate(AddressOf Elog), New Object() {"Order No. " & dataValArr(13).ToString & " has been " & sts & "d.", 0})
                             Else
-                                txt_elogs.Invoke(New LogMessageDelegate(AddressOf Elog), New Object() {"Order No. " & dataValArr(3).ToString & " has been " & sts & "d.", 0})
+                                txt_elogs.Invoke(New LogMessageDelegate(AddressOf Elog), New Object() {"Order No. " & dataValArr(5).ToString & " has been " & sts & "d.", 0})
                             End If
                             trans.Commit()
                         Catch ex As SqlException
                             trans.Rollback()
                             If isMO Then
-                                txt_elogs.Invoke(New LogMessageDelegate(AddressOf Elog), New Object() {"Failed to " & sts & " Order No. " & dataValArr(11).ToString & ". Error: " & ex.Message.ToString, 3})
+                                txt_elogs.Invoke(New LogMessageDelegate(AddressOf Elog), New Object() {"Failed to " & sts & " Order No. " & dataValArr(13).ToString & ". Error: " & ex.Message.ToString, 3})
                             Else
-                                txt_elogs.Invoke(New LogMessageDelegate(AddressOf Elog), New Object() {"Failed to " & sts & " Order No. " & dataValArr(3).ToString & ". Error: " & ex.Message.ToString, 3})
+                                txt_elogs.Invoke(New LogMessageDelegate(AddressOf Elog), New Object() {"Failed to " & sts & " Order No. " & dataValArr(5).ToString & ". Error: " & ex.Message.ToString, 3})
                             End If
                         End Try
                     End Using
                 End Using
             End Using
-        Next dr
+        Next
     End Sub
 
     Private Sub AddcolNameSO(dt As DataTable)
@@ -711,6 +827,8 @@ Public Class SOT
             Dim ColTable As DataTable = ColAdpt.GetDataByTableCode("COPTD")
             dt.Columns.Add(New DataColumn("DATETIME", GetType(String)))
             dt.Columns.Add(New DataColumn("FLAG", GetType(String)))
+            dt.Columns.Add(New DataColumn("CREATOR", GetType(String)))
+            dt.Columns.Add(New DataColumn("CREATE_DATE", GetType(String)))
             For Each dc As DataColumn In RefTable.Columns
                 For Each dr As DataRow In ColTable.Rows
                     If dc.ColumnName = dr("Column Code") Then
@@ -730,11 +848,14 @@ Public Class SOT
         If dt.Columns.Count < 1 Then
             Dim RefAdpt As New MAINSOTableAdapter
             Dim RefTable As DataTable = RefAdpt.GetData(Date.Now)
+            RemoveREMARKSCol(RefTable)
             SetColOrder(RefTable)
             Dim ColAdpt As New ColTableAdapter
             Dim ColTable As DataTable = ColAdpt.GetDataByTableCode("COPTC")
             dt.Columns.Add(New DataColumn("DATETIME", GetType(String)))
             dt.Columns.Add(New DataColumn("FLAG", GetType(String)))
+            dt.Columns.Add(New DataColumn("CREATOR", GetType(String)))
+            dt.Columns.Add(New DataColumn("CREATE_DATE", GetType(String)))
             For Each dc As DataColumn In RefTable.Columns
                 For Each dr As DataRow In ColTable.Rows
                     If dc.ColumnName = dr("Column Code") Then
@@ -749,16 +870,24 @@ Public Class SOT
         End If
     End Sub
 
+    Private Sub RemoveREMARKSCol(dt As DataTable)
+        If dt.Columns.Contains("REMARKS") Then
+            dt.Columns.Remove("REMARKS")
+        End If
+    End Sub
     Private Sub AddcolNameCOPTE(dt As DataTable)
         dt.Clear()
         If dt.Columns.Count < 1 Then
             Dim RefAdpt As New COPTETableAdapter
             Dim RefTable As DataTable = RefAdpt.GetData(Date.Now)
+            RemoveREMARKSCol(RefTable)
             SetColOrder(RefTable)
             Dim ColAdpt As New ColTableAdapter
             Dim ColTable As DataTable = ColAdpt.GetDataByTableCode("COPTE")
             dt.Columns.Add(New DataColumn("DATETIME", GetType(String)))
             dt.Columns.Add(New DataColumn("FLAG", GetType(String)))
+            dt.Columns.Add(New DataColumn("CREATOR", GetType(String)))
+            dt.Columns.Add(New DataColumn("CREATE_DATE", GetType(String)))
             For Each dc As DataColumn In RefTable.Columns
                 For Each dr As DataRow In ColTable.Rows
                     If dc.ColumnName = dr("Column Code") Then
@@ -783,6 +912,8 @@ Public Class SOT
             Dim ColTable As DataTable = ColAdpt.GetDataByTableCode("COPTF")
             dt.Columns.Add(New DataColumn("DATETIME", GetType(String)))
             dt.Columns.Add(New DataColumn("FLAG", GetType(String)))
+            dt.Columns.Add(New DataColumn("CREATOR", GetType(String)))
+            dt.Columns.Add(New DataColumn("CREATE_DATE", GetType(String)))
             For Each dc As DataColumn In RefTable.Columns
                 For Each dr As DataRow In ColTable.Rows
                     If dc.ColumnName = dr("Column Code") Then
@@ -799,13 +930,15 @@ Public Class SOT
     Private Sub AddcolNameMultiOR(dt As DataTable)
         dt.Clear()
         If dt.Columns.Count < 1 Then
-            Dim RefAdpt As New OrdTableAdapter
+            Dim RefAdpt As New COPTC1TableAdapter
             Dim RefTable As DataTable = RefAdpt.GetDataBySORNO("DUMMY")
             SetColOrder(RefTable)
             Dim ColAdpt As New ColTableAdapter
             Dim ColTable As DataTable = ColAdpt.GetDataByTableCode("COPTC")
             dt.Columns.Add(New DataColumn("DATETIME", GetType(String)))
             dt.Columns.Add(New DataColumn("FLAG", GetType(String)))
+            dt.Columns.Add(New DataColumn("CREATOR", GetType(String)))
+            dt.Columns.Add(New DataColumn("CREATE_DATE", GetType(String)))
             For Each dc As DataColumn In RefTable.Columns
                 For Each dr As DataRow In ColTable.Rows
                     If dc.ColumnName = dr("Column Code") Then
@@ -829,6 +962,8 @@ Public Class SOT
             Dim ColTable As DataTable = ColAdpt.GetDataByTableCode("COPTF")
             dt.Columns.Add(New DataColumn("DATETIME", GetType(String)))
             dt.Columns.Add(New DataColumn("FLAG", GetType(String)))
+            dt.Columns.Add(New DataColumn("CREATOR", GetType(String)))
+            dt.Columns.Add(New DataColumn("CREATE_DATE", GetType(String)))
             For Each dc As DataColumn In RefTable.Columns
                 For Each dr As DataRow In ColTable.Rows
                     If dc.ColumnName = dr("Column Code") Then
@@ -839,73 +974,166 @@ Public Class SOT
         End If
     End Sub
     Private Function OrdType(TC004 As String) As String
-        Dim result As String = ""
+        'Dim result As String = ""
         Dim T1 As String = Strings.Left(TC004, 1)
+        Dim T2 As String = Strings.Left(TC004, 2)
         Dim T3 As String = Strings.Left(TC004, 3)
         Dim T4 As String = Strings.Left(TC004, 4)
-        If T1 = "A" Or T1 = "E" Then
-            result = "A221"
-        ElseIf T3 = "BMH" Or T4 = "BWTX" Then
-            result = "B221"
-        ElseIf T3 = "BVR" Or T3 = "BFF" Then
-            result = "B222"
-        ElseIf T1 = "C" Then
-            result = "C221"
-        ElseIf T3 = "JMH" Then
-            result = "J221"
-        ElseIf T1 = "P" Then
-            result = "P221"
-        ElseIf T1 = "Y" Then
-            result = "Y221"
-        End If
-        Return result
+        Select Case T4
+            Case "BWTX"
+                'Return "B221"
+                Return "B224"
+        End Select
+        Select Case T3
+            Case "BMH"
+                'Return "B221"
+                Return "B224"
+            Case "BVR", "BFF"
+                'Return "B222"
+                Return "B225"
+            Case "JMH"
+                'Return "J221"
+                Return "J222"
+            Case "AYM", "CYM", "BRJ", "PTL"
+                'Return "Y221"
+                Return "Y222"
+        End Select
+        Select Case T2
+            Case "BY", "PE", "AI", "CI", "AM"
+                'Return "Y221"
+                Return "Y222"
+            Case "JC"
+                'Return "P221"
+                Return "P222"
+        End Select
+        Select Case T1
+            Case "A", "E"
+                'Return "A221"
+                Return "A222"
+            Case "C"
+                'Return "C221"
+                Return "C222"
+            Case "P"
+                'Return "P221"
+                Return "P222"
+            Case "Y"
+                'Return "Y221"
+                Return "Y222"
+        End Select
+        Return ""
     End Function
     Private Function DeptCode(TC004 As String) As String
-        Dim result As String = ""
+        'Dim result As String = ""
         Dim T1 As String = Strings.Left(TC004, 1)
+        Dim T2 As String = Strings.Left(TC004, 2)
         Dim T3 As String = Strings.Left(TC004, 3)
         Dim T4 As String = Strings.Left(TC004, 4)
-        If T1 = "A" Or T1 = "E" Then
-            result = "A01-1"
-        ElseIf T3 = "BMH" Or T4 = "BWTX" Then
-            result = "B01-1"
-        ElseIf T3 = "BVR" Or T3 = "BFF" Then
-            result = "B01-2"
-        ElseIf T1 = "C" Then
-            result = "A01-3"
-        ElseIf T3 = "JMH" Then
-            result = "J01-1"
-        ElseIf T1 = "P" Then
-            result = "J01-2"
-        ElseIf T1 = "Y" Then
-            result = "Y01"
-        End If
-        Return result
+        Select Case T4
+            Case "BWTX"
+                Return "B01-1"
+        End Select
+        Select Case T3
+            Case "BMH"
+                Return "B01-1"
+            Case "BVR", "BFF"
+                Return "B01-2"
+            Case "JMH"
+                Return "J01-1"
+            Case "AYM", "CYM", "BRJ", "PTL"
+                Return "Y01"
+        End Select
+        Select Case T2
+            Case "BY", "PE", "AI", "CI", "AM"
+                Return "Y01"
+            Case "JC"
+                Return "J01-2"
+        End Select
+        Select Case T1
+            Case "A", "C", "E"
+                Return "A01"
+            Case "P"
+                Return "J01-2"
+            Case "Y"
+                Return "Y01"
+        End Select
+        Return ""
     End Function
     Private Function StorageCode(TC004 As String) As String
-        Dim result As String = ""
+        'Dim result As String = ""
         Dim T1 As String = Strings.Left(TC004, 1)
+        Dim T2 As String = Strings.Left(TC004, 2)
         Dim T3 As String = Strings.Left(TC004, 3)
         Dim T4 As String = Strings.Left(TC004, 4)
-        If T1 = "A" Or T1 = "C" Or T1 = "E" Then
-            result = "A04"
-        ElseIf T3 = "BMH" Or T4 = "BWTX" Or T3 = "JMH" Then
-            result = "B02"
-        ElseIf T3 = "BVR" Or T3 = "BFF" Then
-            result = "B03"
-        ElseIf T1 = "P" Then
-            result = "P04"
-        ElseIf T1 = "Y" Then
-            result = "Y04"
-        End If
-        Return result
+        Select Case T4
+            Case "BWTX"
+                Return "B02"
+        End Select
+        Select Case T3
+            Case "BMH"
+                Return "B02"
+            Case "BVR", "BFF"
+                Return "B03"
+            Case "JMH"
+                Return "B02"
+            Case "AYM", "CYM", "BRJ", "PTL"
+                Return "Y04"
+        End Select
+        Select Case T2
+            Case "BY", "PE", "AI", "CI", "AM"
+                Return "Y04"
+            Case "JC"
+                Return "P04"
+        End Select
+        Select Case T1
+            Case "A", "C", "E"
+                Return "A04"
+            Case "P"
+                Return "P04"
+            Case "Y"
+                Return "Y04"
+        End Select
+        Return ""
     End Function
 
+    Private Sub GetBLMO(dtNewBLSO As DataTable, dtNewBLMO As DataTable)
+        Dim BLAdpt As New COPTC2TableAdapter
+        For Each row As DataRow In dtNewBLSO.Rows
+            Dim TC002 As String = row("TD002").ToString
+            Dim BLMORow As DataRow
+            Try
+                BLMORow = BLAdpt.GetDataByTC002(TC002)(0)
+                If BLMORow IsNot Nothing AndAlso Trim(BLMORow("TC001")) = "" Then
+                    dtNewBLMO.Rows.Add(BLMORow.ItemArray)
+                End If
+            Catch ex As Exception
+
+            End Try
+        Next
+    End Sub
+
+    Private Sub MergeBLSO2NewSO(dtNewBLSO As DataTable, dtNewSO As DataTable)
+        For Each dr As DataRow In dtNewBLSO.Rows
+            dtNewSO.Rows.Add(dr.ItemArray)
+        Next
+    End Sub
+
+    Private Sub SOUpdate(dtNewBLMO As DataTable)
+        Dim BLAdpt As New COPTC2TableAdapter
+        For Each dr As DataRow In dtNewBLMO.Rows
+            Dim TC031 As Decimal = dr("TC031")
+            Dim TC046 As Decimal = dr("TC046")
+            Try
+                BLAdpt.UpdateQuery(dr("TC001"), dr("TC005"), dr("TC010"), TC031, TC046, dr("TC002"))
+            Catch ex As SqlException
+                txt_elogs.Invoke(New LogMessageDelegate(AddressOf Elog), New Object() {"SOUpdate Failed. MO Number: " & dr("TC002") & ex.ToString, 3})
+            End Try
+        Next
+    End Sub
     Private Sub OrderLookup(dtSO As DataTable, dtRp As List(Of String))
         SetColOrder(dtSO)
         Dim DelRows As New List(Of DataRow)
         Dim drSO As DataRow
-        Dim COPTCAdpt As New OrdTableAdapter
+        Dim COPTCAdpt As New COPTC1TableAdapter
         dtSO.Columns("TE001").MaxLength = 4
         dtSO.Columns("TE002").MaxLength = 11
         dtSO.Columns("TE007").MaxLength = 10
@@ -986,12 +1214,13 @@ Public Class SOT
         DtMultiSO.PrimaryKey = New DataColumn() {DtMultiSO.Columns(1), DtMultiSO.Columns(2)}
         Dim DelRows As New List(Of DataRow)
         Dim drSO As DataRow
-        Dim COPTCAdpt As New OrdTableAdapter
+        Dim COPTCAdpt As New COPTC1TableAdapter
         Dim COPTDAdpt As New COPTDTableAdapter
         'dtSO.Columns("TF002").MaxLength = 40
         For Each drSO In dtSO.Rows
             Dim Order As DataTable = COPTCAdpt.GetDataBySORNO(drSO("TF002"))
             If Order.Rows.Count = 1 Then
+                drSO("TF001") = Order(0)("TC001")
                 drSO("TF002") = Order(0)("TC002")
                 Dim SubOrder As DataTable = COPTDAdpt.GetDataByTD123(drSO("TF001"), drSO("TF002"), drSO("TF004"))
                 If SubOrder.Rows.Count < 1 Then
@@ -1031,7 +1260,7 @@ Public Class SOT
         wSheet = wBook.Worksheets(wsNumber)
         wSheet.Name = wsName
         wSheet.Activate()
-        If dtTemp.Rows.Count > 1 Then
+        If dtTemp.Rows.Count >= 1 Then
             Dim dt As DataTable = dtTemp
             Dim dc As DataColumn
             Dim dr As DataRow
@@ -1186,7 +1415,7 @@ Public Class SOT
         mysettings.session_number = Date.Now.ToString("yyMMddhhmm")
         mysettings.Save()
         txt_elogs.Invoke(New LogMessageDelegate(AddressOf Elog), New Object() {"Session " & mysettings.session_number & " has started.", 2})
-
+        txt_elogs.Invoke(New LogMessageDelegate(AddressOf Elog), New Object() {"Start point: " & mysettings.cfg_spt, 2})
         ' Connection String
         Dim strCNVN As String = String.Format(mysettings.strCNVN,
                                               mysettings.cfg_tar_hostname,
@@ -1199,7 +1428,7 @@ Public Class SOT
                                               mysettings.cfg_tar_usrname,
                                               mysettings.cfg_tar_pw)
         ' Starting point for retrieving data
-        Dim spt As String = mysettings.cfg_spt.ToString("yyyy-MM-dd hh:mm:ss.fff")
+        Dim spt As String = mysettings.cfg_spt '.ToString("yyyy-MM-dd hh:mm:ss.fff")
 
         ' SQL Command for retrieving data
         Dim strCmdDIC As String = mysettings.strCmdDIC
@@ -1228,7 +1457,7 @@ Public Class SOT
         AddcolNameSO(DtSuccessDelSO)
         AddcolNameCOPTF(DtSuccessUpdSO)
         AddcolNameSO(DtSuccessInsSO)
-        AddcolNameCOPTE(DtMissProdInfoSOUpdated)
+        AddcolNameCOPTF(DtMissProdInfoSOUpdated)
         AddcolNameMultiOR(DtMultiSORNO)
         AddcolNameMultiOR1(FailSOLookUp)
         ' Get update of COPMA (customer) and COPMG (product)
@@ -1238,18 +1467,18 @@ Public Class SOT
         BW.ReportProgress(2)
 
         ' Get table COPMG
-        Dim ProAdpt As New ProdTableAdapter
-        Dim dtPRO As DataTable = ProAdpt.GetData()
+        'Dim ProAdpt As New ProdTableAdapter
+        'Dim dtPRO As DataTable = ProAdpt.GetData()
         BW.ReportProgress(8)
 
         ' Get update of MAINSODIC AND BLCOPXB
         Dim cnVNBL As New SqlConnection(strCNVNBL)
         cnVNBL.Open()
-        Dim dtDic As New DataTable
-        dtDic = GetData(cnVNBL, strCmdDIC, strDtDic)
+        'Dim dtDic As New DataTable
+        'dtDic = GetData(cnVNBL, strCmdDIC, strDtDic)
         BW.ReportProgress(14)
-        Dim dtBL As New DataTable
-        dtBL = GetData(cnVNBL, StrCmdBL, strDtBL)
+        'Dim dtBL As New DataTable
+        'dtBL = GetData(cnVNBL, StrCmdBL, strDtBL)
         BW.ReportProgress(16)
         cnVNBL.Close()
 
@@ -1264,8 +1493,12 @@ Public Class SOT
 
         'get MO
         Dim MOAdpt As New MAINSOTableAdapter
-        Dim dtMO As DataTable = MOAdpt.GetDataByNew(spt)
-
+        Dim dtMO As DataTable = MOAdpt.GetData(spt)
+        Dim RMAdpt As New REMARKSTableAdapter
+        Dim dtRM As DataTable = RMAdpt.GetData()
+        Dim dtUpdateMO As New DataTable
+        Dim dtUpdateMOforFilterSO As New DataTable
+        FilterRemarks(dtMO, dtRM)
         BW.ReportProgress(31)
 
         If dtMO.Rows.Count < 1 Then
@@ -1273,21 +1506,27 @@ Public Class SOT
         Else
             'get New startpoint for the next schedule
             Try
+                SetColOrder(dtMO)
                 Dim lastDr As DataRow = dtMO.Rows(dtMO.Rows.Count - 1)
                 Dim newspt As Date = lastDr(0)
-                mysettings.cfg_spt = newspt.ToString("yyyy-MM-dd hh:mm:ss.fff")
+                startPoint = mysettings.cfg_spt
+                mysettings.cfg_spt = newspt.ToString("yyyy-MM-dd HH:mm:ss.fff")
+                mysettings.Save()
                 'dtMO.Columns.Remove("DATETIME")
             Catch ex As SqlException
                 MsgBox(ex)
             End Try
             'get New MO
             Dim dtNewMO As DataTable = MOAdpt.GetDataByNew(spt)
+            FilterRemarks(dtNewMO, dtRM)
             If dtNewMO Is Nothing Then
                 txt_elogs.Invoke(New LogMessageDelegate(AddressOf Elog), New Object() {"No new Main Order found.", 0})
             Else
                 'get Update MO
                 Dim MOEAdpt As New COPTETableAdapter
-                Dim dtUpdateMO As DataTable = MOEAdpt.GetData(spt)
+                dtUpdateMO = MOEAdpt.GetData(spt)
+                FilterRemarks(dtUpdateMO, dtRM)
+                dtUpdateMOforFilterSO = dtUpdateMO.Copy
                 If dtUpdateMO Is Nothing Then
                     txt_elogs.Invoke(New LogMessageDelegate(AddressOf Elog), New Object() {"No updated Main Order found.", 0})
                 Else
@@ -1316,6 +1555,7 @@ Public Class SOT
             ' get SO
             Dim SOAdpt As New SOTTableAdapter
             Dim dtSO As DataTable = SOAdpt.GetData(spt)
+            FilterSO(dtSO, "TD002", dtMO, "TC012")
             BW.ReportProgress(56)
 
             If dtSO Is Nothing Then
@@ -1323,33 +1563,57 @@ Public Class SOT
             Else
                 '=====New SO=======
                 Dim dtNewSO As DataTable = SOAdpt.GetDataByNew(spt)
+                FilterSO(dtNewSO, "TD002", dtNewMO, "TC012")
                 If dtNewSO Is Nothing Then
                     txt_elogs.Invoke(New LogMessageDelegate(AddressOf Elog), New Object() {"No new Sub Order found.", 0})
                 Else
                     'get Update SO
                     Dim SOEAdpt As New COPTFTableAdapter
                     Dim dtUpdateSO As DataTable = SOEAdpt.GetData(spt)
+                    FilterSO(dtUpdateSO, "TF002", dtUpdateMOforFilterSO, "TE015")
                     If dtUpdateSO Is Nothing Then
                         txt_elogs.Invoke(New LogMessageDelegate(AddressOf Elog), New Object() {"No updated Sub Order found.", 0})
                     Else
-                        ProdNoFill2(dtUpdateSO, DtMissProdInfoSOUpdated)
                         'Assign MO Number
                         SubOrderLookup(dtUpdateSO, FailSOLookUp, DtMultiSORNO)
-                        ' Tranfer Updated MO to COPXA for status updating
+                        'Fill Product Info
+                        ProdNoFill2(dtUpdateSO, DtMissProdInfoSOUpdated)
+                        ' Tranfer Updated MO to COPTF for status updating
                         SOTrans(dtUpdateSO, strDtSOEdited, strCNVN, "update", DtSuccessUpdSO)
                     End If
                     BW.ReportProgress(80)
-
                     'Add Failed LookUp SO to New SO
                     MoveFailedLookUp2NewSO(dtNewSO, FailSOLookUp)
                     'Assign MO Number
                     AssignMONo(dtNewMO, dtNewSO, DtMissOrgMO)
-                    'Add Backlog SO to New SO datatable
-                    MoveBL2NewSO(dtNewSO, strCNVNBL)
+                    'Load backlog to datatable
+                    Dim dtNewBLSO As DataTable = dtNewSO.Clone
+                    MoveBL2NewSO(dtNewBLSO, strCNVNBL)
+                    'Fill Product Number Information for backlog SO
+                    If dtNewBLSO.Rows.Count > 0 Then
+                        ProdNoFill(dtNewBLSO, DtMissProdInfo)
+                    End If
+                    'Get BLMO for update
+                    If dtNewBLSO.Rows.Count > 0 Then
+                        Dim dtNewBLMO As New DataTable
+                        dtNewBLMO.Columns.Add(New DataColumn("TC001", GetType(String)))
+                        dtNewBLMO.Columns.Add(New DataColumn("TC002", GetType(String)))
+                        dtNewBLMO.Columns.Add(New DataColumn("TC005", GetType(String)))
+                        dtNewBLMO.Columns.Add(New DataColumn("TC010", GetType(String)))
+                        dtNewBLMO.Columns.Add(New DataColumn("TC031", GetType(Decimal)))
+                        dtNewBLMO.Columns.Add(New DataColumn("TC046", GetType(Decimal)))
+                        GetBLMO(dtNewBLSO, dtNewBLMO)
+                        'Fill Address Information for BLMO
+                        AddrFill(dtNewBLMO, dtNewBLSO, DtMissProdInfoMO)
+                        'Fill Sum Qty and Weight for BLMO
+                        SumFill(dtNewBLMO, dtNewBLSO)
+                        'Update BLMO
+                        SOUpdate(dtNewBLMO)
+                    End If
+                    'Add Backlog MO to New MO datatable
+                    'MoveBL2NewMO(dtNewMO, strCNVNBL)-->not need
                     'Fill Product Number Information
                     ProdNoFill(dtNewSO, DtMissProdInfo)
-                    'Add Backlog MO to New MO datatable
-                    MoveBL2NewMO(dtNewMO, strCNVNBL)
                     'Fill Address Information
                     AddrFill(dtNewMO, dtNewSO, DtMissProdInfoMO)
                     'Fill Sum Qty and Weight
@@ -1357,6 +1621,11 @@ Public Class SOT
                     ' Tranfer New MO to COPTC for status updating
                     SOTrans(dtNewMO, strDtMO, strCNVN, "create", dtSuccessMO, True)
                     ' Tranfer New SO to COPTD for status updating
+                    Try
+                        MergeBLSO2NewSO(dtNewBLSO, dtNewSO)
+                    Catch ex As SQLException
+
+                    End Try
                     SOTrans(dtNewSO, strDtSO, strCNVN, "create", DtSuccessInsSO)
                 End If
                 BW.ReportProgress(94)
@@ -1366,8 +1635,50 @@ Public Class SOT
         BW.ReportProgress(100)
     End Sub
 
+    Private Sub FilterRemarks(dtMO As DataTable, dtRM As DataTable)
+        Dim DelRows As New List(Of DataRow)
+        For Each drMO As DataRow In dtMO.Rows
+            Dim MORemark As String = Trim(drMO("REMARKS"))
+            For Each drRM As DataRow In dtRM.Rows
+                Dim Remark As String = Trim(drRM("REMARKS"))
+                If MORemark.Contains(Remark) Then
+                    DelRows.Add(drMO)
+                    Exit For
+                End If
+            Next
+        Next
+        For Each dr As DataRow In DelRows
+            dtMO.Rows.Remove(dr)
+        Next
+        dtMO.AcceptChanges()
+        RemoveREMARKSCol(dtMO)
+    End Sub
+    Private Sub FilterSO(dtSO As DataTable, SO_SORNOCOL As String, dtMO As DataTable, MO_SORNOCOL As String)
+        Dim DelRows As New List(Of DataRow)
+        For Each drSO As DataRow In dtSO.Rows
+            Dim SOSORNO As String = Trim(drSO(SO_SORNOCOL))
+            Dim found As Boolean = False
+            For Each drMO As DataRow In dtMO.Rows
+                Dim MOSORNO As String = Trim(drMO(MO_SORNOCOL))
+                If SOSORNO = MOSORNO Then
+                    found = True
+                    Exit For
+                End If
+            Next
+            If Not found Then
+                DelRows.Add(drSO)
+            End If
+        Next
+        For Each dr As DataRow In DelRows
+            dtSO.Rows.Remove(dr)
+        Next
+        dtSO.AcceptChanges()
+    End Sub
+
     Private Sub BW_RunWorkerCompleted(sender As Object, e As System.ComponentModel.RunWorkerCompletedEventArgs) Handles BW.RunWorkerCompleted
         Dim mysettings = My.Settings
+        txt_spt.Text = mysettings.cfg_spt
+        Elog("End point: " & mysettings.cfg_spt, 2)
         Elog("Session " & mysettings.session_number & " completed.", 2)
         'Write session log to .txt file
         Dim sessionLog As String = String.Format("Report\SessionLog_{0}.txt", mysettings.session_number)
@@ -1404,7 +1715,7 @@ Public Class SOT
         Dim ttFailedMO As Integer = DtMissProdInfoMO.Rows.Count
         Dim ttMissOrgMO As Integer = DtMultiSORNO.Rows.Count
         Dim ttMissPrdInfo As Integer = DtMissProdInfo.Rows.Count
-        Dim ttDelSO As Integer = DtSuccessDelSO.Rows.Count
+        'Dim ttDelSO As Integer = DtSuccessDelSO.Rows.Count
         Dim ttUpdSO As Integer = DtSuccessUpdSO.Rows.Count
         Dim ttNewSO As Integer = DtSuccessInsSO.Rows.Count
         'Send notification
@@ -1412,7 +1723,7 @@ Public Class SOT
         Dim ToAddressies() As String = mysettings.cfg_recipients.Split({vbLf}, StringSplitOptions.RemoveEmptyEntries)
         Dim attachs() As String = {sessionLog, detailXls}
         Dim subject As String = String.Format("SOT Report No. {0}", mysettings.session_number)
-        Dim body As String = String.Format(mysettings.notification_email_body, mysettings.session_number, ttFailedMO, ttMissOrgMO, ttMissPrdInfo, ttDelSO, ttUpdSO, ttNewSO)
+        Dim body As String = String.Format(mysettings.notification_email_body, mysettings.session_number, ttFailedMO, ttMissOrgMO, ttMissPrdInfo, ttUpdSO, ttNewSO, startPoint)
         Dim result As Boolean = GGmail.SendMail(ToAddressies, subject, body, attachs)
         If result Then
             Elog("Session report has sent.", 2)
@@ -1441,6 +1752,21 @@ Public Class SOT
             Application.Exit()
         Else
             MsgBox("Incorrect password!", MsgBoxStyle.Critical)
+        End If
+    End Sub
+
+    Private Sub Btn_edit_Click(sender As Object, e As EventArgs) Handles btn_edit.Click
+        If txt_spt.Enabled Then
+            btn_edit.Text = "Edit"
+            txt_spt.Enabled = False
+        Else
+            Dim pw As String = Microsoft.VisualBasic.Interaction.InputBox("Changing start point may lead to duplicate order. May sure you know what you do! Please enter your super admin password to terminate the application process!", "Warning", "*******")
+            If pw = My.Settings.supw Then
+                txt_spt.Enabled = True
+                btn_edit.Text = "Lock"
+            Else
+                MsgBox("Incorrect password!", MsgBoxStyle.Critical)
+            End If
         End If
     End Sub
 End Class

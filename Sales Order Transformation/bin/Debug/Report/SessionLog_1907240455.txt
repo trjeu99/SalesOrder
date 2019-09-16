@@ -1,0 +1,99 @@
+24/07/2019 04:55:57: Session 1907240455 has started.
+24/07/2019 04:55:57: Start point: 2019-07-22 12:00:00.000
+24/07/2019 04:56:02: Data in table MAINSODEL read sucessfully. 0 new data entries found.
+24/07/2019 04:56:02: Data in table BLCOPTD read sucessfully. 0 new data entries found.
+24/07/2019 04:56:02: Connection to 223.255.178.194 is opened.
+24/07/2019 04:56:02: The Sale Order number 197140086 not found.
+24/07/2019 04:56:02: The Sale Order number 198759290 not found.
+24/07/2019 04:56:02: The Sale Order number 4500301959 not found.
+24/07/2019 04:56:03: Order No. 1907371     has been updated.
+24/07/2019 04:56:03: Order No. 1907372     has been updated.
+24/07/2019 04:56:03: Order No. 1907373     has been updated.
+24/07/2019 04:56:03: Order No. 1907374     has been updated.
+24/07/2019 04:56:03: Order No. 1907335     has been updated.
+24/07/2019 04:56:04: The Sale Order number 197140086 not found.
+24/07/2019 04:56:04: The Sale Order number 198759290 not found.
+24/07/2019 04:56:04: The Sale Order number 4500301959 not found.
+24/07/2019 04:56:04: The changed order has the product number 3201004444 not found. Cannot import Order No. 1907371    -0003.
+24/07/2019 04:56:04: The changed order has the product number ZVARIE not found. Cannot import Order No. 1907372    -0003.
+24/07/2019 04:56:04: The changed order has the product number ZVARIE not found. Cannot import Order No. 1907372    -0003.
+24/07/2019 04:56:04: The changed order has the product number ZVARIE not found. Cannot import Order No. 1907373    -0002.
+24/07/2019 04:56:04: The changed order has the product number ZVARIE not found. Cannot import Order No. 1907373    -0002.
+24/07/2019 04:56:04: The changed order has the product number ZVARIE not found. Cannot import Order No. 1907373    -0002.
+24/07/2019 04:56:04: The changed order has the product number EG-60-20K not found. Cannot import Order No. 1907335    -0001.
+24/07/2019 04:56:04: Order No. 1907372     has been updated.
+24/07/2019 04:56:04: Order No. 1907372     has been updated.
+24/07/2019 04:56:04: Order No. 1907372     has been updated.
+24/07/2019 04:56:04: Order No. 1907372     has been updated.
+24/07/2019 04:56:04: Order No. 1907373     has been updated.
+24/07/2019 04:56:04: Order No. 1907373     has been updated.
+24/07/2019 04:56:04: Order No. 1907373     has been updated.
+24/07/2019 04:56:04: Order No. 1907374     has been updated.
+24/07/2019 04:56:04: Order No. 1907374     has been updated.
+24/07/2019 04:56:04: Order No. 1907335     has been updated.
+24/07/2019 04:56:04: Order No. 1907335     has been updated.
+24/07/2019 04:56:04: Order No. 1907335     has been updated.
+24/07/2019 04:56:04: Order No. 1907335     has been updated.
+24/07/2019 04:56:04: Order No. 1907335     has been updated.
+24/07/2019 04:56:04: Order No. 1907335     has been updated.
+24/07/2019 04:56:09: The product number ZVARIE not found. Cannot import Order No. 1907392-0002.
+24/07/2019 04:56:09: The product number ZVARIE not found. Cannot import Order No. 1907392-0004.
+24/07/2019 04:56:09: The product number EG-60-20K not found. Cannot import Order No. 1907400-0001.
+24/07/2019 04:56:09: The product number 40-01356VN not found. Cannot import Order No. 1907402-0001.
+24/07/2019 04:56:09: The product number 620501090078 not found. Cannot import Order No. 1907403-0001.
+24/07/2019 04:56:09: The product number 602000000048 not found. Cannot import Order No. 1907403-0003.
+24/07/2019 04:56:09: The product number 32283227 not found. Cannot import Order No. 1907410-0001.
+24/07/2019 04:56:10: Order No. 217939 has been created.
+24/07/2019 04:56:10: Order No. 217937 has been created.
+24/07/2019 04:56:10: Order No. 217935 has been created.
+24/07/2019 04:56:10: Order No. ORF/3626 has been created.
+24/07/2019 04:56:10: Order No. 19873 has been created.
+24/07/2019 04:56:10: Order No. 19874 has been created.
+24/07/2019 04:56:10: Order No. 19875 has been created.
+24/07/2019 04:56:10: Order No. 19876 has been created.
+24/07/2019 04:56:10: Order No. 19877 has been created.
+24/07/2019 04:56:10: Order No. 19878 has been created.
+24/07/2019 04:56:10: Order No. 19879 has been created.
+24/07/2019 04:56:10: Order No. W21-190705001 has been created.
+24/07/2019 04:56:10: Order No. 178920 has been created.
+24/07/2019 04:56:10: Order No. 165852 has been created.
+24/07/2019 04:56:10: Order No. VR-9001 has been created.
+24/07/2019 04:56:10: Order No. 199217153 has been created.
+24/07/2019 04:56:10: Order No. 199545409 has been created.
+24/07/2019 04:56:10: Order No. 9323761851/10 has been created.
+24/07/2019 04:56:10: Order No. P003219 has been created.
+24/07/2019 04:56:10: Order No. 197140086 has been created.
+24/07/2019 04:56:10: Order No. 198759290 has been created.
+24/07/2019 04:56:10: Order No. 4500301959 has been created.
+24/07/2019 04:56:10: Order No. 1907389 has been created.
+24/07/2019 04:56:10: Order No. 1907390 has been created.
+24/07/2019 04:56:10: Order No. 1907391 has been created.
+24/07/2019 04:56:10: Order No. 1907392 has been created.
+24/07/2019 04:56:10: Order No. 1907392 has been created.
+24/07/2019 04:56:10: Order No. 1907393 has been created.
+24/07/2019 04:56:10: Order No. 1907394 has been created.
+24/07/2019 04:56:10: Order No. 1907394 has been created.
+24/07/2019 04:56:10: Order No. 1907394 has been created.
+24/07/2019 04:56:10: Order No. 1907394 has been created.
+24/07/2019 04:56:10: Order No. 1907395 has been created.
+24/07/2019 04:56:10: Order No. 1907395 has been created.
+24/07/2019 04:56:10: Order No. 1907396 has been created.
+24/07/2019 04:56:10: Order No. 1907396 has been created.
+24/07/2019 04:56:10: Order No. 1907397 has been created.
+24/07/2019 04:56:10: Order No. 1907397 has been created.
+24/07/2019 04:56:10: Order No. 1907398 has been created.
+24/07/2019 04:56:10: Order No. 1907398 has been created.
+24/07/2019 04:56:10: Order No. 1907398 has been created.
+24/07/2019 04:56:10: Order No. 1907398 has been created.
+24/07/2019 04:56:10: Order No. 1907399 has been created.
+24/07/2019 04:56:10: Order No. 1907401 has been created.
+24/07/2019 04:56:10: Order No. 1907401 has been created.
+24/07/2019 04:56:10: Order No. 1907403 has been created.
+24/07/2019 04:56:10: Order No. 1907404 has been created.
+24/07/2019 04:56:10: Order No. 1907405 has been created.
+24/07/2019 04:56:10: Order No. 1907406 has been created.
+24/07/2019 04:56:10: Order No. 1907407 has been created.
+24/07/2019 04:56:10: Order No. 1907408 has been created.
+24/07/2019 04:56:10: Order No. 1907409 has been created.
+24/07/2019 04:56:10: End point: 2019-07-24 03:19:49.767
+24/07/2019 04:56:10: Session 1907240455 completed.

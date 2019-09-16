@@ -1,0 +1,35 @@
+26/08/2019 01:46:59: Session 1908260146 has started.
+26/08/2019 01:46:59: Start point: 2019-08-23 16:05:26.687
+26/08/2019 01:47:01: Connection to 223.255.178.194 is opened.
+26/08/2019 01:47:02: Order No. 1908059     has been updated.
+26/08/2019 01:47:02: Order No. 1908047     has been updated.
+26/08/2019 01:47:02: Order No. 1907216     has been updated.
+26/08/2019 01:47:02: Order No. 1907109     has been updated.
+26/08/2019 01:47:02: Order No. 1908024     has been updated.
+26/08/2019 01:47:03: Order number 5500147725-0919VN has more than one ERP Order No. System cannot decide!
+26/08/2019 01:47:03: Order number 5500147725-0919VN has more than one ERP Order No. System cannot decide!
+26/08/2019 01:47:03: Order number 5500147725-0919VN has more than one ERP Order No. System cannot decide!
+26/08/2019 01:47:03: The changed order has the product number 990000000104 not found. Cannot import Order No. 1908024    -0001.
+26/08/2019 01:47:03: Order No. 1907216     has been updated.
+26/08/2019 01:47:03: Order No. 1907216     has been updated.
+26/08/2019 01:47:03: Order No. 1907216     has been updated.
+26/08/2019 01:47:03: Order No. 1908047     has been updated.
+26/08/2019 01:47:04: Order No. 1908047     has been updated.
+26/08/2019 01:47:04: Order No. 1908047     has been updated.
+26/08/2019 01:47:04: Order No. 1908059     has been updated.
+26/08/2019 01:47:04: Order No. 1908059     has been updated.
+26/08/2019 01:47:04: Order No. 1908059     has been updated.
+26/08/2019 01:47:04: The product number 3100514559 not found. Cannot import Order No. 1908093-0001.
+26/08/2019 01:47:04: Order No. 9323786765 has been created.
+26/08/2019 01:47:04: Order No. 9323786850/20 has been created.
+26/08/2019 01:47:04: Order No. 9323786758/20 has been created.
+26/08/2019 01:47:04: Order No. 260819 has been created.
+26/08/2019 01:47:04: Order No. 1908091 has been created.
+26/08/2019 01:47:04: Order No. 1908091 has been created.
+26/08/2019 01:47:04: Order No. 1908091 has been created.
+26/08/2019 01:47:04: Order No. 1908091 has been created.
+26/08/2019 01:47:04: Order No. 1908091 has been created.
+26/08/2019 01:47:04: Order No. 1908092 has been created.
+26/08/2019 01:47:04: Order No. 1908094 has been created.
+26/08/2019 01:47:04: End point: 2019-08-26 14:02:28.977
+26/08/2019 01:47:04: Session 1908260146 completed.

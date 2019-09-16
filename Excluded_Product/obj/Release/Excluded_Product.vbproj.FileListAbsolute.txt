@@ -1,0 +1,11 @@
+C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\Excluded_Product\obj\Release\Excluded_Product.Excluded_items.resources
+C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\Excluded_Product\obj\Release\Excluded_Product.vbproj.GenerateResource.cache
+C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\Excluded_Product\bin\Release\Excluded_Product.exe.config
+C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\Excluded_Product\bin\Release\Excluded_Product.exe
+C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\Excluded_Product\bin\Release\Excluded_Product.pdb
+C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\Excluded_Product\bin\Release\Excluded_Product.xml
+C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\Excluded_Product\obj\Release\Excluded_Product.Resources.resources
+C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\Excluded_Product\obj\Release\Excluded_Product.vbproj.CoreCompileInputs.cache
+C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\Excluded_Product\obj\Release\Excluded_Product.exe
+C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\Excluded_Product\obj\Release\Excluded_Product.xml
+C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\Excluded_Product\obj\Release\Excluded_Product.pdb

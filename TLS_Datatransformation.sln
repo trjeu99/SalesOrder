@@ -7,6 +7,10 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Sales Order Transformation"
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{C8FDE128-C085-4EE1-8B0A-DCE070D26B22}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Excluded_Product", "Excluded_Product\Excluded_Product.vbproj", "{E68DC0FA-4617-435C-9F57-9A40F9A1E7DD}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ExProduct Setup", "ExProduct Setup\ExProduct Setup.vdproj", "{2BABE847-70D7-4CD6-A77C-C66F39A13D0E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +24,12 @@ Global
 		{C8FDE128-C085-4EE1-8B0A-DCE070D26B22}.Debug|Any CPU.ActiveCfg = Debug
 		{C8FDE128-C085-4EE1-8B0A-DCE070D26B22}.Release|Any CPU.ActiveCfg = Release
 		{C8FDE128-C085-4EE1-8B0A-DCE070D26B22}.Release|Any CPU.Build.0 = Release
+		{E68DC0FA-4617-435C-9F57-9A40F9A1E7DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E68DC0FA-4617-435C-9F57-9A40F9A1E7DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E68DC0FA-4617-435C-9F57-9A40F9A1E7DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E68DC0FA-4617-435C-9F57-9A40F9A1E7DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BABE847-70D7-4CD6-A77C-C66F39A13D0E}.Debug|Any CPU.ActiveCfg = Debug
+		{2BABE847-70D7-4CD6-A77C-C66F39A13D0E}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

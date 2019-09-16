@@ -1,0 +1,1219 @@
+16/07/2019 12:03:42: Session 1907161203 has started.
+16/07/2019 12:04:11: Data in table MAINSODEL read sucessfully. 0 new data entries found.
+16/07/2019 12:04:11: Data in table BLCOPTD read sucessfully. 0 new data entries found.
+16/07/2019 12:04:11: Connection to 223.255.178.194 is opened.
+16/07/2019 12:04:13: The Sale Order number P003200 not found.
+16/07/2019 12:04:13: The Sale Order number 11663 not found.
+16/07/2019 12:04:13: The Sale Order number ORF/2924 not found.
+16/07/2019 12:04:13: The Sale Order number 7428100105 not found.
+16/07/2019 12:04:13: The Sale Order number 5292000105 not found.
+16/07/2019 12:04:13: The Sale Order number 7712400105 not found.
+16/07/2019 12:04:13: Failed to update Order No. 1904101    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1904101    , 0002).
+The statement has been terminated.
+16/07/2019 12:04:13: Failed to update Order No. 1906111    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (    , 1906111    , 0003).
+The statement has been terminated.
+16/07/2019 12:04:13: Failed to update Order No. 1907127    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (    , 1907127    , 0001).
+The statement has been terminated.
+16/07/2019 12:04:13: Failed to update Order No. 1904015    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B221, 1904015    , 0001).
+The statement has been terminated.
+16/07/2019 12:04:13: Failed to update Order No. 1806055    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B221, 1806055    , 0006).
+The statement has been terminated.
+16/07/2019 12:04:13: Failed to update Order No. 1806056    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B221, 1806056    , 0001).
+The statement has been terminated.
+16/07/2019 12:04:13: Failed to update Order No. 1901005    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B221, 1901005    , 0003).
+The statement has been terminated.
+16/07/2019 12:04:13: Failed to update Order No. 1812210    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (    , 1812210    , 0002).
+The statement has been terminated.
+16/07/2019 12:04:13: Failed to update Order No. 1812008    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B221, 1812008    , 0003).
+The statement has been terminated.
+16/07/2019 12:04:13: Failed to update Order No. 1906022    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B221, 1906022    , 0006).
+The statement has been terminated.
+16/07/2019 12:04:13: Failed to update Order No. 1906021    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B221, 1906021    , 0008).
+The statement has been terminated.
+16/07/2019 12:04:13: Failed to update Order No. 1906004    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (J221, 1906004    , 0006).
+The statement has been terminated.
+16/07/2019 12:04:13: Failed to update Order No. 1806057    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B221, 1806057    , 0006).
+The statement has been terminated.
+16/07/2019 12:04:13: Failed to update Order No. 1806058    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B221, 1806058    , 0003).
+The statement has been terminated.
+16/07/2019 12:04:13: Failed to update Order No. 1809139    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (    , 1809139    , 0005).
+The statement has been terminated.
+16/07/2019 12:04:13: Failed to update Order No. 1810129    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (    , 1810129    , 0006).
+The statement has been terminated.
+16/07/2019 12:04:13: Failed to update Order No. 1811174    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B222, 1811174    , 0001).
+The statement has been terminated.
+16/07/2019 12:04:14: Failed to update Order No. 1811175    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (    , 1811175    , 0002).
+The statement has been terminated.
+16/07/2019 12:04:14: Failed to update Order No. 1905145    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (    , 1905145    , 0002).
+The statement has been terminated.
+16/07/2019 12:04:14: Failed to update Order No. 1811176    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B221, 1811176    , 0001).
+The statement has been terminated.
+16/07/2019 12:04:14: Failed to update Order No. 1811177    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B221, 1811177    , 0002).
+The statement has been terminated.
+16/07/2019 12:04:14: Failed to update Order No. 1812211    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B221, 1812211    , 0002).
+The statement has been terminated.
+16/07/2019 12:04:14: Failed to update Order No. 1809140    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B221, 1809140    , 0005).
+The statement has been terminated.
+16/07/2019 12:04:14: Failed to update Order No. 1904051    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1904051    , 0002).
+The statement has been terminated.
+16/07/2019 12:04:14: Failed to update Order No. 1906116    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1906116    , 0002).
+The statement has been terminated.
+16/07/2019 12:04:14: Failed to update Order No. 1906117    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (    , 1906117    , 0003).
+The statement has been terminated.
+16/07/2019 12:04:14: Failed to update Order No. 1905148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (    , 1905148    , 0002).
+The statement has been terminated.
+16/07/2019 12:04:14: Failed to update Order No. 1905137    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (    , 1905137    , 0007).
+The statement has been terminated.
+16/07/2019 12:04:14: Failed to update Order No. 1905136    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (    , 1905136    , 0004).
+The statement has been terminated.
+16/07/2019 12:04:14: Failed to update Order No. 1906053    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1906053    , 0002).
+The statement has been terminated.
+16/07/2019 12:04:14: Failed to update Order No. 1906052    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1906052    , 0002).
+The statement has been terminated.
+16/07/2019 12:04:14: Failed to update Order No. 1907120    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (    , 1907120    , 0006).
+The statement has been terminated.
+16/07/2019 12:04:14: Failed to update Order No. 1906051    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1906051    , 0005).
+The statement has been terminated.
+16/07/2019 12:04:14: Failed to update Order No. 1907049    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1907049    , 0004).
+The statement has been terminated.
+16/07/2019 12:04:14: Failed to update Order No. 1907033    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1907033    , 0001).
+The statement has been terminated.
+16/07/2019 12:04:15: Failed to update Order No. 1906085    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1906085    , 0003).
+The statement has been terminated.
+16/07/2019 12:04:15: Failed to update Order No. 1907070    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1907070    , 0002).
+The statement has been terminated.
+16/07/2019 12:04:15: Failed to update Order No. 1907034    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1907034    , 0002).
+The statement has been terminated.
+16/07/2019 12:04:15: Failed to update Order No. 1907088    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1907088    , 0001).
+The statement has been terminated.
+16/07/2019 12:04:15: Failed to update Order No. 1907035    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1907035    , 0002).
+The statement has been terminated.
+16/07/2019 12:04:15: Failed to update Order No. 1905093    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1905093    , 0001).
+The statement has been terminated.
+16/07/2019 12:04:15: Failed to update Order No. 1907036    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1907036    , 0003).
+The statement has been terminated.
+16/07/2019 12:04:15: Failed to update Order No. 1907111    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1907111    , 0001).
+The statement has been terminated.
+16/07/2019 12:04:15: Failed to update Order No. 1906102    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (    , 1906102    , 0007).
+The statement has been terminated.
+16/07/2019 12:04:15: Failed to update Order No. 1907093    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (    , 1907093    , 0002).
+The statement has been terminated.
+16/07/2019 12:04:15: Failed to update Order No. 1905138    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B221, 1905138    , 0006).
+The statement has been terminated.
+16/07/2019 12:04:15: Failed to update Order No. 1903001    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1903001    , 0005).
+The statement has been terminated.
+16/07/2019 12:04:15: Failed to update Order No. 1903145    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (    , 1903145    , 0003).
+The statement has been terminated.
+16/07/2019 12:04:15: Failed to update Order No. 1907259    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1907259    , 0001).
+The statement has been terminated.
+16/07/2019 12:04:15: Failed to update Order No. 1811173    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (    , 1811173    , 0004).
+The statement has been terminated.
+16/07/2019 12:04:15: Failed to update Order No. 1907001    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B222, 1907001    , 0010).
+The statement has been terminated.
+16/07/2019 12:04:15: Failed to update Order No. 1901005    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (J221, 1901005    , 0025).
+The statement has been terminated.
+16/07/2019 12:04:19: The changed order have the product number 880050 OR 00 not found. Cannot import Order No. 4512199620-0002.
+16/07/2019 12:04:19: The changed order have the product number 1176406S02 not found. Cannot import Order No. 5500157077-0619V-0006.
+16/07/2019 12:04:19: The changed order have the product number 1176406S02 not found. Cannot import Order No. 5500157077-0619V-0006.
+16/07/2019 12:04:19: The changed order have the product number 1176406S02 not found. Cannot import Order No. 5500157077-1018VN-0005.
+16/07/2019 12:04:19: The changed order have the product number 1176406S02 not found. Cannot import Order No. 5500157077-1018VN-0005.
+16/07/2019 12:04:19: The changed order have the product number 1176406S02 not found. Cannot import Order No. 5500157077-1018VN-0005.
+16/07/2019 12:04:19: The changed order have the product number 1176406S02 not found. Cannot import Order No. 5500157077-1018VN-0005.
+16/07/2019 12:04:19: The changed order have the product number FREIGHT not found. Cannot import Order No. 5500157077-1018VN-0005.
+16/07/2019 12:04:19: The changed order have the product number 1176406S02 not found. Cannot import Order No. 5500157077-1018VN-0005.
+16/07/2019 12:04:19: The changed order have the product number 602000000038 not found. Cannot import Order No. CP-201600400-0008.
+16/07/2019 12:04:19: The changed order have the product number 602000000016 not found. Cannot import Order No. CP-201600400-0008.
+16/07/2019 12:04:19: The changed order have the product number 602000000030 not found. Cannot import Order No. CP-201600400-0008.
+16/07/2019 12:04:19: The changed order have the product number 602000000035 not found. Cannot import Order No. CP-201600400-0008.
+16/07/2019 12:04:19: The changed order have the product number 602000000040 not found. Cannot import Order No. CP-201600400-0008.
+16/07/2019 12:04:19: The changed order have the product number 602000000045 not found. Cannot import Order No. CP-201600400-0008.
+16/07/2019 12:04:19: The changed order have the product number 602000000050 not found. Cannot import Order No. CP-201600400-0008.
+16/07/2019 12:04:19: The changed order have the product number 602000000055 not found. Cannot import Order No. CP-201600400-0008.
+16/07/2019 12:04:19: The changed order have the product number 602400000010 not found. Cannot import Order No. CP-201600400-0008.
+16/07/2019 12:04:19: The changed order have the product number 6070V0000038 not found. Cannot import Order No. CP-201600400-0008.
+16/07/2019 12:04:19: The changed order have the product number 602400000015 not found. Cannot import Order No. CP-201600400-0008.
+16/07/2019 12:04:19: The changed order have the product number 602401130420 not found. Cannot import Order No. CP-201600400-0008.
+16/07/2019 12:04:19: The changed order have the product number 6070V0000025 not found. Cannot import Order No. CP-201600400-0008.
+16/07/2019 12:04:19: The changed order have the product number 602000000035 not found. Cannot import Order No. CP-201600400-0008.
+16/07/2019 12:04:19: The changed order have the product number 602400000063 not found. Cannot import Order No. CP-201600595-0007.
+16/07/2019 12:04:19: The changed order have the product number 620501090078 not found. Cannot import Order No. CP-201600595-0007.
+16/07/2019 12:04:19: The changed order have the product number 602400000057 not found. Cannot import Order No. CP-201600595-0007.
+16/07/2019 12:04:19: The changed order have the product number 602400000057 not found. Cannot import Order No. CP-201600595-0007.
+16/07/2019 12:04:19: The changed order have the product number 602400000051 not found. Cannot import Order No. CP-201600595-0007.
+16/07/2019 12:04:19: The changed order have the product number 602400000045 not found. Cannot import Order No. CP-201600595-0007.
+16/07/2019 12:04:19: The changed order have the product number 602000000038 not found. Cannot import Order No. CP-201600595-0007.
+16/07/2019 12:04:19: The changed order have the product number 620501090078 not found. Cannot import Order No. CP-201600595-0007.
+16/07/2019 12:04:20: The changed order have the product number 602401980454 not found. Cannot import Order No. CP-201602205-0005.
+16/07/2019 12:04:20: The changed order have the product number 630401020268 not found. Cannot import Order No. CP-201602205-0005.
+16/07/2019 12:04:20: The changed order have the product number 630401110532 not found. Cannot import Order No. CP-201602205-0005.
+16/07/2019 12:04:20: The changed order have the product number 6070V0000013 not found. Cannot import Order No. CP-201602331-0002.
+16/07/2019 12:04:20: The changed order have the product number TUBOS DE CAUCHO Y SILICO not found. Cannot import Order No. CP-201602435-0005.
+16/07/2019 12:04:20: The changed order have the product number TUBOS DE CAUCHO Y SILICO not found. Cannot import Order No. CP-201602435-0005.
+16/07/2019 12:04:20: The changed order have the product number TUBOS DE CAUCHO Y SILICO not found. Cannot import Order No. CP-201602621-0003.
+16/07/2019 12:04:20: The changed order have the product number TUBOS DE CAUCHO Y SILICO not found. Cannot import Order No. CP-201602658-0004.
+16/07/2019 12:04:20: The changed order have the product number TUBOS DE CAUCHO Y SILICO not found. Cannot import Order No. CP-201602658-0004.
+16/07/2019 12:04:20: The changed order have the product number TUBOS DE CAUCHO Y SILICO not found. Cannot import Order No. CP-201602679-0004.
+16/07/2019 12:04:20: The changed order have the product number TUBOS DE CAUCHO Y SILICO not found. Cannot import Order No. CP-201602679-0004.
+16/07/2019 12:04:20: The changed order have the product number 620501090078 not found. Cannot import Order No. CP-201600375-0006.
+16/07/2019 12:04:20: The changed order have the product number 602400000045 not found. Cannot import Order No. CP-201600375-0006.
+16/07/2019 12:04:20: The changed order have the product number 602400000010 not found. Cannot import Order No. CP-201600375-0006.
+16/07/2019 12:04:21: The changed order have the product number 6070V0000013 not found. Cannot import Order No. CP-201602222-0002.
+16/07/2019 12:04:22: The changed order have the product number 6070V0000013 not found. Cannot import Order No. CP-201602222-0002.
+16/07/2019 12:04:22: The changed order have the product number 6070V0000013 not found. Cannot import Order No. CP-201602222-0002.
+16/07/2019 12:04:22: The changed order have the product number 602401130420 not found. Cannot import Order No. CP-201602222-0002.
+16/07/2019 12:04:22: The changed order have the product number TUBOS DE CAUCHO Y SILICO not found. Cannot import Order No. CP-201700074-0006.
+16/07/2019 12:04:23: The changed order have the product number TUBOS DE CAUCHO Y SILICO not found. Cannot import Order No. CP-201700074-0006.
+16/07/2019 12:04:23: The changed order have the product number TUBOS DE CAUCHO Y SILICO not found. Cannot import Order No. CP-201603146-0006.
+16/07/2019 12:04:27: The changed order have the product number TUBOS DE CAUCHO Y SILICO not found. Cannot import Order No. CP-201603146-0006.
+16/07/2019 12:04:27: The changed order have the product number TUBOS DE CAUCHO Y SILICO not found. Cannot import Order No. CP-201603146-0006.
+16/07/2019 12:04:27: The changed order have the product number TUBOS DE CAUCHO Y SILICO not found. Cannot import Order No. CP-201603146-0006.
+16/07/2019 12:04:27: The changed order have the product number TUBOS DE CAUCHO Y SILICO not found. Cannot import Order No. CP-201700348-0012.
+16/07/2019 12:04:27: The changed order have the product number TUBOS DE CAUCHO Y SILICO not found. Cannot import Order No. CP-201700348-0012.
+16/07/2019 12:04:27: The changed order have the product number TUBOS DE CAUCHO Y SILICO not found. Cannot import Order No. CP-201700348-0012.
+16/07/2019 12:04:28: The changed order have the product number 602400000038 not found. Cannot import Order No. CP-201700299-0006.
+16/07/2019 12:04:28: The changed order have the product number 602400000051 not found. Cannot import Order No. CP-201700299-0006.
+16/07/2019 12:04:28: The changed order have the product number 602400000057 not found. Cannot import Order No. CP-201700299-0006.
+16/07/2019 12:04:28: The changed order have the product number TUBOS DE CAUCHO Y SILICO not found. Cannot import Order No. CP-201700480-0006.
+16/07/2019 12:04:29: The changed order have the product number TUBOS DE CAUCHO Y SILICO not found. Cannot import Order No. CP-201700480-0006.
+16/07/2019 12:04:29: The changed order have the product number TUBOS DE CAUCHO Y SILICO not found. Cannot import Order No. CP-201700480-0006.
+16/07/2019 12:04:29: The changed order have the product number 602000000008 not found. Cannot import Order No. CP-201802200-0006.
+16/07/2019 12:04:30: The changed order have the product number 602000000048 not found. Cannot import Order No. CP-201802200-0006.
+16/07/2019 12:04:31: The changed order have the product number 6070V0000006 not found. Cannot import Order No. CP-201802200-0006.
+16/07/2019 12:04:31: The changed order have the product number 602000000008 not found. Cannot import Order No. CP-201802200-0006.
+16/07/2019 12:04:31: The changed order have the product number 602000000014 not found. Cannot import Order No. CP-201802200-0006.
+16/07/2019 12:04:31: The changed order have the product number 602000000015 not found. Cannot import Order No. CP-201802200-0006.
+16/07/2019 12:04:32: The changed order have the product number 602000000020 not found. Cannot import Order No. CP-201802200-0006.
+16/07/2019 12:04:34: The changed order have the product number 602000000022 not found. Cannot import Order No. CP-201802200-0006.
+16/07/2019 12:04:39: The changed order have the product number 602000000030 not found. Cannot import Order No. CP-201802200-0006.
+16/07/2019 12:04:56: The changed order have the product number 602000000032 not found. Cannot import Order No. CP-201802200-0006.
+16/07/2019 12:04:57: The changed order have the product number 602000000038 not found. Cannot import Order No. CP-201802200-0006.
+16/07/2019 12:04:57: The changed order have the product number 602000000040 not found. Cannot import Order No. CP-201802200-0006.
+16/07/2019 12:04:58: The changed order have the product number 602000000045 not found. Cannot import Order No. CP-201802200-0006.
+16/07/2019 12:04:59: The changed order have the product number 602000000048 not found. Cannot import Order No. CP-201802200-0006.
+16/07/2019 12:05:00: The changed order have the product number 602000000063 not found. Cannot import Order No. CP-201802200-0006.
+16/07/2019 12:05:07: The changed order have the product number 602000000090 not found. Cannot import Order No. CP-201802200-0006.
+16/07/2019 12:05:07: The changed order have the product number 602400000013 not found. Cannot import Order No. CP-201802200-0006.
+16/07/2019 12:05:08: The changed order have the product number 602400000022 not found. Cannot import Order No. CP-201802200-0006.
+16/07/2019 12:05:08: The changed order have the product number 602400000051 not found. Cannot import Order No. CP-201802200-0006.
+16/07/2019 12:05:09: The changed order have the product number 602400000076 not found. Cannot import Order No. CP-201802200-0006.
+16/07/2019 12:05:09: The changed order have the product number 602400000100 not found. Cannot import Order No. CP-201802200-0006.
+16/07/2019 12:05:09: The changed order have the product number 6070V0000013 not found. Cannot import Order No. CP-201802200-0006.
+16/07/2019 12:05:12: The changed order have the product number 6070V0000020 not found. Cannot import Order No. CP-201802200-0006.
+16/07/2019 12:05:15: The changed order have the product number 6070V0000022 not found. Cannot import Order No. CP-201802200-0006.
+16/07/2019 12:05:28: The changed order have the product number 6070V0000032 not found. Cannot import Order No. CP-201802200-0006.
+16/07/2019 12:05:54: The changed order have the product number 602000000006 not found. Cannot import Order No. CP-201802200-0006.
+16/07/2019 12:05:55: The changed order have the product number 602000000010 not found. Cannot import Order No. CP-201802200-0006.
+16/07/2019 12:05:55: The changed order have the product number 602000000016 not found. Cannot import Order No. CP-201802200-0006.
+16/07/2019 12:05:55: The changed order have the product number 602400000060 not found. Cannot import Order No. CP-201802200-0006.
+16/07/2019 12:05:58: The changed order have the product number 602000000013 not found. Cannot import Order No. CP-201801050-0002.
+16/07/2019 12:05:58: The changed order have the product number 602000000018 not found. Cannot import Order No. CP-201801050-0002.
+16/07/2019 12:05:58: The changed order have the product number 602000000030 not found. Cannot import Order No. CP-201801050-0002.
+16/07/2019 12:05:58: The changed order have the product number 602000000032 not found. Cannot import Order No. CP-201801050-0002.
+16/07/2019 12:05:58: The changed order have the product number 602000000040 not found. Cannot import Order No. CP-201801050-0002.
+16/07/2019 12:05:58: The changed order have the product number 602000000060 not found. Cannot import Order No. CP-201801050-0002.
+16/07/2019 12:05:58: The changed order have the product number 602000000076 not found. Cannot import Order No. CP-201801050-0002.
+16/07/2019 12:05:58: The changed order have the product number 602400000028 not found. Cannot import Order No. CP-201801050-0002.
+16/07/2019 12:05:59: The changed order have the product number 602400000045 not found. Cannot import Order No. CP-201801050-0002.
+16/07/2019 12:05:59: The changed order have the product number 602400000050 not found. Cannot import Order No. CP-201801050-0002.
+16/07/2019 12:05:59: The changed order have the product number 602000000070 not found. Cannot import Order No. CP-201801050-0002.
+16/07/2019 12:05:59: The changed order have the product number 602000000045 not found. Cannot import Order No. CP-201802417-0001.
+16/07/2019 12:06:02: The changed order have the product number 602400000013 not found. Cannot import Order No. CP-201802417-0001.
+16/07/2019 12:06:03: The changed order have the product number 602400000028 not found. Cannot import Order No. CP-201802417-0001.
+16/07/2019 12:06:04: The changed order have the product number 602400000051 not found. Cannot import Order No. CP-201802417-0001.
+16/07/2019 12:06:04: The changed order have the product number 602400000090 not found. Cannot import Order No. CP-201802417-0001.
+16/07/2019 12:06:04: The changed order have the product number 620501090078 not found. Cannot import Order No. CP-201802417-0001.
+16/07/2019 12:06:04: The changed order have the product number 602000000008 not found. Cannot import Order No. CP-201802425-0002.
+16/07/2019 12:06:04: The changed order have the product number 602000000048 not found. Cannot import Order No. CP-201802425-0002.
+16/07/2019 12:06:04: The changed order have the product number 602400000028 not found. Cannot import Order No. CP-201802425-0002.
+16/07/2019 12:06:05: The changed order have the product number 99002 not found. Cannot import Order No. CMD1901217-0003.
+16/07/2019 12:06:05: The changed order have the product number 08405 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:05: The changed order have the product number 084055 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:05: The changed order have the product number 084071 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:06: The changed order have the product number 084107 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:06: The changed order have the product number 08421 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:06: The changed order have the product number 08496 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:06: The changed order have the product number 08638 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:06: The changed order have the product number 087121 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:06: The changed order have the product number 45-200X10 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:06: The changed order have the product number 45-250X10 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:06: The changed order have the product number 45-400X10 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:06: The changed order have the product number 45B-175X10 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:06: The changed order have the product number 5-302 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:06: The changed order have the product number 5-402 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:06: The changed order have the product number 90-062X10 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:06: The changed order have the product number 90-075X10 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:07: The changed order have the product number 90-100X10 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:07: The changed order have the product number 90-138X10 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:07: The changed order have the product number 9017481-2 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:07: The changed order have the product number 90-200X10 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:07: The changed order have the product number 90-225X10 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:07: The changed order have the product number 90-250X10 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:07: The changed order have the product number 90-400X10 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:07: The changed order have the product number 90B-075X2.25 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:07: The changed order have the product number 90B-125X10 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:07: The changed order have the product number 90B-150X10 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:07: The changed order have the product number 90B-250X10 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:07: The changed order have the product number AIGY1A-019 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:07: The changed order have the product number C20FLX-125 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:07: The changed order have the product number HS-6743 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:07: The changed order have the product number HS-8759 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:08: The changed order have the product number HS-9329 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:08: The changed order have the product number HT40-138 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:08: The changed order have the product number HT40-400 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:08: The changed order have the product number MHA00082 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:08: The changed order have the product number R40-150/200 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:08: The changed order have the product number R40-225/300 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:08: The changed order have the product number R40-275/350 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:08: The changed order have the product number R40-300/350 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:09: The changed order have the product number R40B-200/225 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:09: The changed order have the product number R40B-350/400X5 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:09: The changed order have the product number R40B-350/425X4 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:09: The changed order have the product number SUM-294041 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:09: The changed order have the product number 08639 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:09: The changed order have the product number C40-038X156 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:09: The changed order have the product number C40-050 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:09: The changed order have the product number C40-075X36'' not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:09: The changed order have the product number C40-100X36'' not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:09: The changed order have the product number C40-138 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:10: The changed order have the product number C40-138X36'' not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:10: The changed order have the product number C40-225 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:10: The changed order have the product number C40-225X36'' not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:10: The changed order have the product number C40-275 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:10: The changed order have the product number C40-400 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:10: The changed order have the product number C40-500 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:10: The changed order have the product number C40-600 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:11: The changed order have the product number C40B-175 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:11: The changed order have the product number C40B-300 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:11: The changed order have the product number C40B-350 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:11: The changed order have the product number C40B-500 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:11: The changed order have the product number CAC40-400X6 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:11: The changed order have the product number CAC40-400X8 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:12: The changed order have the product number CAC40P-400X6 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:12: The changed order have the product number FXT-198 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:12: The changed order have the product number FXT-236B not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:13: The changed order have the product number FXT-237B not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:15: The changed order have the product number FXT-279 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:15: The changed order have the product number FXT-314 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:16: The changed order have the product number FXT-383 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:16: The changed order have the product number FXT-405 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:18: The changed order have the product number H40B-400 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:22: The changed order have the product number H40B-425 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:32: The changed order have the product number H40B-500 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:33: The changed order have the product number HP-3563-036 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:34: The changed order have the product number HP-3563-037 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:38: The changed order have the product number HP-3563-038 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:54: The changed order have the product number HS-2965 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:54: The changed order have the product number HS-6019 not found. Cannot import Order No. 11300-0007.
+16/07/2019 12:06:54: The changed order have the product number C40-350X36'' not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:54: The changed order have the product number C40-400 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:54: The changed order have the product number C40-400X36'' not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:54: The changed order have the product number C40-500 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:54: The changed order have the product number C40B-150 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:54: The changed order have the product number C40B-200 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:54: The changed order have the product number C40B-212X144 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:54: The changed order have the product number C40B-325 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:54: The changed order have the product number C40B-400 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:54: The changed order have the product number CAC40-300X6 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:54: The changed order have the product number CAC40-400X8 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:55: The changed order have the product number CAC40P-450X6 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:55: The changed order have the product number FXT-07B not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:55: The changed order have the product number FXT-148 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:55: The changed order have the product number FXT-190 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:55: The changed order have the product number FXT-333B not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:55: The changed order have the product number FXT-383 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:55: The changed order have the product number FXT-405 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:55: The changed order have the product number H40-400 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:55: The changed order have the product number H40B-400 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:55: The changed order have the product number H40B-425 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:55: The changed order have the product number HS-2965 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:55: The changed order have the product number HS-6019 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:55: The changed order have the product number HS-6743 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:55: The changed order have the product number HS-8759 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:55: The changed order have the product number HS-9329 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:55: The changed order have the product number MN-GG-01B not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number MN-GG-04B not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number MN-GG-06B not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number N35774 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number R40B-125/150 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number R40B-200/250 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number R40B-275/300 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number R40B-400/450 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number R90-225/250 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number S-2253 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number SUM-294041 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number 08190 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number 084079 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number 084107 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number 087121 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number 100050118-05 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number 100050118-06 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number 100083 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number 100084 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number 10-0094 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number 12255978A not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number 45-125X10 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number 45-150X10 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number 45-175X10 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number 45-225X10 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number 45-275X10 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number 45B-150X10 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number 45B-225X10 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number 45B-300X10 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number 45B-350X10 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number 45B-400X10 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number 65062B not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number 90-062X6 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number 90-150X10 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number 90-175X10 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number 90-200X10 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number 90-275X10 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number 90-300X10 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number 90B-150X10 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number 90B-200X10 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number 90B-225X10 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number 90B-275X10 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:56: The changed order have the product number 90B-300X10 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:57: The changed order have the product number 90B-350X10 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:57: The changed order have the product number 90B-400X10 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:57: The changed order have the product number 997-2004 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:57: The changed order have the product number C40-038X156 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:57: The changed order have the product number C40-075 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:57: The changed order have the product number C40-087 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:57: The changed order have the product number C40-087X36'' not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:57: The changed order have the product number C40-100X36'' not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:57: The changed order have the product number C40-112X36'' not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:57: The changed order have the product number C40-125X36'' not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:57: The changed order have the product number C40-162X36'' not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:57: The changed order have the product number C40-187X36'' not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:57: The changed order have the product number C40-200X36'' not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:57: The changed order have the product number C40-212X36'' not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:57: The changed order have the product number C40-250X36'' not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:57: The changed order have the product number C40-262 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:57: The changed order have the product number C40-287 not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:57: The changed order have the product number C40-300X36'' not found. Cannot import Order No. 11345-0004.
+16/07/2019 12:06:57: The changed order have the product number 10636135 not found. Cannot import Order No. 1016698A-0002.
+16/07/2019 12:06:57: The changed order have the product number 10636136 not found. Cannot import Order No. 1016698A-0002.
+16/07/2019 12:06:57: The changed order have the product number 10636139 not found. Cannot import Order No. 1016698A-0002.
+16/07/2019 12:06:57: The changed order have the product number 10636140 not found. Cannot import Order No. 1016698A-0002.
+16/07/2019 12:06:57: The changed order have the product number 10636141 not found. Cannot import Order No. 1016698A-0002.
+16/07/2019 12:06:57: The changed order have the product number 10636142 not found. Cannot import Order No. 1016698A-0002.
+16/07/2019 12:06:57: The changed order have the product number 10636143 not found. Cannot import Order No. 1016698A-0002.
+16/07/2019 12:06:57: The changed order have the product number 10636144 not found. Cannot import Order No. 1016698A-0002.
+16/07/2019 12:06:57: The changed order have the product number 10636135 not found. Cannot import Order No. 1017279A-0002.
+16/07/2019 12:06:57: The changed order have the product number 10636135 not found. Cannot import Order No. 1017279A-0002.
+16/07/2019 12:06:57: The changed order have the product number 10636136 not found. Cannot import Order No. 1017279A-0002.
+16/07/2019 12:06:57: The changed order have the product number 10636136 not found. Cannot import Order No. 1017279A-0002.
+16/07/2019 12:06:57: The changed order have the product number 10636139 not found. Cannot import Order No. 1017279A-0002.
+16/07/2019 12:06:57: The changed order have the product number 10636139 not found. Cannot import Order No. 1017279A-0002.
+16/07/2019 12:06:57: The changed order have the product number 10636140 not found. Cannot import Order No. 1017279A-0002.
+16/07/2019 12:06:57: The changed order have the product number 10636140 not found. Cannot import Order No. 1017279A-0002.
+16/07/2019 12:06:57: The changed order have the product number 10636141 not found. Cannot import Order No. 1017279A-0002.
+16/07/2019 12:06:57: The changed order have the product number 10636141 not found. Cannot import Order No. 1017279A-0002.
+16/07/2019 12:06:57: The changed order have the product number 10636142 not found. Cannot import Order No. 1017279A-0002.
+16/07/2019 12:06:57: The changed order have the product number 10636142 not found. Cannot import Order No. 1017279A-0002.
+16/07/2019 12:06:57: The changed order have the product number 10636143 not found. Cannot import Order No. 1017279A-0002.
+16/07/2019 12:06:57: The changed order have the product number 10636143 not found. Cannot import Order No. 1017279A-0002.
+16/07/2019 12:06:57: The changed order have the product number 10636144 not found. Cannot import Order No. 1017279A-0002.
+16/07/2019 12:06:57: The changed order have the product number 10636144 not found. Cannot import Order No. 1017279A-0002.
+16/07/2019 12:06:57: The changed order have the product number 45-100X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:57: The changed order have the product number 45-125X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:57: The changed order have the product number 45-175X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:57: The changed order have the product number 45B-150X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:57: The changed order have the product number 45B-175X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:57: The changed order have the product number 45B-225X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:57: The changed order have the product number 45B-275X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:57: The changed order have the product number 45B-300X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:57: The changed order have the product number 90-062X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:57: The changed order have the product number 90-075X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:57: The changed order have the product number 90-100X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:57: The changed order have the product number 90-125X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:57: The changed order have the product number 90-175X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:57: The changed order have the product number 90-200X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:57: The changed order have the product number 90-250X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:57: The changed order have the product number 90-275X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:57: The changed order have the product number 90-400X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:57: The changed order have the product number 90B-075X2.25 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:57: The changed order have the product number 90B-100X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number 90B-125X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number 90B-150X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number 90B-175X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number 90B-400X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number A031521074B not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number C40-038X156 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number C40-087 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number C40-100 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number C40-112X36'' not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number C40-150X36'' not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number C40-162X36'' not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number C40-175 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number C40-200X36'' not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number C40-225X36'' not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number C40-238 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number C40-250X36'' not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number C40-262X36'' not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number C40-275 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number C40-275X36'' not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number C40-300X36'' not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number C40-325X36'' not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number C40-350X36'' not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number C40-375 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number C40-400 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number C40-450 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number C40-550 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number CAC40-350X6 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number CAC40-400X8 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number CAC40-450X6 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number CAC40P-400X8 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number FLEX GLAND 1.75'' not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number FLEX GLAND 2'' not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number FXT-119 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number FXT-145REVD not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number FXT-314 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number FXT-315 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number FXT-333B not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number FXT-346B not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number FXT-354 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number FXT-374 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number FXT-375 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number FXT-376 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number FXT-413 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number FXT-414 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number FXT-415 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number FXT-424 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number FXT-425 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number H40-225 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number HT40-250 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number HT40-400 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number HT90-400X5.75X8 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number N12390 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number R40-200/300 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number R40-225/250 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number R40B-300/325 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number R40B-300/350 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number R40B-300/400 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number R40B-350/400 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number SUM-294001 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number SUM-294002 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number SUM-294003 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number SUM-294003 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number SUM-294011 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number SUM-294013 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number SUM-294014 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number SUM-294030 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number SUM-294031 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number SUM-294032 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number SUM-294035 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number SUM-294036 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number SUM-294037 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number SUM-294040 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number SUM-294041 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number SUM-294042 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number SUM-294063 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number SUM-294064 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number SUM-294065 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number SUM-294066 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number SUM-294068 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:58: The changed order have the product number SUM-294200 not found. Cannot import Order No. 11609-0006.
+16/07/2019 12:06:59: The changed order have the product number VENTOSA18TBL not found. Cannot import Order No. ORF/2989-0003.
+16/07/2019 12:06:59: The changed order have the product number C40-075X36'' not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number C40-100 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number C40-125 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number C40-138 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number C40-150 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number C40-162X36'' not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number C40-175 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number C40-200 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number C40-250 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number C40-275 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number C40-350 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number C40-400 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number C40-600 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number CAC40-300X6 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number CAC40-350X6 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number CAC40-400X8 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number FT.0625-90X11 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number FXT-04 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number FXT-239 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number FXT-240 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number FXT-241 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number FXT-247 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number FXT-248 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number FXT-381 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number FXT-382 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number FXT-404 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number HS-2965 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number HS-6019 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number HS-6743 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number HS-8759 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number HS-9329 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number HT40-138 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number HT40-350 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number MHS01I-010 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number N12390 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number N65175 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number R40-150/200 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number R40-175/200 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number R40-200/250 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number R40-225/250 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number R40-250/300 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number R40B-175/250 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number R40B-250/300 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number R40B-275/300 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number R40B-300/325 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number R40B-300/400 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number R40B-350/425X4 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number R90-200/225 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number R90-225/250 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number R90-250/300 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number R90-300/350 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number R90-400/500 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number R90B-350/400 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number 12641549 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number CAC40-450X8 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number 08284 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number 084014 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number 084050 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number 084090 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:06:59: The changed order have the product number 084107 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:07:00: The changed order have the product number 08429 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:07:00: The changed order have the product number 08541 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:07:00: The changed order have the product number 087121 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:07:00: The changed order have the product number 1004860 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:07:00: The changed order have the product number 45-175X10 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:07:00: The changed order have the product number 45-225X10 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:07:00: The changed order have the product number 45-350X10 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:07:00: The changed order have the product number 45-400X10 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:07:00: The changed order have the product number 45B-300X10 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:07:00: The changed order have the product number 90-075X10 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:07:00: The changed order have the product number 90-150X10 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:07:00: The changed order have the product number 90-175X10 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:07:00: The changed order have the product number 90-200X10 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:07:00: The changed order have the product number 90-225X10 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:07:00: The changed order have the product number 90-300X10 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:07:00: The changed order have the product number 90B-200X10 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:07:00: The changed order have the product number 90B-225X10 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:07:00: The changed order have the product number A031727101 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:07:00: The changed order have the product number BMTP38R-HOSE not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:07:00: The changed order have the product number C40-075 not found. Cannot import Order No. 11523-0007.
+16/07/2019 12:07:00: The changed order have the product number 01080894 not found. Cannot import Order No. 11644-0002.
+16/07/2019 12:07:00: The changed order have the product number 01133800 not found. Cannot import Order No. 11644-0002.
+16/07/2019 12:07:00: The changed order have the product number 08633 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:00: The changed order have the product number 12421965-001 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:00: The changed order have the product number 45-200X10 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:00: The changed order have the product number 45-250X10 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:00: The changed order have the product number 605-1319-003 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:00: The changed order have the product number 90B-075X10 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:00: The changed order have the product number 90B-075X2.25 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:00: The changed order have the product number 90B-150X10 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:00: The changed order have the product number 90B-175X10 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:00: The changed order have the product number 90B-250X10 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:00: The changed order have the product number 90B-300X10 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:00: The changed order have the product number C40-038X156 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:00: The changed order have the product number C40-275 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:00: The changed order have the product number C40-287 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:00: The changed order have the product number C40B-150 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:00: The changed order have the product number C40B-300 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:00: The changed order have the product number CAC40P-350X6 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:00: The changed order have the product number FT.0625-90X11 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:00: The changed order have the product number FXT-145REVD not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:00: The changed order have the product number FXT-148 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:00: The changed order have the product number FXT-240 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:00: The changed order have the product number FXT-241 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:00: The changed order have the product number FXT-247 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:00: The changed order have the product number FXT-248 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:00: The changed order have the product number FXT-392 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:00: The changed order have the product number GTCP08934 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:00: The changed order have the product number H40-400 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:00: The changed order have the product number HT40-250 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:00: The changed order have the product number HT40-400 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:00: The changed order have the product number MN-GG-01B not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:01: The changed order have the product number MN-GG-04B not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:01: The changed order have the product number MN-GG-06B not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:01: The changed order have the product number N12390 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:01: The changed order have the product number N35774 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:01: The changed order have the product number N67668 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:01: The changed order have the product number N67668 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:01: The changed order have the product number N67668 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:01: The changed order have the product number N70472 REV B not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:01: The changed order have the product number N86670 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:01: The changed order have the product number N90463 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:01: The changed order have the product number R40-150/175 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:01: The changed order have the product number R40-250/275 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:01: The changed order have the product number R40B-150/200 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:01: The changed order have the product number R40B-175/250 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:01: The changed order have the product number R40B-275/300 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:01: The changed order have the product number R40B-325/400 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:01: The changed order have the product number R45B-200/250 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:01: The changed order have the product number R90B-250/300 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:01: The changed order have the product number SUM-294014 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:01: The changed order have the product number SUM-294036 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:01: The changed order have the product number SUM-294037 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:01: The changed order have the product number SUM-294041 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:01: The changed order have the product number SUM-294062 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:01: The changed order have the product number SUM-294064 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:01: The changed order have the product number SUM-294065 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:01: The changed order have the product number SUM-294066 not found. Cannot import Order No. 10955-0003.
+16/07/2019 12:07:01: The changed order have the product number MTC1024 not found. Cannot import Order No. P003200-0001.
+16/07/2019 12:07:01: The changed order have the product number 1176406S02 not found. Cannot import Order No. 5500157077-0419VN-0004.
+16/07/2019 12:07:01: The changed order have the product number 11-61052 not found. Cannot import Order No. 11663-0003.
+16/07/2019 12:07:01: The changed order have the product number 11-61053 not found. Cannot import Order No. 11663-0003.
+16/07/2019 12:07:01: The changed order have the product number R45-300/400 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number R90B-225/250 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number S-2253 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number A031513017 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number FXT-424 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number FXT-425 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number 90-062X10 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number 90-062X6 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number 90-125X10 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number 90-150X10 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number 90-200X10 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number 90-225X10 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number 90-250X10 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number 90-275X10 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number 90-300X10 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number 90-400X10 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number 90B-075X2.25 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number 90B-300X10 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number 910-851REVB not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number C40-075 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number C40-087 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number C40-100 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number C40-112X36'' not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number C40-125X36'' not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number C40-150X36'' not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number C40-175X36'' not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number C40-200X36'' not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number C40-212X36'' not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number C40-225 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number C40-225X36'' not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number C40-250X36'' not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number C40-275X36'' not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number C40-300X36'' not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number C40-350X36'' not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number C40-500X36'' not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number C40B-250 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number CAC40-300X6 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number CAC40-350X6 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:01: The changed order have the product number CAC40-400X6 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number CAC40-400X6 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number CAC40-400X8 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number CAC40-450X6 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number CAC40P-300X6 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number CAC40P-400X6 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number FXT-15 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number FXT-314 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number FXT-315 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number FXT-352 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number FXT-354 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number FXT-374 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number FXT-375 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number FXT-376 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number FXT-414 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number FXT-415 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number FXT-55B not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number H40-225 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number H40B-250 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number H40B-300 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number HT40-200 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number HT40-300 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number MHS01I-009 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number N12390 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number N35476 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number N77802 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number 08096 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number 08179 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number 084016 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number 084031 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number 084055 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number 084107 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number 08501 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number 08690 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number 08711 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number 100050118-05 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number 100050118-06 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number 100083 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number 100084 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number 10-0094 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number 45-200X10 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number 45-400X10 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number 45B-250X10 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number 5-1100 not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number 65062B not found. Cannot import Order No. 11474-0010.
+16/07/2019 12:07:02: The changed order have the product number CHOCO02 not found. Cannot import Order No. ORF/2924-0001.
+16/07/2019 12:07:02: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 12:07:02: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 12:07:02: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 12:07:02: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 12:07:02: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 12:07:02: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 12:07:02: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 12:07:02: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 12:07:02: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 12:07:02: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 12:07:02: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 12:07:02: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 12:07:02: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 12:07:02: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 12:07:02: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 12:07:02: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 12:07:02: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 12:07:02: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 12:07:02: The changed order have the product number BAKING MAT 30 X 40CM SILICONE not found. Cannot import Order No. 7428100105-0001.
+16/07/2019 12:07:02: The changed order have the product number BAKING MAT 30 X 40CM SILICONE not found. Cannot import Order No. 5292000105-0001.
+16/07/2019 12:07:02: The changed order have the product number SNOWFLAKE CAKE FORM SILICONE not found. Cannot import Order No. 7712400105-0001.
+16/07/2019 12:07:02: Order number 5500165986-0819VN has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:02: Order number 5500165986-0819VN has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:03: Order number 5500165986-0919VN has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:03: Order number 5500165986-0919VN has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:03: Order number 5500157063-0119V has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:03: Order number 5500157073-0119V has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:03: Order number 5500157073-0119V has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:04: Order number 5500157072-0619V has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:04: Order number 5500157072-0619V has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:04: Order number 5500157073-0619V has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:04: Order number 5500157073-0619V has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:04: The Sale Order number 5500136739-0317V not found.
+16/07/2019 12:07:04: The Sale Order number 5500136739-0317V not found.
+16/07/2019 12:07:04: The Sale Order number 5500136739-0317V not found.
+16/07/2019 12:07:04: The Sale Order number 5500136739-0317V not found.
+16/07/2019 12:07:04: The Sale Order number 5500136739-0317V not found.
+16/07/2019 12:07:04: The Sale Order number 5500124919-0517V not found.
+16/07/2019 12:07:04: The Sale Order number 5500124919-0517V not found.
+16/07/2019 12:07:04: The Sale Order number 5500124919-0517V not found.
+16/07/2019 12:07:04: The Sale Order number 5500124919-0517V not found.
+16/07/2019 12:07:04: The Sale Order number 5500124919-0517V not found.
+16/07/2019 12:07:04: The Sale Order number CP-201600400 not found.
+16/07/2019 12:07:04: The Sale Order number CP-201600400 not found.
+16/07/2019 12:07:04: The Sale Order number CP-201600400 not found.
+16/07/2019 12:07:04: The Sale Order number CP-201600400 not found.
+16/07/2019 12:07:04: The Sale Order number CP-201600400 not found.
+16/07/2019 12:07:04: The Sale Order number CP-201600400 not found.
+16/07/2019 12:07:04: The Sale Order number CP-201600400 not found.
+16/07/2019 12:07:04: The Sale Order number CP-201600400 not found.
+16/07/2019 12:07:04: The Sale Order number CP-201600400 not found.
+16/07/2019 12:07:04: The Sale Order number CP-201601053 not found.
+16/07/2019 12:07:04: The Sale Order number CP-201601053 not found.
+16/07/2019 12:07:04: The Sale Order number CP-201601082 not found.
+16/07/2019 12:07:04: The Sale Order number CP-201600595 not found.
+16/07/2019 12:07:04: The Sale Order number CP-201600595 not found.
+16/07/2019 12:07:04: The Sale Order number CP-201600595 not found.
+16/07/2019 12:07:04: The Sale Order number CP-201600595 not found.
+16/07/2019 12:07:04: The Sale Order number CP-201600595 not found.
+16/07/2019 12:07:04: The Sale Order number CP-201600595 not found.
+16/07/2019 12:07:04: The Sale Order number CP-201600595 not found.
+16/07/2019 12:07:05: The Sale Order number CP-201600595 not found.
+16/07/2019 12:07:05: The Sale Order number CP-201600595 not found.
+16/07/2019 12:07:05: The Sale Order number CP-201600595 not found.
+16/07/2019 12:07:05: The Sale Order number CP-201600595 not found.
+16/07/2019 12:07:05: The Sale Order number CP-201600595 not found.
+16/07/2019 12:07:05: The Sale Order number CP-201600595 not found.
+16/07/2019 12:07:05: The Sale Order number CP-201600595 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201600595 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201600595 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201600595 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201600595 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201600595 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201600595 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201600595 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201600595 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201600595 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201601296 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201601296 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201601296 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201602105 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201602105 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201602105 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201602105 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201602105 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201602205 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201602205 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201602205 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201601790 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201601790 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201601790 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201601790 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201601790 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201601790 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201601790 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201601790 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201601790 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201601790 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201601790 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201601790 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201601985 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201601985 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201601985 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201601985 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201601985 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201601985 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201700275 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201700275 not found.
+16/07/2019 12:07:06: The Sale Order number CP-201700275 not found.
+16/07/2019 12:07:06: The Sale Order number 4700030185 not found.
+16/07/2019 12:07:07: Order number PUR-033794 has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:07: Order number PUR-033794 has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:07: The Sale Order number 4700026568 not found.
+16/07/2019 12:07:07: The Sale Order number 4700026568 not found.
+16/07/2019 12:07:07: Order number PUR-034009 has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:08: Order number ORF/2989 has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:08: Order number ORF/2989 has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:08: Order number ORF/2989 has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:08: Order number 19F-ING28-XF-B has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:08: Order number ORF/3256 has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:09: Order number ORF/3256 has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:09: Order number ORF/3256 has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:09: Order number ORF/3256 has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:09: Order number ORF/3256 has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:09: Order number ORF/3256 has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:09: Order number ORF/3256 has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:09: Order number ORF/3391 has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:10: Order number ORF/3316 has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:10: Order number ORF/3316 has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:10: Order number ORF/3316 has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:10: Order number ORF/3316 has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:10: Order number ORF/3316 has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:10: Order number ORF/3316 has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:11: Order number ORF/3250 has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:11: Order number ORF/3250 has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:11: Order number ORF/3250 has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:11: Order number ORF/3250 has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:11: Order number ORF/3431 has more than one ERP Order No. System cannot decide!
+16/07/2019 12:07:12: Failed to update Order No. 1904101    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1904101    , 0002, 0002).
+The statement has been terminated.
+16/07/2019 12:07:12: Failed to update Order No. 1904101    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1904101    , 0002, 0003).
+The statement has been terminated.
+16/07/2019 12:07:12: Failed to update Order No. 1904101    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1904101    , 0002, 0004).
+The statement has been terminated.
+16/07/2019 12:07:12: Failed to update Order No. 1904101    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1904101    , 0002, 0005).
+The statement has been terminated.
+16/07/2019 12:07:12: Failed to update Order No. 1904101    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1904101    , 0002, 0006).
+The statement has been terminated.
+16/07/2019 12:07:12: Failed to update Order No. 1904101    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1904101    , 0002, 0007).
+The statement has been terminated.
+16/07/2019 12:07:12: Failed to update Order No. 1904015    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B221, 1904015    , 0001, 0001).
+The statement has been terminated.
+16/07/2019 12:07:12: Failed to update Order No. 1806055    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B221, 1806055    , 0006, 0001).
+The statement has been terminated.
+16/07/2019 12:07:12: Failed to update Order No. 1806055    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B221, 1806055    , 0006, 0002).
+The statement has been terminated.
+16/07/2019 12:07:12: Failed to update Order No. 1806055    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B221, 1806055    , 0006, 0003).
+The statement has been terminated.
+16/07/2019 12:07:12: Failed to update Order No. 1806055    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B221, 1806055    , 0006, 0004).
+The statement has been terminated.
+16/07/2019 12:07:12: Failed to update Order No. 1806056    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B221, 1806056    , 0001, 0001).
+The statement has been terminated.
+16/07/2019 12:07:13: Failed to update Order No. 1806056    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B221, 1806056    , 0001, 0002).
+The statement has been terminated.
+16/07/2019 12:07:13: Failed to update Order No. 1901005    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B221, 1901005    , 0003, 0001).
+The statement has been terminated.
+16/07/2019 12:07:13: Failed to update Order No. 1806057    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B221, 1806057    , 0006, 0001).
+The statement has been terminated.
+16/07/2019 12:07:13: Failed to update Order No. 1806058    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B221, 1806058    , 0003, 0001).
+The statement has been terminated.
+16/07/2019 12:07:13: Failed to update Order No. 1806058    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B221, 1806058    , 0003, 0002).
+The statement has been terminated.
+16/07/2019 12:07:13: Failed to update Order No. 1806058    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B221, 1806058    , 0003, 0003).
+The statement has been terminated.
+16/07/2019 12:07:13: Failed to update Order No. 1806058    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B221, 1806058    , 0003, 0004).
+The statement has been terminated.
+16/07/2019 12:07:13: Failed to update Order No. 1811174    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B222, 1811174    , 0001, 0006).
+The statement has been terminated.
+16/07/2019 12:07:13: Failed to update Order No. 1811174    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B222, 1811174    , 0001, 0008).
+The statement has been terminated.
+16/07/2019 12:07:13: Failed to update Order No. 1811174    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B222, 1811174    , 0001, 0009).
+The statement has been terminated.
+16/07/2019 12:07:13: Failed to update Order No. 1811174    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B222, 1811174    , 0001, 0010).
+The statement has been terminated.
+16/07/2019 12:07:13: Failed to update Order No. 1811176    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B221, 1811176    , 0001, 0001).
+The statement has been terminated.
+16/07/2019 12:07:13: Failed to update Order No. 1811176    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B221, 1811176    , 0001, 0002).
+The statement has been terminated.
+16/07/2019 12:07:13: Failed to update Order No. 1811177    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B221, 1811177    , 0002, 0001).
+The statement has been terminated.
+16/07/2019 12:07:13: Failed to update Order No. 1811177    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B221, 1811177    , 0002, 0002).
+The statement has been terminated.
+16/07/2019 12:07:13: Failed to update Order No. 1812211    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B221, 1812211    , 0002, 0001).
+The statement has been terminated.
+16/07/2019 12:07:13: Failed to update Order No. 1809140    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B221, 1809140    , 0005, 0001).
+The statement has been terminated.
+16/07/2019 12:07:13: Failed to update Order No. 1809140    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B221, 1809140    , 0005, 0002).
+The statement has been terminated.
+16/07/2019 12:07:13: Failed to update Order No. 1809140    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B221, 1809140    , 0005, 0003).
+The statement has been terminated.
+16/07/2019 12:07:13: Failed to update Order No. 1904051    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1904051    , 0002, 0001).
+The statement has been terminated.
+16/07/2019 12:07:13: Failed to update Order No. 1904051    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1904051    , 0002, 0002).
+The statement has been terminated.
+16/07/2019 12:07:13: Failed to update Order No. 1906116    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1906116    , 0002, 0001).
+The statement has been terminated.
+16/07/2019 12:07:13: Failed to update Order No. 1906051    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1906051    , 0005, 0001).
+The statement has been terminated.
+16/07/2019 12:07:13: Failed to update Order No. 1906051    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1906051    , 0005, 0002).
+The statement has been terminated.
+16/07/2019 12:07:13: Failed to update Order No. 1906051    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1906051    , 0005, 0003).
+The statement has been terminated.
+16/07/2019 12:07:14: Failed to update Order No. 1906051    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1906051    , 0005, 0004).
+The statement has been terminated.
+16/07/2019 12:07:14: Failed to update Order No. 1906051    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1906051    , 0005, 0005).
+The statement has been terminated.
+16/07/2019 12:07:14: Failed to update Order No. 1906051    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1906051    , 0005, 0006).
+The statement has been terminated.
+16/07/2019 12:07:14: Failed to update Order No. 1906051    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1906051    , 0005, 0007).
+The statement has been terminated.
+16/07/2019 12:07:14: Failed to update Order No. 1906051    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1906051    , 0005, 0008).
+The statement has been terminated.
+16/07/2019 12:07:14: Failed to update Order No. 1907049    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1907049    , 0004, 0001).
+The statement has been terminated.
+16/07/2019 12:07:14: Failed to update Order No. 1907049    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1907049    , 0004, 0002).
+The statement has been terminated.
+16/07/2019 12:07:14: Failed to update Order No. 1907049    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1907049    , 0004, 0003).
+The statement has been terminated.
+16/07/2019 12:07:14: Failed to update Order No. 1907049    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1907049    , 0004, 0004).
+The statement has been terminated.
+16/07/2019 12:07:14: Failed to update Order No. 1907033    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1907033    , 0001, 0001).
+The statement has been terminated.
+16/07/2019 12:07:14: Failed to update Order No. 1907033    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1907033    , 0001, 0002).
+The statement has been terminated.
+16/07/2019 12:07:14: Failed to update Order No. 1907033    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1907033    , 0001, 0003).
+The statement has been terminated.
+16/07/2019 12:07:14: Failed to update Order No. 1905093    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1905093    , 0001, 0001).
+The statement has been terminated.
+16/07/2019 12:07:14: Failed to update Order No. 1905138    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B221, 1905138    , 0006, 0001).
+The statement has been terminated.
+16/07/2019 12:07:14: Failed to update Order No. 1905138    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B221, 1905138    , 0006, 0002).
+The statement has been terminated.
+16/07/2019 12:07:14: Failed to update Order No. 1905138    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B221, 1905138    , 0006, 0003).
+The statement has been terminated.
+16/07/2019 12:07:14: Failed to update Order No. 1903001    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1903001    , 0005, 0001).
+The statement has been terminated.
+16/07/2019 12:07:14: Failed to update Order No. 1903001    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1903001    , 0005, 0002).
+The statement has been terminated.
+16/07/2019 12:07:14: Failed to update Order No. 1903001    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1903001    , 0005, 0003).
+The statement has been terminated.
+16/07/2019 12:07:14: Failed to update Order No. 1903001    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1903001    , 0005, 0004).
+The statement has been terminated.
+16/07/2019 12:07:14: Failed to update Order No. 1903001    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1903001    , 0005, 0005).
+The statement has been terminated.
+16/07/2019 12:07:14: Failed to update Order No. 1907259    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1907259    , 0001, 0001).
+The statement has been terminated.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The original Order No. 0 not found. Please update it mannually.
+16/07/2019 12:07:24: The product number C40-125 not found. Cannot import Order No. 1907270-0001.
+16/07/2019 12:07:24: The product number FXT-202B not found. Cannot import Order No. 1907270-0002.
+16/07/2019 12:07:24: The product number FXT-314 not found. Cannot import Order No. 1907270-0003.
+16/07/2019 12:07:24: The product number 910-851REVB not found. Cannot import Order No. 1907270-0004.
+16/07/2019 12:07:24: The product number 087121 not found. Cannot import Order No. 1907270-0005.
+16/07/2019 12:07:24: The product number CAC40-350X6 not found. Cannot import Order No. 1907270-0006.
+16/07/2019 12:07:24: The product number ZVARIE not found. Cannot import Order No. 1907271-0002.
+16/07/2019 12:07:24: The product number 12578558 not found. Cannot import Order No. 1907273-0001.
+16/07/2019 12:07:24: The product number 12578559 not found. Cannot import Order No. 1907273-0002.
+16/07/2019 12:07:24: The product number 602000000022 not found. Cannot import Order No. 1907278-0001.
+16/07/2019 12:07:24: The product number 602000000016 not found. Cannot import Order No. 1907278-0002.
+16/07/2019 12:07:24: The product number 6070V0000030 not found. Cannot import Order No. 1907278-0003.
+16/07/2019 12:07:24: The product number 6070V0000018 not found. Cannot import Order No. 1907278-0004.
+16/07/2019 12:07:24: The product number 6070V0000018 not found. Cannot import Order No. 1907278-0005.
+16/07/2019 12:07:24: The product number 45-250X10 not found. Cannot import Order No. 1907280-0001.
+16/07/2019 12:07:24: The product number 5-1045 not found. Cannot import Order No. 1907280-0002.
+16/07/2019 12:07:24: The product number 90-100X10 not found. Cannot import Order No. 1907280-0003.
+16/07/2019 12:07:24: The product number FXT-324B not found. Cannot import Order No. 1907280-0004.
+16/07/2019 12:07:24: The product number C40-125 not found. Cannot import Order No. 1907262    -0001.
+16/07/2019 12:07:24: The product number FXT-202B not found. Cannot import Order No. 1907262    -0002.
+16/07/2019 12:07:24: The product number FXT-314 not found. Cannot import Order No. 1907262    -0003.
+16/07/2019 12:07:24: The product number 910-851REVB not found. Cannot import Order No. 1907262    -0004.
+16/07/2019 12:07:24: The product number 087121 not found. Cannot import Order No. 1907262    -0005.
+16/07/2019 12:07:25: The product number CAC40-350X6 not found. Cannot import Order No. 1907262    -0006.
+16/07/2019 12:07:25: The product number ZVARIE not found. Cannot import Order No. 1907263    -0002.
+16/07/2019 12:07:25: The product number 12578558 not found. Cannot import Order No. 1907265    -0001.
+16/07/2019 12:07:25: The product number 12578559 not found. Cannot import Order No. 1907265    -0002.
+16/07/2019 12:07:25: The product number 602000000022 not found. Cannot import Order No. 1907270    -0001.
+16/07/2019 12:07:25: The product number 602000000016 not found. Cannot import Order No. 1907270    -0002.
+16/07/2019 12:07:25: The product number 6070V0000030 not found. Cannot import Order No. 1907270    -0003.
+16/07/2019 12:07:25: The product number 6070V0000018 not found. Cannot import Order No. 1907270    -0004.
+16/07/2019 12:07:25: The product number 6070V0000018 not found. Cannot import Order No. 1907270    -0005.
+16/07/2019 12:07:25: The product number 45-250X10 not found. Cannot import Order No. 1907272    -0001.
+16/07/2019 12:07:25: The product number 5-1045 not found. Cannot import Order No. 1907272    -0002.
+16/07/2019 12:07:25: The product number 90-100X10 not found. Cannot import Order No. 1907272    -0003.
+16/07/2019 12:07:25: The product number FXT-324B not found. Cannot import Order No. 1907272    -0004.
+16/07/2019 12:07:25: The product number FXT-279 not found. Cannot import Order No. 1907260    -0001.
+16/07/2019 12:07:25: The product number 1176406S02 not found. Cannot import Order No. 1907273    -0001.
+16/07/2019 12:07:25: The product number 1176406S02 not found. Cannot import Order No. 1907273    -0002.
+16/07/2019 12:07:25: The product number C40-125 not found. Cannot import Order No. 1907288    -0001.
+16/07/2019 12:07:25: The product number FXT-202B not found. Cannot import Order No. 1907288    -0002.
+16/07/2019 12:07:25: The product number FXT-314 not found. Cannot import Order No. 1907288    -0003.
+16/07/2019 12:07:25: The product number 910-851REVB not found. Cannot import Order No. 1907288    -0004.
+16/07/2019 12:07:26: The product number 087121 not found. Cannot import Order No. 1907288    -0005.
+16/07/2019 12:07:26: The product number CAC40-350X6 not found. Cannot import Order No. 1907288    -0006.
+16/07/2019 12:07:26: The product number ZVARIE not found. Cannot import Order No. 1907289    -0002.
+16/07/2019 12:07:26: The product number 12578558 not found. Cannot import Order No. 1907291    -0001.
+16/07/2019 12:07:26: The product number 12578559 not found. Cannot import Order No. 1907291    -0002.
+16/07/2019 12:07:26: The product number 602000000022 not found. Cannot import Order No. 1907296    -0001.
+16/07/2019 12:07:26: The product number 602000000016 not found. Cannot import Order No. 1907296    -0002.
+16/07/2019 12:07:26: The product number 6070V0000030 not found. Cannot import Order No. 1907296    -0003.
+16/07/2019 12:07:26: The product number 6070V0000018 not found. Cannot import Order No. 1907296    -0004.
+16/07/2019 12:07:26: The product number 6070V0000018 not found. Cannot import Order No. 1907296    -0005.
+16/07/2019 12:07:26: The product number 45-250X10 not found. Cannot import Order No. 1907298    -0001.
+16/07/2019 12:07:26: The product number 5-1045 not found. Cannot import Order No. 1907298    -0002.
+16/07/2019 12:07:26: The product number 90-100X10 not found. Cannot import Order No. 1907298    -0003.
+16/07/2019 12:07:26: The product number FXT-324B not found. Cannot import Order No. 1907298    -0004.
+16/07/2019 12:07:28: Failed to create Order No. 9323748460/10. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (A221, 1907260    ).
+The statement has been terminated.
+16/07/2019 12:07:28: Failed to create Order No. 9323750223. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (A221, 1907261    ).
+The statement has been terminated.
+16/07/2019 12:07:28: Failed to create Order No. 9323749139/10. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (A221, 1907262    ).
+The statement has been terminated.
+16/07/2019 12:07:28: Failed to create Order No. 9323749143/10. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (A221, 1907263    ).
+The statement has been terminated.
+16/07/2019 12:07:28: Failed to create Order No. 9323749089/10. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (A221, 1907264    ).
+The statement has been terminated.
+16/07/2019 12:07:28: Order No. 9323749145/10 has been created.
+16/07/2019 12:07:28: Failed to create Order No. 9323749153/10. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (A221, 1907266    ).
+The statement has been terminated.
+16/07/2019 12:07:28: Failed to create Order No. 9323749497/10. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (A221, 1907267    ).
+The statement has been terminated.
+16/07/2019 12:07:28: Order No. WTX201909-VN has been created.
+16/07/2019 12:07:28: Failed to create Order No. THT-TECH/09072019. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (Y221, 1907269    ).
+The statement has been terminated.
+16/07/2019 12:07:28: Order No. ORF/3457 has been created.
+16/07/2019 12:07:28: Failed to create Order No. 9323751170/10. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (A221, 1907272    ).
+The statement has been terminated.
+16/07/2019 12:07:28: Order No. 9323751351 has been created.
+16/07/2019 12:07:28: Failed to create Order No. 17212-ID99. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (A221, 1907276    ).
+The statement has been terminated.
+16/07/2019 12:07:28: Order No. 9323751446/30 has been created.
+16/07/2019 12:07:28: Order No. W421-190700013 has been created.
+16/07/2019 12:07:28: Order No. 15072019 has been created.
+16/07/2019 12:07:28: Failed to create Order No. 7428100105. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1904104    ).
+The statement has been terminated.
+16/07/2019 12:07:28: Failed to create Order No. 5292000105. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1904105    ).
+The statement has been terminated.
+16/07/2019 12:07:28: Failed to create Order No. 7712400105. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1904106    ).
+The statement has been terminated.
+16/07/2019 12:07:28: Failed to create Order No. ORF/2924. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1906118    ).
+The statement has been terminated.
+16/07/2019 12:07:28: Order No. VR-8504 has been created.
+16/07/2019 12:07:28: Order No. 11663 has been created.
+16/07/2019 12:07:28: Order No. 5500157077-0919V has been created.
+16/07/2019 12:07:28: Failed to create Order No. 1907260. Error: Violation of PRIMARY KEY constraint 'PK_COPTD'. Cannot insert duplicate key in object 'dbo.COPTD'. The duplicate key value is (A221, 1907260    , 0001).
+The statement has been terminated.
+16/07/2019 12:07:29: Failed to create Order No. 1907261. Error: Violation of PRIMARY KEY constraint 'PK_COPTD'. Cannot insert duplicate key in object 'dbo.COPTD'. The duplicate key value is (A221, 1907261    , 0001).
+The statement has been terminated.
+16/07/2019 12:07:29: Order No. 1907261 has been created.
+16/07/2019 12:07:29: Order No. 1907261 has been created.
+16/07/2019 12:07:29: Order No. 1907261 has been created.
+16/07/2019 12:07:29: Order No. 1907261 has been created.
+16/07/2019 12:07:29: Order No. 1907261 has been created.
+16/07/2019 12:07:29: Order No. 1907261 has been created.
+16/07/2019 12:07:29: Order No. 1907261 has been created.
+16/07/2019 12:07:29: Failed to create Order No. 1907262. Error: Violation of PRIMARY KEY constraint 'PK_COPTD'. Cannot insert duplicate key in object 'dbo.COPTD'. The duplicate key value is (A221, 1907262    , 0001).
+The statement has been terminated.
+16/07/2019 12:07:29: Failed to create Order No. 1907263. Error: Violation of PRIMARY KEY constraint 'PK_COPTD'. Cannot insert duplicate key in object 'dbo.COPTD'. The duplicate key value is (A221, 1907263    , 0001).
+The statement has been terminated.
+16/07/2019 12:07:29: Failed to create Order No. 1907264. Error: Violation of PRIMARY KEY constraint 'PK_COPTD'. Cannot insert duplicate key in object 'dbo.COPTD'. The duplicate key value is (A221, 1907264    , 0001).
+The statement has been terminated.
+16/07/2019 12:07:29: Order No. 1907265 has been created.
+16/07/2019 12:07:29: Failed to create Order No. 1907266. Error: Violation of PRIMARY KEY constraint 'PK_COPTD'. Cannot insert duplicate key in object 'dbo.COPTD'. The duplicate key value is (A221, 1907266    , 0001).
+The statement has been terminated.
+16/07/2019 12:07:29: Failed to create Order No. 1907267. Error: Violation of PRIMARY KEY constraint 'PK_COPTD'. Cannot insert duplicate key in object 'dbo.COPTD'. The duplicate key value is (A221, 1907267    , 0001).
+The statement has been terminated.
+16/07/2019 12:07:29: Order No. 1907268 has been created.
+16/07/2019 12:07:29: Order No. 1907268 has been created.
+16/07/2019 12:07:29: Order No. 1907268 has been created.
+16/07/2019 12:07:29: Order No. 1907268 has been created.
+16/07/2019 12:07:29: Failed to create Order No. 1907269. Error: Violation of PRIMARY KEY constraint 'PK_COPTD'. Cannot insert duplicate key in object 'dbo.COPTD'. The duplicate key value is (Y221, 1907269    , 0001).
+The statement has been terminated.
+16/07/2019 12:07:29: Failed to create Order No. 1907269. Error: Violation of PRIMARY KEY constraint 'PK_COPTD'. Cannot insert duplicate key in object 'dbo.COPTD'. The duplicate key value is (Y221, 1907269    , 0002).
+The statement has been terminated.
+16/07/2019 12:07:29: Order No. 1907271 has been created.
+16/07/2019 12:07:29: Failed to create Order No. 1907272. Error: Violation of PRIMARY KEY constraint 'PK_COPTD'. Cannot insert duplicate key in object 'dbo.COPTD'. The duplicate key value is (A221, 1907272    , 0001).
+The statement has been terminated.
+16/07/2019 12:07:29: Order No. 1907274 has been created.
+16/07/2019 12:07:29: Order No. 1907274 has been created.
+16/07/2019 12:07:29: Failed to create Order No. 1907276. Error: Violation of PRIMARY KEY constraint 'PK_COPTD'. Cannot insert duplicate key in object 'dbo.COPTD'. The duplicate key value is (A221, 1907276    , 0001).
+The statement has been terminated.
+16/07/2019 12:07:29: Order No. 1907277 has been created.
+16/07/2019 12:07:29: Order No. 1907279 has been created.
+16/07/2019 12:07:29: Order No. 1907279 has been created.
+16/07/2019 12:07:29: Order No. 1907279 has been created.
+16/07/2019 12:07:29: Order No. 1907279 has been created.
+16/07/2019 12:07:29: Order No. 1907279 has been created.
+16/07/2019 12:07:30: Order No. 1907281 has been created.
+16/07/2019 12:07:30: Session 1907161203 completed.

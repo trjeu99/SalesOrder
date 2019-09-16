@@ -60,6 +60,7 @@ Partial Class SOT
         Me.Label10 = New System.Windows.Forms.Label()
         Me.Label11 = New System.Windows.Forms.Label()
         Me.tab_schedule = New System.Windows.Forms.TabPage()
+        Me.txt_spt = New System.Windows.Forms.MaskedTextBox()
         Me.txt_int_min = New System.Windows.Forms.MaskedTextBox()
         Me.txt_int_hrs = New System.Windows.Forms.MaskedTextBox()
         Me.txt_int_day = New System.Windows.Forms.MaskedTextBox()
@@ -73,7 +74,6 @@ Partial Class SOT
         Me.prb_next_trigger = New System.Windows.Forms.ProgressBar()
         Me.prb_data_trans = New System.Windows.Forms.ProgressBar()
         Me.btn_start = New System.Windows.Forms.Button()
-        Me.txt_spt = New System.Windows.Forms.DateTimePicker()
         Me.Label7 = New System.Windows.Forms.Label()
         Me.Label6 = New System.Windows.Forms.Label()
         Me.lbl_eventlogs = New System.Windows.Forms.GroupBox()
@@ -87,6 +87,8 @@ Partial Class SOT
         Me.MenuItemShow = New System.Windows.Forms.ToolStripMenuItem()
         Me.ToolStripSeparator1 = New System.Windows.Forms.ToolStripSeparator()
         Me.MenuItemExit = New System.Windows.Forms.ToolStripMenuItem()
+        Me.ContextMenuStrip1 = New System.Windows.Forms.ContextMenuStrip(Me.components)
+        Me.btn_edit = New System.Windows.Forms.Button()
         Me.tab_control.SuspendLayout()
         Me.tab_mutiable.SuspendLayout()
         Me.src_connection.SuspendLayout()
@@ -443,6 +445,8 @@ Partial Class SOT
         '
         'tab_schedule
         '
+        Me.tab_schedule.Controls.Add(Me.btn_edit)
+        Me.tab_schedule.Controls.Add(Me.txt_spt)
         Me.tab_schedule.Controls.Add(Me.txt_int_min)
         Me.tab_schedule.Controls.Add(Me.txt_int_hrs)
         Me.tab_schedule.Controls.Add(Me.txt_int_day)
@@ -452,7 +456,6 @@ Partial Class SOT
         Me.tab_schedule.Controls.Add(Me.btn_stop)
         Me.tab_schedule.Controls.Add(Me.grp_process_sts)
         Me.tab_schedule.Controls.Add(Me.btn_start)
-        Me.tab_schedule.Controls.Add(Me.txt_spt)
         Me.tab_schedule.Controls.Add(Me.Label7)
         Me.tab_schedule.Controls.Add(Me.Label6)
         Me.tab_schedule.Location = New System.Drawing.Point(4, 25)
@@ -462,6 +465,14 @@ Partial Class SOT
         Me.tab_schedule.TabIndex = 3
         Me.tab_schedule.Text = "Schedule"
         Me.tab_schedule.UseVisualStyleBackColor = True
+        '
+        'txt_spt
+        '
+        Me.txt_spt.Location = New System.Drawing.Point(95, 14)
+        Me.txt_spt.Mask = "0000-00-00 00:00:00.000"
+        Me.txt_spt.Name = "txt_spt"
+        Me.txt_spt.Size = New System.Drawing.Size(236, 22)
+        Me.txt_spt.TabIndex = 15
         '
         'txt_int_min
         '
@@ -588,13 +599,6 @@ Partial Class SOT
         Me.btn_start.Text = "Start"
         Me.btn_start.UseVisualStyleBackColor = True
         '
-        'txt_spt
-        '
-        Me.txt_spt.Location = New System.Drawing.Point(95, 14)
-        Me.txt_spt.Name = "txt_spt"
-        Me.txt_spt.Size = New System.Drawing.Size(236, 22)
-        Me.txt_spt.TabIndex = 3
-        '
         'Label7
         '
         Me.Label7.AutoSize = True
@@ -686,6 +690,21 @@ Partial Class SOT
         Me.MenuItemExit.Size = New System.Drawing.Size(114, 24)
         Me.MenuItemExit.Text = "Exit"
         '
+        'ContextMenuStrip1
+        '
+        Me.ContextMenuStrip1.ImageScalingSize = New System.Drawing.Size(20, 20)
+        Me.ContextMenuStrip1.Name = "ContextMenuStrip1"
+        Me.ContextMenuStrip1.Size = New System.Drawing.Size(61, 4)
+        '
+        'btn_edit
+        '
+        Me.btn_edit.Location = New System.Drawing.Point(12, 85)
+        Me.btn_edit.Name = "btn_edit"
+        Me.btn_edit.Size = New System.Drawing.Size(65, 29)
+        Me.btn_edit.TabIndex = 16
+        Me.btn_edit.Text = "Edit"
+        Me.btn_edit.UseVisualStyleBackColor = True
+        '
         'SOT
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(8.0!, 16.0!)
@@ -755,7 +774,6 @@ Partial Class SOT
     Friend WithEvents tab_schedule As TabPage
     Friend WithEvents Label7 As Label
     Friend WithEvents Label6 As Label
-    Friend WithEvents txt_spt As DateTimePicker
     Friend WithEvents btn_start As Button
     Friend WithEvents grp_process_sts As GroupBox
     Friend WithEvents lbl_next_trigger As Label
@@ -787,4 +805,7 @@ Partial Class SOT
     Friend WithEvents ToolStripSeparator1 As ToolStripSeparator
     Friend WithEvents MenuItemShow As ToolStripMenuItem
     Friend WithEvents MenuItemExit As ToolStripMenuItem
+    Friend WithEvents ContextMenuStrip1 As ContextMenuStrip
+    Friend WithEvents txt_spt As MaskedTextBox
+    Friend WithEvents btn_edit As Button
 End Class

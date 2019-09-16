@@ -1,0 +1,956 @@
+16/07/2019 11:44:44: Session 1907161144 has started.
+16/07/2019 11:44:49: Data in table MAINSODEL read sucessfully. 0 new data entries found.
+16/07/2019 11:44:49: Data in table BLCOPTD read sucessfully. 0 new data entries found.
+16/07/2019 11:44:49: Connection to 223.255.178.194 is opened.
+16/07/2019 11:44:50: The Sale Order number P003200 not found.
+16/07/2019 11:44:50: The Sale Order number 11663 not found.
+16/07/2019 11:44:50: The Sale Order number ORF/2924 not found.
+16/07/2019 11:44:50: The Sale Order number 7428100105 not found.
+16/07/2019 11:44:50: The Sale Order number 5292000105 not found.
+16/07/2019 11:44:50: The Sale Order number 7712400105 not found.
+16/07/2019 11:44:51: Failed to update Order No. 1906052    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1906052    , 0002).
+The statement has been terminated.
+16/07/2019 11:44:51: Failed to update Order No. 1907120    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (    , 1907120    , 0006).
+The statement has been terminated.
+16/07/2019 11:44:51: Failed to update Order No. 1906051    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1906051    , 0005).
+The statement has been terminated.
+16/07/2019 11:44:51: Failed to update Order No. 1907049    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1907049    , 0004).
+The statement has been terminated.
+16/07/2019 11:44:51: Failed to update Order No. 1907033    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1907033    , 0001).
+The statement has been terminated.
+16/07/2019 11:44:51: Failed to update Order No. 1906085    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1906085    , 0003).
+The statement has been terminated.
+16/07/2019 11:44:51: Failed to update Order No. 1907070    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1907070    , 0002).
+The statement has been terminated.
+16/07/2019 11:44:51: Failed to update Order No. 1907034    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1907034    , 0002).
+The statement has been terminated.
+16/07/2019 11:44:51: Failed to update Order No. 1907088    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1907088    , 0001).
+The statement has been terminated.
+16/07/2019 11:44:51: Failed to update Order No. 1907035    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1907035    , 0002).
+The statement has been terminated.
+16/07/2019 11:44:51: Failed to update Order No. 1905093    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1905093    , 0001).
+The statement has been terminated.
+16/07/2019 11:44:51: Failed to update Order No. 1907036    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1907036    , 0003).
+The statement has been terminated.
+16/07/2019 11:44:51: Failed to update Order No. 1907111    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1907111    , 0001).
+The statement has been terminated.
+16/07/2019 11:44:51: Failed to update Order No. 1906102    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (    , 1906102    , 0007).
+The statement has been terminated.
+16/07/2019 11:44:51: Failed to update Order No. 1907093    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (    , 1907093    , 0002).
+The statement has been terminated.
+16/07/2019 11:44:51: Failed to update Order No. 1905138    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B221, 1905138    , 0006).
+The statement has been terminated.
+16/07/2019 11:44:52: Failed to update Order No. 1903001    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1903001    , 0005).
+The statement has been terminated.
+16/07/2019 11:44:52: Failed to update Order No. 1903145    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (    , 1903145    , 0003).
+The statement has been terminated.
+16/07/2019 11:44:52: Failed to update Order No. 1907259    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1907259    , 0001).
+The statement has been terminated.
+16/07/2019 11:44:52: Failed to update Order No. 1811173    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (    , 1811173    , 0004).
+The statement has been terminated.
+16/07/2019 11:44:52: Failed to update Order No. 1907001    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B222, 1907001    , 0010).
+The statement has been terminated.
+16/07/2019 11:44:52: Failed to update Order No. 1901005    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (J221, 1901005    , 0025).
+The statement has been terminated.
+16/07/2019 11:44:53: The changed order have the product number 10636135 not found. Cannot import Order No. 1017279A-0002.
+16/07/2019 11:44:53: The changed order have the product number 10636135 not found. Cannot import Order No. 1017279A-0002.
+16/07/2019 11:44:53: The changed order have the product number 10636136 not found. Cannot import Order No. 1017279A-0002.
+16/07/2019 11:44:53: The changed order have the product number 10636136 not found. Cannot import Order No. 1017279A-0002.
+16/07/2019 11:44:53: The changed order have the product number 10636139 not found. Cannot import Order No. 1017279A-0002.
+16/07/2019 11:44:53: The changed order have the product number 10636139 not found. Cannot import Order No. 1017279A-0002.
+16/07/2019 11:44:53: The changed order have the product number 10636140 not found. Cannot import Order No. 1017279A-0002.
+16/07/2019 11:44:53: The changed order have the product number 10636140 not found. Cannot import Order No. 1017279A-0002.
+16/07/2019 11:44:53: The changed order have the product number 10636141 not found. Cannot import Order No. 1017279A-0002.
+16/07/2019 11:44:53: The changed order have the product number 10636141 not found. Cannot import Order No. 1017279A-0002.
+16/07/2019 11:44:53: The changed order have the product number 10636142 not found. Cannot import Order No. 1017279A-0002.
+16/07/2019 11:44:53: The changed order have the product number 10636142 not found. Cannot import Order No. 1017279A-0002.
+16/07/2019 11:44:53: The changed order have the product number 10636143 not found. Cannot import Order No. 1017279A-0002.
+16/07/2019 11:44:53: The changed order have the product number 10636143 not found. Cannot import Order No. 1017279A-0002.
+16/07/2019 11:44:53: The changed order have the product number 10636144 not found. Cannot import Order No. 1017279A-0002.
+16/07/2019 11:44:53: The changed order have the product number 10636144 not found. Cannot import Order No. 1017279A-0002.
+16/07/2019 11:44:53: The changed order have the product number FXT-414 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:53: The changed order have the product number FXT-415 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:53: The changed order have the product number FXT-424 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:53: The changed order have the product number FXT-425 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:53: The changed order have the product number H40-225 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:53: The changed order have the product number HT40-250 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:53: The changed order have the product number HT40-400 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:53: The changed order have the product number HT90-400X5.75X8 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:53: The changed order have the product number N12390 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:53: The changed order have the product number R40-200/300 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:53: The changed order have the product number R40-225/250 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:53: The changed order have the product number R40B-300/325 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:53: The changed order have the product number R40B-300/350 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:53: The changed order have the product number R40B-300/400 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:53: The changed order have the product number R40B-350/400 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:53: The changed order have the product number SUM-294001 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:53: The changed order have the product number SUM-294002 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:53: The changed order have the product number SUM-294003 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number SUM-294003 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number SUM-294011 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number SUM-294013 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number SUM-294014 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number SUM-294030 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number SUM-294031 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number SUM-294032 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number SUM-294035 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number SUM-294036 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number SUM-294037 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number SUM-294040 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number SUM-294041 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number SUM-294042 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number SUM-294063 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number SUM-294064 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number SUM-294065 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number SUM-294066 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number SUM-294068 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number SUM-294200 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number 45-100X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number 45-125X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number 45-175X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number 45B-150X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number 45B-175X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number 45B-225X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number 45B-275X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number 45B-300X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number 90-062X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number 90-075X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number 90-100X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number 90-125X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number 90-175X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number 90-200X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number 90-250X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number 90-275X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number 90-400X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number 90B-075X2.25 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number 90B-100X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number 90B-125X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number 90B-150X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number 90B-175X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number 90B-400X10 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number A031521074B not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number C40-038X156 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number C40-087 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number C40-100 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number C40-112X36'' not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number C40-150X36'' not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number C40-162X36'' not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number C40-175 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number C40-200X36'' not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number C40-225X36'' not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number C40-238 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number C40-250X36'' not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number C40-262X36'' not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number C40-275 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number C40-275X36'' not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number C40-300X36'' not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number C40-325X36'' not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number C40-350X36'' not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number C40-375 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number C40-400 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number C40-450 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number C40-550 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number CAC40-350X6 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number CAC40-400X8 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number CAC40-450X6 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number CAC40P-400X8 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number FLEX GLAND 1.75'' not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number FLEX GLAND 2'' not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number FXT-119 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number FXT-145REVD not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number FXT-314 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number FXT-315 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number FXT-333B not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:54: The changed order have the product number FXT-346B not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:55: The changed order have the product number FXT-354 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:55: The changed order have the product number FXT-374 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:55: The changed order have the product number FXT-375 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:55: The changed order have the product number FXT-376 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:55: The changed order have the product number FXT-413 not found. Cannot import Order No. 11609-0006.
+16/07/2019 11:44:55: The changed order have the product number VENTOSA18TBL not found. Cannot import Order No. ORF/2989-0003.
+16/07/2019 11:44:55: The changed order have the product number N12390 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number N65175 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number R40-150/200 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number R40-175/200 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number R40-200/250 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number R40-225/250 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number R40-250/300 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number R40B-175/250 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number R40B-250/300 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number R40B-275/300 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number R40B-300/325 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number R40B-300/400 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number R40B-350/425X4 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number R90-200/225 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number R90-225/250 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number R90-250/300 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number R90-300/350 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number R90-400/500 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number R90B-350/400 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number 12641549 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number CAC40-450X8 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number 08284 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number 084014 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number 084050 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number 084090 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number 084107 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number 08429 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number 08541 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number 087121 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number 1004860 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number 45-175X10 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number 45-225X10 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number 45-350X10 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number 45-400X10 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number 45B-300X10 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number 90-075X10 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number 90-150X10 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number 90-175X10 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number 90-200X10 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:55: The changed order have the product number 90-225X10 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number 90-300X10 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number 90B-200X10 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number 90B-225X10 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number A031727101 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number BMTP38R-HOSE not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number C40-075 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number C40-075X36'' not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number C40-100 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number C40-125 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number C40-138 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number C40-150 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number C40-162X36'' not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number C40-175 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number C40-200 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number C40-250 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number C40-275 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number C40-350 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number C40-400 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number C40-600 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number CAC40-300X6 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number CAC40-350X6 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number CAC40-400X8 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number FT.0625-90X11 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number FXT-04 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number FXT-239 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number FXT-240 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number FXT-241 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number FXT-247 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number FXT-248 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number FXT-381 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number FXT-382 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number FXT-404 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number HS-2965 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number HS-6019 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number HS-6743 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number HS-8759 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number HS-9329 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number HT40-138 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number HT40-350 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number MHS01I-010 not found. Cannot import Order No. 11523-0007.
+16/07/2019 11:44:56: The changed order have the product number 01080894 not found. Cannot import Order No. 11644-0002.
+16/07/2019 11:44:56: The changed order have the product number 01133800 not found. Cannot import Order No. 11644-0002.
+16/07/2019 11:44:56: The changed order have the product number MN-GG-04B not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:56: The changed order have the product number MN-GG-06B not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:56: The changed order have the product number N12390 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:56: The changed order have the product number N35774 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:56: The changed order have the product number N67668 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:56: The changed order have the product number N67668 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:56: The changed order have the product number N67668 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:56: The changed order have the product number N70472 REV B not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:56: The changed order have the product number N86670 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:56: The changed order have the product number N90463 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:56: The changed order have the product number R40-150/175 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:56: The changed order have the product number R40-250/275 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:56: The changed order have the product number R40B-150/200 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:56: The changed order have the product number R40B-175/250 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:56: The changed order have the product number R40B-275/300 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:56: The changed order have the product number R40B-325/400 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:56: The changed order have the product number R45B-200/250 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:56: The changed order have the product number R90B-250/300 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:56: The changed order have the product number SUM-294014 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:56: The changed order have the product number SUM-294036 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:57: The changed order have the product number SUM-294037 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:57: The changed order have the product number SUM-294041 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:57: The changed order have the product number SUM-294062 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:57: The changed order have the product number SUM-294064 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:57: The changed order have the product number SUM-294065 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:57: The changed order have the product number SUM-294066 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:57: The changed order have the product number 08633 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:57: The changed order have the product number 12421965-001 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:57: The changed order have the product number 45-200X10 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:57: The changed order have the product number 45-250X10 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:57: The changed order have the product number 605-1319-003 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:57: The changed order have the product number 90B-075X10 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:57: The changed order have the product number 90B-075X2.25 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:57: The changed order have the product number 90B-150X10 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:57: The changed order have the product number 90B-175X10 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:57: The changed order have the product number 90B-250X10 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:57: The changed order have the product number 90B-300X10 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:57: The changed order have the product number C40-038X156 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:57: The changed order have the product number C40-275 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:57: The changed order have the product number C40-287 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:57: The changed order have the product number C40B-150 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:57: The changed order have the product number C40B-300 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:57: The changed order have the product number CAC40P-350X6 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:57: The changed order have the product number FT.0625-90X11 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:57: The changed order have the product number FXT-145REVD not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:57: The changed order have the product number FXT-148 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:57: The changed order have the product number FXT-240 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:57: The changed order have the product number FXT-241 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:57: The changed order have the product number FXT-247 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:57: The changed order have the product number FXT-248 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:58: The changed order have the product number FXT-392 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:58: The changed order have the product number GTCP08934 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:58: The changed order have the product number H40-400 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:58: The changed order have the product number HT40-250 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:58: The changed order have the product number HT40-400 not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:58: The changed order have the product number MN-GG-01B not found. Cannot import Order No. 10955-0003.
+16/07/2019 11:44:58: The changed order have the product number MTC1024 not found. Cannot import Order No. P003200-0001.
+16/07/2019 11:44:58: The changed order have the product number 1176406S02 not found. Cannot import Order No. 5500157077-0419VN-0004.
+16/07/2019 11:44:58: The changed order have the product number 11-61052 not found. Cannot import Order No. 11663-0003.
+16/07/2019 11:44:58: The changed order have the product number 11-61053 not found. Cannot import Order No. 11663-0003.
+16/07/2019 11:44:58: The changed order have the product number 08096 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number 08179 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number 084016 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number 084031 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number 084055 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number 084107 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number 08501 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number 08690 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number 08711 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number 100050118-05 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number 100050118-06 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number 100083 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number 100084 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number 10-0094 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number 45-200X10 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number 45-400X10 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number 45B-250X10 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number 5-1100 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number 65062B not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number 90-062X10 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number 90-062X6 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number 90-125X10 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number 90-150X10 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number 90-200X10 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number 90-225X10 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number 90-250X10 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number 90-275X10 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number 90-300X10 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number 90-400X10 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number 90B-075X2.25 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number 90B-300X10 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number 910-851REVB not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number C40-075 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number C40-087 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number C40-100 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number C40-112X36'' not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number C40-125X36'' not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number C40-150X36'' not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number C40-175X36'' not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number C40-200X36'' not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number C40-212X36'' not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number C40-225 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number C40-225X36'' not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number C40-250X36'' not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number C40-275X36'' not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number C40-300X36'' not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number C40-350X36'' not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number C40-500X36'' not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number C40B-250 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number CAC40-300X6 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number CAC40-350X6 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number CAC40-400X6 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number CAC40-400X6 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number CAC40-400X8 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number CAC40-450X6 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number CAC40P-300X6 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number CAC40P-400X6 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number FXT-15 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number FXT-314 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number FXT-315 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number FXT-352 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number FXT-354 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number FXT-374 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number FXT-375 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number FXT-376 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number FXT-414 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number FXT-415 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:58: The changed order have the product number FXT-55B not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:59: The changed order have the product number H40-225 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:59: The changed order have the product number H40B-250 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:59: The changed order have the product number H40B-300 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:59: The changed order have the product number HT40-200 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:59: The changed order have the product number HT40-300 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:59: The changed order have the product number MHS01I-009 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:59: The changed order have the product number N12390 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:59: The changed order have the product number N35476 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:59: The changed order have the product number N77802 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:59: The changed order have the product number R45-300/400 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:59: The changed order have the product number R90B-225/250 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:59: The changed order have the product number S-2253 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:59: The changed order have the product number A031513017 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:59: The changed order have the product number FXT-424 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:59: The changed order have the product number FXT-425 not found. Cannot import Order No. 11474-0010.
+16/07/2019 11:44:59: The changed order have the product number CHOCO02 not found. Cannot import Order No. ORF/2924-0001.
+16/07/2019 11:44:59: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 11:44:59: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 11:44:59: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 11:44:59: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 11:44:59: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 11:44:59: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 11:44:59: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 11:44:59: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 11:44:59: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 11:44:59: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 11:44:59: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 11:44:59: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 11:44:59: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 11:44:59: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 11:44:59: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 11:44:59: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 11:44:59: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 11:44:59: The changed order have the product number 1123790S01 not found. Cannot import Order No. 5500153325-2019-0025.
+16/07/2019 11:44:59: The changed order have the product number BAKING MAT 30 X 40CM SILICONE not found. Cannot import Order No. 7428100105-0001.
+16/07/2019 11:44:59: The changed order have the product number BAKING MAT 30 X 40CM SILICONE not found. Cannot import Order No. 5292000105-0001.
+16/07/2019 11:44:59: The changed order have the product number SNOWFLAKE CAKE FORM SILICONE not found. Cannot import Order No. 7712400105-0001.
+16/07/2019 11:44:59: Order number ORF/2989 has more than one ERP Order No. System cannot decide!
+16/07/2019 11:44:59: Order number ORF/2989 has more than one ERP Order No. System cannot decide!
+16/07/2019 11:44:59: Order number ORF/2989 has more than one ERP Order No. System cannot decide!
+16/07/2019 11:44:59: Order number 19F-ING28-XF-B has more than one ERP Order No. System cannot decide!
+16/07/2019 11:45:00: Order number ORF/3256 has more than one ERP Order No. System cannot decide!
+16/07/2019 11:45:00: Order number ORF/3256 has more than one ERP Order No. System cannot decide!
+16/07/2019 11:45:00: Order number ORF/3256 has more than one ERP Order No. System cannot decide!
+16/07/2019 11:45:00: Order number ORF/3256 has more than one ERP Order No. System cannot decide!
+16/07/2019 11:45:00: Order number ORF/3256 has more than one ERP Order No. System cannot decide!
+16/07/2019 11:45:00: Order number ORF/3256 has more than one ERP Order No. System cannot decide!
+16/07/2019 11:45:00: Order number ORF/3256 has more than one ERP Order No. System cannot decide!
+16/07/2019 11:45:00: Order number ORF/3391 has more than one ERP Order No. System cannot decide!
+16/07/2019 11:45:00: Order number ORF/3316 has more than one ERP Order No. System cannot decide!
+16/07/2019 11:45:00: Order number ORF/3316 has more than one ERP Order No. System cannot decide!
+16/07/2019 11:45:00: Order number ORF/3316 has more than one ERP Order No. System cannot decide!
+16/07/2019 11:45:00: Order number ORF/3316 has more than one ERP Order No. System cannot decide!
+16/07/2019 11:45:01: Order number ORF/3316 has more than one ERP Order No. System cannot decide!
+16/07/2019 11:45:01: Order number ORF/3316 has more than one ERP Order No. System cannot decide!
+16/07/2019 11:45:01: Order number ORF/3250 has more than one ERP Order No. System cannot decide!
+16/07/2019 11:45:01: Order number ORF/3250 has more than one ERP Order No. System cannot decide!
+16/07/2019 11:45:01: Order number ORF/3250 has more than one ERP Order No. System cannot decide!
+16/07/2019 11:45:01: Order number ORF/3250 has more than one ERP Order No. System cannot decide!
+16/07/2019 11:45:01: Order number ORF/3431 has more than one ERP Order No. System cannot decide!
+16/07/2019 11:45:01: Failed to update Order No. 1906051    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1906051    , 0005, 0001).
+The statement has been terminated.
+16/07/2019 11:45:01: Failed to update Order No. 1906051    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1906051    , 0005, 0002).
+The statement has been terminated.
+16/07/2019 11:45:01: Failed to update Order No. 1906051    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1906051    , 0005, 0003).
+The statement has been terminated.
+16/07/2019 11:45:01: Failed to update Order No. 1906051    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1906051    , 0005, 0004).
+The statement has been terminated.
+16/07/2019 11:45:01: Failed to update Order No. 1906051    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1906051    , 0005, 0005).
+The statement has been terminated.
+16/07/2019 11:45:01: Failed to update Order No. 1906051    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1906051    , 0005, 0006).
+The statement has been terminated.
+16/07/2019 11:45:02: Failed to update Order No. 1906051    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1906051    , 0005, 0007).
+The statement has been terminated.
+16/07/2019 11:45:02: Failed to update Order No. 1906051    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1906051    , 0005, 0008).
+The statement has been terminated.
+16/07/2019 11:45:02: Failed to update Order No. 1907049    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1907049    , 0004, 0001).
+The statement has been terminated.
+16/07/2019 11:45:02: Failed to update Order No. 1907049    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1907049    , 0004, 0002).
+The statement has been terminated.
+16/07/2019 11:45:02: Failed to update Order No. 1907049    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1907049    , 0004, 0003).
+The statement has been terminated.
+16/07/2019 11:45:02: Failed to update Order No. 1907049    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1907049    , 0004, 0004).
+The statement has been terminated.
+16/07/2019 11:45:02: Failed to update Order No. 1907033    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1907033    , 0001, 0001).
+The statement has been terminated.
+16/07/2019 11:45:02: Failed to update Order No. 1907033    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1907033    , 0001, 0002).
+The statement has been terminated.
+16/07/2019 11:45:02: Failed to update Order No. 1907033    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1907033    , 0001, 0003).
+The statement has been terminated.
+16/07/2019 11:45:02: Failed to update Order No. 1905093    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1905093    , 0001, 0001).
+The statement has been terminated.
+16/07/2019 11:45:02: Failed to update Order No. 1905138    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B221, 1905138    , 0006, 0001).
+The statement has been terminated.
+16/07/2019 11:45:02: Failed to update Order No. 1905138    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B221, 1905138    , 0006, 0002).
+The statement has been terminated.
+16/07/2019 11:45:02: Failed to update Order No. 1905138    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B221, 1905138    , 0006, 0003).
+The statement has been terminated.
+16/07/2019 11:45:02: Failed to update Order No. 1903001    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1903001    , 0005, 0001).
+The statement has been terminated.
+16/07/2019 11:45:02: Failed to update Order No. 1903001    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1903001    , 0005, 0002).
+The statement has been terminated.
+16/07/2019 11:45:02: Failed to update Order No. 1903001    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1903001    , 0005, 0003).
+The statement has been terminated.
+16/07/2019 11:45:02: Failed to update Order No. 1903001    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1903001    , 0005, 0004).
+The statement has been terminated.
+16/07/2019 11:45:03: Failed to update Order No. 1903001    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1903001    , 0005, 0005).
+The statement has been terminated.
+16/07/2019 11:45:03: Failed to update Order No. 1907259    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1907259    , 0001, 0001).
+The statement has been terminated.
+16/07/2019 11:45:06: The product number C40-125 not found. Cannot import Order No. 1907262-0001.
+16/07/2019 11:45:06: The product number FXT-202B not found. Cannot import Order No. 1907262-0002.
+16/07/2019 11:45:06: The product number FXT-314 not found. Cannot import Order No. 1907262-0003.
+16/07/2019 11:45:06: The product number 910-851REVB not found. Cannot import Order No. 1907262-0004.
+16/07/2019 11:45:06: The product number 087121 not found. Cannot import Order No. 1907262-0005.
+16/07/2019 11:45:06: The product number CAC40-350X6 not found. Cannot import Order No. 1907262-0006.
+16/07/2019 11:45:06: The product number ZVARIE not found. Cannot import Order No. 1907263-0002.
+16/07/2019 11:45:06: The product number 12578558 not found. Cannot import Order No. 1907265-0001.
+16/07/2019 11:45:06: The product number 12578559 not found. Cannot import Order No. 1907265-0002.
+16/07/2019 11:45:06: The product number 602000000022 not found. Cannot import Order No. 1907270-0001.
+16/07/2019 11:45:06: The product number 602000000016 not found. Cannot import Order No. 1907270-0002.
+16/07/2019 11:45:06: The product number 6070V0000030 not found. Cannot import Order No. 1907270-0003.
+16/07/2019 11:45:06: The product number 6070V0000018 not found. Cannot import Order No. 1907270-0004.
+16/07/2019 11:45:06: The product number 6070V0000018 not found. Cannot import Order No. 1907270-0005.
+16/07/2019 11:45:06: The product number 45-250X10 not found. Cannot import Order No. 1907272-0001.
+16/07/2019 11:45:06: The product number 5-1045 not found. Cannot import Order No. 1907272-0002.
+16/07/2019 11:45:06: The product number 90-100X10 not found. Cannot import Order No. 1907272-0003.
+16/07/2019 11:45:06: The product number FXT-324B not found. Cannot import Order No. 1907272-0004.
+16/07/2019 11:45:06: The product number 625001190374 not found. Cannot import Order No. 1907262    -0001.
+16/07/2019 11:45:07: The product number 640601190375 not found. Cannot import Order No. 1907262    -0002.
+16/07/2019 11:45:07: The product number TL-VEN-19012 not found. Cannot import Order No. 1907263    -0001.
+16/07/2019 11:45:07: The product number TL-VEN-19008 not found. Cannot import Order No. 1907263    -0002.
+16/07/2019 11:45:07: The product number 1123790S01 not found. Cannot import Order No. 1907264    -0001.
+16/07/2019 11:45:07: The product number 4015853 not found. Cannot import Order No. 1907265    -0001.
+16/07/2019 11:45:07: The product number FXT-279 not found. Cannot import Order No. 1907266    -0001.
+16/07/2019 11:45:07: The product number FRT120 not found. Cannot import Order No. 1907276    -0002.
+16/07/2019 11:45:07: The product number 1176406S02 not found. Cannot import Order No. 1907279    -0001.
+16/07/2019 11:45:07: The product number 1176406S02 not found. Cannot import Order No. 1907279    -0002.
+16/07/2019 11:45:07: The product number C40-125 not found. Cannot import Order No. 1907294    -0001.
+16/07/2019 11:45:07: The product number 625001190374 not found. Cannot import Order No. 1907262    -0001.
+16/07/2019 11:45:07: The product number 640601190375 not found. Cannot import Order No. 1907262    -0002.
+16/07/2019 11:45:07: The product number TL-VEN-19012 not found. Cannot import Order No. 1907263    -0001.
+16/07/2019 11:45:07: The product number TL-VEN-19008 not found. Cannot import Order No. 1907263    -0002.
+16/07/2019 11:45:07: The product number 1123790S01 not found. Cannot import Order No. 1907264    -0001.
+16/07/2019 11:45:07: The product number 4015853 not found. Cannot import Order No. 1907265    -0001.
+16/07/2019 11:45:07: The product number FXT-279 not found. Cannot import Order No. 1907266    -0001.
+16/07/2019 11:45:07: The product number FRT120 not found. Cannot import Order No. 1907276    -0002.
+16/07/2019 11:45:07: The product number 1176406S02 not found. Cannot import Order No. 1907279    -0001.
+16/07/2019 11:45:07: The product number 1176406S02 not found. Cannot import Order No. 1907279    -0002.
+16/07/2019 11:45:07: The product number C40-125 not found. Cannot import Order No. 1907294    -0001.
+16/07/2019 11:45:07: The product number FXT-202B not found. Cannot import Order No. 1907294    -0002.
+16/07/2019 11:45:07: The product number FXT-314 not found. Cannot import Order No. 1907294    -0003.
+16/07/2019 11:45:07: The product number 910-851REVB not found. Cannot import Order No. 1907294    -0004.
+16/07/2019 11:45:07: The product number 087121 not found. Cannot import Order No. 1907294    -0005.
+16/07/2019 11:45:07: The product number CAC40-350X6 not found. Cannot import Order No. 1907294    -0006.
+16/07/2019 11:45:07: The product number ZVARIE not found. Cannot import Order No. 1907295    -0002.
+16/07/2019 11:45:07: The product number 12578558 not found. Cannot import Order No. 1907297    -0001.
+16/07/2019 11:45:07: The product number 12578559 not found. Cannot import Order No. 1907297    -0002.
+16/07/2019 11:45:07: The product number 602000000022 not found. Cannot import Order No. 1907302    -0001.
+16/07/2019 11:45:07: The product number 602000000016 not found. Cannot import Order No. 1907302    -0002.
+16/07/2019 11:45:07: The product number 6070V0000030 not found. Cannot import Order No. 1907302    -0003.
+16/07/2019 11:45:07: The product number 6070V0000018 not found. Cannot import Order No. 1907302    -0004.
+16/07/2019 11:45:07: The product number 6070V0000018 not found. Cannot import Order No. 1907302    -0005.
+16/07/2019 11:45:07: The product number 45-250X10 not found. Cannot import Order No. 1907304    -0001.
+16/07/2019 11:45:07: The product number 5-1045 not found. Cannot import Order No. 1907304    -0002.
+16/07/2019 11:45:07: The product number 90-100X10 not found. Cannot import Order No. 1907304    -0003.
+16/07/2019 11:45:07: The product number FXT-324B not found. Cannot import Order No. 1907304    -0004.
+16/07/2019 11:45:07: The product number 625001190374 not found. Cannot import Order No. 1907262    -0001.
+16/07/2019 11:45:07: The product number 640601190375 not found. Cannot import Order No. 1907262    -0002.
+16/07/2019 11:45:08: The product number TL-VEN-19012 not found. Cannot import Order No. 1907263    -0001.
+16/07/2019 11:45:08: The product number TL-VEN-19008 not found. Cannot import Order No. 1907263    -0002.
+16/07/2019 11:45:08: The product number 1123790S01 not found. Cannot import Order No. 1907264    -0001.
+16/07/2019 11:45:08: The product number 4015853 not found. Cannot import Order No. 1907265    -0001.
+16/07/2019 11:45:08: The product number FXT-279 not found. Cannot import Order No. 1907266    -0001.
+16/07/2019 11:45:08: The product number FRT120 not found. Cannot import Order No. 1907276    -0002.
+16/07/2019 11:45:08: The product number 1176406S02 not found. Cannot import Order No. 1907279    -0001.
+16/07/2019 11:45:08: The product number 1176406S02 not found. Cannot import Order No. 1907279    -0002.
+16/07/2019 11:45:08: The product number C40-125 not found. Cannot import Order No. 1907294    -0001.
+16/07/2019 11:45:15: Order No. 7428100105 has been created.
+16/07/2019 11:45:15: Order No. 5292000105 has been created.
+16/07/2019 11:45:15: Order No. 7712400105 has been created.
+16/07/2019 11:45:15: Order No. ORF/2924 has been created.
+16/07/2019 11:45:15: Order No. WTX201909-VN has been created.
+16/07/2019 11:45:15: Order No. THT-TECH/09072019 has been created.
+16/07/2019 11:45:15: Order No. 11650 has been created.
+16/07/2019 11:45:15: Order No. ORF/3457 has been created.
+16/07/2019 11:45:15: Order No. 9323751170/10 has been created.
+16/07/2019 11:45:15: Order No. 11665 has been created.
+16/07/2019 11:45:15: Order No. 9323751351 has been created.
+16/07/2019 11:45:15: Failed to create Order No. 17212-ID99. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (A221, 1907268    ).
+The statement has been terminated.
+16/07/2019 11:45:15: Order No. 9323751446/30 has been created.
+16/07/2019 11:45:15: Order No. W421-190700013 has been created.
+16/07/2019 11:45:15: Order No. 15072019 has been created.
+16/07/2019 11:45:15: Failed to create Order No. 9746. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1808221    ).
+The statement has been terminated.
+16/07/2019 11:45:15: Failed to create Order No. 9745. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1808222    ).
+The statement has been terminated.
+16/07/2019 11:45:15: Failed to create Order No. 2680. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1809132    ).
+The statement has been terminated.
+16/07/2019 11:45:16: Failed to create Order No. 9497. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1809133    ).
+The statement has been terminated.
+16/07/2019 11:45:16: Failed to create Order No. 9599.. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1809134    ).
+The statement has been terminated.
+16/07/2019 11:45:16: Failed to create Order No. 9870. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1809135    ).
+The statement has been terminated.
+16/07/2019 11:45:16: Failed to create Order No. 9866. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1809136    ).
+The statement has been terminated.
+16/07/2019 11:45:16: Failed to create Order No. 9872. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1809137    ).
+The statement has been terminated.
+16/07/2019 11:45:16: Failed to create Order No. 9864. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1809138    ).
+The statement has been terminated.
+16/07/2019 11:45:16: Failed to create Order No. 5500157077-1018VN. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1809139    ).
+The statement has been terminated.
+16/07/2019 11:45:16: Failed to create Order No. 10016. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1810125    ).
+The statement has been terminated.
+16/07/2019 11:45:16: Failed to create Order No. 9871. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1810126    ).
+The statement has been terminated.
+16/07/2019 11:45:16: Failed to create Order No. 10082. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1810127    ).
+The statement has been terminated.
+16/07/2019 11:45:16: Failed to create Order No. 9874. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1810128    ).
+The statement has been terminated.
+16/07/2019 11:45:16: Failed to create Order No. CP-201802200. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1810129    ).
+The statement has been terminated.
+16/07/2019 11:45:16: Failed to create Order No. 10190. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1811169    ).
+The statement has been terminated.
+16/07/2019 11:45:16: Failed to create Order No. 10222. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1811170    ).
+The statement has been terminated.
+16/07/2019 11:45:16: Failed to create Order No. 10253. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1811171    ).
+The statement has been terminated.
+16/07/2019 11:45:16: Failed to create Order No. 10297. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1811172    ).
+The statement has been terminated.
+16/07/2019 11:45:16: Failed to create Order No. 5500157077-0419VN. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1811173    ).
+The statement has been terminated.
+16/07/2019 11:45:16: Failed to create Order No. CP-201802425. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1811175    ).
+The statement has been terminated.
+16/07/2019 11:45:16: Failed to create Order No. 10190. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1811178    ).
+The statement has been terminated.
+16/07/2019 11:45:16: Failed to create Order No. 10222. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1811179    ).
+The statement has been terminated.
+16/07/2019 11:45:16: Failed to create Order No. 10253. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1811180    ).
+The statement has been terminated.
+16/07/2019 11:45:16: Failed to create Order No. 10297. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1811181    ).
+The statement has been terminated.
+16/07/2019 11:45:16: Failed to create Order No. 5500157077-0419VN. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1811182    ).
+The statement has been terminated.
+16/07/2019 11:45:16: Failed to create Order No. CP-201802425. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1811183    ).
+The statement has been terminated.
+16/07/2019 11:45:16: Failed to create Order No. 10412. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1812203    ).
+The statement has been terminated.
+16/07/2019 11:45:16: Failed to create Order No. 10438. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1812204    ).
+The statement has been terminated.
+16/07/2019 11:45:16: Failed to create Order No. 10441. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1812205    ).
+The statement has been terminated.
+16/07/2019 11:45:17: Failed to create Order No. 10442. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1812206    ).
+The statement has been terminated.
+16/07/2019 11:45:17: Failed to create Order No. 10450. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1812207    ).
+The statement has been terminated.
+16/07/2019 11:45:17: Failed to create Order No. 10377. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1812208    ).
+The statement has been terminated.
+16/07/2019 11:45:17: Failed to create Order No. 10420. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1812209    ).
+The statement has been terminated.
+16/07/2019 11:45:17: Failed to create Order No. 5500157063-0119V. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1812210    ).
+The statement has been terminated.
+16/07/2019 11:45:17: Failed to create Order No. 10412. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1812212    ).
+The statement has been terminated.
+16/07/2019 11:45:17: Failed to create Order No. 10438. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1812213    ).
+The statement has been terminated.
+16/07/2019 11:45:17: Failed to create Order No. 10441. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1812214    ).
+The statement has been terminated.
+16/07/2019 11:45:17: Failed to create Order No. 10442. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1812215    ).
+The statement has been terminated.
+16/07/2019 11:45:17: Failed to create Order No. 10450. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1812216    ).
+The statement has been terminated.
+16/07/2019 11:45:17: Failed to create Order No. 10377. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1812217    ).
+The statement has been terminated.
+16/07/2019 11:45:17: Failed to create Order No. 10420. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1812218    ).
+The statement has been terminated.
+16/07/2019 11:45:17: Failed to create Order No. 5500157063-0119V. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1812219    ).
+The statement has been terminated.
+16/07/2019 11:45:17: Failed to create Order No. 10481. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1901083    ).
+The statement has been terminated.
+16/07/2019 11:45:17: Failed to create Order No. 10540. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1901084    ).
+The statement has been terminated.
+16/07/2019 11:45:17: Failed to create Order No. 10773. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1902085    ).
+The statement has been terminated.
+16/07/2019 11:45:17: Failed to create Order No. 10768. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1902086    ).
+The statement has been terminated.
+16/07/2019 11:45:17: Failed to create Order No. 10603. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1902087    ).
+The statement has been terminated.
+16/07/2019 11:45:17: Failed to create Order No. 10830. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1903143    ).
+The statement has been terminated.
+16/07/2019 11:45:17: Failed to create Order No. 10997. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1903144    ).
+The statement has been terminated.
+16/07/2019 11:45:17: Failed to create Order No. 10955. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1903145    ).
+The statement has been terminated.
+16/07/2019 11:45:17: Failed to create Order No. 10792. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1903146    ).
+The statement has been terminated.
+16/07/2019 11:45:17: Failed to create Order No. 5500157077-0719V. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1903147    ).
+The statement has been terminated.
+16/07/2019 11:45:18: Failed to create Order No. 11116. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1904099    ).
+The statement has been terminated.
+16/07/2019 11:45:18: Failed to create Order No. 11095. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1904100    ).
+The statement has been terminated.
+16/07/2019 11:45:18: Failed to create Order No. 11116. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1904102    ).
+The statement has been terminated.
+16/07/2019 11:45:18: Failed to create Order No. 11095. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1904103    ).
+The statement has been terminated.
+16/07/2019 11:45:18: Failed to create Order No. 7428100105. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1904104    ).
+The statement has been terminated.
+16/07/2019 11:45:18: Failed to create Order No. 5292000105. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1904105    ).
+The statement has been terminated.
+16/07/2019 11:45:18: Failed to create Order No. 7712400105. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1904106    ).
+The statement has been terminated.
+16/07/2019 11:45:18: Failed to create Order No. 11174. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1905133    ).
+The statement has been terminated.
+16/07/2019 11:45:18: Failed to create Order No. 11175. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1905134    ).
+The statement has been terminated.
+16/07/2019 11:45:18: Failed to create Order No. 11177. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1905135    ).
+The statement has been terminated.
+16/07/2019 11:45:18: Failed to create Order No. 11345. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1905136    ).
+The statement has been terminated.
+16/07/2019 11:45:18: Failed to create Order No. 11300. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1905137    ).
+The statement has been terminated.
+16/07/2019 11:45:18: Failed to create Order No. 5500011478-0719VN. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1905140    ).
+The statement has been terminated.
+16/07/2019 11:45:18: Failed to create Order No. 5500011477-0719VN. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1905141    ).
+The statement has been terminated.
+16/07/2019 11:45:18: Failed to create Order No. PUR-033794. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1905142    ).
+The statement has been terminated.
+16/07/2019 11:45:18: Failed to create Order No. 11345. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1905143    ).
+The statement has been terminated.
+16/07/2019 11:45:18: Failed to create Order No. 11300. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1905144    ).
+The statement has been terminated.
+16/07/2019 11:45:18: Failed to create Order No. 5500011478-0719VN. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1905145    ).
+The statement has been terminated.
+16/07/2019 11:45:18: Failed to create Order No. 5500011477-0719VN. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1905146    ).
+The statement has been terminated.
+16/07/2019 11:45:18: Failed to create Order No. PUR-033794. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1905147    ).
+The statement has been terminated.
+16/07/2019 11:45:18: Failed to create Order No. PUR-034009. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1905148    ).
+The statement has been terminated.
+16/07/2019 11:45:18: Failed to create Order No. 11523. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1906102    ).
+The statement has been terminated.
+16/07/2019 11:45:19: Failed to create Order No. 13083. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1906103    ).
+The statement has been terminated.
+16/07/2019 11:45:19: Failed to create Order No. 2740. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1906104    ).
+The statement has been terminated.
+16/07/2019 11:45:19: Failed to create Order No. VR-7722. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1906105    ).
+The statement has been terminated.
+16/07/2019 11:45:19: Failed to create Order No. 5500157077-0819V. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1906108    ).
+The statement has been terminated.
+16/07/2019 11:45:19: Failed to create Order No. 5500165986-0819VN. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1906110    ).
+The statement has been terminated.
+16/07/2019 11:45:19: Failed to create Order No. 13083. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1906111    ).
+The statement has been terminated.
+16/07/2019 11:45:19: Failed to create Order No. 2740. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1906112    ).
+The statement has been terminated.
+16/07/2019 11:45:19: Failed to create Order No. VR-7722. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1906113    ).
+The statement has been terminated.
+16/07/2019 11:45:19: Failed to create Order No. 5500157077-0819V. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1906114    ).
+The statement has been terminated.
+16/07/2019 11:45:19: Failed to create Order No. 5500165986-0819VN. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1906115    ).
+The statement has been terminated.
+16/07/2019 11:45:19: Failed to create Order No. CMD1901217. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1906117    ).
+The statement has been terminated.
+16/07/2019 11:45:19: Failed to create Order No. ORF/2924. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1906118    ).
+The statement has been terminated.
+16/07/2019 11:45:19: Failed to create Order No. 9323744578/10. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907086    ).
+The statement has been terminated.
+16/07/2019 11:45:19: Failed to create Order No. VR-8248. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907087    ).
+The statement has been terminated.
+16/07/2019 11:45:19: Failed to create Order No. 070403. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907089    ).
+The statement has been terminated.
+16/07/2019 11:45:19: Failed to create Order No. 4501937553. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907090    ).
+The statement has been terminated.
+16/07/2019 11:45:19: Failed to create Order No. 4500003516. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907091    ).
+The statement has been terminated.
+16/07/2019 11:45:19: Failed to create Order No. 11643. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907092    ).
+The statement has been terminated.
+16/07/2019 11:45:19: Failed to create Order No. 11644. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907093    ).
+The statement has been terminated.
+16/07/2019 11:45:19: Failed to create Order No. DPD190708. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907096    ).
+The statement has been terminated.
+16/07/2019 11:45:20: Failed to create Order No. 5500157060-0719VN. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907097    ).
+The statement has been terminated.
+16/07/2019 11:45:20: Failed to create Order No. 5500157077-0919V. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907106    ).
+The statement has been terminated.
+16/07/2019 11:45:20: Failed to create Order No. 5500147723-0919VN. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907108    ).
+The statement has been terminated.
+16/07/2019 11:45:20: Failed to create Order No. 5500165998-0919VN. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907110    ).
+The statement has been terminated.
+16/07/2019 11:45:20: Failed to create Order No. 9323748460/10. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907112    ).
+The statement has been terminated.
+16/07/2019 11:45:20: Failed to create Order No. VR-8247. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907113    ).
+The statement has been terminated.
+16/07/2019 11:45:20: Failed to create Order No. 165734. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907114    ).
+The statement has been terminated.
+16/07/2019 11:45:20: Failed to create Order No. 9323743497/10. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907115    ).
+The statement has been terminated.
+16/07/2019 11:45:20: Failed to create Order No. 4500217894. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907116    ).
+The statement has been terminated.
+16/07/2019 11:45:20: Failed to create Order No. 11630. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907117    ).
+The statement has been terminated.
+16/07/2019 11:45:20: Failed to create Order No. 11629. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907118    ).
+The statement has been terminated.
+16/07/2019 11:45:20: Failed to create Order No. 2019071001. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907119    ).
+The statement has been terminated.
+16/07/2019 11:45:20: Failed to create Order No. 11609. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907120    ).
+The statement has been terminated.
+16/07/2019 11:45:20: Failed to create Order No. 11523.. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907121    ).
+The statement has been terminated.
+16/07/2019 11:45:20: Failed to create Order No. 11638. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907124    ).
+The statement has been terminated.
+16/07/2019 11:45:20: Failed to create Order No. 217732. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907125    ).
+The statement has been terminated.
+16/07/2019 11:45:20: Failed to create Order No. EXTRA SHIPPED TLS192056. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907126    ).
+The statement has been terminated.
+16/07/2019 11:45:20: Failed to create Order No. 5500165986-0919VN. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907127    ).
+The statement has been terminated.
+16/07/2019 11:45:21: Failed to create Order No. 070403. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907128    ).
+The statement has been terminated.
+16/07/2019 11:45:21: Failed to create Order No. 4501937553. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907129    ).
+The statement has been terminated.
+16/07/2019 11:45:21: Failed to create Order No. 4500003516. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907130    ).
+The statement has been terminated.
+16/07/2019 11:45:21: Failed to create Order No. 11643. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907131    ).
+The statement has been terminated.
+16/07/2019 11:45:21: Failed to create Order No. 11644. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907132    ).
+The statement has been terminated.
+16/07/2019 11:45:21: Failed to create Order No. DPD190708. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907135    ).
+The statement has been terminated.
+16/07/2019 11:45:21: Failed to create Order No. 5500157060-0719VN. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907136    ).
+The statement has been terminated.
+16/07/2019 11:45:21: Failed to create Order No. 5500157077-0919V. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907145    ).
+The statement has been terminated.
+16/07/2019 11:45:21: Failed to create Order No. 5500147723-0919VN. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907147    ).
+The statement has been terminated.
+16/07/2019 11:45:21: Failed to create Order No. 5500165998-0919VN. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907149    ).
+The statement has been terminated.
+16/07/2019 11:45:21: Failed to create Order No. 9323748460/10. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907151    ).
+The statement has been terminated.
+16/07/2019 11:45:21: Failed to create Order No. VR-8247. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907152    ).
+The statement has been terminated.
+16/07/2019 11:45:21: Failed to create Order No. 165734. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907153    ).
+The statement has been terminated.
+16/07/2019 11:45:21: Failed to create Order No. 9323743497/10. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907154    ).
+The statement has been terminated.
+16/07/2019 11:45:21: Failed to create Order No. 4500217894. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907155    ).
+The statement has been terminated.
+16/07/2019 11:45:21: Failed to create Order No. 11630. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907156    ).
+The statement has been terminated.
+16/07/2019 11:45:21: Failed to create Order No. 11629. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907157    ).
+The statement has been terminated.
+16/07/2019 11:45:21: Failed to create Order No. 2019071001. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907158    ).
+The statement has been terminated.
+16/07/2019 11:45:21: Failed to create Order No. 11609. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907159    ).
+The statement has been terminated.
+16/07/2019 11:45:21: Failed to create Order No. 11523.. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907160    ).
+The statement has been terminated.
+16/07/2019 11:45:21: Failed to create Order No. 11638. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907161    ).
+The statement has been terminated.
+16/07/2019 11:45:21: Failed to create Order No. 217732. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907162    ).
+The statement has been terminated.
+16/07/2019 11:45:21: Failed to create Order No. EXTRA SHIPPED TLS192056. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907163    ).
+The statement has been terminated.
+16/07/2019 11:45:22: Failed to create Order No. 5500165986-0919VN. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907164    ).
+The statement has been terminated.
+16/07/2019 11:45:22: Failed to create Order No. 5500157077-0919V. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907165    ).
+The statement has been terminated.
+16/07/2019 11:45:22: Failed to create Order No. 5500147723-0919VN. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907167    ).
+The statement has been terminated.
+16/07/2019 11:45:22: Failed to create Order No. 5500165998-0919VN. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907169    ).
+The statement has been terminated.
+16/07/2019 11:45:22: Failed to create Order No. 9323748460/10. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907171    ).
+The statement has been terminated.
+16/07/2019 11:45:22: Failed to create Order No. 217732. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907172    ).
+The statement has been terminated.
+16/07/2019 11:45:22: Failed to create Order No. EXTRA SHIPPED TLS192056. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907173    ).
+The statement has been terminated.
+16/07/2019 11:45:22: Failed to create Order No. 5500157077-0919V. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907176    ).
+The statement has been terminated.
+16/07/2019 11:45:22: Failed to create Order No. 5500147723-0919VN. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907178    ).
+The statement has been terminated.
+16/07/2019 11:45:22: Failed to create Order No. 5500165998-0919VN. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907180    ).
+The statement has been terminated.
+16/07/2019 11:45:22: Failed to create Order No. 9323748460/10. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907182    ).
+The statement has been terminated.
+16/07/2019 11:45:22: Failed to create Order No. 9323749145/10. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907187    ).
+The statement has been terminated.
+16/07/2019 11:45:22: Failed to create Order No. 9323749153/10. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907188    ).
+The statement has been terminated.
+16/07/2019 11:45:22: Failed to create Order No. 9323749497/10. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907189    ).
+The statement has been terminated.
+16/07/2019 11:45:22: Failed to create Order No. THT-TECH/09072019. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907191    ).
+The statement has been terminated.
+16/07/2019 11:45:22: Failed to create Order No. 11650. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907192    ).
+The statement has been terminated.
+16/07/2019 11:45:22: Failed to create Order No. EXTRA SHIPPED TLS192056. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907194    ).
+The statement has been terminated.
+16/07/2019 11:45:22: Failed to create Order No. VR-8248. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907196    ).
+The statement has been terminated.
+16/07/2019 11:45:22: Failed to create Order No. 070403. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907197    ).
+The statement has been terminated.
+16/07/2019 11:45:22: Failed to create Order No. 4501937553. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907198    ).
+The statement has been terminated.
+16/07/2019 11:45:23: Failed to create Order No. 4500003516. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907199    ).
+The statement has been terminated.
+16/07/2019 11:45:23: Failed to create Order No. 11643. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907200    ).
+The statement has been terminated.
+16/07/2019 11:45:23: Failed to create Order No. 11644. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907201    ).
+The statement has been terminated.
+16/07/2019 11:45:23: Failed to create Order No. 11650. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907203    ).
+The statement has been terminated.
+16/07/2019 11:45:23: Failed to create Order No. 5500157077-0919V. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907214    ).
+The statement has been terminated.
+16/07/2019 11:45:23: Failed to create Order No. 5500147723-0919VN. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907216    ).
+The statement has been terminated.
+16/07/2019 11:45:23: Failed to create Order No. 9323749153/10. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907225    ).
+The statement has been terminated.
+16/07/2019 11:45:23: Failed to create Order No. 9323749497/10. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907226    ).
+The statement has been terminated.
+16/07/2019 11:45:23: Failed to create Order No. 11650. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907229    ).
+The statement has been terminated.
+16/07/2019 11:45:23: Failed to create Order No. EXTRA SHIPPED TLS192056. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907231    ).
+The statement has been terminated.
+16/07/2019 11:45:23: Failed to create Order No. 11650. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907239    ).
+The statement has been terminated.
+16/07/2019 11:45:23: Failed to create Order No. 11650. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907250    ).
+The statement has been terminated.
+16/07/2019 11:45:23: Failed to create Order No. 11665. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907253    ).
+The statement has been terminated.
+16/07/2019 11:45:23: Failed to create Order No. 9323752100/10. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907255    ).
+The statement has been terminated.
+16/07/2019 11:45:23: Failed to create Order No. VR-8504. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907258    ).
+The statement has been terminated.
+16/07/2019 11:45:24: Failed to create Order No. 11663. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907260    ).
+The statement has been terminated.
+16/07/2019 11:45:24: Failed to create Order No. P003200. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907261    ).
+The statement has been terminated.
+16/07/2019 11:45:24: Failed to create Order No. VR-8248. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907262    ).
+The statement has been terminated.
+16/07/2019 11:45:24: Order No. 070403 has been created.
+16/07/2019 11:45:24: Order No. 4501937553 has been created.
+16/07/2019 11:45:24: Failed to create Order No. 4500003516. Error: Violation of PRIMARY KEY constraint 'PK_COPTC'. Cannot insert duplicate key in object 'dbo.COPTC'. The duplicate key value is (    , 1907265    ).
+The statement has been terminated.
+16/07/2019 11:45:24: Order No. 11643 has been created.
+16/07/2019 11:45:24: Order No. 5500157077-0919V has been created.
+16/07/2019 11:45:24: Order No. 11650 has been created.
+16/07/2019 11:45:24: Order No. 11665 has been created.
+16/07/2019 11:45:24: Order No. 9323752100/10 has been created.
+16/07/2019 11:45:24: Order No. VR-8504 has been created.
+16/07/2019 11:45:24: Order No. 11675 has been created.
+16/07/2019 11:45:24: Order No. EXTRA SHIPPED TLS192056 has been created.
+16/07/2019 11:45:24: Order No. P003200 has been created.
+16/07/2019 11:45:24: Order No. 11663 has been created.
+16/07/2019 11:45:24: Order No. 1907260 has been created.
+16/07/2019 11:45:24: Order No. 1907260 has been created.
+16/07/2019 11:45:24: Order No. 1907260 has been created.
+16/07/2019 11:45:24: Order No. 1907260 has been created.
+16/07/2019 11:45:24: Order No. 1907261 has been created.
+16/07/2019 11:45:24: Order No. 1907261 has been created.
+16/07/2019 11:45:24: Order No. 1907263 has been created.
+16/07/2019 11:45:24: Order No. 1907264 has been created.
+16/07/2019 11:45:24: Order No. 1907266 has been created.
+16/07/2019 11:45:24: Order No. 1907266 has been created.
+16/07/2019 11:45:24: Failed to create Order No. 1907268. Error: Violation of PRIMARY KEY constraint 'PK_COPTD'. Cannot insert duplicate key in object 'dbo.COPTD'. The duplicate key value is (A221, 1907268    , 0001).
+The statement has been terminated.
+16/07/2019 11:45:24: Order No. 1907269 has been created.
+16/07/2019 11:45:24: Order No. 1907271 has been created.
+16/07/2019 11:45:24: Order No. 1907271 has been created.
+16/07/2019 11:45:24: Order No. 1907271 has been created.
+16/07/2019 11:45:24: Order No. 1907271 has been created.
+16/07/2019 11:45:24: Order No. 1907271 has been created.
+16/07/2019 11:45:24: Order No. 1907273 has been created.
+16/07/2019 11:45:24: Session 1907161144 completed.
