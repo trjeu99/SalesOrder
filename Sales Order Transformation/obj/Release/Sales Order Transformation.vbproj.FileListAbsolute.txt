@@ -11,3 +11,4 @@ C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\Sales Order Transformati
 C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\Sales Order Transformation\obj\Release\Sales Order Transformation.xml
 C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\Sales Order Transformation\obj\Release\Sales Order Transformation.pdb
 C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\Sales Order Transformation\bin\Release\app.manifest
+C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\Sales Order Transformation\obj\Release\Sales Order Transformation.vbprojAssemblyReference.cache
