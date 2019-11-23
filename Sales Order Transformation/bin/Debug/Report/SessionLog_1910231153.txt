@@ -1,0 +1,108 @@
+23/10/2019 11:53:43: Session 1910231153 has started.
+23/10/2019 11:53:43: Start point: 2019-10-22 11:15:08.647
+23/10/2019 11:53:49: Connection to 223.255.178.194 is opened.
+23/10/2019 11:53:51: Order No. 1910122     has been updated.
+23/10/2019 11:53:51: Order No. 1909078     has been updated.
+23/10/2019 11:53:51: Order No. 1908049     has been updated.
+23/10/2019 11:53:51: Order No. 1909091     has been updated.
+23/10/2019 11:53:51: Order No. 1909093     has been updated.
+23/10/2019 11:53:51: Order No. 1909018     has been updated.
+23/10/2019 11:53:51: Order No. 1909019     has been updated.
+23/10/2019 11:53:51: Order No. 1909020     has been updated.
+23/10/2019 11:53:51: Order No. 1909021     has been updated.
+23/10/2019 11:53:51: Order No. 1909022     has been updated.
+23/10/2019 11:53:51: Order No. 1909029     has been updated.
+23/10/2019 11:53:51: Order No. 1908054     has been updated.
+23/10/2019 11:53:51: Order No. 1908102     has been updated.
+23/10/2019 11:53:51: Order No. 1908043     has been updated.
+23/10/2019 11:53:51: Order No. 1908044     has been updated.
+23/10/2019 11:53:51: Order No. 1908045     has been updated.
+23/10/2019 11:53:51: Order No. 1905134     has been updated.
+23/10/2019 11:53:51: Order No. 1910150     has been updated.
+23/10/2019 11:53:51: Order No. 1910161     has been updated.
+23/10/2019 11:53:51: Order No. 1908062     has been updated.
+23/10/2019 11:53:51: Order No. 1908063     has been updated.
+23/10/2019 11:53:53: Order number 5500011477-1019VN has more than one ERP Order No. System cannot decide!
+23/10/2019 11:53:53: Order number 5500165986-1019VN has more than one ERP Order No. System cannot decide!
+23/10/2019 11:53:53: Order number 5500165986-1019VN has more than one ERP Order No. System cannot decide!
+23/10/2019 11:53:53: Order number 5500147725-1019VN has more than one ERP Order No. System cannot decide!
+23/10/2019 11:53:53: Order number 5500147725-1019VN has more than one ERP Order No. System cannot decide!
+23/10/2019 11:53:53: Order number 5500165998-1019VN has more than one ERP Order No. System cannot decide!
+23/10/2019 11:53:53: Order number 5500165998-1019VN has more than one ERP Order No. System cannot decide!
+23/10/2019 11:53:53: Order number 5500177890 has more than one ERP Order No. System cannot decide!
+23/10/2019 11:53:53: Order number 5500177890 has more than one ERP Order No. System cannot decide!
+23/10/2019 11:53:53: Order number 5500177890 has more than one ERP Order No. System cannot decide!
+23/10/2019 11:53:53: Order number 5500177890 has more than one ERP Order No. System cannot decide!
+23/10/2019 11:53:53: Order number 5500177890 has more than one ERP Order No. System cannot decide!
+23/10/2019 11:53:53: Order number 5500177890 has more than one ERP Order No. System cannot decide!
+23/10/2019 11:53:53: Order number 5500177890 has more than one ERP Order No. System cannot decide!
+23/10/2019 11:53:53: Order number 5500177890 has more than one ERP Order No. System cannot decide!
+23/10/2019 11:53:53: Order number 5500177890 has more than one ERP Order No. System cannot decide!
+23/10/2019 11:53:54: Order number 5500177894 has more than one ERP Order No. System cannot decide!
+23/10/2019 11:53:54: Order number 5500177894 has more than one ERP Order No. System cannot decide!
+23/10/2019 11:53:54: Order number 5500177894 has more than one ERP Order No. System cannot decide!
+23/10/2019 11:53:54: Order number 5500177894 has more than one ERP Order No. System cannot decide!
+23/10/2019 11:53:54: Order number 5500177894 has more than one ERP Order No. System cannot decide!
+23/10/2019 11:53:54: Order number 5500177894 has more than one ERP Order No. System cannot decide!
+23/10/2019 11:53:54: Order number 5500177894 has more than one ERP Order No. System cannot decide!
+23/10/2019 11:53:54: Order number 5500177894 has more than one ERP Order No. System cannot decide!
+23/10/2019 11:53:54: Order number 5500177894 has more than one ERP Order No. System cannot decide!
+23/10/2019 11:53:55: Order No. 1905134     has been updated.
+23/10/2019 11:53:55: Order No. 1908043     has been updated.
+23/10/2019 11:53:55: Order No. 1908043     has been updated.
+23/10/2019 11:53:55: Order No. 1908049     has been updated.
+23/10/2019 11:53:55: Order No. 1908049     has been updated.
+23/10/2019 11:53:55: Order No. 1908049     has been updated.
+23/10/2019 11:53:55: Order No. 1909018     has been updated.
+23/10/2019 11:53:55: Order No. 1909018     has been updated.
+23/10/2019 11:53:55: Order No. 1909019     has been updated.
+23/10/2019 11:53:55: Order No. 1909019     has been updated.
+23/10/2019 11:53:55: Order No. 1909020     has been updated.
+23/10/2019 11:53:55: Order No. 1909020     has been updated.
+23/10/2019 11:53:55: Order No. 1909020     has been updated.
+23/10/2019 11:53:55: Order No. 1909021     has been updated.
+23/10/2019 11:53:55: Order No. 1909021     has been updated.
+23/10/2019 11:53:55: Order No. 1909021     has been updated.
+23/10/2019 11:53:55: Order No. 1909022     has been updated.
+23/10/2019 11:53:55: Order No. 1909022     has been updated.
+23/10/2019 11:53:55: Order No. 1909022     has been updated.
+23/10/2019 11:53:55: Order No. 1909029     has been updated.
+23/10/2019 11:53:55: Order No. 1909078     has been updated.
+23/10/2019 11:53:55: Order No. 1909078     has been updated.
+23/10/2019 11:53:55: Order No. 1909078     has been updated.
+23/10/2019 11:53:55: Order No. 1909078     has been updated.
+23/10/2019 11:53:55: Order No. 1909078     has been updated.
+23/10/2019 11:53:55: Order No. 1909078     has been updated.
+23/10/2019 11:53:55: Order No. 1909078     has been updated.
+23/10/2019 11:53:55: Order No. 1909078     has been updated.
+23/10/2019 11:53:55: Order No. 1909091     has been updated.
+23/10/2019 11:53:55: Order No. 1909091     has been updated.
+23/10/2019 11:53:55: Order No. 1909091     has been updated.
+23/10/2019 11:53:55: Order No. 1909093     has been updated.
+23/10/2019 11:53:55: Order No. 1909093     has been updated.
+23/10/2019 11:53:55: Order No. 1909093     has been updated.
+23/10/2019 11:53:55: Order No. 1910122     has been updated.
+23/10/2019 11:53:55: Order No. 1910122     has been updated.
+23/10/2019 11:53:55: Order No. 1910150     has been updated.
+23/10/2019 11:53:55: Order No. 1910150     has been updated.
+23/10/2019 11:53:55: Order No. 1910150     has been updated.
+23/10/2019 11:53:55: Order No. 1910161     has been updated.
+23/10/2019 11:53:55: The product number TL-KAF-19014/15 not found. Cannot import Order No. 1910164    -0001.
+23/10/2019 11:53:56: The product number TL-KAF-19014/15 not found. Cannot import Order No. 1910164    -0002.
+23/10/2019 11:53:56: The product number TL-KAF-19014/15 not found. Cannot import Order No. 1910164    -0003.
+23/10/2019 11:53:56: Order No. 4501003084 has been created.
+23/10/2019 11:53:56: Order No. SUP20191022-STOCK has been created.
+23/10/2019 11:53:56: Order No. 5500157067-1119V has been created.
+23/10/2019 11:53:56: Order No. 9323846364/10 has been created.
+23/10/2019 11:53:56: Order No. 4503592401 has been created.
+23/10/2019 11:53:56: Order No. 1910172 has been created.
+23/10/2019 11:53:56: Order No. 1910173 has been created.
+23/10/2019 11:53:56: Order No. 1910174 has been created.
+23/10/2019 11:53:56: Order No. 1910175 has been created.
+23/10/2019 11:53:56: Order No. 1910176 has been created.
+23/10/2019 11:53:56: Order No. 1908093     has been created.
+23/10/2019 11:53:56: Failed to create Order No. 1908093    . Error: Violation of PRIMARY KEY constraint 'PK_COPTD'. Cannot insert duplicate key in object 'dbo.COPTD'. The duplicate key value is (A222, 1908093    , 0001).
+The statement has been terminated.
+23/10/2019 11:53:56: Order No. 1910171     has been created.
+23/10/2019 11:53:56: End point: 2019-10-23 10:27:08.137
+23/10/2019 11:53:56: Session 1910231153 completed.

@@ -1,0 +1,604 @@
+21/11/2019 09:20:12: Session 1911210920 has started.
+21/11/2019 09:20:12: Start point: 2019-11-05 17:48:31.060
+21/11/2019 09:20:14: Connection to 223.255.178.194 is opened.
+21/11/2019 09:20:19: Order No. 1908141     has been updated.
+21/11/2019 09:20:19: Order No. 1909114     has been updated.
+21/11/2019 09:20:19: Order No. 1910120     has been updated.
+21/11/2019 09:20:19: Order No. 1909078     has been updated.
+21/11/2019 09:20:19: Order No. 1910264     has been updated.
+21/11/2019 09:20:19: Order No. 1909023     has been updated.
+21/11/2019 09:20:19: Order No. 1909024     has been updated.
+21/11/2019 09:20:19: Order No. 1909025     has been updated.
+21/11/2019 09:20:19: Order No. 1909026     has been updated.
+21/11/2019 09:20:19: Order No. 1907068     has been updated.
+21/11/2019 09:20:19: Order No. 1910068     has been updated.
+21/11/2019 09:20:19: Order No. 1908122     has been updated.
+21/11/2019 09:20:19: Order No. 1911031     has been updated.
+21/11/2019 09:20:19: Order No. 1911010     has been updated.
+21/11/2019 09:20:19: Order No. 1909147     has been updated.
+21/11/2019 09:20:19: Order No. 1910043     has been updated.
+21/11/2019 09:20:19: Order No. 1911020     has been updated.
+21/11/2019 09:20:19: Order No. 1911014     has been updated.
+21/11/2019 09:20:19: Order No. 1910065     has been updated.
+21/11/2019 09:20:19: Order No. 1909130     has been updated.
+21/11/2019 09:20:19: Order No. 1910161     has been updated.
+21/11/2019 09:20:19: Order No. 1911016     has been updated.
+21/11/2019 09:20:19: Order No. 1910177     has been updated.
+21/11/2019 09:20:19: Order No. 1910211     has been updated.
+21/11/2019 09:20:19: Order No. 1911039     has been updated.
+21/11/2019 09:20:19: Order No. 1910150     has been updated.
+21/11/2019 09:20:19: Order No. 1908097     has been updated.
+21/11/2019 09:20:19: Order No. 1911030     has been updated.
+21/11/2019 09:20:19: Order No. 1911032     has been updated.
+21/11/2019 09:20:19: Order No. 1911017     has been updated.
+21/11/2019 09:20:19: Order No. 1906093     has been updated.
+21/11/2019 09:20:20: Order No. 1911047     has been updated.
+21/11/2019 09:20:20: Order No. 1909099     has been updated.
+21/11/2019 09:20:20: Order No. 1911048     has been updated.
+21/11/2019 09:20:20: Order No. 1909040     has been updated.
+21/11/2019 09:20:20: Order No. 1911008     has been updated.
+21/11/2019 09:20:20: Order No. 1910181     has been updated.
+21/11/2019 09:20:20: Order No. 1901083     has been updated.
+21/11/2019 09:20:20: Order No. 1911056     has been updated.
+21/11/2019 09:20:20: Order No. 1911044     has been updated.
+21/11/2019 09:20:20: Order No. 1910200     has been updated.
+21/11/2019 09:20:20: Order No. 1910199     has been updated.
+21/11/2019 09:20:20: Order No. 1908049     has been updated.
+21/11/2019 09:20:20: Order No. 1909091     has been updated.
+21/11/2019 09:20:20: Order No. 1909152     has been updated.
+21/11/2019 09:20:20: Order No. 1909018     has been updated.
+21/11/2019 09:20:20: Order No. 1909093     has been updated.
+21/11/2019 09:20:20: Order No. 1909022     has been updated.
+21/11/2019 09:20:20: Order No. 1909021     has been updated.
+21/11/2019 09:20:20: Order No. 1909029     has been updated.
+21/11/2019 09:20:20: Order No. 1910169     has been updated.
+21/11/2019 09:20:20: Order No. 1909019     has been updated.
+21/11/2019 09:20:20: Order No. 1909020     has been updated.
+21/11/2019 09:20:20: Order No. 1909153     has been updated.
+21/11/2019 09:20:20: Order No. 1909154     has been updated.
+21/11/2019 09:20:20: Order No. 1909155     has been updated.
+21/11/2019 09:20:20: Order No. 1909156     has been updated.
+21/11/2019 09:20:20: Order No. 1909157     has been updated.
+21/11/2019 09:20:20: Order No. 1909158     has been updated.
+21/11/2019 09:20:20: Order No. 1908062     has been updated.
+21/11/2019 09:20:20: Order No. 1908063     has been updated.
+21/11/2019 09:20:20: Order No. 1911061     has been updated.
+21/11/2019 09:20:20: Order No. 1810037     has been updated.
+21/11/2019 09:20:20: Order No. 1910156     has been updated.
+21/11/2019 09:20:20: Order No. 1910265     has been updated.
+21/11/2019 09:20:20: Order No. 1910206     has been updated.
+21/11/2019 09:20:20: Order No. 1810036     has been updated.
+21/11/2019 09:20:20: Order No. 1909096     has been updated.
+21/11/2019 09:20:20: Order No. 1909160     has been updated.
+21/11/2019 09:20:20: Order No. 1910040     has been updated.
+21/11/2019 09:20:20: Order No. 1910174     has been updated.
+21/11/2019 09:20:20: Order No. 1911066     has been updated.
+21/11/2019 09:20:20: Order No. 1909019     has been updated.
+21/11/2019 09:20:20: Order No. 1909030     has been updated.
+21/11/2019 09:20:20: Order No. 1909003     has been updated.
+21/11/2019 09:20:20: Order No. 1910168     has been updated.
+21/11/2019 09:20:20: Order No. 1911089     has been updated.
+21/11/2019 09:20:20: Order No. 1911090     has been updated.
+21/11/2019 09:20:20: Order No. 1910008     has been updated.
+21/11/2019 09:20:20: Order No. 1910207     has been updated.
+21/11/2019 09:20:20: Order No. 1908104     has been updated.
+21/11/2019 09:20:20: Order No. 1911051     has been updated.
+21/11/2019 09:20:20: Order No. 1911055     has been updated.
+21/11/2019 09:20:20: Order No. 1911035     has been updated.
+21/11/2019 09:20:20: Order No. 1911028     has been updated.
+21/11/2019 09:20:20: Order No. 1911054     has been updated.
+21/11/2019 09:20:20: Order No. 1911091     has been updated.
+21/11/2019 09:20:20: Order No. 1908013     has been updated.
+21/11/2019 09:20:20: Order No. 1911092     has been updated.
+21/11/2019 09:20:20: Order No. 1911093     has been updated.
+21/11/2019 09:20:20: Order No. 1911094     has been updated.
+21/11/2019 09:20:20: Order No. 1910218     has been updated.
+21/11/2019 09:20:20: Order No. 1905134     has been updated.
+21/11/2019 09:20:20: Order No. 1908005     has been updated.
+21/11/2019 09:20:21: Order No. 1908023     has been updated.
+21/11/2019 09:20:21: Order No. 1911097     has been updated.
+21/11/2019 09:20:21: Order No. 1911100     has been updated.
+21/11/2019 09:20:21: Order No. 1909148     has been updated.
+21/11/2019 09:20:21: Order No. 1910079     has been updated.
+21/11/2019 09:20:24: Order number 5500157067-0919V has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:24: Order number 5500157067-0919V has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:24: Order number 5500157067-0919V has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:24: Order number QW19E006 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:24: Order number QW19E006 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:24: Order number QW19E006 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:24: Order number QW19E006 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:25: Order number QW19E006 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:25: Order number QW19E006 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:25: Order number QW19E006 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:25: Order number QW19E006 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:25: Order number QW19E006 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:25: Order number QW19E006 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:25: Order number QW19E006 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:25: Order number QW19E006 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:25: Order number QW19E006 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:25: Order number QW19E006 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:25: Order number QW19E006 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:25: Order number QW19E006 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:25: Order number QW19E006 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:25: Order number QW19E006 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:25: Order number QW19E006 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:25: Order number QW19E006 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:25: Order number QW19E006 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:25: Order number QW19E006 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:27: Order number 5500177890 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:27: Order number 5500177890 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:27: Order number 5500177890 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:27: Order number 5500177890 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:27: Order number 5500177890 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:27: Order number 5500177890 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:27: Order number 5500177890 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:27: Order number 5500177890 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:27: Order number 5500177894 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:27: Order number 5500177894 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:27: Order number 5500177894 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:27: Order number 5500177894 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:27: Order number 5500177894 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:28: Order number 5500177894 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:28: Order number 5500177894 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:28: Order number 5500177894 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:28: Order number RPOA18029 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:28: Order number RPOA18029 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:28: Order number RPOA18029 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:28: Order number RPOA18029 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:28: Order number RPOA18029 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:29: Order number 5500178644/19.08.2019. has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:29: Order number 5500178644/19.08.2019. has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:29: Order number 5500178644/19.08.2019. has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:29: Order number 5500178644/19.08.2019. has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:29: Order number 5500178644/19.08.2019. has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:30: Order number 5500178644/19.08.2019. has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:30: Order number 5500178644/19.08.2019. has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:30: Order number 5500178644/19.08.2019. has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:30: Order number 5500178644/19.08.2019. has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:30: Order number 5500178644/19.08.2019. has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:30: Order number 5500178644/19.08.2019. has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:31: Order number P003459 has more than one ERP Order No. System cannot decide!
+21/11/2019 09:20:46: Update: The Order 1910206    contains the item 965339 TOOL that is not transformed.
+21/11/2019 09:20:46: Update: The Order 1910206    contains the item 965338 TOOL that is not transformed.
+21/11/2019 09:20:46: Update: The Order 1910206    contains the item TRANSPORTATION FEE that is not transformed.
+21/11/2019 09:20:47: The changed order has the product number AIR FREIGHT not found. Cannot import Order No. 1911061    -0001.
+21/11/2019 09:20:48: Order No. 1810036     has been updated.
+21/11/2019 09:20:48: Order No. 1810036     has been updated.
+21/11/2019 09:20:48: Order No. 1810036     has been updated.
+21/11/2019 09:20:48: Order No. 1810036     has been updated.
+21/11/2019 09:20:48: Order No. 1810036     has been updated.
+21/11/2019 09:20:48: Order No. 1810036     has been updated.
+21/11/2019 09:20:48: Order No. 1810036     has been updated.
+21/11/2019 09:20:48: Order No. 1810036     has been updated.
+21/11/2019 09:20:48: Order No. 1810036     has been updated.
+21/11/2019 09:20:48: Order No. 1810036     has been updated.
+21/11/2019 09:20:48: Order No. 1810036     has been updated.
+21/11/2019 09:20:48: Order No. 1810036     has been updated.
+21/11/2019 09:20:48: Order No. 1810036     has been updated.
+21/11/2019 09:20:48: Order No. 1810036     has been updated.
+21/11/2019 09:20:48: Order No. 1810036     has been updated.
+21/11/2019 09:20:48: Order No. 1810036     has been updated.
+21/11/2019 09:20:48: Order No. 1810036     has been updated.
+21/11/2019 09:20:48: Order No. 1810036     has been updated.
+21/11/2019 09:20:48: Order No. 1810036     has been updated.
+21/11/2019 09:20:48: Order No. 1810036     has been updated.
+21/11/2019 09:20:48: Order No. 1810036     has been updated.
+21/11/2019 09:20:48: Order No. 1901083     has been updated.
+21/11/2019 09:20:48: Order No. 1901083     has been updated.
+21/11/2019 09:20:48: Order No. 1901083     has been updated.
+21/11/2019 09:20:48: Order No. 1901083     has been updated.
+21/11/2019 09:20:48: Order No. 1901083     has been updated.
+21/11/2019 09:20:48: Order No. 1905134     has been updated.
+21/11/2019 09:20:48: Order No. 1907068     has been updated.
+21/11/2019 09:20:48: Order No. 1907068     has been updated.
+21/11/2019 09:20:48: Order No. 1907068     has been updated.
+21/11/2019 09:20:48: Order No. 1907068     has been updated.
+21/11/2019 09:20:48: Order No. 1907068     has been updated.
+21/11/2019 09:20:48: Order No. 1908005     has been updated.
+21/11/2019 09:20:48: Order No. 1908005     has been updated.
+21/11/2019 09:20:48: Order No. 1908005     has been updated.
+21/11/2019 09:20:48: Order No. 1908005     has been updated.
+21/11/2019 09:20:48: Order No. 1908005     has been updated.
+21/11/2019 09:20:48: Order No. 1908013     has been updated.
+21/11/2019 09:20:48: Order No. 1908013     has been updated.
+21/11/2019 09:20:48: Order No. 1908023     has been updated.
+21/11/2019 09:20:48: Order No. 1908023     has been updated.
+21/11/2019 09:20:48: Order No. 1908023     has been updated.
+21/11/2019 09:20:48: Order No. 1908023     has been updated.
+21/11/2019 09:20:48: Order No. 1908023     has been updated.
+21/11/2019 09:20:48: Order No. 1908049     has been updated.
+21/11/2019 09:20:48: Order No. 1908049     has been updated.
+21/11/2019 09:20:48: Order No. 1908104     has been updated.
+21/11/2019 09:20:48: Order No. 1908104     has been updated.
+21/11/2019 09:20:48: Order No. 1908122     has been updated.
+21/11/2019 09:20:48: Order No. 1908122     has been updated.
+21/11/2019 09:20:48: Order No. 1908122     has been updated.
+21/11/2019 09:20:48: Order No. 1908141     has been updated.
+21/11/2019 09:20:48: Order No. 1908141     has been updated.
+21/11/2019 09:20:48: Order No. 1909003     has been updated.
+21/11/2019 09:20:48: Order No. 1909003     has been updated.
+21/11/2019 09:20:48: Order No. 1909003     has been updated.
+21/11/2019 09:20:48: Order No. 1909003     has been updated.
+21/11/2019 09:20:48: Order No. 1909003     has been updated.
+21/11/2019 09:20:48: Order No. 1909018     has been updated.
+21/11/2019 09:20:48: Order No. 1909018     has been updated.
+21/11/2019 09:20:48: Order No. 1909019     has been updated.
+21/11/2019 09:20:48: Order No. 1909019     has been updated.
+21/11/2019 09:20:48: Order No. 1909019     has been updated.
+21/11/2019 09:20:48: Order No. 1909020     has been updated.
+21/11/2019 09:20:48: Order No. 1909020     has been updated.
+21/11/2019 09:20:48: Order No. 1909020     has been updated.
+21/11/2019 09:20:48: Order No. 1909021     has been updated.
+21/11/2019 09:20:48: Order No. 1909021     has been updated.
+21/11/2019 09:20:48: Order No. 1909021     has been updated.
+21/11/2019 09:20:48: Order No. 1909022     has been updated.
+21/11/2019 09:20:48: Order No. 1909022     has been updated.
+21/11/2019 09:20:48: Order No. 1909022     has been updated.
+21/11/2019 09:20:48: Order No. 1909023     has been updated.
+21/11/2019 09:20:48: Order No. 1909023     has been updated.
+21/11/2019 09:20:48: Order No. 1909023     has been updated.
+21/11/2019 09:20:48: Order No. 1909024     has been updated.
+21/11/2019 09:20:48: Order No. 1909024     has been updated.
+21/11/2019 09:20:48: Order No. 1909024     has been updated.
+21/11/2019 09:20:48: Order No. 1909025     has been updated.
+21/11/2019 09:20:48: Order No. 1909025     has been updated.
+21/11/2019 09:20:48: Order No. 1909025     has been updated.
+21/11/2019 09:20:48: Order No. 1909026     has been updated.
+21/11/2019 09:20:48: Order No. 1909026     has been updated.
+21/11/2019 09:20:48: Order No. 1909026     has been updated.
+21/11/2019 09:20:48: Order No. 1909029     has been updated.
+21/11/2019 09:20:48: Order No. 1909030     has been updated.
+21/11/2019 09:20:48: Order No. 1909030     has been updated.
+21/11/2019 09:20:48: Order No. 1909030     has been updated.
+21/11/2019 09:20:48: Order No. 1909030     has been updated.
+21/11/2019 09:20:48: Order No. 1909030     has been updated.
+21/11/2019 09:20:48: Order No. 1909040     has been updated.
+21/11/2019 09:20:48: Order No. 1909040     has been updated.
+21/11/2019 09:20:48: Order No. 1909078     has been updated.
+21/11/2019 09:20:48: Order No. 1909078     has been updated.
+21/11/2019 09:20:48: Order No. 1909078     has been updated.
+21/11/2019 09:20:48: Order No. 1909078     has been updated.
+21/11/2019 09:20:48: Order No. 1909078     has been updated.
+21/11/2019 09:20:48: Order No. 1909078     has been updated.
+21/11/2019 09:20:48: Order No. 1909078     has been updated.
+21/11/2019 09:20:48: Order No. 1909078     has been updated.
+21/11/2019 09:20:48: Order No. 1909091     has been updated.
+21/11/2019 09:20:48: Order No. 1909091     has been updated.
+21/11/2019 09:20:48: Order No. 1909093     has been updated.
+21/11/2019 09:20:48: Order No. 1909093     has been updated.
+21/11/2019 09:20:48: Order No. 1909096     has been updated.
+21/11/2019 09:20:48: Order No. 1909099     has been updated.
+21/11/2019 09:20:48: Order No. 1909114     has been updated.
+21/11/2019 09:20:48: Order No. 1909130     has been updated.
+21/11/2019 09:20:48: Order No. 1909130     has been updated.
+21/11/2019 09:20:48: Order No. 1909147     has been updated.
+21/11/2019 09:20:48: Order No. 1909147     has been updated.
+21/11/2019 09:20:48: Order No. 1909148     has been updated.
+21/11/2019 09:20:48: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909148     has been updated.
+21/11/2019 09:20:49: Order No. 1909152     has been updated.
+21/11/2019 09:20:49: Order No. 1909153     has been updated.
+21/11/2019 09:20:49: Order No. 1909154     has been updated.
+21/11/2019 09:20:49: Order No. 1909154     has been updated.
+21/11/2019 09:20:49: Order No. 1909154     has been updated.
+21/11/2019 09:20:49: Order No. 1909155     has been updated.
+21/11/2019 09:20:49: Order No. 1909155     has been updated.
+21/11/2019 09:20:49: Order No. 1909155     has been updated.
+21/11/2019 09:20:49: Order No. 1909156     has been updated.
+21/11/2019 09:20:49: Order No. 1909156     has been updated.
+21/11/2019 09:20:49: Order No. 1909157     has been updated.
+21/11/2019 09:20:49: Order No. 1909157     has been updated.
+21/11/2019 09:20:49: Order No. 1909157     has been updated.
+21/11/2019 09:20:49: Order No. 1909158     has been updated.
+21/11/2019 09:20:49: Order No. 1909158     has been updated.
+21/11/2019 09:20:49: Order No. 1909158     has been updated.
+21/11/2019 09:20:49: Order No. 1909160     has been updated.
+21/11/2019 09:20:49: Order No. 1909160     has been updated.
+21/11/2019 09:20:49: Order No. 1909160     has been updated.
+21/11/2019 09:20:49: Order No. 1909160     has been updated.
+21/11/2019 09:20:49: Order No. 1909160     has been updated.
+21/11/2019 09:20:49: Order No. 1910008     has been updated.
+21/11/2019 09:20:49: Order No. 1910008     has been updated.
+21/11/2019 09:20:49: Order No. 1910008     has been updated.
+21/11/2019 09:20:49: Order No. 1910040     has been updated.
+21/11/2019 09:20:49: Order No. 1910043     has been updated.
+21/11/2019 09:20:49: Order No. 1910043     has been updated.
+21/11/2019 09:20:49: Order No. 1910043     has been updated.
+21/11/2019 09:20:49: Order No. 1910043     has been updated.
+21/11/2019 09:20:49: Order No. 1910043     has been updated.
+21/11/2019 09:20:49: Order No. 1910043     has been updated.
+21/11/2019 09:20:49: Order No. 1910043     has been updated.
+21/11/2019 09:20:49: Order No. 1910065     has been updated.
+21/11/2019 09:20:49: Order No. 1910065     has been updated.
+21/11/2019 09:20:49: Order No. 1910065     has been updated.
+21/11/2019 09:20:49: Order No. 1910065     has been updated.
+21/11/2019 09:20:49: Order No. 1910065     has been updated.
+21/11/2019 09:20:49: Order No. 1910065     has been updated.
+21/11/2019 09:20:49: Order No. 1910065     has been updated.
+21/11/2019 09:20:49: Order No. 1910065     has been updated.
+21/11/2019 09:20:49: Order No. 1910068     has been updated.
+21/11/2019 09:20:49: Order No. 1910068     has been updated.
+21/11/2019 09:20:49: Order No. 1910068     has been updated.
+21/11/2019 09:20:49: Order No. 1910068     has been updated.
+21/11/2019 09:20:49: Order No. 1910068     has been updated.
+21/11/2019 09:20:49: Order No. 1910068     has been updated.
+21/11/2019 09:20:49: Order No. 1910068     has been updated.
+21/11/2019 09:20:49: Order No. 1910068     has been updated.
+21/11/2019 09:20:49: Order No. 1910068     has been updated.
+21/11/2019 09:20:49: Order No. 1910079     has been updated.
+21/11/2019 09:20:49: Order No. 1910079     has been updated.
+21/11/2019 09:20:49: Order No. 1910079     has been updated.
+21/11/2019 09:20:49: Order No. 1910079     has been updated.
+21/11/2019 09:20:49: Order No. 1910079     has been updated.
+21/11/2019 09:20:49: Order No. 1910079     has been updated.
+21/11/2019 09:20:49: Order No. 1910079     has been updated.
+21/11/2019 09:20:49: Order No. 1910079     has been updated.
+21/11/2019 09:20:49: Order No. 1910079     has been updated.
+21/11/2019 09:20:49: Order No. 1910120     has been updated.
+21/11/2019 09:20:49: Order No. 1910150     has been updated.
+21/11/2019 09:20:49: Order No. 1910150     has been updated.
+21/11/2019 09:20:49: Order No. 1910150     has been updated.
+21/11/2019 09:20:49: Order No. 1910156     has been updated.
+21/11/2019 09:20:49: Order No. 1910161     has been updated.
+21/11/2019 09:20:49: Order No. 1910168     has been updated.
+21/11/2019 09:20:49: Order No. 1910168     has been updated.
+21/11/2019 09:20:49: Order No. 1910168     has been updated.
+21/11/2019 09:20:49: Order No. 1910168     has been updated.
+21/11/2019 09:20:49: Order No. 1910168     has been updated.
+21/11/2019 09:20:49: Order No. 1910169     has been updated.
+21/11/2019 09:20:49: Order No. 1910174     has been updated.
+21/11/2019 09:20:49: Order No. 1910174     has been updated.
+21/11/2019 09:20:49: Order No. 1910174     has been updated.
+21/11/2019 09:20:49: Order No. 1910177     has been updated.
+21/11/2019 09:20:49: Order No. 1910181     has been updated.
+21/11/2019 09:20:49: Order No. 1910181     has been updated.
+21/11/2019 09:20:49: Order No. 1910181     has been updated.
+21/11/2019 09:20:49: Order No. 1910199     has been updated.
+21/11/2019 09:20:49: Order No. 1910199     has been updated.
+21/11/2019 09:20:49: Order No. 1910200     has been updated.
+21/11/2019 09:20:49: Order No. 1910200     has been updated.
+21/11/2019 09:20:49: Order No. 1910206     has been updated.
+21/11/2019 09:20:49: Order No. 1910206     has been updated.
+21/11/2019 09:20:49: Order No. 1910211     has been updated.
+21/11/2019 09:20:49: Order No. 1910211     has been updated.
+21/11/2019 09:20:49: Order No. 1910211     has been updated.
+21/11/2019 09:20:49: Order No. 1910211     has been updated.
+21/11/2019 09:20:49: Order No. 1910218     has been updated.
+21/11/2019 09:20:49: Order No. 1910218     has been updated.
+21/11/2019 09:20:49: Order No. 1910264     has been updated.
+21/11/2019 09:20:49: Order No. 1910265     has been updated.
+21/11/2019 09:20:49: Order No. 1911008     has been updated.
+21/11/2019 09:20:49: Order No. 1911010     has been updated.
+21/11/2019 09:20:49: Order No. 1911014     has been updated.
+21/11/2019 09:20:49: Order No. 1911016     has been updated.
+21/11/2019 09:20:49: Order No. 1911016     has been updated.
+21/11/2019 09:20:49: Order No. 1911016     has been updated.
+21/11/2019 09:20:49: Order No. 1911017     has been updated.
+21/11/2019 09:20:49: Order No. 1911020     has been updated.
+21/11/2019 09:20:49: Order No. 1911028     has been updated.
+21/11/2019 09:20:49: Order No. 1911028     has been updated.
+21/11/2019 09:20:49: Order No. 1911028     has been updated.
+21/11/2019 09:20:49: Order No. 1911028     has been updated.
+21/11/2019 09:20:49: Order No. 1911028     has been updated.
+21/11/2019 09:20:49: Order No. 1911028     has been updated.
+21/11/2019 09:20:49: Order No. 1911030     has been updated.
+21/11/2019 09:20:49: Order No. 1911030     has been updated.
+21/11/2019 09:20:49: Order No. 1911030     has been updated.
+21/11/2019 09:20:49: Order No. 1911031     has been updated.
+21/11/2019 09:20:49: Order No. 1911032     has been updated.
+21/11/2019 09:20:49: Order No. 1911032     has been updated.
+21/11/2019 09:20:49: Order No. 1911032     has been updated.
+21/11/2019 09:20:49: Order No. 1911032     has been updated.
+21/11/2019 09:20:49: Order No. 1911032     has been updated.
+21/11/2019 09:20:49: Order No. 1911032     has been updated.
+21/11/2019 09:20:49: Order No. 1911032     has been updated.
+21/11/2019 09:20:49: Order No. 1911035     has been updated.
+21/11/2019 09:20:49: Order No. 1911035     has been updated.
+21/11/2019 09:20:49: Order No. 1911039     has been updated.
+21/11/2019 09:20:49: Order No. 1911044     has been updated.
+21/11/2019 09:20:49: Order No. 1911047     has been updated.
+21/11/2019 09:20:49: Order No. 1911048     has been updated.
+21/11/2019 09:20:49: Order No. 1911051     has been updated.
+21/11/2019 09:20:49: Order No. 1911054     has been updated.
+21/11/2019 09:20:49: Order No. 1911054     has been updated.
+21/11/2019 09:20:49: Order No. 1911054     has been updated.
+21/11/2019 09:20:49: Order No. 1911055     has been updated.
+21/11/2019 09:20:49: Order No. 1911056     has been updated.
+21/11/2019 09:20:49: Order No. 1911066     has been updated.
+21/11/2019 09:20:49: Order No. 1911089     has been updated.
+21/11/2019 09:20:49: Order No. 1911089     has been updated.
+21/11/2019 09:20:49: Order No. 1911090     has been updated.
+21/11/2019 09:20:49: Order No. 1911090     has been updated.
+21/11/2019 09:20:49: Order No. 1911091     has been updated.
+21/11/2019 09:20:49: Order No. 1911091     has been updated.
+21/11/2019 09:20:49: Order No. 1911092     has been updated.
+21/11/2019 09:20:49: Order No. 1911092     has been updated.
+21/11/2019 09:20:49: Order No. 1911092     has been updated.
+21/11/2019 09:20:49: Order No. 1911093     has been updated.
+21/11/2019 09:20:49: Order No. 1911094     has been updated.
+21/11/2019 09:20:49: Order No. 1911097     has been updated.
+21/11/2019 09:20:49: Order No. 1911100     has been updated.
+21/11/2019 09:20:50: The Order 1911116contains the item TOOLING that is not transformed.
+21/11/2019 09:20:50: The Order 1911116contains the item TOOLING that is not transformed.
+21/11/2019 09:20:52: Order No. 5500180825-2020 has been created.
+21/11/2019 09:20:52: Order No. 166740 has been created.
+21/11/2019 09:20:52: Order No. DPD191107 has been created.
+21/11/2019 09:20:52: Order No. 9323865558 has been created.
+21/11/2019 09:20:52: Order No. 9323865544/10 has been created.
+21/11/2019 09:20:52: Order No. 9323864583/10 has been created.
+21/11/2019 09:20:52: Order No. 9323867066/10 has been created.
+21/11/2019 09:20:52: Order No. 9323866970 has been created.
+21/11/2019 09:20:52: Order No. 9323866343/10 has been created.
+21/11/2019 09:20:52: Order No. 19959 has been created.
+21/11/2019 09:20:52: Order No. W421-191100012 has been created.
+21/11/2019 09:20:52: Order No. 2019111102 has been created.
+21/11/2019 09:20:52: Order No. VR-13431 has been created.
+21/11/2019 09:20:52: Order No. 630005566/10 has been created.
+21/11/2019 09:20:52: Order No. VR-13474 has been created.
+21/11/2019 09:20:52: Order No. 2019111301 has been created.
+21/11/2019 09:20:52: Order No. ORF/5499 has been created.
+21/11/2019 09:20:52: Order No. 2019111401 has been created.
+21/11/2019 09:20:52: Order No. 5500011477-1219VN has been created.
+21/11/2019 09:20:52: Order No. 5500011478-1219VN has been created.
+21/11/2019 09:20:52: Order No. 9323872047 has been created.
+21/11/2019 09:20:52: Order No. 166798 has been created.
+21/11/2019 09:20:52: Order No. 166831 has been created.
+21/11/2019 09:20:52: Order No. 1021948 has been created.
+21/11/2019 09:20:52: Order No. 5500147725-0120VN has been created.
+21/11/2019 09:20:52: Order No. 5500165998-0120VN has been created.
+21/11/2019 09:20:52: Order No. 9323873632 has been created.
+21/11/2019 09:20:52: Order No. 9323873515 has been created.
+21/11/2019 09:20:52: Order No. SA13112019 has been created.
+21/11/2019 09:20:52: Order No. 630005582/10 has been created.
+21/11/2019 09:20:52: Order No. 630005582/20 has been created.
+21/11/2019 09:20:52: Order No. 630005582/30 has been created.
+21/11/2019 09:20:52: Order No. 630005582/40 has been created.
+21/11/2019 09:20:52: Order No. 630005582/50 has been created.
+21/11/2019 09:20:52: Order No. 630005582/60 has been created.
+21/11/2019 09:20:52: Order No. 19962 has been created.
+21/11/2019 09:20:52: Order No. 166843 has been created.
+21/11/2019 09:20:52: Order No. 166853 has been created.
+21/11/2019 09:20:52: Order No. 2019111801 has been created.
+21/11/2019 09:20:52: Order No. ORF/5609 has been created.
+21/11/2019 09:20:52: Order No. VR-13706 has been created.
+21/11/2019 09:20:52: Order No. 13731 has been created.
+21/11/2019 09:20:52: Order No. 166917 has been created.
+21/11/2019 09:20:52: Order No. 166918 has been created.
+21/11/2019 09:20:52: Order No. 2020-100186 has been created.
+21/11/2019 09:20:52: Order No. 4500307679 has been created.
+21/11/2019 09:20:52: Order No. 1910271 has been created.
+21/11/2019 09:20:52: Order No. 1911101 has been created.
+21/11/2019 09:20:52: Order No. 1911102 has been created.
+21/11/2019 09:20:52: Order No. 1911103 has been created.
+21/11/2019 09:20:52: Order No. 1911103 has been created.
+21/11/2019 09:20:52: Order No. 1911103 has been created.
+21/11/2019 09:20:52: Order No. 1911103 has been created.
+21/11/2019 09:20:52: Order No. 1911103 has been created.
+21/11/2019 09:20:52: Order No. 1911103 has been created.
+21/11/2019 09:20:52: Order No. 1911103 has been created.
+21/11/2019 09:20:52: Order No. 1911103 has been created.
+21/11/2019 09:20:52: Order No. 1911103 has been created.
+21/11/2019 09:20:52: Order No. 1911103 has been created.
+21/11/2019 09:20:52: Order No. 1911103 has been created.
+21/11/2019 09:20:52: Order No. 1911104 has been created.
+21/11/2019 09:20:52: Order No. 1911105 has been created.
+21/11/2019 09:20:52: Order No. 1911106 has been created.
+21/11/2019 09:20:52: Order No. 1911107 has been created.
+21/11/2019 09:20:52: Order No. 1911107 has been created.
+21/11/2019 09:20:52: Order No. 1911108 has been created.
+21/11/2019 09:20:52: Order No. 1911109 has been created.
+21/11/2019 09:20:52: Order No. 1911110 has been created.
+21/11/2019 09:20:52: Order No. 1911110 has been created.
+21/11/2019 09:20:52: Order No. 1911111 has been created.
+21/11/2019 09:20:52: Order No. 1911112 has been created.
+21/11/2019 09:20:52: Order No. 1911113 has been created.
+21/11/2019 09:20:52: Order No. 1911114 has been created.
+21/11/2019 09:20:52: Order No. 1911114 has been created.
+21/11/2019 09:20:52: Order No. 1911114 has been created.
+21/11/2019 09:20:52: Order No. 1911114 has been created.
+21/11/2019 09:20:52: Order No. 1911115 has been created.
+21/11/2019 09:20:52: Order No. 1911117 has been created.
+21/11/2019 09:20:52: Order No. 1911118 has been created.
+21/11/2019 09:20:52: Order No. 1911119 has been created.
+21/11/2019 09:20:52: Order No. 1911120 has been created.
+21/11/2019 09:20:52: Order No. 1911120 has been created.
+21/11/2019 09:20:52: Order No. 1911120 has been created.
+21/11/2019 09:20:52: Order No. 1911120 has been created.
+21/11/2019 09:20:52: Order No. 1911120 has been created.
+21/11/2019 09:20:52: Order No. 1911120 has been created.
+21/11/2019 09:20:52: Order No. 1911120 has been created.
+21/11/2019 09:20:52: Order No. 1911120 has been created.
+21/11/2019 09:20:52: Order No. 1911120 has been created.
+21/11/2019 09:20:52: Order No. 1911120 has been created.
+21/11/2019 09:20:52: Order No. 1911120 has been created.
+21/11/2019 09:20:52: Order No. 1911121 has been created.
+21/11/2019 09:20:52: Order No. 1911122 has been created.
+21/11/2019 09:20:52: Order No. 1911123 has been created.
+21/11/2019 09:20:52: Order No. 1911123 has been created.
+21/11/2019 09:20:52: Order No. 1911123 has been created.
+21/11/2019 09:20:52: Order No. 1911124 has been created.
+21/11/2019 09:20:52: Order No. 1911124 has been created.
+21/11/2019 09:20:52: Order No. 1911125 has been created.
+21/11/2019 09:20:52: Order No. 1911125 has been created.
+21/11/2019 09:20:52: Order No. 1911126 has been created.
+21/11/2019 09:20:52: Order No. 1911126 has been created.
+21/11/2019 09:20:52: Order No. 1911127 has been created.
+21/11/2019 09:20:52: Order No. 1911127 has been created.
+21/11/2019 09:20:52: Order No. 1911127 has been created.
+21/11/2019 09:20:52: Order No. 1911127 has been created.
+21/11/2019 09:20:52: Order No. 1911127 has been created.
+21/11/2019 09:20:52: Order No. 1911127 has been created.
+21/11/2019 09:20:52: Order No. 1911127 has been created.
+21/11/2019 09:20:52: Order No. 1911127 has been created.
+21/11/2019 09:20:52: Order No. 1911127 has been created.
+21/11/2019 09:20:52: Order No. 1911128 has been created.
+21/11/2019 09:20:52: Order No. 1911128 has been created.
+21/11/2019 09:20:52: Order No. 1911129 has been created.
+21/11/2019 09:20:52: Order No. 1911130 has been created.
+21/11/2019 09:20:52: Order No. 1911131 has been created.
+21/11/2019 09:20:52: Order No. 1911132 has been created.
+21/11/2019 09:20:52: Order No. 1911133 has been created.
+21/11/2019 09:20:52: Order No. 1911134 has been created.
+21/11/2019 09:20:52: Order No. 1911135 has been created.
+21/11/2019 09:20:52: Order No. 1911135 has been created.
+21/11/2019 09:20:52: Order No. 1911135 has been created.
+21/11/2019 09:20:52: Order No. 1911136 has been created.
+21/11/2019 09:20:52: Order No. 1911137 has been created.
+21/11/2019 09:20:52: Order No. 1911138 has been created.
+21/11/2019 09:20:52: Order No. 1911139 has been created.
+21/11/2019 09:20:52: Order No. 1911140 has been created.
+21/11/2019 09:20:52: Order No. 1911141 has been created.
+21/11/2019 09:20:52: Order No. 1911141 has been created.
+21/11/2019 09:20:52: Order No. 1911142 has been created.
+21/11/2019 09:20:52: Order No. 1911143 has been created.
+21/11/2019 09:20:52: Order No. 1911144 has been created.
+21/11/2019 09:20:52: Order No. 1911144 has been created.
+21/11/2019 09:20:52: Order No. 1911144 has been created.
+21/11/2019 09:20:52: Order No. 1911144 has been created.
+21/11/2019 09:20:52: Order No. 1911144 has been created.
+21/11/2019 09:20:52: Order No. 1911144 has been created.
+21/11/2019 09:20:52: Order No. 1911144 has been created.
+21/11/2019 09:20:52: Order No. 1911145 has been created.
+21/11/2019 09:20:52: Order No. 1911086     has been created.
+21/11/2019 09:20:52: Order No. 1911088     has been created.
+21/11/2019 09:20:52: Order No. 1911088     has been created.
+21/11/2019 09:20:52: Order No. 1911098     has been created.
+21/11/2019 09:20:52: End point: 2019-11-21 10:03:16.873
+21/11/2019 09:20:52: Session 1911210920 completed.

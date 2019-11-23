@@ -4668,7 +4668,7 @@ Partial Public Class ntlsDataSet
                     ByVal TF017 As String,  _
                     ByVal TF019 As String,  _
                     ByVal TF021 As Integer,  _
-                    ByVal TF026 As Integer,  _
+                    ByVal TF026 As Decimal,  _
                     ByVal TF028 As String,  _
                     ByVal TF035 As String,  _
                     ByVal TF044 As Integer,  _
@@ -4774,7 +4774,7 @@ Partial Public Class ntlsDataSet
             MyBase.Columns.Add(Me.columnTF019)
             Me.columnTF021 = New Global.System.Data.DataColumn("TF021", GetType(Integer), Nothing, Global.System.Data.MappingType.Element)
             MyBase.Columns.Add(Me.columnTF021)
-            Me.columnTF026 = New Global.System.Data.DataColumn("TF026", GetType(Integer), Nothing, Global.System.Data.MappingType.Element)
+            Me.columnTF026 = New Global.System.Data.DataColumn("TF026", GetType(Decimal), Nothing, Global.System.Data.MappingType.Element)
             MyBase.Columns.Add(Me.columnTF026)
             Me.columnTF028 = New Global.System.Data.DataColumn("TF028", GetType(String), Nothing, Global.System.Data.MappingType.Element)
             MyBase.Columns.Add(Me.columnTF028)
@@ -10347,10 +10347,10 @@ Partial Public Class ntlsDataSet
         
         <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
          Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")>  _
-        Public Property TF026() As Integer
+        Public Property TF026() As Decimal
             Get
                 Try 
-                    Return CType(Me(Me.tableCOPTF.TF026Column),Integer)
+                    Return CType(Me(Me.tableCOPTF.TF026Column),Decimal)
                 Catch e As Global.System.InvalidCastException
                     Throw New Global.System.Data.StrongTypingException("The value for column 'TF026' in table 'COPTF' is DBNull.", e)
                 End Try

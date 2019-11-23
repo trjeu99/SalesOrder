@@ -1,4 +1,6 @@
 ﻿
+Imports System.Data.SqlClient
+
 Public Class Excluded_items
     Public Shared Org_createDate As DateTime
     Public Shared Org_prodCode As String
@@ -14,7 +16,7 @@ Public Class Excluded_items
         txt_createDate.Text = Date.Now.ToString("dd/MM/yyyy HH:mm:ss")
         txt_createDate_remarks.Text = Date.Now.ToString("dd/MM/yyyy HH:mm:ss")
         txt_creator.Text = Environment.UserName
-        txt_creator_remarks.text = Environment.UserName
+        txt_creator_remarks.Text = Environment.UserName
     End Sub
 
     Private Sub Btn_add_Click(sender As Object, e As EventArgs) Handles btn_add.Click
@@ -23,11 +25,12 @@ Public Class Excluded_items
                 Try
                     DataGridView1.DataSource = EXPRODBindingSource
                     txt_createDate.Text = Date.Now.ToString("dd/MM/yyyy HH:mm:ss")
-                    Me.EXPRODTableAdapter.InsertQuery(txt_createDate.Text, Environment.UserName, txt_prodCode.Text)
+                    Dim creatDate As DateTime = Date.ParseExact(txt_createDate.Text, "dd/MM/yyyy HH:mm:ss", System.Globalization.CultureInfo.InvariantCulture)
+                    Me.EXPRODTableAdapter.InsertQuery(creatDate, Environment.UserName, txt_prodCode.Text)
                     Me.EXPRODTableAdapter.Fill(SOTDataSet.EXPROD)
                     Me.DataGridView1.FirstDisplayedScrollingRowIndex = Me.DataGridView1.RowCount - 1
-                Catch ex As Exception
-                    MsgBox("Dữ liệu bị trùng lập!")
+                Catch ex As SqlException
+                    MsgBox("Error: " + ex.ToString + "Dữ liệu bị trùng lập!")
                 End Try
             Else
                 MsgBox("Vui lòng nhập trường bắt buộc!")

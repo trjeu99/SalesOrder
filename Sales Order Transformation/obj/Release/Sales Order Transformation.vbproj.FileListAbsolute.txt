@@ -6,9 +6,7 @@ C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\Sales Order Transformati
 C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\Sales Order Transformation\obj\Release\Sales_Order_Transformation.SOT.resources
 C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\Sales Order Transformation\obj\Release\Sales_Order_Transformation.Resources.resources
 C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\Sales Order Transformation\obj\Release\Sales Order Transformation.vbproj.GenerateResource.cache
-C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\Sales Order Transformation\obj\Release\Sales Order Transformation.vbproj.CoreCompileInputs.cache
 C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\Sales Order Transformation\obj\Release\Sales Order Transformation.exe
 C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\Sales Order Transformation\obj\Release\Sales Order Transformation.xml
 C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\Sales Order Transformation\obj\Release\Sales Order Transformation.pdb
 C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\Sales Order Transformation\bin\Release\app.manifest
-C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\Sales Order Transformation\obj\Release\Sales Order Transformation.vbprojAssemblyReference.cache

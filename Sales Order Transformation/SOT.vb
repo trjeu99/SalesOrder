@@ -83,7 +83,7 @@ Public Class SOT
         ElseIf pr = 3 Then
             cl = Color.Red
         End If
-        Dim inst_time = Date.Now.ToString("dd/MM/yyyy hh:mm:ss")
+        Dim inst_time = Date.Now.ToString("dd/MM/yyyy HH:mm:ss")
         With txt_elogs
             .SelectionColor = cl
             .AppendText(inst_time & ": " & str & vbNewLine)
@@ -403,7 +403,7 @@ Public Class SOT
                     dtSO.Columns("TD020").MaxLength = 255
                     drSO("TD020") = drSO("TD004")
                 End If
-                dtSO.Columns("TD004").MaxLength = 40
+                'dtSO.Columns("TD004").MaxLength = 40
                 drSO("TD004") = Product(0)("TD004")
                 dtSO.Columns("TD005").MaxLength = 120
                 drSO("TD005") = Product(0)("TD005")
@@ -519,7 +519,7 @@ Public Class SOT
             Product = ProAdpt.GetData(drSO("TF005"))
             If Product.Rows.Count <> 0 Then
                 Dim SORNO As String = Trim(drSO("TF002"))
-                dtSO.Columns("TF005").MaxLength = 40
+                'dtSO.Columns("TF005").MaxLength = 40
                 drSO("TF005") = Product(0)("TD004")
                 dtSO.Columns("TF006").MaxLength = 120
                 drSO("TF006") = Product(0)("TD005")
@@ -1269,6 +1269,7 @@ Public Class SOT
             For Each dc In dt.Columns
                 colIndex += 1
                 _excel.Cells(1, colIndex) = dc.ColumnName
+                _excel.Cells(1, colIndex).EntireColumn.NumberFormat = "@"
             Next
             For Each dr In dt.Rows
                 rowIndex += 1
@@ -1412,7 +1413,7 @@ Public Class SOT
         'perc = 0
         'prb_data_trans.Value = 0
         Dim mysettings = My.Settings
-        mysettings.session_number = Date.Now.ToString("yyMMddhhmm")
+        mysettings.session_number = Date.Now.ToString("yyMMddHHmm")
         mysettings.Save()
         txt_elogs.Invoke(New LogMessageDelegate(AddressOf Elog), New Object() {"Session " & mysettings.session_number & " has started.", 2})
         txt_elogs.Invoke(New LogMessageDelegate(AddressOf Elog), New Object() {"Start point: " & mysettings.cfg_spt, 2})

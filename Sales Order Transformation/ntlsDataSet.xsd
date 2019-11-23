@@ -1511,7 +1511,7 @@ ORDER BY DATETIME</CommandText>
                 </xs:simpleType>
               </xs:element>
               <xs:element name="TF021" msprop:Generator_ColumnVarNameInTable="columnTF021" msprop:Generator_ColumnPropNameInRow="TF021" msprop:Generator_ColumnPropNameInTable="TF021Column" msprop:Generator_UserColumnName="TF021" type="xs:int" minOccurs="0" />
-              <xs:element name="TF026" msprop:Generator_ColumnVarNameInTable="columnTF026" msprop:Generator_ColumnPropNameInRow="TF026" msprop:Generator_ColumnPropNameInTable="TF026Column" msprop:Generator_UserColumnName="TF026" type="xs:int" minOccurs="0" />
+              <xs:element name="TF026" msprop:Generator_ColumnVarNameInTable="columnTF026" msprop:Generator_ColumnPropNameInRow="TF026" msprop:Generator_ColumnPropNameInTable="TF026Column" msprop:Generator_UserColumnName="TF026" type="xs:decimal" minOccurs="0" />
               <xs:element name="TF028" msprop:Generator_ColumnVarNameInTable="columnTF028" msprop:Generator_ColumnPropNameInRow="TF028" msprop:Generator_ColumnPropNameInTable="TF028Column" msprop:Generator_UserColumnName="TF028" minOccurs="0">
                 <xs:simpleType>
                   <xs:restriction base="xs:string">

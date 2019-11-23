@@ -1,0 +1,977 @@
+02/11/2019 02:45:43: Session 1911020245 has started.
+02/11/2019 02:45:43: Start point: 2019-10-26 18:18:25.013
+02/11/2019 02:45:45: Connection to 223.255.178.194 is opened.
+02/11/2019 02:45:50: The Sale Order number GC-EI-1-783-0051-19-K not found.
+02/11/2019 02:45:50: The Sale Order number 52HOP29FRCA0315 not found.
+02/11/2019 02:45:50: The Sale Order number 52HOP29FRCA0317 not found.
+02/11/2019 02:45:50: The Sale Order number 9323848968/10 not found.
+02/11/2019 02:45:50: The Sale Order number 9323848997/10 not found.
+02/11/2019 02:45:50: The Sale Order number 9323848993/10 not found.
+02/11/2019 02:45:50: The Sale Order number 9323849006/10 not found.
+02/11/2019 02:45:51: The Sale Order number 9323848964/10 not found.
+02/11/2019 02:45:51: The Sale Order number 9323848976/10 not found.
+02/11/2019 02:45:51: The Sale Order number 9323848988/10 not found.
+02/11/2019 02:45:51: The Sale Order number 9323849000/10 not found.
+02/11/2019 02:45:51: The Sale Order number 9323848966/10 not found.
+02/11/2019 02:45:51: The Sale Order number 9323848981/10 not found.
+02/11/2019 02:45:51: The Sale Order number 9323848985/10 not found.
+02/11/2019 02:45:51: The Sale Order number 9323849005/10 not found.
+02/11/2019 02:45:51: The Sale Order number 9323848987/10 not found.
+02/11/2019 02:45:51: The Sale Order number 9323848967/10 not found.
+02/11/2019 02:45:51: The Sale Order number 9323848974/10 not found.
+02/11/2019 02:45:51: The Sale Order number 9323848982/10 not found.
+02/11/2019 02:45:51: The Sale Order number GC15033-CUL07 not found.
+02/11/2019 02:45:51: The Sale Order number ORF/5136 not found.
+02/11/2019 02:45:51: The Sale Order number 9323852658/10 not found.
+02/11/2019 02:45:51: The Sale Order number 9323852660/10 not found.
+02/11/2019 02:45:51: The Sale Order number 9323852544 not found.
+02/11/2019 02:45:51: The Sale Order number 9323848969/10 not found.
+02/11/2019 02:45:51: Failed to update Order No. 1910168    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A222, 1910168    , 0001).
+The statement has been terminated.
+02/11/2019 02:45:51: Failed to update Order No. 1909130    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A222, 1909130    , 0004).
+The statement has been terminated.
+02/11/2019 02:45:51: Failed to update Order No. 1910038    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A222, 1910038    , 0001).
+The statement has been terminated.
+02/11/2019 02:45:51: Failed to update Order No. 1910040    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A222, 1910040    , 0001).
+The statement has been terminated.
+02/11/2019 02:45:51: Failed to update Order No. 1910055    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (P222, 1910055    , 0001).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1910190    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B224, 1910190    , 0001).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1901007    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (J221, 1901007    , 0037).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1901005    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (J221, 1901005    , 0045).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1810036    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1810036    , 0004).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1910192    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A222, 1910192    , 0001).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1910195    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (    , 1910195    , 0001).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1910121    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A222, 1910121    , 0004).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1910191    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A222, 1910191    , 0002).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1909142    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B225, 1909142    , 0002).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1908048    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B221, 1908048    , 0002).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1909076    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A222, 1909076    , 0002).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1910136    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B225, 1910136    , 0001).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1812014    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B221, 1812014    , 0022).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1908062    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B221, 1908062    , 0007).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1908063    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B221, 1908063    , 0007).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1908121    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A222, 1908121    , 0002).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1909078    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A222, 1909078    , 0005).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1910205    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (P222, 1910205    , 0001).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1909040    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A222, 1909040    , 0005).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1909071    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A222, 1909071    , 0001).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1910201    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (Y222, 1910201    , 0001).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B225, 1909148    , 0010).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1910077    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B225, 1910077    , 0002).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1910080    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B225, 1910080    , 0002).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1910013    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B222, 1910013    , 0003).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1910014    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B222, 1910014    , 0002).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1909162    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B225, 1909162    , 0002).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1909164    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B225, 1909164    , 0002).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1910210    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (Y222, 1910210    , 0001).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1910177    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A222, 1910177    , 0006).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1910212    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (P222, 1910212    , 0003).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1908104    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (C222, 1908104    , 0006).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1910053    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (P222, 1910053    , 0001).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1910175    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (P222, 1910175    , 0004).
+The statement has been terminated.
+02/11/2019 02:45:52: Failed to update Order No. 1910194    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (    , 1910194    , 0002).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1910100    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A222, 1910100    , 0005).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1909123    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (Y222, 1909123    , 0001).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1910002    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (Y221, 1910002    , 0001).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1907198    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1907198    , 0004).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1910039    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A222, 1910039    , 0003).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1909072    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A222, 1909072    , 0005).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1910018    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A222, 1910018    , 0001).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1906041    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (P221, 1906041    , 0001).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1910152    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B224, 1910152    , 0001).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1910153    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B224, 1910153    , 0001).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1910154    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B224, 1910154    , 0001).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1910155    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B224, 1910155    , 0001).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1910218    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B224, 1910218    , 0001).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1910122    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (P222, 1910122    , 0004).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1910181    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A222, 1910181    , 0003).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1910217    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A222, 1910217    , 0002).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1909003    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1909003    , 0004).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1910220    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (Y222, 1910220    , 0003).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1910179    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A222, 1910179    , 0004).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1909027    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B224, 1909027    , 0001).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1909028    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B224, 1909028    , 0001).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1910221    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A222, 1910221    , 0001).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1910206    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B224, 1910206    , 0003).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1910211    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A222, 1910211    , 0003).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1910043    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A222, 1910043    , 0002).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1910188    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A222, 1910188    , 0002).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1910140    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A222, 1910140    , 0001).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1909114    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (C222, 1909114    , 0004).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1908173    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (A221, 1908173    , 0008).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1909091    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B224, 1909091    , 0002).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1909093    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B224, 1909093    , 0002).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1909018    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B224, 1909018    , 0002).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1909019    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B224, 1909019    , 0002).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1911011    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (Y222, 1911011    , 0001).
+The statement has been terminated.
+02/11/2019 02:45:53: Failed to update Order No. 1909020    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (J222, 1909020    , 0002).
+The statement has been terminated.
+02/11/2019 02:45:54: Failed to update Order No. 1909021    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B224, 1909021    , 0002).
+The statement has been terminated.
+02/11/2019 02:45:54: Failed to update Order No. 1909022    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B224, 1909022    , 0002).
+The statement has been terminated.
+02/11/2019 02:45:54: Failed to update Order No. 1909029    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B224, 1909029    , 0003).
+The statement has been terminated.
+02/11/2019 02:45:54: Failed to update Order No. 1910169    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (B224, 1910169    , 0001).
+The statement has been terminated.
+02/11/2019 02:45:54: Failed to update Order No. 1910197    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (P222, 1910197    , 0004).
+The statement has been terminated.
+02/11/2019 02:45:54: Failed to update Order No. 1910198    . Error: Violation of PRIMARY KEY constraint 'PK_COPTE'. Cannot insert duplicate key in object 'dbo.COPTE'. The duplicate key value is (P222, 1910198    , 0003).
+The statement has been terminated.
+02/11/2019 02:45:57: Order number 5500153324-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:45:57: Order number 5500153324-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:45:57: Order number 5500153324-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:45:57: Order number 5500153324-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:45:57: Order number 5500153324-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:45:58: Order number 5500153324-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:45:58: Order number 5500153324-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:45:58: Order number 5500153324-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:45:58: Order number 5500153324-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:45:58: Order number 5500153324-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:45:59: Order number 5500153324-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:45:59: Order number 5500153324-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:45:59: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:45:59: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:00: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:00: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:01: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:01: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:01: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:02: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:02: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:02: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:03: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:03: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:03: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:04: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:04: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:04: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:05: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:05: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:05: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:06: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:06: Order number 5500153325-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:07: Order number 5500157073-1019V has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:07: Order number 5500157073-1019V has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:09: Order number 5500011491-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:09: Order number 5500011491-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:09: Order number 5500011491-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:10: Order number 5500011491-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:10: Order number 5500011491-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:10: Order number 5500011491-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:10: Order number 5500011491-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:11: Order number 5500011491-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:11: Order number 5500011491-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:11: Order number 5500011491-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:11: Order number 5500011491-2019 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:11: Order number 5500177890 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:11: Order number 5500177890 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:11: Order number 5500177890 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:11: Order number 5500177890 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:11: Order number 5500177890 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:11: Order number 5500177890 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:11: Order number 5500177890 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:11: Order number 5500177890 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:12: Order number 5500177894 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:12: Order number 5500177894 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:12: Order number 5500177894 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:12: Order number 5500177894 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:12: Order number 5500177894 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:12: Order number 5500177894 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:12: Order number 5500177894 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:12: Order number 5500177894 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:16: Order number FEL502774/20 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:16: Order number W21-191008001 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:17: Order number LP00070044 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:17: Order number LP00070044 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:17: The Sale Order number GC-EI-1-783-0051-19-K not found.
+02/11/2019 02:46:17: The Sale Order number GC-EI-1-783-0051-19-K not found.
+02/11/2019 02:46:17: The Sale Order number GC-EI-1-783-0051-19-K not found.
+02/11/2019 02:46:17: The Sale Order number 52HOP29FRCA0315 not found.
+02/11/2019 02:46:17: The Sale Order number 52HOP29FRCA0315 not found.
+02/11/2019 02:46:17: The Sale Order number 52HOP29FRCA0315 not found.
+02/11/2019 02:46:17: The Sale Order number 52HOP29FRCA0315 not found.
+02/11/2019 02:46:17: The Sale Order number 52HOP29FRCA0317 not found.
+02/11/2019 02:46:17: The Sale Order number 52HOP29FRCA0317 not found.
+02/11/2019 02:46:17: The Sale Order number 52HOP29FRCA0317 not found.
+02/11/2019 02:46:17: The Sale Order number 52HOP29FRCA0317 not found.
+02/11/2019 02:46:17: The Sale Order number 9323848968/10 not found.
+02/11/2019 02:46:17: The Sale Order number 9323848997/10 not found.
+02/11/2019 02:46:17: The Sale Order number 9323848993/10 not found.
+02/11/2019 02:46:17: The Sale Order number 9323849006/10 not found.
+02/11/2019 02:46:17: The Sale Order number 9323848964/10 not found.
+02/11/2019 02:46:18: The Sale Order number 9323848976/10 not found.
+02/11/2019 02:46:18: The Sale Order number 9323848988/10 not found.
+02/11/2019 02:46:18: The Sale Order number 9323849000/10 not found.
+02/11/2019 02:46:18: The Sale Order number 9323848966/10 not found.
+02/11/2019 02:46:18: The Sale Order number 9323848981/10 not found.
+02/11/2019 02:46:18: The Sale Order number 9323848985/10 not found.
+02/11/2019 02:46:18: The Sale Order number 9323849005/10 not found.
+02/11/2019 02:46:18: The Sale Order number 9323848987/10 not found.
+02/11/2019 02:46:18: The Sale Order number 9323848967/10 not found.
+02/11/2019 02:46:18: The Sale Order number 9323848974/10 not found.
+02/11/2019 02:46:18: The Sale Order number 9323848982/10 not found.
+02/11/2019 02:46:18: The Sale Order number GC15033-CUL07 not found.
+02/11/2019 02:46:18: The Sale Order number ORF/5136 not found.
+02/11/2019 02:46:18: The Sale Order number 9323852658/10 not found.
+02/11/2019 02:46:18: The Sale Order number 9323852660/10 not found.
+02/11/2019 02:46:18: The Sale Order number 9323852544 not found.
+02/11/2019 02:46:18: The Sale Order number 9323852544 not found.
+02/11/2019 02:46:18: The Sale Order number 9323848969/10 not found.
+02/11/2019 02:46:19: Order number 15762 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:19: Order number 15762 has more than one ERP Order No. System cannot decide!
+02/11/2019 02:46:29: Update: The Order 1910195    contains the item KE019 TOOL that is not transformed.
+02/11/2019 02:46:29: Update: The Order 1910206    contains the item 965339 TOOL that is not transformed.
+02/11/2019 02:46:29: Update: The Order 1910206    contains the item 965338 TOOL that is not transformed.
+02/11/2019 02:46:29: Update: The Order 1910206    contains the item TRANSPORTATION FEE that is not transformed.
+02/11/2019 02:46:30: Failed to update Order No. 1810036    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1810036    , 0004, 0001).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1810036    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1810036    , 0004, 0002).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1810036    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1810036    , 0004, 0003).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1810036    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1810036    , 0004, 0004).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1810036    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1810036    , 0004, 0005).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1810036    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1810036    , 0004, 0006).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1810036    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1810036    , 0004, 0007).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1810036    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1810036    , 0004, 0008).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1810036    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1810036    , 0004, 0009).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1810036    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1810036    , 0004, 0010).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1810036    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1810036    , 0004, 0011).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1810036    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1810036    , 0004, 0012).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1810036    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1810036    , 0004, 0013).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1810036    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1810036    , 0004, 0014).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1810036    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1810036    , 0004, 0015).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1810036    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1810036    , 0004, 0016).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1810036    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1810036    , 0004, 0017).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1810036    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1810036    , 0004, 0018).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1810036    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1810036    , 0004, 0019).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1810036    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1810036    , 0004, 0020).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1907198    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1907198    , 0004, 0001).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1908104    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (C222, 1908104    , 0006, 0001).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1908104    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (C222, 1908104    , 0006, 0002).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1908121    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1908121    , 0002, 0001).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1908121    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1908121    , 0002, 0002).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1908121    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1908121    , 0002, 0003).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1908121    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1908121    , 0002, 0004).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1909003    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1909003    , 0004, 0001).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1909003    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1909003    , 0004, 0002).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1909003    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1909003    , 0004, 0003).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1909003    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1909003    , 0004, 0004).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1909003    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A221, 1909003    , 0004, 0005).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1909018    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1909018    , 0002, 0001).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1909018    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1909018    , 0002, 0002).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1909019    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1909019    , 0002, 0001).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1909019    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1909019    , 0002, 0002).
+The statement has been terminated.
+02/11/2019 02:46:30: Failed to update Order No. 1909019    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1909019    , 0002, 0003).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909020    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (J222, 1909020    , 0002, 0001).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909020    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (J222, 1909020    , 0002, 0002).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909020    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (J222, 1909020    , 0002, 0003).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909021    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1909021    , 0002, 0001).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909021    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1909021    , 0002, 0002).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909021    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1909021    , 0002, 0003).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909022    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1909022    , 0002, 0001).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909022    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1909022    , 0002, 0002).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909022    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1909022    , 0002, 0003).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909027    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1909027    , 0001, 0001).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909027    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1909027    , 0001, 0002).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909027    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1909027    , 0001, 0003).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909028    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1909028    , 0001, 0001).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909029    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1909029    , 0003, 0001).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909040    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909040    , 0005, 0001).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909040    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909040    , 0005, 0002).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909071    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909071    , 0001, 0001).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909071    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909071    , 0001, 0002).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909071    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909071    , 0001, 0003).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909072    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909072    , 0005, 0001).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909072    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909072    , 0005, 0002).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909072    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909072    , 0005, 0003).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909072    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909072    , 0005, 0004).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909072    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909072    , 0005, 0005).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909072    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909072    , 0005, 0006).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909076    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909076    , 0002, 0001).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909076    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909076    , 0002, 0002).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909076    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909076    , 0002, 0003).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909076    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909076    , 0002, 0004).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909076    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909076    , 0002, 0005).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909076    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909076    , 0002, 0006).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909076    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909076    , 0002, 0007).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909076    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909076    , 0002, 0008).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909076    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909076    , 0002, 0009).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909076    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909076    , 0002, 0010).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909076    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909076    , 0002, 0011).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909076    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909076    , 0002, 0012).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909076    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909076    , 0002, 0013).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909076    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909076    , 0002, 0014).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909076    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909076    , 0002, 0015).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909076    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909076    , 0002, 0016).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909076    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909076    , 0002, 0017).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909076    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909076    , 0002, 0018).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909076    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909076    , 0002, 0019).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909076    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909076    , 0002, 0020).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909076    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909076    , 0002, 0021).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909076    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909076    , 0002, 0022).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909076    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909076    , 0002, 0023).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909076    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909076    , 0002, 0024).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909078    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909078    , 0005, 0001).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909078    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909078    , 0005, 0002).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909078    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909078    , 0005, 0003).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909078    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909078    , 0005, 0004).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909078    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909078    , 0005, 0005).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909078    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909078    , 0005, 0006).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909078    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909078    , 0005, 0007).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909078    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909078    , 0005, 0008).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909091    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1909091    , 0002, 0001).
+The statement has been terminated.
+02/11/2019 02:46:31: Failed to update Order No. 1909091    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1909091    , 0002, 0002).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909093    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1909093    , 0002, 0001).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909093    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1909093    , 0002, 0002).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909114    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (C222, 1909114    , 0004, 0001).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909123    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (Y222, 1909123    , 0001, 0001).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909130    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909130    , 0004, 0001).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909130    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1909130    , 0004, 0002).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909142    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909142    , 0002, 0001).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0001).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0002).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0003).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0004).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0005).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0006).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0007).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0008).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0009).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0010).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0011).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0012).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0013).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0014).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0015).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0016).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0017).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0018).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0019).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0020).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0021).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0022).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0023).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0024).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0025).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0026).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0027).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0028).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0029).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0030).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0031).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0032).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0033).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0034).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0035).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0036).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0037).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0038).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0039).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909148    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909148    , 0010, 0040).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909162    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909162    , 0002, 0001).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1909164    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1909164    , 0002, 0001).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1910013    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B222, 1910013    , 0003, 0001).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1910018    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910018    , 0001, 0001).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1910018    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910018    , 0001, 0002).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1910018    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910018    , 0001, 0003).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1910018    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910018    , 0001, 0004).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1910018    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910018    , 0001, 0005).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1910018    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910018    , 0001, 0006).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1910018    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910018    , 0001, 0007).
+The statement has been terminated.
+02/11/2019 02:46:32: Failed to update Order No. 1910018    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910018    , 0001, 0008).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910018    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910018    , 0001, 0009).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910018    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910018    , 0001, 0010).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910038    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910038    , 0001, 0001).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910039    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910039    , 0003, 0001).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910040    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910040    , 0001, 0001).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910043    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910043    , 0002, 0001).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910043    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910043    , 0002, 0002).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910043    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910043    , 0002, 0003).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910043    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910043    , 0002, 0004).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910043    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910043    , 0002, 0005).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910043    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910043    , 0002, 0006).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910043    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910043    , 0002, 0007).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910053    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (P222, 1910053    , 0001, 0001).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910055    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (P222, 1910055    , 0001, 0001).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910055    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (P222, 1910055    , 0001, 0002).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910055    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (P222, 1910055    , 0001, 0003).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910055    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (P222, 1910055    , 0001, 0004).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910055    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (P222, 1910055    , 0001, 0005).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910055    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (P222, 1910055    , 0001, 0006).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910055    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (P222, 1910055    , 0001, 0007).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910055    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (P222, 1910055    , 0001, 0008).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910055    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (P222, 1910055    , 0001, 0009).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910055    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (P222, 1910055    , 0001, 0010).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910077    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1910077    , 0002, 0001).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910077    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1910077    , 0002, 0002).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910080    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1910080    , 0002, 0001).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910080    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1910080    , 0002, 0002).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910080    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1910080    , 0002, 0003).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910080    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1910080    , 0002, 0004).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910080    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1910080    , 0002, 0005).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910080    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1910080    , 0002, 0006).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910080    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1910080    , 0002, 0007).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910080    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1910080    , 0002, 0008).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910080    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1910080    , 0002, 0009).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910100    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910100    , 0005, 0001).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910100    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910100    , 0005, 0002).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910100    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910100    , 0005, 0003).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910100    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910100    , 0005, 0004).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910121    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910121    , 0004, 0001).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910122    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (P222, 1910122    , 0004, 0001).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910122    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (P222, 1910122    , 0004, 0002).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910136    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1910136    , 0001, 0001).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910136    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1910136    , 0001, 0002).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910136    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1910136    , 0001, 0003).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910136    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B225, 1910136    , 0001, 0004).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910140    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910140    , 0001, 0001).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910140    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910140    , 0001, 0002).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910152    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1910152    , 0001, 0001).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910152    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1910152    , 0001, 0002).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910152    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1910152    , 0001, 0003).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910153    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1910153    , 0001, 0001).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910153    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1910153    , 0001, 0002).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910153    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1910153    , 0001, 0003).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910154    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1910154    , 0001, 0001).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910154    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1910154    , 0001, 0002).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910154    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1910154    , 0001, 0003).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910155    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1910155    , 0001, 0001).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910155    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1910155    , 0001, 0002).
+The statement has been terminated.
+02/11/2019 02:46:33: Failed to update Order No. 1910155    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1910155    , 0001, 0003).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910168    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910168    , 0001, 0001).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910169    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1910169    , 0001, 0001).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910175    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (P222, 1910175    , 0004, 0001).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910177    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910177    , 0006, 0001).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910179    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910179    , 0004, 0001).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910179    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910179    , 0004, 0002).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910179    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910179    , 0004, 0003).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910181    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910181    , 0003, 0001).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910181    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910181    , 0003, 0002).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910181    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910181    , 0003, 0003).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910188    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910188    , 0002, 0001).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910188    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910188    , 0002, 0002).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910188    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910188    , 0002, 0003).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910188    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910188    , 0002, 0004).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910188    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910188    , 0002, 0005).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910188    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910188    , 0002, 0006).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910190    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1910190    , 0001, 0001).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910190    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1910190    , 0001, 0002).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910191    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910191    , 0002, 0001).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910191    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910191    , 0002, 0002).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910191    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910191    , 0002, 0003).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910191    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910191    , 0002, 0004).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910192    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910192    , 0001, 0001).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910192    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910192    , 0001, 0002).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910192    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910192    , 0001, 0003).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910194    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (    , 1910194    , 0002, 0001).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910197    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (P222, 1910197    , 0004, 0001).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910198    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (P222, 1910198    , 0003, 0001).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910201    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (Y222, 1910201    , 0001, 0001).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910205    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (P222, 1910205    , 0001, 0001).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910206    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1910206    , 0003, 0001).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910206    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1910206    , 0003, 0003).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910210    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (Y222, 1910210    , 0001, 0001).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910210    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (Y222, 1910210    , 0001, 0002).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910210    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (Y222, 1910210    , 0001, 0003).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910210    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (Y222, 1910210    , 0001, 0004).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910211    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910211    , 0003, 0001).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910211    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910211    , 0003, 0002).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910211    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910211    , 0003, 0003).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910211    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910211    , 0003, 0004).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910212    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (P222, 1910212    , 0003, 0001).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910217    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910217    , 0002, 0001).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910218    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1910218    , 0001, 0001).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910218    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (B224, 1910218    , 0001, 0002).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910220    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (Y222, 1910220    , 0003, 0001).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1910221    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (A222, 1910221    , 0001, 0001).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1911011    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (Y222, 1911011    , 0001, 0001).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1911011    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (Y222, 1911011    , 0001, 0002).
+The statement has been terminated.
+02/11/2019 02:46:34: Failed to update Order No. 1911011    . Error: Violation of PRIMARY KEY constraint 'PK_COPTF'. Cannot insert duplicate key in object 'dbo.COPTF'. The duplicate key value is (Y222, 1911011    , 0001, 0003).
+The statement has been terminated.
+02/11/2019 02:46:36: The product number MCT1024 not found. Cannot import Order No. 1910213    -0001.
+02/11/2019 02:46:36: The product number MCT1024 not found. Cannot import Order No. 1910213    -0001.
+02/11/2019 02:46:36: The product number MCT1024 not found. Cannot import Order No. 1910213    -0001.
+02/11/2019 02:46:36: The product number MCT1024 not found. Cannot import Order No. 1910213    -0001.
+02/11/2019 02:46:36: The product number 760301161488 not found. Cannot import Order No. 1911009    -0001.
+02/11/2019 02:46:36: The product number 760301161488 not found. Cannot import Order No. 1911009    -0001.
+02/11/2019 02:46:36: The product number 760301161488 not found. Cannot import Order No. 1911009    -0001.
+02/11/2019 02:46:36: The product number 760301161488 not found. Cannot import Order No. 1911009    -0001.
+02/11/2019 02:46:36: The product number SHORE OO DUROMETER not found. Cannot import Order No. 1911013    -0001.
+02/11/2019 02:46:36: The product number SHORE OO DUROMETER not found. Cannot import Order No. 1911013    -0001.
+02/11/2019 02:46:36: The product number SHORE OO DUROMETER not found. Cannot import Order No. 1911013    -0001.
+02/11/2019 02:46:36: The product number SHORE OO DUROMETER not found. Cannot import Order No. 1911013    -0001.
+02/11/2019 02:46:47: The product number FLX7884-0125D not found. Cannot import Order No. 1910224-0001.
+02/11/2019 02:46:48: The Order 1910230contains the item 33635934 TOOLS that is not transformed.
+02/11/2019 02:46:48: The Order 1910232contains the item V063144751 JIG that is not transformed.
+02/11/2019 02:46:48: The Order 1910232contains the item V063144751 TOOL that is not transformed.
+02/11/2019 02:46:48: The product number MCT1024 not found. Cannot import Order No. 1910234-0001.
+02/11/2019 02:46:49: The Order 1911023contains the item V063144751 TOOL that is not transformed.
+02/11/2019 02:46:49: The product number SHORE OO DUROMETER not found. Cannot import Order No. 1911024-0001.
+02/11/2019 02:46:49: Order No. W421-191000015 has been created.
+02/11/2019 02:46:49: Order No. DPD191028 has been created.
+02/11/2019 02:46:49: Order No. 630005473/10 has been created.
+02/11/2019 02:46:49: Order No. PO191023 has been created.
+02/11/2019 02:46:49: Order No. 19950 has been created.
+02/11/2019 02:46:49: Order No. P000314 has been created.
+02/11/2019 02:46:49: Order No. P000596 has been created.
+02/11/2019 02:46:49: Order No. 9323856289 has been created.
+02/11/2019 02:46:49: Order No. 4500306570 has been created.
+02/11/2019 02:46:49: Order No. 630005492/10 has been created.
+02/11/2019 02:46:49: Order No. PO191011 has been created.
+02/11/2019 02:46:49: Order No. 2019082601-1 has been created.
+02/11/2019 02:46:49: Order No. P003459 has been created.
+02/11/2019 02:46:49: Order No. 5500180825-2020 has been created.
+02/11/2019 02:46:49: Order No. 13247 has been created.
+02/11/2019 02:46:49: Order No. ZWSH-2019-01 has been created.
+02/11/2019 02:46:49: Order No. GC-EI-1-783-0051-19-K has been created.
+02/11/2019 02:46:49: Order No. 52HOP29FRCA0315 has been created.
+02/11/2019 02:46:49: Order No. 52HOP29FRCA0317 has been created.
+02/11/2019 02:46:49: Order No. 9323848968/10 has been created.
+02/11/2019 02:46:49: Order No. 9323848997/10 has been created.
+02/11/2019 02:46:49: Order No. 9323848993/10 has been created.
+02/11/2019 02:46:49: Order No. 9323849006/10 has been created.
+02/11/2019 02:46:49: Order No. 9323848964/10 has been created.
+02/11/2019 02:46:49: Order No. 9323848976/10 has been created.
+02/11/2019 02:46:49: Order No. 9323848988/10 has been created.
+02/11/2019 02:46:49: Order No. 9323849000/10 has been created.
+02/11/2019 02:46:49: Order No. 9323848966/10 has been created.
+02/11/2019 02:46:49: Order No. 9323848981/10 has been created.
+02/11/2019 02:46:49: Order No. 9323848985/10 has been created.
+02/11/2019 02:46:49: Order No. 9323849005/10 has been created.
+02/11/2019 02:46:49: Order No. 9323848987/10 has been created.
+02/11/2019 02:46:49: Order No. 9323848967/10 has been created.
+02/11/2019 02:46:49: Order No. 9323848974/10 has been created.
+02/11/2019 02:46:49: Order No. 9323848982/10 has been created.
+02/11/2019 02:46:49: Order No. GC15033-CUL07 has been created.
+02/11/2019 02:46:49: Order No. ORF/5136 has been created.
+02/11/2019 02:46:49: Order No. 9323852658/10 has been created.
+02/11/2019 02:46:49: Order No. 9323852660/10 has been created.
+02/11/2019 02:46:49: Order No. 9323852544 has been created.
+02/11/2019 02:46:49: Order No. 9323848969/10 has been created.
+02/11/2019 02:46:49: Order No. 9323859011 has been created.
+02/11/2019 02:46:49: Order No. 9323859052 has been created.
+02/11/2019 02:46:49: Order No. 9323859118 has been created.
+02/11/2019 02:46:49: Order No. 9323859362 has been created.
+02/11/2019 02:46:49: Order No. 9323859491/10 has been created.
+02/11/2019 02:46:49: Order No. 9323859632 has been created.
+02/11/2019 02:46:49: Order No. ORF/5291 has been created.
+02/11/2019 02:46:49: Order No. 166717 has been created.
+02/11/2019 02:46:49: Order No. 19001744 has been created.
+02/11/2019 02:46:49: Order No. PO2019110102 has been created.
+02/11/2019 02:46:49: Order No. 4501008735 has been created.
+02/11/2019 02:46:49: Order No. 1910222 has been created.
+02/11/2019 02:46:49: Order No. 1910222 has been created.
+02/11/2019 02:46:49: Order No. 1910222 has been created.
+02/11/2019 02:46:49: Order No. 1910223 has been created.
+02/11/2019 02:46:49: Order No. 1910225 has been created.
+02/11/2019 02:46:49: Order No. 1910226 has been created.
+02/11/2019 02:46:49: Order No. 1910227 has been created.
+02/11/2019 02:46:49: Order No. 1910227 has been created.
+02/11/2019 02:46:49: Order No. 1910228 has been created.
+02/11/2019 02:46:49: Order No. 1910228 has been created.
+02/11/2019 02:46:49: Order No. 1910229 has been created.
+02/11/2019 02:46:49: Order No. 1910229 has been created.
+02/11/2019 02:46:49: Order No. 1910230 has been created.
+02/11/2019 02:46:49: Order No. 1910231 has been created.
+02/11/2019 02:46:49: Order No. 1910233 has been created.
+02/11/2019 02:46:49: Order No. 1910235 has been created.
+02/11/2019 02:46:49: Order No. 1910236 has been created.
+02/11/2019 02:46:49: Order No. 1910236 has been created.
+02/11/2019 02:46:49: Order No. 1910237 has been created.
+02/11/2019 02:46:49: Order No. 1910238 has been created.
+02/11/2019 02:46:49: Order No. 1910238 has been created.
+02/11/2019 02:46:49: Order No. 1910238 has been created.
+02/11/2019 02:46:49: Order No. 1910239 has been created.
+02/11/2019 02:46:49: Order No. 1910239 has been created.
+02/11/2019 02:46:49: Order No. 1910239 has been created.
+02/11/2019 02:46:49: Order No. 1910239 has been created.
+02/11/2019 02:46:49: Order No. 1910240 has been created.
+02/11/2019 02:46:49: Order No. 1910240 has been created.
+02/11/2019 02:46:49: Order No. 1910240 has been created.
+02/11/2019 02:46:49: Order No. 1910240 has been created.
+02/11/2019 02:46:49: Order No. 1910241 has been created.
+02/11/2019 02:46:49: Order No. 1910242 has been created.
+02/11/2019 02:46:49: Order No. 1910243 has been created.
+02/11/2019 02:46:49: Order No. 1910244 has been created.
+02/11/2019 02:46:49: Order No. 1910245 has been created.
+02/11/2019 02:46:49: Order No. 1910246 has been created.
+02/11/2019 02:46:49: Order No. 1910247 has been created.
+02/11/2019 02:46:49: Order No. 1910248 has been created.
+02/11/2019 02:46:49: Order No. 1910249 has been created.
+02/11/2019 02:46:49: Order No. 1910250 has been created.
+02/11/2019 02:46:49: Order No. 1910251 has been created.
+02/11/2019 02:46:49: Order No. 1910252 has been created.
+02/11/2019 02:46:49: Order No. 1910253 has been created.
+02/11/2019 02:46:49: Order No. 1910254 has been created.
+02/11/2019 02:46:49: Order No. 1910255 has been created.
+02/11/2019 02:46:49: Order No. 1910256 has been created.
+02/11/2019 02:46:49: Order No. 1910257 has been created.
+02/11/2019 02:46:49: Order No. 1910258 has been created.
+02/11/2019 02:46:49: Order No. 1910259 has been created.
+02/11/2019 02:46:49: Order No. 1910260 has been created.
+02/11/2019 02:46:49: Order No. 1910261 has been created.
+02/11/2019 02:46:49: Order No. 1910261 has been created.
+02/11/2019 02:46:49: Order No. 1910262 has been created.
+02/11/2019 02:46:49: Order No. 1911015 has been created.
+02/11/2019 02:46:49: Order No. 1911015 has been created.
+02/11/2019 02:46:49: Order No. 1911015 has been created.
+02/11/2019 02:46:49: Order No. 1911016 has been created.
+02/11/2019 02:46:49: Order No. 1911016 has been created.
+02/11/2019 02:46:49: Order No. 1911016 has been created.
+02/11/2019 02:46:49: Order No. 1911017 has been created.
+02/11/2019 02:46:49: Order No. 1911017 has been created.
+02/11/2019 02:46:49: Order No. 1911017 has been created.
+02/11/2019 02:46:49: Order No. 1911018 has been created.
+02/11/2019 02:46:49: Order No. 1911018 has been created.
+02/11/2019 02:46:49: Order No. 1911018 has been created.
+02/11/2019 02:46:49: Order No. 1911018 has been created.
+02/11/2019 02:46:49: Order No. 1911018 has been created.
+02/11/2019 02:46:49: Order No. 1911018 has been created.
+02/11/2019 02:46:49: Order No. 1911018 has been created.
+02/11/2019 02:46:49: Order No. 1911018 has been created.
+02/11/2019 02:46:49: Order No. 1911018 has been created.
+02/11/2019 02:46:49: Order No. 1911019 has been created.
+02/11/2019 02:46:49: Order No. 1911020 has been created.
+02/11/2019 02:46:49: Order No. 1911020 has been created.
+02/11/2019 02:46:49: Order No. 1911020 has been created.
+02/11/2019 02:46:49: Order No. 1911020 has been created.
+02/11/2019 02:46:49: Order No. 1911020 has been created.
+02/11/2019 02:46:49: Order No. 1911020 has been created.
+02/11/2019 02:46:49: Order No. 1911020 has been created.
+02/11/2019 02:46:49: Order No. 1911020 has been created.
+02/11/2019 02:46:49: Order No. 1911020 has been created.
+02/11/2019 02:46:49: Order No. 1911021 has been created.
+02/11/2019 02:46:49: Order No. 1911022 has been created.
+02/11/2019 02:46:49: Order No. 1911025 has been created.
+02/11/2019 02:46:49: End point: 2019-11-01 18:18:25.013
+02/11/2019 02:46:49: Session 1911020245 completed.
