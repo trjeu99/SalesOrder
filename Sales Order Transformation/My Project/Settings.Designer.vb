@@ -15,7 +15,7 @@ Option Explicit On
 Namespace My
     
     <Global.System.Runtime.CompilerServices.CompilerGeneratedAttribute(),  _
-     Global.System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "16.2.0.0"),  _
+     Global.System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "16.6.0.0"),  _
      Global.System.ComponentModel.EditorBrowsableAttribute(Global.System.ComponentModel.EditorBrowsableState.Advanced)>  _
     Partial Public NotInheritable Class MySettings
         Inherits Global.System.Configuration.ApplicationSettingsBase
@@ -116,7 +116,7 @@ Namespace My
         
         <Global.System.Configuration.UserScopedSettingAttribute(),  _
          Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("TIM")>  _
+         Global.System.Configuration.DefaultSettingValueAttribute("172.16.0.11")>  _
         Public Property cfg_tar_hostname() As String
             Get
                 Return CType(Me("cfg_tar_hostname"),String)
@@ -140,7 +140,7 @@ Namespace My
         
         <Global.System.Configuration.UserScopedSettingAttribute(),  _
          Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("sa")>  _
+         Global.System.Configuration.DefaultSettingValueAttribute("erp")>  _
         Public Property cfg_tar_usrname() As String
             Get
                 Return CType(Me("cfg_tar_usrname"),String)
@@ -152,7 +152,7 @@ Namespace My
         
         <Global.System.Configuration.UserScopedSettingAttribute(),  _
          Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("!QAZxdr5")>  _
+         Global.System.Configuration.DefaultSettingValueAttribute("erp@123")>  _
         Public Property cfg_tar_pw() As String
             Get
                 Return CType(Me("cfg_tar_pw"),String)
@@ -164,7 +164,7 @@ Namespace My
         
         <Global.System.Configuration.UserScopedSettingAttribute(),  _
          Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("TLS")>  _
+         Global.System.Configuration.DefaultSettingValueAttribute("TECHLINK")>  _
         Public Property cfg_tar_db() As String
             Get
                 Return CType(Me("cfg_tar_db"),String)
@@ -388,8 +388,8 @@ Namespace My
         <Global.System.Configuration.ApplicationScopedSettingAttribute(),  _
          Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
          Global.System.Configuration.SpecialSettingAttribute(Global.System.Configuration.SpecialSetting.ConnectionString),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("Data Source=14.161.39.188;Initial Catalog=TECHLINK;Persist Security Info=True;Use"& _ 
-            "r ID=sa;Password=dsc@123")>  _
+         Global.System.Configuration.DefaultSettingValueAttribute("Data Source=172.16.0.11;Initial Catalog=TECHLINK;Persist Security Info=True;User "& _ 
+            "ID=erp;Password=erp@123")>  _
         Public ReadOnly Property TECHLINKConnectionString() As String
             Get
                 Return CType(Me("TECHLINKConnectionString"),String)
@@ -410,8 +410,8 @@ Namespace My
         <Global.System.Configuration.ApplicationScopedSettingAttribute(),  _
          Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
          Global.System.Configuration.SpecialSettingAttribute(Global.System.Configuration.SpecialSetting.ConnectionString),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("Data Source=14.161.39.188;Initial Catalog=DSCSYS;Persist Security Info=True;User "& _ 
-            "ID=sa;Password=dsc@123")>  _
+         Global.System.Configuration.DefaultSettingValueAttribute("Data Source=172.16.0.11;Initial Catalog=DSCSYS;Persist Security Info=True;User ID"& _ 
+            "=erp;Password=erp@123")>  _
         Public ReadOnly Property DSCSYSConnectionString() As String
             Get
                 Return CType(Me("DSCSYSConnectionString"),String)
@@ -421,8 +421,8 @@ Namespace My
         <Global.System.Configuration.ApplicationScopedSettingAttribute(),  _
          Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
          Global.System.Configuration.SpecialSettingAttribute(Global.System.Configuration.SpecialSetting.ConnectionString),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("Data Source=14.161.39.188;Initial Catalog=SOT;Persist Security Info=True;User ID="& _ 
-            "sa;Password=dsc@123")>  _
+         Global.System.Configuration.DefaultSettingValueAttribute("Data Source=172.16.0.11;Initial Catalog=SOT;Persist Security Info=True;User ID=er"& _ 
+            "p;Password=erp@123")>  _
         Public ReadOnly Property SOTConnectionString() As String
             Get
                 Return CType(Me("SOTConnectionString"),String)

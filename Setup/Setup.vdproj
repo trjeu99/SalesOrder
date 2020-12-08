@@ -16,7 +16,7 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_9B2DDBC8F90441A6B87FDC44875A0968"
+        "MsmKey" = "8:_599B38C2B77D446CAA9A9C2D11BB0938"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -44,6 +44,14 @@
         "PrivateKeyFile" = "8:"
         "TimeStampServer" = "8:"
         "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+            }
         }
         "Release"
         {
@@ -105,9 +113,9 @@
         }
         "File"
         {
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9B2DDBC8F90441A6B87FDC44875A0968"
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_599B38C2B77D446CAA9A9C2D11BB0938"
             {
-            "SourcePath" = "8:..\\..\\..\\..\\OneDrive\\Tech-Link\\ERP Interface\\tl.ico"
+            "SourcePath" = "8:..\\..\\..\\..\\..\\OneDrive\\Tech-Link\\ERP Interface\\tl.ico"
             "TargetName" = "8:tl.ico"
             "Tag" = "8:"
             "Folder" = "8:_2C56492223204348B5A60D450400B329"
@@ -221,7 +229,7 @@
         "Keywords" = "8:"
         "ARPCOMMENTS" = "8:"
         "ARPURLINFOABOUT" = "8:"
-        "ARPPRODUCTICON" = "8:_9B2DDBC8F90441A6B87FDC44875A0968"
+        "ARPPRODUCTICON" = "8:_599B38C2B77D446CAA9A9C2D11BB0938"
         "ARPIconIndex" = "3:0"
         "SearchPath" = "8:"
         "UseSystemSearchPath" = "11:TRUE"
@@ -335,7 +343,7 @@
             "Target" = "8:_D79FDDF3391D45278A0A8F737F82B461"
             "Folder" = "8:_C2B091F59C7E444C892BFC5C1B08D216"
             "WorkingFolder" = "8:_2C56492223204348B5A60D450400B329"
-            "Icon" = "8:_9B2DDBC8F90441A6B87FDC44875A0968"
+            "Icon" = "8:_599B38C2B77D446CAA9A9C2D11BB0938"
             "Feature" = "8:"
             }
             "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_DEFF48ED27814B30A0EAA04A935BD248"
@@ -349,7 +357,7 @@
             "Target" = "8:_D79FDDF3391D45278A0A8F737F82B461"
             "Folder" = "8:_A3B26C41655E441685ECC721EAF64A81"
             "WorkingFolder" = "8:_2C56492223204348B5A60D450400B329"
-            "Icon" = "8:_9B2DDBC8F90441A6B87FDC44875A0968"
+            "Icon" = "8:_599B38C2B77D446CAA9A9C2D11BB0938"
             "Feature" = "8:"
             }
         }

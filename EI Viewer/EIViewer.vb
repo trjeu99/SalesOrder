@@ -7,7 +7,12 @@
 
     Private Sub EIViewer_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         'TODO: This line of code loads data into the 'SOTDataSet.BLCOPTD' table. You can move, or remove it, as needed.
-        Me.BLCOPTDTableAdapter.Fill(Me.SOTDataSet.BLCOPTD)
+        Try
+            Me.BLCOPTDTableAdapter.Fill(Me.SOTDataSet.BLCOPTD)
+
+        Catch ex As Exception
+
+        End Try
         'TODO: This line of code loads data into the 'TECHLINKDataSet.COPTC' table. You can move, or remove it, as needed.
         Me.COPTCTableAdapter.Fill(Me.TECHLINKDataSet.COPTC)
         btn_update.Enabled = True

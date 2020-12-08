@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="TLMS Report.exe" version="1.0.0.0" publicKeyToken="30df3440bd2ee7ea" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="TLMSReport.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="TLMS Report" version="1.2.9.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="TLMS Report.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="TLMS Report.exe" size="3450880">
+      <assemblyIdentity name="TLMS Report" version="1.2.9.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>zNJ7+Z229zQpmjiDWSjLHnalotwWKnAYBaMMmKb6NXM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="BackLogReport\Template.html" size="171">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>V/PAasxokDfWUiVO4mumgXvoBD6g9pG367cqsN1j7jE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Gakuseisean-Aire-Search.ico" size="843448">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>zoeXsCsvX/te9sXBkWUZQ6QtGQvyLqMt4Ij9BnTqnHQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Icojam-Blue-Bits-Database-search.ico" size="193853">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rr4rCYUTWFTLMTn6yc31Xc+xHCFS3jPT6wHjsHRU5jE=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="TLMS Report.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="TLMSReport.ico" size="172364">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>/4KzUEkFFK4CqIrda909VJrAc8FRWjgkWWno3gr8t8A=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-SDGTAG9\NHATNGUYEN" issuerKeyHash="ef506a2c616436792c928848313d613da5222480" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>a1LrE6ikCQCU1yRcg7FUU9isVh9kCqfnUdBdi+fOU08=</DigestValue></Reference></SignedInfo><SignatureValue>MdpQJ+rTrizte4fcmNroXTjF1+a7kcBiSXGDQ0gMBlk6MSuFI/z9/+O0m3djUgSrz/Lku4SecOkt1PTwWfigzGzBjluzfo/Lvji6gniWfaOCJiqkPnWFA++oNCZI59VuQ/+dLTALYIPiKQZa/e4nppB8M0okI/awyngVkvZS9DM=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>1xbgXM6nfQTc4bhzb0+Np+iNt9pdlFPUFRldTA37iSQduEIutmRQKTkjHqKTLytRcqVDn9PODz1KHuD63txURYN+3SLzPtEqi/yyFSTtSihlj8vGo1AM9y6MdSQ6Lh/9t6lINkdP9rk2I1r8KYqe419IHSRtb1ue/qM8a/Zk/uk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="4f53cee78b5dd051e7a70a641f56acd85354b1835c24d7940009a4a813eb526b" Description="" Url=""><as:assemblyIdentity name="TLMS Report.exe" version="1.0.0.0" publicKeyToken="30df3440bd2ee7ea" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-SDGTAG9\NHATNGUYEN</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>/Nfv6+GUp68s5Tm0LOnSrHevAikzAYsCbzcy6f7LUhE=</DigestValue></Reference></SignedInfo><SignatureValue>JJmHa/dfnWkvCvmjKQfn6WLvc8pi/vzsqg88OWCugJDUu7zdNKgAlwsqHIKhMLnxJmQ9EpYd8S5gZbVF91UVUwqVwQ4rUBtEfCMF/2mpKhk/woF3NPIO7tRxwDx3eN3z/bO9NspMOc4VMbhQS8rgIecjz+k9+3fJ7zVQyNcA54o=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>1xbgXM6nfQTc4bhzb0+Np+iNt9pdlFPUFRldTA37iSQduEIutmRQKTkjHqKTLytRcqVDn9PODz1KHuD63txURYN+3SLzPtEqi/yyFSTtSihlj8vGo1AM9y6MdSQ6Lh/9t6lINkdP9rk2I1r8KYqe419IHSRtb1ue/qM8a/Zk/uk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIICATCCAWqgAwIBAgIQMIzi+nkbfJlJNwWlCSN+1DANBgkqhkiG9w0BAQsFADA/MT0wOwYDVQQDHjQARABFAFMASwBUAE8AUAAtAFMARABHAFQAQQBHADkAXABOAEgAQQBUAE4ARwBVAFkARQBOMB4XDTIwMDkyMjA0MjUzNloXDTIxMDkyMjEwMjUzNlowPzE9MDsGA1UEAx40AEQARQBTAEsAVABPAFAALQBTAEQARwBUAEEARwA5AFwATgBIAEEAVABOAEcAVQBZAEUATjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA1xbgXM6nfQTc4bhzb0+Np+iNt9pdlFPUFRldTA37iSQduEIutmRQKTkjHqKTLytRcqVDn9PODz1KHuD63txURYN+3SLzPtEqi/yyFSTtSihlj8vGo1AM9y6MdSQ6Lh/9t6lINkdP9rk2I1r8KYqe419IHSRtb1ue/qM8a/Zk/ukCAwEAATANBgkqhkiG9w0BAQsFAAOBgQAKwnGSTwep2xXCiXiOys1JOH7xV6Sk+xuv4CJPFl6FAR/5IYupJi0Ds1cjXE7+YRD7p4uSKjfunnHPHE8eL5mBux/363CNlhHsSKhxy6BOYK25mMoITfzbIimWGsgpVN2Uqc7slPRoKAxnVxGsPR3ykjVDbe5nQqN1ZS3BAjgq8g==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

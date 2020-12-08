@@ -10,3 +10,15 @@ C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\EI Viewer\obj\Release\EI
 C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\EI Viewer\obj\Release\EI Viewer.xml
 C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\EI Viewer\obj\Release\EI Viewer.pdb
 C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\EI Viewer\obj\Release\EI Viewer.vbprojAssemblyReference.cache
+C:\Users\Tim\Source\Repos\thienise\TL-ERP-Interface\EI Viewer\bin\Release\EI Viewer.exe.config
+C:\Users\Tim\Source\Repos\thienise\TL-ERP-Interface\EI Viewer\bin\Release\EI Viewer.exe
+C:\Users\Tim\Source\Repos\thienise\TL-ERP-Interface\EI Viewer\bin\Release\EI Viewer.pdb
+C:\Users\Tim\Source\Repos\thienise\TL-ERP-Interface\EI Viewer\bin\Release\EI Viewer.xml
+C:\Users\Tim\Source\Repos\thienise\TL-ERP-Interface\EI Viewer\obj\Release\EI Viewer.vbprojAssemblyReference.cache
+C:\Users\Tim\Source\Repos\thienise\TL-ERP-Interface\EI Viewer\obj\Release\EI_Viewer.EIViewer.resources
+C:\Users\Tim\Source\Repos\thienise\TL-ERP-Interface\EI Viewer\obj\Release\EI_Viewer.Resources.resources
+C:\Users\Tim\Source\Repos\thienise\TL-ERP-Interface\EI Viewer\obj\Release\EI Viewer.vbproj.GenerateResource.cache
+C:\Users\Tim\Source\Repos\thienise\TL-ERP-Interface\EI Viewer\obj\Release\EI Viewer.vbproj.CoreCompileInputs.cache
+C:\Users\Tim\Source\Repos\thienise\TL-ERP-Interface\EI Viewer\obj\Release\EI Viewer.exe
+C:\Users\Tim\Source\Repos\thienise\TL-ERP-Interface\EI Viewer\obj\Release\EI Viewer.xml
+C:\Users\Tim\Source\Repos\thienise\TL-ERP-Interface\EI Viewer\obj\Release\EI Viewer.pdb

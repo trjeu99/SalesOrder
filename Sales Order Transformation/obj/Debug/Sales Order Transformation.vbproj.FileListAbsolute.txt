@@ -11,3 +11,17 @@ C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\Sales Order Transformati
 C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\Sales Order Transformation\obj\Debug\Sales Order Transformation.vbproj.ResolveComReference.cache
 C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\Sales Order Transformation\bin\Debug\app.manifest
 C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\Sales Order Transformation\obj\Debug\Sales Order Transformation.vbprojAssemblyReference.cache
+C:\Users\Tim\Source\Repos\thienise\TL-ERP-Interface\Sales Order Transformation\bin\Debug\app.manifest
+C:\Users\Tim\Source\Repos\thienise\TL-ERP-Interface\Sales Order Transformation\bin\Debug\Sales Order Transformation.exe.config
+C:\Users\Tim\Source\Repos\thienise\TL-ERP-Interface\Sales Order Transformation\bin\Debug\Sales Order Transformation.exe
+C:\Users\Tim\Source\Repos\thienise\TL-ERP-Interface\Sales Order Transformation\bin\Debug\Sales Order Transformation.pdb
+C:\Users\Tim\Source\Repos\thienise\TL-ERP-Interface\Sales Order Transformation\bin\Debug\Sales Order Transformation.xml
+C:\Users\Tim\Source\Repos\thienise\TL-ERP-Interface\Sales Order Transformation\obj\Debug\Sales Order Transformation.vbprojAssemblyReference.cache
+C:\Users\Tim\Source\Repos\thienise\TL-ERP-Interface\Sales Order Transformation\obj\Debug\Sales Order Transformation.vbproj.ResolveComReference.cache
+C:\Users\Tim\Source\Repos\thienise\TL-ERP-Interface\Sales Order Transformation\obj\Debug\Sales_Order_Transformation.SOT.resources
+C:\Users\Tim\Source\Repos\thienise\TL-ERP-Interface\Sales Order Transformation\obj\Debug\Sales_Order_Transformation.Resources.resources
+C:\Users\Tim\Source\Repos\thienise\TL-ERP-Interface\Sales Order Transformation\obj\Debug\Sales Order Transformation.vbproj.GenerateResource.cache
+C:\Users\Tim\Source\Repos\thienise\TL-ERP-Interface\Sales Order Transformation\obj\Debug\Sales Order Transformation.vbproj.CoreCompileInputs.cache
+C:\Users\Tim\Source\Repos\thienise\TL-ERP-Interface\Sales Order Transformation\obj\Debug\Sales Order Transformation.exe
+C:\Users\Tim\Source\Repos\thienise\TL-ERP-Interface\Sales Order Transformation\obj\Debug\Sales Order Transformation.xml
+C:\Users\Tim\Source\Repos\thienise\TL-ERP-Interface\Sales Order Transformation\obj\Debug\Sales Order Transformation.pdb

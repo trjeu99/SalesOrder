@@ -10,3 +10,30 @@ C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\EI Viewer\obj\Debug\EI V
 C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\EI Viewer\obj\Debug\EI Viewer.exe
 C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\EI Viewer\obj\Debug\EI Viewer.xml
 C:\Users\Tim Nguyen\source\repos\TLS_Datatransfromation\EI Viewer\obj\Debug\EI Viewer.pdb
+C:\Users\Tim\source\repos\thienise\TL-ERP-Interface\EI Viewer\bin\Debug\EI Viewer.exe.config
+C:\Users\Tim\source\repos\thienise\TL-ERP-Interface\EI Viewer\bin\Debug\EI Viewer.exe
+C:\Users\Tim\source\repos\thienise\TL-ERP-Interface\EI Viewer\bin\Debug\EI Viewer.pdb
+C:\Users\Tim\source\repos\thienise\TL-ERP-Interface\EI Viewer\bin\Debug\EI Viewer.xml
+C:\Users\Tim\source\repos\thienise\TL-ERP-Interface\EI Viewer\obj\Debug\EI Viewer.vbprojAssemblyReference.cache
+C:\Users\Tim\source\repos\thienise\TL-ERP-Interface\EI Viewer\obj\Debug\EI_Viewer.EIViewer.resources
+C:\Users\Tim\source\repos\thienise\TL-ERP-Interface\EI Viewer\obj\Debug\EI_Viewer.Resources.resources
+C:\Users\Tim\source\repos\thienise\TL-ERP-Interface\EI Viewer\obj\Debug\EI Viewer.vbproj.GenerateResource.cache
+C:\Users\Tim\source\repos\thienise\TL-ERP-Interface\EI Viewer\obj\Debug\EI Viewer.vbproj.CoreCompileInputs.cache
+C:\Users\Tim\source\repos\thienise\TL-ERP-Interface\EI Viewer\obj\Debug\EI Viewer.exe
+C:\Users\Tim\source\repos\thienise\TL-ERP-Interface\EI Viewer\obj\Debug\EI Viewer.xml
+C:\Users\Tim\source\repos\thienise\TL-ERP-Interface\EI Viewer\obj\Debug\EI Viewer.pdb
+C:\Users\NHATNGUYEN\Desktop\TL-ERP-Interface\EI Viewer\bin\Debug\EI Viewer.exe.config
+C:\Users\NHATNGUYEN\Desktop\TL-ERP-Interface\EI Viewer\bin\Debug\EI Viewer.exe
+C:\Users\NHATNGUYEN\Desktop\TL-ERP-Interface\EI Viewer\bin\Debug\EI Viewer.pdb
+C:\Users\NHATNGUYEN\Desktop\TL-ERP-Interface\EI Viewer\bin\Debug\EI Viewer.xml
+C:\Users\NHATNGUYEN\Desktop\TL-ERP-Interface\EI Viewer\obj\Debug\EI_Viewer.EIViewer.resources
+C:\Users\NHATNGUYEN\Desktop\TL-ERP-Interface\EI Viewer\obj\Debug\EI_Viewer.Resources.resources
+C:\Users\NHATNGUYEN\Desktop\TL-ERP-Interface\EI Viewer\obj\Debug\EI Viewer.vbproj.GenerateResource.cache
+C:\Users\NHATNGUYEN\Desktop\TL-ERP-Interface\EI Viewer\obj\Debug\EI Viewer.vbproj.CoreCompileInputs.cache
+C:\Users\NHATNGUYEN\Desktop\TL-ERP-Interface\EI Viewer\obj\Debug\EI Viewer.exe
+C:\Users\NHATNGUYEN\Desktop\TL-ERP-Interface\EI Viewer\obj\Debug\EI Viewer.xml
+C:\Users\NHATNGUYEN\Desktop\TL-ERP-Interface\EI Viewer\obj\Debug\EI Viewer.pdb
+C:\Users\NHATNGUYEN\Desktop\TL-ERP-Interface\EI Viewer\bin\Debug\EI Viewer.exe.manifest
+C:\Users\NHATNGUYEN\Desktop\TL-ERP-Interface\EI Viewer\bin\Debug\EI Viewer.application
+C:\Users\NHATNGUYEN\Desktop\TL-ERP-Interface\EI Viewer\obj\Debug\EI Viewer.exe.manifest
+C:\Users\NHATNGUYEN\Desktop\TL-ERP-Interface\EI Viewer\obj\Debug\EI Viewer.application

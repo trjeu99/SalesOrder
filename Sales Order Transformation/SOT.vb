@@ -988,7 +988,7 @@ Public Class SOT
             Case "BMH"
                 'Return "B221"
                 Return "B224"
-            Case "BVR", "BFF"
+            Case "BVR", "BFF", "BTB", "BTC", "BCB"
                 'Return "B222"
                 Return "B225"
             Case "JMH"
@@ -1035,7 +1035,7 @@ Public Class SOT
         Select Case T3
             Case "BMH"
                 Return "B01-1"
-            Case "BVR", "BFF"
+            Case "BVR", "BFF", "BTB", "BTC", "BCB"
                 Return "B01-2"
             Case "JMH"
                 Return "J01-1"
@@ -1071,7 +1071,7 @@ Public Class SOT
         Select Case T3
             Case "BMH"
                 Return "B02"
-            Case "BVR", "BFF"
+            Case "BVR", "BFF", "BTB", "BTC", "BCB"
                 Return "B03"
             Case "JMH"
                 Return "B02"

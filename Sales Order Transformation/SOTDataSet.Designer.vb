@@ -8030,11 +8030,16 @@ Namespace SOTDataSetTableAdapters
          Global.System.ComponentModel.DataObjectMethodAttribute(Global.System.ComponentModel.DataObjectMethodType.Fill, true)>  _
         Public Overloads Overridable Function Fill(ByVal dataTable As SOTDataSet.BLCOPTDDataTable) As Integer
             Me.Adapter.SelectCommand = Me.CommandCollection(0)
-            If (Me.ClearBeforeFill = true) Then
+            If (Me.ClearBeforeFill = True) Then
                 dataTable.Clear
             End If
-            Dim returnValue As Integer = Me.Adapter.Fill(dataTable)
-            Return returnValue
+            Try
+                Dim returnValue As Integer = Me.Adapter.Fill(dataTable)
+                Return returnValue
+            Catch ex As Exception
+
+            End Try
+
         End Function
         
         <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _

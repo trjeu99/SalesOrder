@@ -929,13 +929,13 @@ Namespace SOTDataSetTableAdapters
          Global.System.ComponentModel.DataObjectMethodAttribute(Global.System.ComponentModel.DataObjectMethodType.Fill, true)>  _
         Public Overloads Overridable Function Fill(ByVal dataTable As SOTDataSet.BLCOPTDDataTable) As Integer
             Me.Adapter.SelectCommand = Me.CommandCollection(0)
-            If (Me.ClearBeforeFill = true) Then
-                dataTable.Clear
+            If (Me.ClearBeforeFill = True) Then
+                dataTable.Clear()
             End If
             Dim returnValue As Integer = Me.Adapter.Fill(dataTable)
             Return returnValue
         End Function
-        
+
         <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
          Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0"),  _
          Global.System.ComponentModel.Design.HelpKeywordAttribute("vs.data.TableAdapter"),  _
@@ -946,25 +946,31 @@ Namespace SOTDataSetTableAdapters
             Me.Adapter.Fill(dataTable)
             Return dataTable
         End Function
-        
-        <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0"),  _
-         Global.System.ComponentModel.Design.HelpKeywordAttribute("vs.data.TableAdapter"),  _
-         Global.System.ComponentModel.DataObjectMethodAttribute(Global.System.ComponentModel.DataObjectMethodType.Fill, false)>  _
-        Public Overloads Overridable Function FillByTD002(ByVal dataTable As SOTDataSet.BLCOPTDDataTable, ByVal TD002 As String) As Integer
+
+        <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),
+         Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0"),
+         Global.System.ComponentModel.Design.HelpKeywordAttribute("vs.data.TableAdapter"),
+         Global.System.ComponentModel.DataObjectMethodAttribute(Global.System.ComponentModel.DataObjectMethodType.Fill, False)>
+        Public Overridable Overloads Function FillByTD002(ByVal dataTable As SOTDataSet.BLCOPTDDataTable, ByVal TD002 As String) As Integer
             Me.Adapter.SelectCommand = Me.CommandCollection(2)
             If (TD002 Is Nothing) Then
                 Throw New Global.System.ArgumentNullException("TD002")
             Else
-                Me.Adapter.SelectCommand.Parameters(0).Value = CType(TD002,String)
+                Me.Adapter.SelectCommand.Parameters(0).Value = CType(TD002, String)
             End If
-            If (Me.ClearBeforeFill = true) Then
+            If (Me.ClearBeforeFill = True) Then
                 dataTable.Clear
             End If
-            Dim returnValue As Integer = Me.Adapter.Fill(dataTable)
-            Return returnValue
+            Try
+
+                Dim returnValue As Integer = Me.Adapter.Fill(dataTable)
+
+            Catch ex As Exception
+
+
+            End Try
         End Function
-        
+
         <Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
          Global.System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0"),  _
          Global.System.ComponentModel.Design.HelpKeywordAttribute("vs.data.TableAdapter"),  _

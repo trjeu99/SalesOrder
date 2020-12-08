@@ -114,9 +114,10 @@ Partial Class EIViewer
         Me.btn_delete.BackColor = System.Drawing.Color.Red
         Me.btn_delete.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btn_delete.ForeColor = System.Drawing.Color.White
-        Me.btn_delete.Location = New System.Drawing.Point(1236, 3)
+        Me.btn_delete.Location = New System.Drawing.Point(1236, 2)
+        Me.btn_delete.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.btn_delete.Name = "btn_delete"
-        Me.btn_delete.Size = New System.Drawing.Size(93, 40)
+        Me.btn_delete.Size = New System.Drawing.Size(93, 39)
         Me.btn_delete.TabIndex = 3
         Me.btn_delete.Text = "Delete"
         Me.btn_delete.UseVisualStyleBackColor = False
@@ -126,9 +127,10 @@ Partial Class EIViewer
         Me.btn_update.BackColor = System.Drawing.Color.DodgerBlue
         Me.btn_update.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.btn_update.ForeColor = System.Drawing.Color.White
-        Me.btn_update.Location = New System.Drawing.Point(1135, 3)
+        Me.btn_update.Location = New System.Drawing.Point(1135, 2)
+        Me.btn_update.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.btn_update.Name = "btn_update"
-        Me.btn_update.Size = New System.Drawing.Size(94, 40)
+        Me.btn_update.Size = New System.Drawing.Size(93, 39)
         Me.btn_update.TabIndex = 2
         Me.btn_update.Text = "Update"
         Me.btn_update.UseVisualStyleBackColor = False
@@ -138,9 +140,10 @@ Partial Class EIViewer
         Me.btn_add.BackColor = System.Drawing.Color.LimeGreen
         Me.btn_add.Dock = System.Windows.Forms.DockStyle.Fill
         Me.btn_add.ForeColor = System.Drawing.Color.White
-        Me.btn_add.Location = New System.Drawing.Point(1029, 3)
+        Me.btn_add.Location = New System.Drawing.Point(1028, 2)
+        Me.btn_add.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.btn_add.Name = "btn_add"
-        Me.btn_add.Size = New System.Drawing.Size(100, 40)
+        Me.btn_add.Size = New System.Drawing.Size(101, 42)
         Me.btn_add.TabIndex = 11
         Me.btn_add.Text = "Add"
         Me.btn_add.UseVisualStyleBackColor = False
@@ -151,9 +154,10 @@ Partial Class EIViewer
         Me.orderType.BackColor = System.Drawing.Color.WhiteSmoke
         Me.orderType.Controls.Add(Me.TableLayoutPanel2)
         Me.orderType.Location = New System.Drawing.Point(4, 27)
+        Me.orderType.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.orderType.Name = "orderType"
-        Me.orderType.Padding = New System.Windows.Forms.Padding(3)
-        Me.orderType.Size = New System.Drawing.Size(1318, 346)
+        Me.orderType.Padding = New System.Windows.Forms.Padding(3, 2, 3, 2)
+        Me.orderType.Size = New System.Drawing.Size(1318, 348)
         Me.orderType.TabIndex = 0
         Me.orderType.Text = "ĐẦU ĐƠN"
         '
@@ -162,13 +166,13 @@ Partial Class EIViewer
         Me.TableLayoutPanel2.ColumnCount = 10
         Me.TableLayoutPanel2.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 120.0!))
         Me.TableLayoutPanel2.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 120.0!))
-        Me.TableLayoutPanel2.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 150.0!))
+        Me.TableLayoutPanel2.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 149.0!))
         Me.TableLayoutPanel2.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 120.0!))
         Me.TableLayoutPanel2.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 120.0!))
         Me.TableLayoutPanel2.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 120.0!))
         Me.TableLayoutPanel2.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 120.0!))
-        Me.TableLayoutPanel2.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 130.0!))
-        Me.TableLayoutPanel2.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 130.0!))
+        Me.TableLayoutPanel2.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 131.0!))
+        Me.TableLayoutPanel2.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 131.0!))
         Me.TableLayoutPanel2.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle())
         Me.TableLayoutPanel2.Controls.Add(Me.Label1, 0, 0)
         Me.TableLayoutPanel2.Controls.Add(Me.dvg_COPTC, 0, 2)
@@ -191,13 +195,14 @@ Partial Class EIViewer
         Me.TableLayoutPanel2.Controls.Add(Me.Label13, 8, 0)
         Me.TableLayoutPanel2.Controls.Add(Me.btn_search_orderType, 9, 0)
         Me.TableLayoutPanel2.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.TableLayoutPanel2.Location = New System.Drawing.Point(3, 3)
+        Me.TableLayoutPanel2.Location = New System.Drawing.Point(3, 2)
+        Me.TableLayoutPanel2.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.TableLayoutPanel2.Name = "TableLayoutPanel2"
         Me.TableLayoutPanel2.RowCount = 3
-        Me.TableLayoutPanel2.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 29.0!))
+        Me.TableLayoutPanel2.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 30.0!))
         Me.TableLayoutPanel2.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 26.0!))
-        Me.TableLayoutPanel2.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 173.0!))
-        Me.TableLayoutPanel2.Size = New System.Drawing.Size(1312, 340)
+        Me.TableLayoutPanel2.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 174.0!))
+        Me.TableLayoutPanel2.Size = New System.Drawing.Size(1312, 344)
         Me.TableLayoutPanel2.TabIndex = 0
         '
         'Label1
@@ -208,7 +213,7 @@ Partial Class EIViewer
         Me.Label1.ForeColor = System.Drawing.SystemColors.Highlight
         Me.Label1.Location = New System.Drawing.Point(3, 0)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(114, 29)
+        Me.Label1.Size = New System.Drawing.Size(114, 30)
         Me.Label1.TabIndex = 14
         Me.Label1.Text = "CREATOR"
         Me.Label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -252,6 +257,7 @@ Partial Class EIViewer
         Me.dvg_COPTC.EnableHeadersVisualStyles = False
         Me.dvg_COPTC.GridColor = System.Drawing.Color.DeepSkyBlue
         Me.dvg_COPTC.Location = New System.Drawing.Point(3, 58)
+        Me.dvg_COPTC.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.dvg_COPTC.MultiSelect = False
         Me.dvg_COPTC.Name = "dvg_COPTC"
         DataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
@@ -271,7 +277,7 @@ Partial Class EIViewer
         Me.dvg_COPTC.ShowCellToolTips = False
         Me.dvg_COPTC.ShowEditingIcon = False
         Me.dvg_COPTC.ShowRowErrors = False
-        Me.dvg_COPTC.Size = New System.Drawing.Size(1306, 279)
+        Me.dvg_COPTC.Size = New System.Drawing.Size(1307, 284)
         Me.dvg_COPTC.TabIndex = 1
         Me.dvg_COPTC.TabStop = False
         '
@@ -366,6 +372,7 @@ Partial Class EIViewer
         Me.txt_creator.Dock = System.Windows.Forms.DockStyle.Fill
         Me.txt_creator.Enabled = False
         Me.txt_creator.Location = New System.Drawing.Point(3, 32)
+        Me.txt_creator.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.txt_creator.Name = "txt_creator"
         Me.txt_creator.Size = New System.Drawing.Size(114, 24)
         Me.txt_creator.TabIndex = 2
@@ -374,7 +381,8 @@ Partial Class EIViewer
         '
         Me.txt_TC002.Dock = System.Windows.Forms.DockStyle.Fill
         Me.txt_TC002.Enabled = False
-        Me.txt_TC002.Location = New System.Drawing.Point(513, 32)
+        Me.txt_TC002.Location = New System.Drawing.Point(512, 32)
+        Me.txt_TC002.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.txt_TC002.Name = "txt_TC002"
         Me.txt_TC002.Size = New System.Drawing.Size(114, 24)
         Me.txt_TC002.TabIndex = 6
@@ -383,7 +391,8 @@ Partial Class EIViewer
         '
         Me.txt_TC003.Dock = System.Windows.Forms.DockStyle.Fill
         Me.txt_TC003.Enabled = False
-        Me.txt_TC003.Location = New System.Drawing.Point(633, 32)
+        Me.txt_TC003.Location = New System.Drawing.Point(632, 32)
+        Me.txt_TC003.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.txt_TC003.Name = "txt_TC003"
         Me.txt_TC003.Size = New System.Drawing.Size(114, 24)
         Me.txt_TC003.TabIndex = 7
@@ -392,7 +401,8 @@ Partial Class EIViewer
         '
         Me.txt_TC004.Dock = System.Windows.Forms.DockStyle.Fill
         Me.txt_TC004.Enabled = False
-        Me.txt_TC004.Location = New System.Drawing.Point(753, 32)
+        Me.txt_TC004.Location = New System.Drawing.Point(752, 32)
+        Me.txt_TC004.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.txt_TC004.Name = "txt_TC004"
         Me.txt_TC004.Size = New System.Drawing.Size(114, 24)
         Me.txt_TC004.TabIndex = 8
@@ -401,9 +411,10 @@ Partial Class EIViewer
         '
         Me.txt_TC005.Dock = System.Windows.Forms.DockStyle.Fill
         Me.txt_TC005.Enabled = False
-        Me.txt_TC005.Location = New System.Drawing.Point(873, 32)
+        Me.txt_TC005.Location = New System.Drawing.Point(872, 32)
+        Me.txt_TC005.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.txt_TC005.Name = "txt_TC005"
-        Me.txt_TC005.Size = New System.Drawing.Size(124, 24)
+        Me.txt_TC005.Size = New System.Drawing.Size(125, 24)
         Me.txt_TC005.TabIndex = 9
         '
         'txt_TC008
@@ -411,8 +422,9 @@ Partial Class EIViewer
         Me.txt_TC008.Dock = System.Windows.Forms.DockStyle.Fill
         Me.txt_TC008.Enabled = False
         Me.txt_TC008.Location = New System.Drawing.Point(1003, 32)
+        Me.txt_TC008.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.txt_TC008.Name = "txt_TC008"
-        Me.txt_TC008.Size = New System.Drawing.Size(124, 24)
+        Me.txt_TC008.Size = New System.Drawing.Size(125, 24)
         Me.txt_TC008.TabIndex = 10
         '
         'txt_createDate
@@ -420,6 +432,7 @@ Partial Class EIViewer
         Me.txt_createDate.Dock = System.Windows.Forms.DockStyle.Fill
         Me.txt_createDate.Enabled = False
         Me.txt_createDate.Location = New System.Drawing.Point(123, 32)
+        Me.txt_createDate.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.txt_createDate.Name = "txt_createDate"
         Me.txt_createDate.Size = New System.Drawing.Size(114, 24)
         Me.txt_createDate.TabIndex = 11
@@ -429,14 +442,16 @@ Partial Class EIViewer
         Me.txt_TC012.BackColor = System.Drawing.SystemColors.Info
         Me.txt_TC012.Dock = System.Windows.Forms.DockStyle.Fill
         Me.txt_TC012.Location = New System.Drawing.Point(243, 32)
+        Me.txt_TC012.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.txt_TC012.Name = "txt_TC012"
-        Me.txt_TC012.Size = New System.Drawing.Size(144, 24)
+        Me.txt_TC012.Size = New System.Drawing.Size(143, 24)
         Me.txt_TC012.TabIndex = 12
         '
         'txt_TC001
         '
         Me.txt_TC001.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.txt_TC001.Location = New System.Drawing.Point(393, 32)
+        Me.txt_TC001.Location = New System.Drawing.Point(392, 32)
+        Me.txt_TC001.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.txt_TC001.Name = "txt_TC001"
         Me.txt_TC001.Size = New System.Drawing.Size(114, 24)
         Me.txt_TC001.TabIndex = 13
@@ -448,7 +463,7 @@ Partial Class EIViewer
         Me.Label2.ForeColor = System.Drawing.SystemColors.Highlight
         Me.Label2.Location = New System.Drawing.Point(123, 0)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(114, 29)
+        Me.Label2.Size = New System.Drawing.Size(114, 30)
         Me.Label2.TabIndex = 15
         Me.Label2.Text = "CREATE DATE"
         Me.Label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -460,7 +475,7 @@ Partial Class EIViewer
         Me.Label6.ForeColor = System.Drawing.SystemColors.Highlight
         Me.Label6.Location = New System.Drawing.Point(243, 0)
         Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(144, 29)
+        Me.Label6.Size = New System.Drawing.Size(143, 30)
         Me.Label6.TabIndex = 16
         Me.Label6.Text = "MÃ ĐƠN HK"
         Me.Label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -470,9 +485,9 @@ Partial Class EIViewer
         Me.Label7.AutoSize = True
         Me.Label7.Dock = System.Windows.Forms.DockStyle.Fill
         Me.Label7.ForeColor = System.Drawing.SystemColors.Highlight
-        Me.Label7.Location = New System.Drawing.Point(393, 0)
+        Me.Label7.Location = New System.Drawing.Point(392, 0)
         Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(114, 29)
+        Me.Label7.Size = New System.Drawing.Size(114, 30)
         Me.Label7.TabIndex = 17
         Me.Label7.Text = "MÃ LOẠI ĐƠN"
         Me.Label7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -482,9 +497,9 @@ Partial Class EIViewer
         Me.Label9.AutoSize = True
         Me.Label9.Dock = System.Windows.Forms.DockStyle.Fill
         Me.Label9.ForeColor = System.Drawing.SystemColors.Highlight
-        Me.Label9.Location = New System.Drawing.Point(513, 0)
+        Me.Label9.Location = New System.Drawing.Point(512, 0)
         Me.Label9.Name = "Label9"
-        Me.Label9.Size = New System.Drawing.Size(114, 29)
+        Me.Label9.Size = New System.Drawing.Size(114, 30)
         Me.Label9.TabIndex = 18
         Me.Label9.Text = "MÃ ĐƠN ERP"
         Me.Label9.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -494,9 +509,9 @@ Partial Class EIViewer
         Me.Label10.AutoSize = True
         Me.Label10.Dock = System.Windows.Forms.DockStyle.Fill
         Me.Label10.ForeColor = System.Drawing.SystemColors.Highlight
-        Me.Label10.Location = New System.Drawing.Point(633, 0)
+        Me.Label10.Location = New System.Drawing.Point(632, 0)
         Me.Label10.Name = "Label10"
-        Me.Label10.Size = New System.Drawing.Size(114, 29)
+        Me.Label10.Size = New System.Drawing.Size(114, 30)
         Me.Label10.TabIndex = 19
         Me.Label10.Text = "NGÀY ĐH"
         Me.Label10.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -506,9 +521,9 @@ Partial Class EIViewer
         Me.Label11.AutoSize = True
         Me.Label11.Dock = System.Windows.Forms.DockStyle.Fill
         Me.Label11.ForeColor = System.Drawing.SystemColors.Highlight
-        Me.Label11.Location = New System.Drawing.Point(753, 0)
+        Me.Label11.Location = New System.Drawing.Point(752, 0)
         Me.Label11.Name = "Label11"
-        Me.Label11.Size = New System.Drawing.Size(114, 29)
+        Me.Label11.Size = New System.Drawing.Size(114, 30)
         Me.Label11.TabIndex = 20
         Me.Label11.Text = "MÃ KH"
         Me.Label11.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -518,9 +533,9 @@ Partial Class EIViewer
         Me.Label12.AutoSize = True
         Me.Label12.Dock = System.Windows.Forms.DockStyle.Fill
         Me.Label12.ForeColor = System.Drawing.SystemColors.Highlight
-        Me.Label12.Location = New System.Drawing.Point(873, 0)
+        Me.Label12.Location = New System.Drawing.Point(872, 0)
         Me.Label12.Name = "Label12"
-        Me.Label12.Size = New System.Drawing.Size(124, 29)
+        Me.Label12.Size = New System.Drawing.Size(125, 30)
         Me.Label12.TabIndex = 21
         Me.Label12.Text = "MÃ BỘ PHẬN"
         Me.Label12.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -532,7 +547,7 @@ Partial Class EIViewer
         Me.Label13.ForeColor = System.Drawing.SystemColors.Highlight
         Me.Label13.Location = New System.Drawing.Point(1003, 0)
         Me.Label13.Name = "Label13"
-        Me.Label13.Size = New System.Drawing.Size(124, 29)
+        Me.Label13.Size = New System.Drawing.Size(125, 30)
         Me.Label13.TabIndex = 22
         Me.Label13.Text = "TIỀN TỆ"
         Me.Label13.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -543,10 +558,11 @@ Partial Class EIViewer
         Me.btn_search_orderType.BackgroundImage = Global.EI_Viewer.My.Resources.Resources.search1
         Me.btn_search_orderType.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center
         Me.btn_search_orderType.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.btn_search_orderType.Location = New System.Drawing.Point(1133, 3)
+        Me.btn_search_orderType.Location = New System.Drawing.Point(1134, 2)
+        Me.btn_search_orderType.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.btn_search_orderType.Name = "btn_search_orderType"
         Me.TableLayoutPanel2.SetRowSpan(Me.btn_search_orderType, 2)
-        Me.btn_search_orderType.Size = New System.Drawing.Size(176, 49)
+        Me.btn_search_orderType.Size = New System.Drawing.Size(176, 52)
         Me.btn_search_orderType.TabIndex = 23
         Me.btn_search_orderType.UseVisualStyleBackColor = False
         '
@@ -589,6 +605,7 @@ Partial Class EIViewer
         Me.dvg_BLCOPTD.EnableHeadersVisualStyles = False
         Me.dvg_BLCOPTD.GridColor = System.Drawing.Color.DeepSkyBlue
         Me.dvg_BLCOPTD.Location = New System.Drawing.Point(3, 58)
+        Me.dvg_BLCOPTD.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.dvg_BLCOPTD.MultiSelect = False
         Me.dvg_BLCOPTD.Name = "dvg_BLCOPTD"
         DataGridViewCellStyle8.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft
@@ -608,7 +625,7 @@ Partial Class EIViewer
         Me.dvg_BLCOPTD.ShowCellToolTips = False
         Me.dvg_BLCOPTD.ShowEditingIcon = False
         Me.dvg_BLCOPTD.ShowRowErrors = False
-        Me.dvg_BLCOPTD.Size = New System.Drawing.Size(1306, 279)
+        Me.dvg_BLCOPTD.Size = New System.Drawing.Size(1307, 284)
         Me.dvg_BLCOPTD.TabIndex = 1
         Me.dvg_BLCOPTD.TabStop = False
         '
@@ -661,10 +678,10 @@ Partial Class EIViewer
         '
         Me.TableLayoutPanel3.ColumnCount = 6
         Me.TableLayoutPanel3.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100.0!))
-        Me.TableLayoutPanel3.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 230.0!))
+        Me.TableLayoutPanel3.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 229.0!))
         Me.TableLayoutPanel3.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 232.0!))
         Me.TableLayoutPanel3.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 232.0!))
-        Me.TableLayoutPanel3.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 250.0!))
+        Me.TableLayoutPanel3.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 251.0!))
         Me.TableLayoutPanel3.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 168.0!))
         Me.TableLayoutPanel3.Controls.Add(Me.dvg_BLCOPTD, 0, 2)
         Me.TableLayoutPanel3.Controls.Add(Me.Label3, 0, 0)
@@ -679,14 +696,15 @@ Partial Class EIViewer
         Me.TableLayoutPanel3.Controls.Add(Me.txt_TD013, 4, 1)
         Me.TableLayoutPanel3.Controls.Add(Me.btn_search_BLCOPTD, 5, 0)
         Me.TableLayoutPanel3.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.TableLayoutPanel3.Location = New System.Drawing.Point(3, 3)
+        Me.TableLayoutPanel3.Location = New System.Drawing.Point(3, 2)
+        Me.TableLayoutPanel3.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.TableLayoutPanel3.Name = "TableLayoutPanel3"
         Me.TableLayoutPanel3.RowCount = 3
-        Me.TableLayoutPanel3.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 29.0!))
+        Me.TableLayoutPanel3.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 30.0!))
         Me.TableLayoutPanel3.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 26.0!))
-        Me.TableLayoutPanel3.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 173.0!))
+        Me.TableLayoutPanel3.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 174.0!))
         Me.TableLayoutPanel3.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 20.0!))
-        Me.TableLayoutPanel3.Size = New System.Drawing.Size(1312, 340)
+        Me.TableLayoutPanel3.Size = New System.Drawing.Size(1313, 344)
         Me.TableLayoutPanel3.TabIndex = 1
         '
         'Label3
@@ -696,7 +714,7 @@ Partial Class EIViewer
         Me.Label3.ForeColor = System.Drawing.SystemColors.Highlight
         Me.Label3.Location = New System.Drawing.Point(3, 0)
         Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(194, 29)
+        Me.Label3.Size = New System.Drawing.Size(195, 30)
         Me.Label3.TabIndex = 2
         Me.Label3.Text = "MÃ ĐƠN ERP"
         Me.Label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -706,9 +724,9 @@ Partial Class EIViewer
         Me.Label5.AutoSize = True
         Me.Label5.Dock = System.Windows.Forms.DockStyle.Fill
         Me.Label5.ForeColor = System.Drawing.SystemColors.Highlight
-        Me.Label5.Location = New System.Drawing.Point(203, 0)
+        Me.Label5.Location = New System.Drawing.Point(204, 0)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(224, 29)
+        Me.Label5.Size = New System.Drawing.Size(223, 30)
         Me.Label5.TabIndex = 3
         Me.Label5.Text = "STT"
         Me.Label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -720,7 +738,7 @@ Partial Class EIViewer
         Me.Label14.ForeColor = System.Drawing.SystemColors.Highlight
         Me.Label14.Location = New System.Drawing.Point(433, 0)
         Me.Label14.Name = "Label14"
-        Me.Label14.Size = New System.Drawing.Size(226, 29)
+        Me.Label14.Size = New System.Drawing.Size(226, 30)
         Me.Label14.TabIndex = 4
         Me.Label14.Text = "MÃ SẢN PHẨM"
         Me.Label14.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -732,7 +750,7 @@ Partial Class EIViewer
         Me.Label15.ForeColor = System.Drawing.SystemColors.Highlight
         Me.Label15.Location = New System.Drawing.Point(665, 0)
         Me.Label15.Name = "Label15"
-        Me.Label15.Size = New System.Drawing.Size(226, 29)
+        Me.Label15.Size = New System.Drawing.Size(226, 30)
         Me.Label15.TabIndex = 5
         Me.Label15.Text = "SỐ LƯỢNG"
         Me.Label15.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -744,7 +762,7 @@ Partial Class EIViewer
         Me.Label16.ForeColor = System.Drawing.SystemColors.Highlight
         Me.Label16.Location = New System.Drawing.Point(897, 0)
         Me.Label16.Name = "Label16"
-        Me.Label16.Size = New System.Drawing.Size(244, 29)
+        Me.Label16.Size = New System.Drawing.Size(245, 30)
         Me.Label16.TabIndex = 6
         Me.Label16.Text = "NGÀY ETD"
         Me.Label16.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -753,17 +771,19 @@ Partial Class EIViewer
         '
         Me.txt_TD002.Dock = System.Windows.Forms.DockStyle.Fill
         Me.txt_TD002.Location = New System.Drawing.Point(3, 32)
+        Me.txt_TD002.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.txt_TD002.Name = "txt_TD002"
-        Me.txt_TD002.Size = New System.Drawing.Size(194, 24)
+        Me.txt_TD002.Size = New System.Drawing.Size(195, 24)
         Me.txt_TD002.TabIndex = 7
         '
         'txt_TD003
         '
         Me.txt_TD003.Dock = System.Windows.Forms.DockStyle.Fill
         Me.txt_TD003.Enabled = False
-        Me.txt_TD003.Location = New System.Drawing.Point(203, 32)
+        Me.txt_TD003.Location = New System.Drawing.Point(204, 32)
+        Me.txt_TD003.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.txt_TD003.Name = "txt_TD003"
-        Me.txt_TD003.Size = New System.Drawing.Size(224, 24)
+        Me.txt_TD003.Size = New System.Drawing.Size(223, 24)
         Me.txt_TD003.TabIndex = 8
         '
         'txt_TD004
@@ -771,6 +791,7 @@ Partial Class EIViewer
         Me.txt_TD004.Dock = System.Windows.Forms.DockStyle.Fill
         Me.txt_TD004.Enabled = False
         Me.txt_TD004.Location = New System.Drawing.Point(433, 32)
+        Me.txt_TD004.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.txt_TD004.Name = "txt_TD004"
         Me.txt_TD004.Size = New System.Drawing.Size(226, 24)
         Me.txt_TD004.TabIndex = 9
@@ -780,6 +801,7 @@ Partial Class EIViewer
         Me.txt_TD008.Dock = System.Windows.Forms.DockStyle.Fill
         Me.txt_TD008.Enabled = False
         Me.txt_TD008.Location = New System.Drawing.Point(665, 32)
+        Me.txt_TD008.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.txt_TD008.Name = "txt_TD008"
         Me.txt_TD008.Size = New System.Drawing.Size(226, 24)
         Me.txt_TD008.TabIndex = 10
@@ -789,8 +811,9 @@ Partial Class EIViewer
         Me.txt_TD013.Dock = System.Windows.Forms.DockStyle.Fill
         Me.txt_TD013.Enabled = False
         Me.txt_TD013.Location = New System.Drawing.Point(897, 32)
+        Me.txt_TD013.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.txt_TD013.Name = "txt_TD013"
-        Me.txt_TD013.Size = New System.Drawing.Size(244, 24)
+        Me.txt_TD013.Size = New System.Drawing.Size(245, 24)
         Me.txt_TD013.TabIndex = 11
         '
         'btn_search_BLCOPTD
@@ -799,10 +822,11 @@ Partial Class EIViewer
         Me.btn_search_BLCOPTD.BackgroundImage = Global.EI_Viewer.My.Resources.Resources.search1
         Me.btn_search_BLCOPTD.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center
         Me.btn_search_BLCOPTD.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.btn_search_BLCOPTD.Location = New System.Drawing.Point(1147, 3)
+        Me.btn_search_BLCOPTD.Location = New System.Drawing.Point(1148, 2)
+        Me.btn_search_BLCOPTD.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.btn_search_BLCOPTD.Name = "btn_search_BLCOPTD"
         Me.TableLayoutPanel3.SetRowSpan(Me.btn_search_BLCOPTD, 2)
-        Me.btn_search_BLCOPTD.Size = New System.Drawing.Size(162, 49)
+        Me.btn_search_BLCOPTD.Size = New System.Drawing.Size(162, 52)
         Me.btn_search_BLCOPTD.TabIndex = 12
         Me.btn_search_BLCOPTD.UseVisualStyleBackColor = False
         '
@@ -811,9 +835,10 @@ Partial Class EIViewer
         Me.backlogs.BackColor = System.Drawing.Color.WhiteSmoke
         Me.backlogs.Controls.Add(Me.TableLayoutPanel3)
         Me.backlogs.Location = New System.Drawing.Point(4, 27)
+        Me.backlogs.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.backlogs.Name = "backlogs"
-        Me.backlogs.Padding = New System.Windows.Forms.Padding(3)
-        Me.backlogs.Size = New System.Drawing.Size(1318, 346)
+        Me.backlogs.Padding = New System.Windows.Forms.Padding(3, 2, 3, 2)
+        Me.backlogs.Size = New System.Drawing.Size(1319, 348)
         Me.backlogs.TabIndex = 1
         Me.backlogs.Text = "THÂN ĐƠN CHƯA CHUYỂN"
         '
@@ -834,10 +859,11 @@ Partial Class EIViewer
         Me.TabControl1.Controls.Add(Me.backlogs)
         Me.TabControl1.Dock = System.Windows.Forms.DockStyle.Fill
         Me.TabControl1.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.TabControl1.Location = New System.Drawing.Point(3, 49)
+        Me.TabControl1.Location = New System.Drawing.Point(3, 48)
+        Me.TabControl1.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.TabControl1.Name = "TabControl1"
         Me.TabControl1.SelectedIndex = 0
-        Me.TabControl1.Size = New System.Drawing.Size(1326, 377)
+        Me.TabControl1.Size = New System.Drawing.Size(1326, 379)
         Me.TabControl1.TabIndex = 0
         '
         'Label4
@@ -849,7 +875,7 @@ Partial Class EIViewer
         Me.Label4.ForeColor = System.Drawing.Color.LightSlateGray
         Me.Label4.Location = New System.Drawing.Point(3, 0)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(1020, 46)
+        Me.Label4.Size = New System.Drawing.Size(1019, 46)
         Me.Label4.TabIndex = 10
         Me.Label4.Text = "MANDIGI CO., LTD"
         Me.Label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
@@ -859,7 +885,7 @@ Partial Class EIViewer
         Me.TableLayoutPanel1.BackColor = System.Drawing.Color.White
         Me.TableLayoutPanel1.ColumnCount = 4
         Me.TableLayoutPanel1.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 100.0!))
-        Me.TableLayoutPanel1.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 106.0!))
+        Me.TableLayoutPanel1.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 107.0!))
         Me.TableLayoutPanel1.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 101.0!))
         Me.TableLayoutPanel1.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 99.0!))
         Me.TableLayoutPanel1.ColumnStyles.Add(New System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 20.0!))
@@ -871,6 +897,7 @@ Partial Class EIViewer
         Me.TableLayoutPanel1.Controls.Add(Me.btn_add, 1, 0)
         Me.TableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill
         Me.TableLayoutPanel1.Location = New System.Drawing.Point(0, 0)
+        Me.TableLayoutPanel1.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.TableLayoutPanel1.Name = "TableLayoutPanel1"
         Me.TableLayoutPanel1.RowCount = 3
         Me.TableLayoutPanel1.RowStyles.Add(New System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 10.72261!))
@@ -894,6 +921,7 @@ Partial Class EIViewer
         Me.ClientSize = New System.Drawing.Size(1332, 450)
         Me.Controls.Add(Me.TableLayoutPanel1)
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
+        Me.Margin = New System.Windows.Forms.Padding(3, 2, 3, 2)
         Me.Name = "EIViewer"
         Me.Text = "ERP INTERFACE VIEWER"
         Me.orderType.ResumeLayout(False)
