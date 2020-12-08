@@ -1013,7 +1013,7 @@ Public Class SOT
             Case "C"
                 'Return "C221"
                 Return "C222"
-            Case "P"
+            Case "P", "JCJM"
                 'Return "P221"
                 Return "P222"
             Case "Y"
@@ -1051,7 +1051,7 @@ Public Class SOT
         Select Case T1
             Case "A", "C", "E"
                 Return "A01"
-            Case "P"
+            Case "P", "JCJM"
                 Return "J01-2"
             Case "Y"
                 Return "Y01"
@@ -1087,7 +1087,7 @@ Public Class SOT
         Select Case T1
             Case "A", "C", "E"
                 Return "A04"
-            Case "P"
+            Case "P", "JCJM"
                 Return "P04"
             Case "Y"
                 Return "Y04"
