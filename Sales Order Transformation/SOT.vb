@@ -980,7 +980,7 @@ Public Class SOT
         Dim T3 As String = Strings.Left(TC004, 3)
         Dim T4 As String = Strings.Left(TC004, 4)
         Select Case T4
-            Case "BWTX"
+            Case "BWTX", "JCJM"
                 'Return "B221"
                 Return "B224"
         End Select
@@ -1004,7 +1004,7 @@ Public Class SOT
                 Return "Y222"
             Case "JC"
                 'Return "P221"
-                Return "P222"
+                Return "B223"
         End Select
         Select Case T1
             Case "A", "E"
@@ -1013,7 +1013,7 @@ Public Class SOT
             Case "C"
                 'Return "C221"
                 Return "C222"
-            Case "P", "JCJM"
+            Case "P"
                 'Return "P221"
                 Return "P222"
             Case "Y"
@@ -1029,7 +1029,7 @@ Public Class SOT
         Dim T3 As String = Strings.Left(TC004, 3)
         Dim T4 As String = Strings.Left(TC004, 4)
         Select Case T4
-            Case "BWTX"
+            Case "BWTX", "JCJM"
                 Return "B01-1"
         End Select
         Select Case T3
@@ -1046,12 +1046,12 @@ Public Class SOT
             Case "BY", "PE", "AI", "CI", "AM"
                 Return "Y01"
             Case "JC"
-                Return "J01-2"
+                Return "B01-3"
         End Select
         Select Case T1
             Case "A", "C", "E"
                 Return "A01"
-            Case "P", "JCJM"
+            Case "P"
                 Return "J01-2"
             Case "Y"
                 Return "Y01"
@@ -1065,7 +1065,7 @@ Public Class SOT
         Dim T3 As String = Strings.Left(TC004, 3)
         Dim T4 As String = Strings.Left(TC004, 4)
         Select Case T4
-            Case "BWTX"
+            Case "BWTX", "JCJM"
                 Return "B02"
         End Select
         Select Case T3
@@ -1082,12 +1082,12 @@ Public Class SOT
             Case "BY", "PE", "AI", "CI", "AM"
                 Return "Y04"
             Case "JC"
-                Return "P04"
+                Return "D01"
         End Select
         Select Case T1
             Case "A", "C", "E"
                 Return "A04"
-            Case "P", "JCJM"
+            Case "P"
                 Return "P04"
             Case "Y"
                 Return "Y04"

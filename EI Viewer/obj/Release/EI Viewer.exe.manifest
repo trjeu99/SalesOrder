@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EI Viewer.exe" size="329728">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="EI Viewer.exe" size="322560">
       <assemblyIdentity name="EI Viewer" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>A1AMDQNx14gMTIZERYepshBJlibsVLIAPTfdseQxub4=</dsig:DigestValue>
+        <dsig:DigestValue>2hjwHlEqoIb+Lnya4R1Y/Ht0I0hvOrN+LDy2J6vZWQM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -60,7 +60,7 @@
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>DYDn+aeHDjj2Svspk58ELNf5gjVXydfIZ6gMxearV2E=</dsig:DigestValue>
+      <dsig:DigestValue>gLxtcA7KxNAWlCIlJSWEx4zkJg+r2+C/qhWQ6dbnlYs=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Mandigi logo-1_.ico" size="104460">

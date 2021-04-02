@@ -4,7 +4,7 @@
   <description asmv2:publisher="EI Viewer" asmv2:product="EI Viewer" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <deployment install="true" mapFileExtensions="true" />
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
-    <framework targetVersion="4.6.1" profile="Full" supportedRuntime="4.0.30319" />
+    <framework targetVersion="4.5.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
     <dependentAssembly dependencyType="install" codebase="EI Viewer.exe.manifest" size="5138">
@@ -14,7 +14,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>JSEk+gi+k7ZoQhxVkzrqFJN0lmUk2BJ+kI7PaJ31G10=</dsig:DigestValue>
+        <dsig:DigestValue>y4uv2P2r3zcAt38BfWbBvIzXOWdm7NYxCC8v/y6EN5U=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

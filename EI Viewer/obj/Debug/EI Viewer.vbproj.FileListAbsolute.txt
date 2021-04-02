@@ -37,3 +37,19 @@ C:\Users\NHATNGUYEN\Desktop\TL-ERP-Interface\EI Viewer\bin\Debug\EI Viewer.exe.m
 C:\Users\NHATNGUYEN\Desktop\TL-ERP-Interface\EI Viewer\bin\Debug\EI Viewer.application
 C:\Users\NHATNGUYEN\Desktop\TL-ERP-Interface\EI Viewer\obj\Debug\EI Viewer.exe.manifest
 C:\Users\NHATNGUYEN\Desktop\TL-ERP-Interface\EI Viewer\obj\Debug\EI Viewer.application
+D:\TECHLINK_SOFT\Sales_Order\SalesOrder\EI Viewer\bin\Debug\EI Viewer.exe.config
+D:\TECHLINK_SOFT\Sales_Order\SalesOrder\EI Viewer\bin\Debug\EI Viewer.exe.manifest
+D:\TECHLINK_SOFT\Sales_Order\SalesOrder\EI Viewer\bin\Debug\EI Viewer.application
+D:\TECHLINK_SOFT\Sales_Order\SalesOrder\EI Viewer\bin\Debug\EI Viewer.exe
+D:\TECHLINK_SOFT\Sales_Order\SalesOrder\EI Viewer\bin\Debug\EI Viewer.pdb
+D:\TECHLINK_SOFT\Sales_Order\SalesOrder\EI Viewer\bin\Debug\EI Viewer.xml
+D:\TECHLINK_SOFT\Sales_Order\SalesOrder\EI Viewer\obj\Debug\EI Viewer.vbprojAssemblyReference.cache
+D:\TECHLINK_SOFT\Sales_Order\SalesOrder\EI Viewer\obj\Debug\EI_Viewer.EIViewer.resources
+D:\TECHLINK_SOFT\Sales_Order\SalesOrder\EI Viewer\obj\Debug\EI_Viewer.Resources.resources
+D:\TECHLINK_SOFT\Sales_Order\SalesOrder\EI Viewer\obj\Debug\EI Viewer.vbproj.GenerateResource.cache
+D:\TECHLINK_SOFT\Sales_Order\SalesOrder\EI Viewer\obj\Debug\EI Viewer.vbproj.CoreCompileInputs.cache
+D:\TECHLINK_SOFT\Sales_Order\SalesOrder\EI Viewer\obj\Debug\EI Viewer.exe.manifest
+D:\TECHLINK_SOFT\Sales_Order\SalesOrder\EI Viewer\obj\Debug\EI Viewer.application
+D:\TECHLINK_SOFT\Sales_Order\SalesOrder\EI Viewer\obj\Debug\EI Viewer.exe
+D:\TECHLINK_SOFT\Sales_Order\SalesOrder\EI Viewer\obj\Debug\EI Viewer.xml
+D:\TECHLINK_SOFT\Sales_Order\SalesOrder\EI Viewer\obj\Debug\EI Viewer.pdb

@@ -22,3 +22,19 @@ C:\Users\Tim\Source\Repos\thienise\TL-ERP-Interface\EI Viewer\obj\Release\EI Vie
 C:\Users\Tim\Source\Repos\thienise\TL-ERP-Interface\EI Viewer\obj\Release\EI Viewer.exe
 C:\Users\Tim\Source\Repos\thienise\TL-ERP-Interface\EI Viewer\obj\Release\EI Viewer.xml
 C:\Users\Tim\Source\Repos\thienise\TL-ERP-Interface\EI Viewer\obj\Release\EI Viewer.pdb
+D:\TECHLINK_SOFT\Sales_Order\SalesOrder\EI Viewer\bin\Release\EI Viewer.exe.config
+D:\TECHLINK_SOFT\Sales_Order\SalesOrder\EI Viewer\bin\Release\EI Viewer.exe.manifest
+D:\TECHLINK_SOFT\Sales_Order\SalesOrder\EI Viewer\bin\Release\EI Viewer.application
+D:\TECHLINK_SOFT\Sales_Order\SalesOrder\EI Viewer\bin\Release\EI Viewer.exe
+D:\TECHLINK_SOFT\Sales_Order\SalesOrder\EI Viewer\bin\Release\EI Viewer.pdb
+D:\TECHLINK_SOFT\Sales_Order\SalesOrder\EI Viewer\bin\Release\EI Viewer.xml
+D:\TECHLINK_SOFT\Sales_Order\SalesOrder\EI Viewer\obj\Release\EI Viewer.vbprojAssemblyReference.cache
+D:\TECHLINK_SOFT\Sales_Order\SalesOrder\EI Viewer\obj\Release\EI_Viewer.EIViewer.resources
+D:\TECHLINK_SOFT\Sales_Order\SalesOrder\EI Viewer\obj\Release\EI_Viewer.Resources.resources
+D:\TECHLINK_SOFT\Sales_Order\SalesOrder\EI Viewer\obj\Release\EI Viewer.vbproj.GenerateResource.cache
+D:\TECHLINK_SOFT\Sales_Order\SalesOrder\EI Viewer\obj\Release\EI Viewer.vbproj.CoreCompileInputs.cache
+D:\TECHLINK_SOFT\Sales_Order\SalesOrder\EI Viewer\obj\Release\EI Viewer.exe.manifest
+D:\TECHLINK_SOFT\Sales_Order\SalesOrder\EI Viewer\obj\Release\EI Viewer.application
+D:\TECHLINK_SOFT\Sales_Order\SalesOrder\EI Viewer\obj\Release\EI Viewer.exe
+D:\TECHLINK_SOFT\Sales_Order\SalesOrder\EI Viewer\obj\Release\EI Viewer.xml
+D:\TECHLINK_SOFT\Sales_Order\SalesOrder\EI Viewer\obj\Release\EI Viewer.pdb
